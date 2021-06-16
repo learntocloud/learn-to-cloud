@@ -1,4 +1,4 @@
-# Learn a solid cloud computing foundation in 6 months
+# 6 month foundation in cloud computing learning plan
 
 This is the learning path I would take if I had to start all over again and work my way up to junior cloud engineer skill set in about 6 months. I'm biased towards text based content, so you'll see lots of that listed in the resources, I'll try to add in some video content too. I'm assuming I would've alloted 2 hours a day of studying and spend about 2 months in each phase.
 
@@ -85,7 +85,7 @@ For the associate level AWS, I would go with any of them, I've heard the [SysOps
 
 | Level      | Title    | Notes     |
 | :------------- | :----------: | -----------: |
-| AZ-900 | [Microsoft learn](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)   | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related  |
+| AZ-900 | [Microsoft learn](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)   | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related  |
 | AZ-104   | [Microsoft learn](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)| Microsoft learn and Microsoft documentation is my go to for learning anything Azure related |
 | AZ-204   | [Microsoft learn](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204) | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related |
 | AZ-900 | [A Cloud Guru](https://acloudguru.com/course/az-900-microsoft-azure-fundamentals)   | I used to work with Lars, so I know how much work and care he puts into his courses, 10/10 recommend. |
