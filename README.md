@@ -26,6 +26,7 @@ I'll put these in the order I'd learn them in. If a row has a same number, it me
 |  1| [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | This book made learning Linux FUN! It's pretty easy to follow and take a chapter day by day.   |
 | 1   | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. |
 | 2   | [Introduction to Networking](https://www.youtube.com/watch?v=cNwEVYkx2Kk&list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8) | Great YouTube playlist of basic networking concepts. |
+| Optional   | [Computer Networking Course - Network Engineering](https://youtu.be/qiQR5rTSshw) | This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks. |
 
 Once you have gone through this content, I think you would have a solid basic level of Linux and networking knowledge, no you're not a professional, but you shouldn't feel lost or clueless. The two books I mentioned have several projects, DO THEM! Do not just read the theory! If there is a concept you don't understand, look it up, don't limit yourself to the resources I am sharing here.
 
@@ -146,6 +147,8 @@ I also think it's worth reading [The Phoenix Project](https://itrevolution.com/t
 - Continuous monitoring
 
 You might be thinking that 4 weeks isn't a lot of time to cover all these, and you're right. With DevOps, it's so hard to establish a standard of learning, because every organization implements it differently. However, I think if you spent these 4 weeks learning Version control, CI/CD and Infrastructure as Code, you'll have  good foundation. You'll also be exposed to these practices in the resume projects I listed in the cloud projects table.
+
+[DevOps Engineering Course for Beginners](https://youtu.be/j5Zsa_eOXeY)
 
 ### DevOps learning resources
 
