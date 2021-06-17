@@ -57,3 +57,6 @@ If there is something you don't understand about a service or command, your go t
  Create a script that will deploy an ubuntu VM | You provide a name and region |
  Deploy a [ghost blog](https://ghost.org/docs/install/) | Blogs are great for you to document your learning, here's [mine](https:madebygps.com), deployed on Azure :) |
 
+## What's next
+
+[Go to Phase 4: DevOps ](phase4/README.md)

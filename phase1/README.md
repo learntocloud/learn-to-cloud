@@ -23,3 +23,7 @@ Once you have gone through this content, I think you would have a solid basic le
 Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A pretty popular Linux admin task. |
  Deploy a NAS server | Checkout [FreeNAS](https://www.freenas.org/) |
  Deploy your own cloud | Checkout [NextCloud](https://nextcloud.com/) |
+
+## What's next
+
+[Go to Phase 2: Programming](phase2/README.md)
