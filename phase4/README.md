@@ -2,9 +2,9 @@
 
 Final phase. First off, read some stuff about what DevOps is. Each cloud platform has a suite of DevOps tools, I've linked a few articles here.
 
-- https://azure.microsoft.com/en-us/overview/what-is-devops/#overview
-- https://aws.amazon.com/devops/what-is-devops/
-- https://www.ibm.com/cloud/learn/devops-a-complete-guide
+- [Microsoft - What is DevOps](https://azure.microsoft.com/overview/what-is-devops/#overview)
+- [AWS - What is DevOps](https://aws.amazon.com/devops/what-is-devops/)
+- [IBM - A DevOps complete guide](https://www.ibm.com/cloud/learn/devops-a-complete-guide)
 
 I also think it's worth reading [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) it's a pretty fun read because it's a fictional story but it explains the importance of DevOps.
 
