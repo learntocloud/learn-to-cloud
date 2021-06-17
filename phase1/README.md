@@ -2,7 +2,7 @@
 
 The reason we pair them together is because lots of networking tasks are done via command line and Linux management is all about command line.
 
-## Linux and networking Resources
+## Resources
 
 I'll put these in the order I'd learn them in. If a row has a same number, it means I would watch/read along side each other.
 
@@ -15,7 +15,7 @@ I'll put these in the order I'd learn them in. If a row has a same number, it me
 
 Once you have gone through this content, I think you would have a solid basic level of Linux and networking knowledge, no you're not a professional, but you shouldn't feel lost or clueless. The two books I mentioned have several projects, DO THEM! Do not just read the theory! If there is a concept you don't understand, look it up, don't limit yourself to the resources I am sharing here.
 
-## Linux and networking Projects
+## Projects
 
  Title    | Resources     |
  :----------: | -----------: |
