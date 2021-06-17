@@ -2,6 +2,8 @@
 
 This is the learning path I would take if I had to start all over again and work my way up to junior cloud engineer skill set in about 6 months:
 
+![Timeline](img/timeline.png)
+
 | Phase      | Title    | Time commitment     |
 | :------------- | :----------: | -----------: |
 | 1 | Linux and Networking| 6 weeks |
