@@ -7,7 +7,7 @@ The reason we pair them together is because lots of networking tasks are done vi
 I'll put these in the order I'd learn them in. If a row has a same number, it means I would watch/read along side each other.
 
 | Order      | Title    | Notes     |
-| :------------- | :----------: | -----------: |
+| :------------- | :---------- | ----------- |
 |  1| [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | This book made learning Linux FUN! It's pretty easy to follow and take a chapter day by day.   |
 | 1   | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. |
 | 2   | [Introduction to Networking](https://www.youtube.com/watch?v=cNwEVYkx2Kk&list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8) | Great YouTube playlist of basic networking concepts. |
