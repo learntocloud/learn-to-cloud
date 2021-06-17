@@ -50,7 +50,7 @@ If there is something you don't understand about a service or command, your go t
 ## Projects
 
  Title    | Resources     |
- :----------: | -----------: |
+ :---------- | ----------- |
 [Cloud Resume Challenge](https://cloudresumechallenge.dev/)  | Build your resume with AWS services. |
 [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno) | Similar to the previous project, except using Azure. |
  [100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas) | A list of many projects to do |
@@ -59,4 +59,4 @@ If there is something you don't understand about a service or command, your go t
 
 ## What's next
 
-[Go to Phase 4: DevOps ](phase4/README.md)
+[Go to Phase 4: DevOps](../phase4/README.md)

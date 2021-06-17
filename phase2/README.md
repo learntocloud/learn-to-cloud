@@ -17,8 +17,8 @@ You can follow any one of the python resources, you don't have to do them all, b
 
 ## Projects
 
- Title    | Resources     |
- :----------: | -----------: |
+ Title    | Resource     |
+ :---------- | ----------- |
  Product Inventory Project  |  Create an application which manages an inventory of products. This will help you practice OOP concepts. |
 Thumbnail Creator  | Create an program that can take multiple images and converts them to a specified size in the background, this will help you practice threading concepts. |
  Score Tracker | Create a program that you provide a team name and it will tell you if that team played today and what the game score was. #HalaMadrid btw. |
@@ -29,4 +29,4 @@ Thumbnail Creator  | Create an program that can take multiple images and convert
 
 ## What's next
 
-[Go to Phase 3: Cloud Platform](phase3/README.md)
+[Go to Phase 3: Cloud Platform](../phase3/README.md)

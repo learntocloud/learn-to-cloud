@@ -17,8 +17,8 @@ Once you have gone through this content, I think you would have a solid basic le
 
 ## Projects
 
- Title    | Resources     |
- :----------: | -----------: |
+ Title    | Resource     |
+ :---------- | :----------- |
  Install Linux on a computer   | Research a distro and install it (I really like [Pop!_OS](https://pop.system76.com/)) |
 Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A pretty popular Linux admin task. |
  Deploy a NAS server | Checkout [FreeNAS](https://www.freenas.org/) |
@@ -26,4 +26,4 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
 
 ## What's next
 
-[Go to Phase 2: Programming](phase2/README.md)
+[Go to Phase 2: Programming](../phase2/README.md)
