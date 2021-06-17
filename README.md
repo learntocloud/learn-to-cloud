@@ -1,23 +1,10 @@
-# Learn the fundamentals of Cloud Computing in 6 months
+# Learn the fundamentals of Cloud Computing in 6 months.
 
 ![Timeline](img/timeline.png)
 
----
+This is the learning path I would take if I had to start all over again and work my way up to junior cloud engineer skill set in about 6 months. Any links you see ARE NOT AFFILIATE LINKS, I don't want your money. Okay, let's go.
 
-This is the learning path I would take if I had to start all over again and work my way up to junior cloud engineer skill set in about 6 months:
-
-| Phase      | Title    | Time commitment     |
-| :------------- | :----------: | -----------: |
-| 1 | Linux and Networking| 6 weeks |
-| 2 | Programming | 6 weeks |
-| 3 | Cloud Platform | 8 weeks |
-| 4 | DevOps | 4 weeks |
-
-I'm assuming I would've alloted 2 hours a day of studying and spend about 2 months in each phase.
-
-Any links you see ARE NOT AFFILIATE LINKS, I don't want your money. Okay, let's go.
-
-## Phase 1: Learn Linux and networking essentials
+## Phase 1: Linux and networking essentials
 
 The reason I pair them together is because lots of networking tasks are done via command line and Linux management is all about command line.
 
