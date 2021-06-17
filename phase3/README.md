@@ -18,20 +18,20 @@ I personally like cloud certifications, they give you a nice outline to follow i
 
 You have two options here:
 
-- Entry level certification: Like the [AWS Certified cloud practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) or the [Azure Fundamentals AZ-900](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900).
-- Skip the entry level and go for an associate level: AWS has [three](https://aws.amazon.com/certification/) associate level certifications and Azure has I believe [four now](https://docs.microsoft.com/en-us/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate).
+- Entry level certification: Like the [AWS Certified cloud practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) or the [Azure Fundamentals AZ-900](https://docs.microsoft.com/learn/certifications/exams/az-900).
+- Skip the entry level and go for an associate level: AWS has [three](https://aws.amazon.com/certification/) associate level certifications and Azure has I believe [four now](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate).
 
 You can skip the entry level one a take more time studying for the associate, or take them both. Up to you.
 
-For the associate level AWS, I would go with any of them, I've heard the [SysOps](https://aws.amazon.com/certification/certified-sysops-admin-associate/) one is the hardest. Personally I have the [AWS certified developer associate](https://aws.amazon.com/certification/certified-developer-associate/) (it expired, but hey I still studied for it so I'm counting it!) it was a fun certification to study for. For Azure I would go for the [AZ-104](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/) or [AZ-204](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/). The other associate level ones are a little more specificized. You can of course take them later on :)
+For the associate level AWS, I would go with any of them, I've heard the [SysOps](https://aws.amazon.com/certification/certified-sysops-admin-associate/) one is the hardest. Personally I have the [AWS certified developer associate](https://aws.amazon.com/certification/certified-developer-associate/) (it expired, but hey I still studied for it so I'm counting it!) it was a fun certification to study for. For Azure I would go for the [AZ-104](https://docs.microsoft.com/learn/certifications/azure-administrator/) or [AZ-204](https://docs.microsoft.com/learn/certifications/azure-developer/). The other associate level ones are a little more specificized. You can of course take them later on :)
 
 ## Resources
 
 | Level      | Title    | Notes     |
 | :------------- | :----------: | -----------: |
-| AZ-900 | [Microsoft learn](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)   | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related  |
-| AZ-104   | [Microsoft learn](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)| Microsoft learn and Microsoft documentation is my go to for learning anything Azure related |
-| AZ-204   | [Microsoft learn](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204) | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related |
+| AZ-900 | [Microsoft learn](https://docs.microsoft.com/learn/certifications/exams/az-900)   | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related  |
+| AZ-104   | [Microsoft learn](https://docs.microsoft.com/learn/certifications/exams/az-104)| Microsoft learn and Microsoft documentation is my go to for learning anything Azure related |
+| AZ-204   | [Microsoft learn](https://docs.microsoft.com/learn/certifications/exams/az-204) | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related |
 | AZ-900 | [A Cloud Guru](https://acloudguru.com/course/az-900-microsoft-azure-fundamentals)   | I used to work with Lars, so I know how much work and care he puts into his courses, 10/10 recommend. |
 | AZ-104   | [A Cloud Guru](https://acloudguru.com/course/az-104-microsoft-azure-administrator-certification-prep)| I haven't done this one personally, but I know ACG is pretty good quality.|
 | AZ-204   | [A Cloud Guru](https://acloudguru.com/course/az-204-developing-solutions-for-microsoft-azure) | I haven't done this one personally, but I know ACG is pretty good quality. |
@@ -43,7 +43,7 @@ Regardless which learning material you choose, it'll have some sort of demo/hand
 
 When you are first getting started with cloud, you'll be doing everything via the UI, This is fine for getting started, however once you're in a job, you'll be using a CLI to manage your environments. My advice here is, for every exercise you do via the UI, look up the CLI command and do it that way too.
 
-Eventually you'll learn these commands and it'll become easier to remember which one to use, but this is also a great time to introduce yourself to the official documentation, [AWS](https://docs.aws.amazon.com/index.html) and [Azure](https://docs.microsoft.com/en-us/azure/?product=featured)
+Eventually you'll learn these commands and it'll become easier to remember which one to use, but this is also a great time to introduce yourself to the official documentation, [AWS](https://docs.aws.amazon.com/index.html) and [Azure](https://docs.microsoft.com/azure/?product=featured)
 
 If there is something you don't understand about a service or command, your go to should be the documentation. After that you can look up articles, tutorials, etc.
 
