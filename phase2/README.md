@@ -7,7 +7,7 @@ For this step, I would go with [Python](https://www.python.org/). It's a very po
 ## Resources
 
 | Order      | Title    | Notes     |
-| :------------- | :----------: | -----------: |
+| :------------- | :---------- | ----------- |
 |  1 | [Python Crash Course](https://ehmatthes.github.io/pcc/)   | Another fun book to follow, also there is an Appendix in there on Git which is great!   |
 | 1   | [Automate the boring stuff with Python](https://automatetheboringstuff.com/) | I haven't fully finished this book, but it can be used to learn Python too |
 | 1   | [FreeCodeCamp Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw) | One of the many amazing resources provided by [FreeCodeCamp](https://www.freecodecamp.org/)|

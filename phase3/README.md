@@ -28,7 +28,7 @@ For the associate level AWS, I would go with any of them, I've heard the [SysOps
 ## Resources
 
 | Level      | Title    | Notes     |
-| :------------- | :----------: | -----------: |
+| :------------- | :---------- | ----------- |
 | AZ-900 | [Microsoft learn](https://docs.microsoft.com/learn/certifications/exams/az-900)   | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related  |
 | AZ-104   | [Microsoft learn](https://docs.microsoft.com/learn/certifications/exams/az-104)| Microsoft learn and Microsoft documentation is my go to for learning anything Azure related |
 | AZ-204   | [Microsoft learn](https://docs.microsoft.com/learn/certifications/exams/az-204) | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related |
@@ -50,7 +50,7 @@ If there is something you don't understand about a service or command, your go t
 ## Projects
 
  Title    | Resources     |
- :---------- | ----------- |
+ :---------- | :----------- |
 [Cloud Resume Challenge](https://cloudresumechallenge.dev/)  | Build your resume with AWS services. |
 [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno) | Similar to the previous project, except using Azure. |
  [100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas) | A list of many projects to do |

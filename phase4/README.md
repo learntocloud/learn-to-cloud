@@ -31,7 +31,7 @@ You might be thinking that 4 weeks isn't a lot of time to cover all these, and y
 ## Projects
 
 Title    | Resource     |
- :---------- | ----------- |
+ :---------- | :----------- |
 | Deploy a VNet (or VPC) and 2 VMs in the cloud with Terraform | Make sure you can SSH into both VMs and from vm1 you can ping vm2 and vice-versa. |
 | Remember that NAS project from Phase 1? | Deploy it with Terraform |
 
