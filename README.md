@@ -1,12 +1,12 @@
-# Learn the fundamentals of Cloud Computing in 6 months.
+# Learn the fundamentals of Cloud Computing in 6 months
 
 ![Timeline](img/timeline.png)
 
-This is the learning path I would take if I had to start all over again and work my way up to junior cloud engineer skill set in about 6 months. Any links you see ARE NOT AFFILIATE LINKS, I don't want your money. Okay, let's go.
+This is the learning path we would take if we had to start over again and work our way up to a junior cloud engineer skill set in about 6 months. Any links you see ARE NOT AFFILIATE LINKS, we don't want your money. Okay, let's go.
 
 ## Phase 1: Linux and networking essentials
 
-The reason I pair them together is because lots of networking tasks are done via command line and Linux management is all about command line.
+The reason we pair them together is because lots of networking tasks are done via command line and Linux management is all about command line.
 
 ### Linux and networking Resources
 
@@ -30,7 +30,7 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
  Deploy a NAS server | Checkout [FreeNAS](https://www.freenas.org/) |
  Deploy your own cloud | Checkout [NextCloud](https://nextcloud.com/) |
 
-## Phase 2: Learn to code
+## Phase 2: Programming
 
 You'll be using code to automate tasks and deploy infrastructure and you even though you don't need to know how to build full applications, Understanding the basics of programming will give you an upper hand. In the previous step you would've been introduced to bash scripting, so you should know some concepts by now.
 
@@ -57,7 +57,7 @@ Thumbnail Creator  | Create an program that can take multiple images and convert
 
  Alright, so where are we at now?  We're 4 1/2 months in, we've got some solid basic Linux, networking and programming skills. Time to learn some cloud.
 
-## Phase 3: Learn a Cloud Computing Platform
+## Phase 3: Cloud Platform
 
 This phase is the longest and for good reason, I mean it's called cloud engineering for a reason.
 
@@ -117,7 +117,6 @@ If there is something you don't understand about a service or command, your go t
  [100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas) | A list of many projects to do |
  Create a script that will deploy an ubuntu VM | You provide a name and region |
  Deploy a [ghost blog](https://ghost.org/docs/install/) | Blogs are great for you to document your learning, here's [mine](https:madebygps.com), deployed on Azure :) |
-
 
 ## Phase 4: DevOps
 
