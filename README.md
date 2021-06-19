@@ -12,7 +12,8 @@ This is a guide based on our experiences of going from help desk to Cloud and De
 
 We tried to keep it as general and using the most popular options (in terms of content, community, and jobs) as possible. Mainly because these things are important when you're getting started. As you grow, you'll need to get specialized in certain areas :)
 
-## Authors
+## Awesome contributors
 
 - [GPS](https://youtube.com/madebygps)
 - [Rishab](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
+- [Lou](https://twitter.com/loujaybee)
