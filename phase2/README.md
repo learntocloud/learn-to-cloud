@@ -17,15 +17,15 @@ You can follow any one of the python resources, you don't have to do them all, b
 
 ## Projects
 
+Try to build at least one of these, we will build on them in each of the following steps.
+
  Title    | Resource     |
  :---------- | ----------- |
  Product Inventory Project  |  Create an application which manages an inventory of products. This will help you practice OOP concepts. |
-Thumbnail Creator  | Create an program that can take multiple images and converts them to a specified size in the background, this will help you practice threading concepts. |
- Score Tracker | Create a program that you provide a team name and it will tell you if that team played today and what the game score was. #HalaMadrid btw. |
+ Score Tracker | Create a console application that you provide a team name and it will tell you if that team played today and what the game score was. #HalaMadrid btw. |
+ To do app| Create a todo app.|
 
- Honestly, there are plenty of lists of projects out there you can do. Google is your best bet here.
-
- Alright, so where are we at now?  We're 4 1/2 months in, we've got some solid basic Linux, networking and programming skills. Time to learn some cloud.
+ There are plenty of lists of projects out there you can do. Google is your best bet here.
 
 ## Things you should be able familiar with at the end of this phase
 
