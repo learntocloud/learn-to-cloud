@@ -35,7 +35,7 @@ Try to build at least one of these, we will build on them in each of the followi
 - Basic data types and their uses (strings, booleans etc)
 - Iteration (for loops, etc)
 - An understanding of why testing your code is and it's importance (try to implement a simple unit test with a project you do)
-- Classes
+- Classes and OOP concepts.
 
 ## Certifications you might want to look into
 
