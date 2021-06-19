@@ -31,10 +31,6 @@ Thumbnail Creator  | Create an program that can take multiple images and convert
 
 - TODO
 
-## Certifications you might want to look into
-
-- TODO
-
 ## What's next
 
 [Go to Phase 3: Cloud Platform](../phase3/README.md)
