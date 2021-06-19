@@ -31,9 +31,11 @@ Try to build at least one of these, we will build on them in each of the followi
 
 - Variables
 - Functions (defining them, function arguments)
+- When and how to use arrays, lists, dictionaries.
 - Basic data types and their uses (strings, booleans etc)
 - Iteration (for loops, etc)
-- Unit testing (at least an apprecation / understanding of it)
+- An understanding of why testing your code is and it's importance (try to implement a simple unit test with a project you do)
+- Classes
 
 ## Certifications you might want to look into
 

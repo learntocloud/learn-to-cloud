@@ -1,13 +1,5 @@
 # Phase 1: Linux and networking essentials
 
-## Time commitment
-
-Should be doable in 6 weeks.
-
-## Authors
-
-[Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
-
 ## Intro
 
 The reason we pair them together is because lots of networking tasks are done via command line and Linux management is all about command line.
