@@ -44,11 +44,4 @@ You might be thinking that 4 weeks isn't a lot of time to cover all these, and y
 - An appreciation for the ideas behind: "immutable infrastructure"
 - An appreciation for monitoring and the basic ideas of logs, metrics, traces
 - An appreciation for "declarative and imperative infrastructure as code"
-
-## Certifications you might want to look into
-
-- TODO
-
-## What's next
-
-- TODO
+- Grab one of the projects you built in the previous phases and build a CI/CD pipeline for it.
