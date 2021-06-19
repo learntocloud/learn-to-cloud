@@ -41,6 +41,8 @@ Try to build at least one of these, we will build on them in each of the followi
 
 - [Python Institute certifications](https://pythoninstitute.org/certification/)
 
+Programming certifications aren't as in demand/popular than cloud ones. As with any certification, you can use it to reinforce your knowledge, but it isn't an obligation. There are plenty of cloud engineers with zero certifications.
+
 ## What's next
 
 [Go to Phase 3: Cloud Platform](../phase3/README.md)
