@@ -2,7 +2,7 @@
 
 This phase is the longest and for good reason, it's called cloud engineering for a reason.
 
-AWS, Azure, GCP, the million dollar question. We would rule out GCP because there's so much more content, community, and jobs around the other two, essentials things when you're getting started. AWS or Azure? You can't go wrong with either. Regardless of which one you choose, the fundamentals are the same and our advice is the same.
+AWS, Azure, GCP, the million dollar question. We would rule out GCP because there's already so much content, community, and jobs for AWS and Azure, which are essential when you're getting started. AWS or Azure? You can't go wrong with either. Regardless of which one you choose, the fundamentals are the same and our advice is the same.
 
 Whichever cloud you pick, make sure you create an account and setup some budgets and alerts so you don't wake up to surprises on your bill. [Here](https://youtu.be/FZD0s7KE83Y) is how to do it in the Azure portal, and here [AWS](https://www.youtube.com/watch?v=fvz0cphjHjg).
 
@@ -25,32 +25,9 @@ You can skip the entry level one a take more time studying for the associate, or
 
 For the associate level AWS, I would go with any of them, I've heard the [SysOps](https://aws.amazon.com/certification/certified-sysops-admin-associate/) one is the hardest. Personally I have the [AWS certified developer associate](https://aws.amazon.com/certification/certified-developer-associate/) (it expired, but hey I still studied for it so I'm counting it!) it was a fun certification to study for. For Azure I would go for the [AZ-104](https://docs.microsoft.com/learn/certifications/azure-administrator/) or [AZ-204](https://docs.microsoft.com/learn/certifications/azure-developer/). The other associate level ones are a little more specificized. You can of course take them later on :)
 
-## Resources
-### Azure
-
-| Level      | Title    | Notes     |
-| :------------- | :---------- | ----------- |
-| AZ-900 | [Microsoft learn](https://docs.microsoft.com/learn/certifications/exams/az-900)   | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related  |
-| AZ-104   | [Microsoft learn](https://docs.microsoft.com/learn/certifications/exams/az-104)| Microsoft learn and Microsoft documentation is my go to for learning anything Azure related |
-| AZ-204   | [Microsoft learn](https://docs.microsoft.com/learn/certifications/exams/az-204) | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related |
-| AZ-900 | [A Cloud Guru](https://acloudguru.com/course/az-900-microsoft-azure-fundamentals)   | I used to work with Lars, so I know how much work and care he puts into his courses, 10/10 recommend. |
-| AZ-104   | [A Cloud Guru](https://acloudguru.com/course/az-104-microsoft-azure-administrator-certification-prep)| I haven't done this one personally, but I know ACG is pretty good quality.|
-| AZ-204   | [A Cloud Guru](https://acloudguru.com/course/az-204-developing-solutions-for-microsoft-azure) | I haven't done this one personally, but I know ACG is pretty good quality. |
-| AWS | [Rishab's Cloud Notes](https://rishabkumar7.github.io/CloudNotes/) | I don't have recent first hand experience with any AWS content besides A Cloud Guru, but my good friend [Rishab](https://twitter.com/rishabk7) does, checkout his very details exam guides :)
-
-### AWS
-
-| Level      | Title    | Notes     |
-| :------------- | :---------- | ----------- |
-| Cloud Practitioner | [freeCodeCamp](https://youtu.be/3hLmDS179YE)   | Andrew Brown has great courses on freeCodeCamp's YouTube channel  |
-| Solutions Architect Associate   | [freeCodeCamp](https://youtu.be/Ia-UEYYR44s)| Andrew Brown has great courses on freeCodeCamp's YouTube channel |
-| Developer Associate  | [freeCodeCamp](https://youtu.be/RrKRN9zRBWs) | Andrew Brown has great courses on freeCodeCamp's Youtube Channel |
-| SysOps Administrator | [freeCodeCamp](https://youtu.be/KX_AfyrhlgQ)   | Andrew Brown has great courses on freeCodeCamp's Youtube Channel |
-| AWS | [Rishab's Cloud Notes](https://notes.rishab.cloud) | I don't have recent first hand experience with any AWS content besides A Cloud Guru, but my good friend [Rishab](https://twitter.com/rishabk7) does, checkout his very detailed exam guides :)
-
 ## How to approach learning cloud computing
 
-Regardless which learning material you choose, it'll have some sort of demo/hands-on aspect to it. Do it. Don't just watch/read. This isn't a Netflix show you're consuming, this is learning time. If the instructor is doing something on screen, watch it, and then try it on your own.
+Regardless of which learning material you choose, it'll have some sort of demo/hands-on aspect to it. Do it. Don't just watch/read. This isn't a Netflix show you're consuming, this is learning time. If the instructor is doing something on screen, watch it, and then try it on your own.
 
 When you are first getting started with cloud, you'll be doing everything via the UI, This is fine for getting started, however once you're in a job, you'll be using a CLI to manage your environments. My advice here is, for every exercise you do via the UI, look up the CLI command and do it that way too.
 
@@ -58,29 +35,46 @@ Eventually you'll learn these commands and it'll become easier to remember which
 
 If there is something you don't understand about a service or command, your go to should be the documentation. After that you can look up articles, tutorials, etc.
 
-## Tasks you should be able to accomplish at the end of this phase
+## Resources
 
-- task 1
-- tasj 2
+### Azure
 
-## Concepts you should be able to talk about at the end of this phase
+| Level  | Title                                                                                                 | Notes                                                                                                                                                                                         |
+| :----- | :---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AZ-900 | [Microsoft learn](https://docs.microsoft.com/learn/certifications/exams/az-900)                       | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related                                                                                                   |
+| AZ-104 | [Microsoft learn](https://docs.microsoft.com/learn/certifications/exams/az-104)                       | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related                                                                                                   |
+| AZ-204 | [Microsoft learn](https://docs.microsoft.com/learn/certifications/exams/az-204)                       | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related                                                                                                   |
+| AZ-900 | [A Cloud Guru](https://acloudguru.com/course/az-900-microsoft-azure-fundamentals)                     | I used to work with Lars, so I know how much work and care he puts into his courses, 10/10 recommend.                                                                                         |
+| AZ-104 | [A Cloud Guru](https://acloudguru.com/course/az-104-microsoft-azure-administrator-certification-prep) | I haven't done this one personally, but I know ACG is pretty good quality.                                                                                                                    |
+| AZ-204 | [A Cloud Guru](https://acloudguru.com/course/az-204-developing-solutions-for-microsoft-azure)         | I haven't done this one personally, but I know ACG is pretty good quality.                                                                                                                    |
+| AWS    | [Rishab's Cloud Notes](https://rishabkumar7.github.io/CloudNotes/)                                    | I don't have recent first hand experience with any AWS content besides A Cloud Guru, but my good friend [Rishab](https://twitter.com/rishabk7) does, checkout his very details exam guides :) |
 
-- concept one
-- concept two
-  
+### AWS
+
+| Level                         | Title                                              | Notes                                                                                                                                                                                          |
+| :---------------------------- | :------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cloud Practitioner            | [freeCodeCamp](https://youtu.be/3hLmDS179YE)       | Andrew Brown has great courses on freeCodeCamp's YouTube channel                                                                                                                               |
+| Solutions Architect Associate | [freeCodeCamp](https://youtu.be/Ia-UEYYR44s)       | Andrew Brown has great courses on freeCodeCamp's YouTube channel                                                                                                                               |
+| Developer Associate           | [freeCodeCamp](https://youtu.be/RrKRN9zRBWs)       | Andrew Brown has great courses on freeCodeCamp's Youtube Channel                                                                                                                               |
+| SysOps Administrator          | [freeCodeCamp](https://youtu.be/KX_AfyrhlgQ)       | Andrew Brown has great courses on freeCodeCamp's Youtube Channel                                                                                                                               |
+| AWS                           | [Rishab's Cloud Notes](https://notes.rishab.cloud) | I don't have recent first hand experience with any AWS content besides A Cloud Guru, but my good friend [Rishab](https://twitter.com/rishabk7) does, checkout his very detailed exam guides :) |
+
 ## Projects
 
- Title    | Resources     |
- :---------- | :----------- |
-[Cloud Resume Challenge](https://cloudresumechallenge.dev/)  | Build your resume with AWS services. |
-[Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno) | Similar to the previous project, except using Azure. |
- [100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas) | A list of many projects to do |
- Create a script that will deploy an ubuntu VM | You provide a name and region |
- Deploy a [ghost blog](https://ghost.org/docs/install/) | Blogs are great for you to document your learning, here's [mine](https:madebygps.com), deployed on Azure :) |
+ | Title                                                                   | Resources                                                                                                   |
+ | :---------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
+ | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)             | Build your resume with AWS services.                                                                        |
+ | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)            | Similar to the previous project, except using Azure.                                                        |
+ | [100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas) | A list of many projects to do                                                                               |
+ | Create a script that will deploy an ubuntu VM                           | You provide a name and region                                                                               |
+ | Deploy a [ghost blog](https://ghost.org/docs/install/)                  | Blogs are great for you to document your learning, here's [mine](https:madebygps.com), deployed on Azure :) |
 
-## Things you should be able familiar with at the end of this phase
+## Things you should be familiar with at the end of this phase
 
-- TODO
+- Working knowledge of how access permissions are granted for users and resources (AWS: IAM)
+- Working knowledge of the main storage services, and good hands-on experience with at least one (AWS: S3, RDS & DynamoDB)
+- Working knowledge of the compute services, good hands-on experience with at least one (AWS: EC2, AWS Lambda & ECS)
+- An appreciation for secrets management (AWS: KMS & Parameter Store)
 
 ## Certifications you might want to look into
 
