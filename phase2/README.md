@@ -31,6 +31,10 @@ Thumbnail Creator  | Create an program that can take multiple images and convert
 
 - TODO
 
+## Certifications you might want to look into
+
+- [Python Institute certifications](https://pythoninstitute.org/certification/)
+
 ## What's next
 
 [Go to Phase 3: Cloud Platform](../phase3/README.md)
