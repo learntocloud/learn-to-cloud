@@ -27,6 +27,14 @@ Thumbnail Creator  | Create an program that can take multiple images and convert
 
  Alright, so where are we at now?  We're 4 1/2 months in, we've got some solid basic Linux, networking and programming skills. Time to learn some cloud.
 
+## Things you should be able familiar with at the end of this phase
+
+- TODO
+
+## Certifications you might want to look into
+
+- TODO
+
 ## What's next
 
 [Go to Phase 3: Cloud Platform](../phase3/README.md)

@@ -1,5 +1,15 @@
 # Phase 1: Linux and networking essentials
 
+## Time commitment
+
+Should be doable in 6 weeks.
+
+## Authors
+
+[Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
+
+## Intro
+
 The reason we pair them together is because lots of networking tasks are done via command line and Linux management is all about command line.
 
 ## Resources
@@ -24,6 +34,43 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
  Deploy a NAS server | Checkout [FreeNAS](https://www.freenas.org/) |
  Deploy your own cloud | Checkout [NextCloud](https://nextcloud.com/) |
 
+## Things you should be able familiar with at the end of this phase
+
+- Navigate with the `cd` command.
+- Understand how to list the contents of a directory and using the `ls` command.
+- Create, copy, move, rename, directories and files with `mkdir`, `cp`, `rm`, and `touch` commands.
+- Find things with `locate`, `whereis`, `which`, and `find` commands.
+- Understand how to work with links with the `ln` command.
+- Understand how to learn more about commands with the `which`, `man`, and `--help` commands.
+- Familiar with finding logs details in `/var/log`
+- How to display the contents of a file with `cat`, `less`, `more`, `tail`, `head`.
+- Filtering with `grep` and `sed`.
+- Redirection of standard input, output and error with `>` operator and `tee` command.
+- How to use pipelines with the `|` operator.
+- Manipulate files with `nano` or `vim`.
+- Install and uninstall packages. Depends on distro, debian based use `apt`.
+- Analyze networks with `ifconfig`, `iwconfig`.
+- Control permissions with `chown`, `chgrp`, `chmod` commands.
+- Creating users and the `sudo` command.
+- Process management with `ps`, `top`, `nice`, `kill`
+- Manage environment aud user defined variables with `env`, `set`, `export` commands.
+- Add directories to your `PATH`.
+- Compression and archiving with `tar`, `gzip`, `gunzip`.
+- Filesystem device management with `fdisk`, `lsblk`, `mount`, `unmount`, `df`,`fsck`.
+- How to access a Linux server with `ssh`.
+- Understand IP Addressing and what are subnets, subnet masks, DHCP, and DNS.
+- Understand what are gateways, route tables, load balancing and VPNs.
+
+## Certifications you might want to look into 
+
+- [LPI essentials](https://www.lpi.org/our-certifications/linux-essentials-overview) - Great overview of many basic Linux commands.
+
+There are several Linux certifications and you can chose to study for any of them really, but a lot of them cover WAY more than what you need to know for a solid foundation and are more focused on Linux administration, for example the Red Hat, Linux Foundation, Oracle, and LPIC, and Comptia Linux+ certifications.
+
+There are also TONS of networking certifications out there, and similar to the Linux one, they are more focused on giving you a lot of knowledge so you can become a networking engineer/specialist, again at an introductory level, it's a little overkill. If you did want to get one, take a look at the [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) which are pretty much industry standard and/or [Comptia Network+](https://www.comptia.org/certifications/network)
+
+At the end of the day, if you want to take them, go for it :)
+  
 ## What's next
 
 [Go to Phase 2: Programming](../phase2/README.md)

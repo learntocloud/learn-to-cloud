@@ -47,6 +47,16 @@ Eventually you'll learn these commands and it'll become easier to remember which
 
 If there is something you don't understand about a service or command, your go to should be the documentation. After that you can look up articles, tutorials, etc.
 
+## Tasks you should be able to accomplish at the end of this phase
+
+- task 1
+- tasj 2
+
+## Concepts you should be able to talk about at the end of this phase
+
+- concept one
+- concept two
+  
 ## Projects
 
  Title    | Resources     |
@@ -56,6 +66,14 @@ If there is something you don't understand about a service or command, your go t
  [100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas) | A list of many projects to do |
  Create a script that will deploy an ubuntu VM | You provide a name and region |
  Deploy a [ghost blog](https://ghost.org/docs/install/) | Blogs are great for you to document your learning, here's [mine](https:madebygps.com), deployed on Azure :) |
+
+## Things you should be able familiar with at the end of this phase
+
+- TODO
+
+## Certifications you might want to look into
+
+- TODO
 
 ## What's next
 
