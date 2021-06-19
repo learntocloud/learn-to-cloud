@@ -26,6 +26,7 @@ You can skip the entry level one a take more time studying for the associate, or
 For the associate level AWS, I would go with any of them, I've heard the [SysOps](https://aws.amazon.com/certification/certified-sysops-admin-associate/) one is the hardest. Personally I have the [AWS certified developer associate](https://aws.amazon.com/certification/certified-developer-associate/) (it expired, but hey I still studied for it so I'm counting it!) it was a fun certification to study for. For Azure I would go for the [AZ-104](https://docs.microsoft.com/learn/certifications/azure-administrator/) or [AZ-204](https://docs.microsoft.com/learn/certifications/azure-developer/). The other associate level ones are a little more specificized. You can of course take them later on :)
 
 ## Resources
+### Azure
 
 | Level      | Title    | Notes     |
 | :------------- | :---------- | ----------- |
@@ -36,6 +37,16 @@ For the associate level AWS, I would go with any of them, I've heard the [SysOps
 | AZ-104   | [A Cloud Guru](https://acloudguru.com/course/az-104-microsoft-azure-administrator-certification-prep)| I haven't done this one personally, but I know ACG is pretty good quality.|
 | AZ-204   | [A Cloud Guru](https://acloudguru.com/course/az-204-developing-solutions-for-microsoft-azure) | I haven't done this one personally, but I know ACG is pretty good quality. |
 | AWS | [Rishab's Cloud Notes](https://rishabkumar7.github.io/CloudNotes/) | I don't have recent first hand experience with any AWS content besides A Cloud Guru, but my good friend [Rishab](https://twitter.com/rishabk7) does, checkout his very details exam guides :)
+
+### AWS
+
+| Level      | Title    | Notes     |
+| :------------- | :---------- | ----------- |
+| Cloud Practitioner | [freeCodeCamp](https://youtu.be/3hLmDS179YE)   | Andrew Brown has great courses on freeCodeCamp's YouTube channel  |
+| Solutions Architect Associate   | [freeCodeCamp](https://youtu.be/Ia-UEYYR44s)| Andrew Brown has great courses on freeCodeCamp's YouTube channel |
+| Developer Associate  | [freeCodeCamp](https://youtu.be/RrKRN9zRBWs) | Andrew Brown has great courses on freeCodeCamp's Youtube Channel |
+| SysOps Administrator | [freeCodeCamp](https://youtu.be/KX_AfyrhlgQ)   | Andrew Brown has great courses on freeCodeCamp's Youtube Channel |
+| AWS | [Rishab's Cloud Notes](https://notes.rishab.cloud) | I don't have recent first hand experience with any AWS content besides A Cloud Guru, but my good friend [Rishab](https://twitter.com/rishabk7) does, checkout his very detailed exam guides :)
 
 ## How to approach learning cloud computing
 
