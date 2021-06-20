@@ -45,3 +45,8 @@ You might be thinking that 4 weeks isn't a lot of time to cover all these, and y
 - An appreciation for monitoring and the basic ideas of logs, metrics, traces
 - An appreciation for "declarative and imperative infrastructure as code"
 - Grab one of the projects you built in the previous phases and build a CI/CD pipeline for it.
+
+## Certifications you might want to look into
+
+- [AWS Certified DevOps Engineer - Profession](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
+- [Microsoft Certified: DevOps Engineer Expert ](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
