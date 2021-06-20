@@ -16,7 +16,7 @@ We tried to keep it as general and using the most popular options (in terms of c
 
 ## Study tips and resources
 
-- This 6 month timeline is based on about 3 hours of study time a day.
+- This 6 month timeline is based on about 3 hours of study time a day and assuming that you know how to learn.
 - I use the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique). Give it a try if you need help breaking your studying into sessions.
 - I take lots of notes, here's an overview of [How I study for certfications](https://acloudguru.com/blog/engineering/from-student-to-engineer-how-to-study-smarter-for-cloud-cert) that might give you some tips.
 
