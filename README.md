@@ -1,8 +1,8 @@
-# Learn the fundamentals of Cloud Computing in 6 months (THIS IS A WIP)
+# Learn the fundamentals of Cloud Computing in 6 months
 
 ![Timeline](img/timeline.png)
 
-[Watch the guide here](https://youtu.be/ts9vNsrJypE)
+## [Watch the guide here](https://youtu.be/ts9vNsrJypE)
 
 This is the learning path we would take if we had to start over again and work our way up to a junior cloud engineer skill set in about 6 months. Any links you see ARE NOT AFFILIATE LINKS, we don't want your money. Okay, let's go.
 
