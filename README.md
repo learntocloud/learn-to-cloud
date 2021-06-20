@@ -2,6 +2,8 @@
 
 ![Timeline](img/timeline.png)
 
+[Watch the guide here](https://youtu.be/ts9vNsrJypE)
+
 This is the learning path we would take if we had to start over again and work our way up to a junior cloud engineer skill set in about 6 months. Any links you see ARE NOT AFFILIATE LINKS, we don't want your money. Okay, let's go.
 
 [Go to Phase 1: Linux and Networking](phase1/README.md)

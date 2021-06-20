@@ -1,6 +1,6 @@
 # Phase 4: DevOps
 
-Final phase. First off, read some stuff about what DevOps is. Each cloud platform has a suite of DevOps tools, I've linked a few articles here.
+Final phase. First off, read some stuff about what DevOps is. Each cloud platform has a suite of DevOps tools, I've linked a few articles here. 
 
 - [Microsoft - What is DevOps](https://azure.microsoft.com/overview/what-is-devops/#overview)
 - [AWS - What is DevOps](https://aws.amazon.com/devops/what-is-devops/)
