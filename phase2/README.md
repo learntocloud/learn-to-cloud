@@ -10,8 +10,8 @@ For this step, I would go with [Python](https://www.python.org/). It's a very po
 | :---- | :--------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | 1     | [Python Crash Course](https://ehmatthes.github.io/pcc/)                      | Another fun book to follow, also there is an Appendix in there on Git which is great!       |
 | 1     | [Automate the boring stuff with Python](https://automatetheboringstuff.com/) | I haven't fully finished this book, but it can be used to learn Python too                  |
-| 1     | [FreeCodeCamp Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw)     | One of the many amazing resources provided by [FreeCodeCamp](https://www.freecodecamp.org/) |
-| 2     | [Git tutorial for beginners](https://www.youtube.com/watch?v=8JJ101D3knE)    | You'll need Git, learn it!                                                                  |
+| 1     | [FreeCodeCamp Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw)     | One of the many amazi**ng resources provided by [FreeCodeCamp](https://www.freecodecamp.org/) |
+| 2     | [Git tutorial for beginners](https://www.youtube.com/watch?v=8JJ101D3knE)    | You'll need Git, learn it!                                                                  |**
 
 You can follow any one of the python resources, you don't have to do them all, but definitely do the Git one, Once you finish one of them, it's time to build something for your GitHub. The books will have plenty of projects. These can just be text based, don't worry about building UIs, unless you want to.
 
