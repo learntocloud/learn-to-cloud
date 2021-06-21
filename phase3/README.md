@@ -47,7 +47,7 @@ If there is something you don't understand about a service or command, your go t
 | AZ-900 | [A Cloud Guru](https://acloudguru.com/course/az-900-microsoft-azure-fundamentals)                     | I used to work with Lars, so I know how much work and care he puts into his courses, 10/10 recommend.                                                                                         |
 | AZ-104 | [A Cloud Guru](https://acloudguru.com/course/az-104-microsoft-azure-administrator-certification-prep) | I haven't done this one personally, but I know ACG is pretty good quality.                                                                                                                    |
 | AZ-204 | [A Cloud Guru](https://acloudguru.com/course/az-204-developing-solutions-for-microsoft-azure)         | I haven't done this one personally, but I know ACG is pretty good quality.                                                                                                                    |
-| AWS    | [Rishab's Cloud Notes](https://rishabkumar7.github.io/CloudNotes/)                                    | I don't have recent first hand experience with any AWS content besides A Cloud Guru, but my good friend [Rishab](https://twitter.com/rishabk7) does, checkout his very details exam guides :) |
+| AWS    | [Rishab's Cloud Notes](https://notes.rishab.cloud)                                    | I don't have recent first hand experience with any AWS content besides A Cloud Guru, but my good friend [Rishab](https://twitter.com/rishabk7) does, checkout his very details exam guides :) |
 
 ### AWS
 
@@ -58,6 +58,10 @@ If there is something you don't understand about a service or command, your go t
 | Developer Associate           | [freeCodeCamp](https://youtu.be/RrKRN9zRBWs)       | Andrew Brown has great courses on freeCodeCamp's Youtube Channel                                                                                                                               |
 | SysOps Administrator          | [freeCodeCamp](https://youtu.be/KX_AfyrhlgQ)       | Andrew Brown has great courses on freeCodeCamp's Youtube Channel                                                                                                                               |
 | AWS                           | [Rishab's Cloud Notes](https://notes.rishab.cloud) | I don't have recent first hand experience with any AWS content besides A Cloud Guru, but my good friend [Rishab](https://twitter.com/rishabk7) does, checkout his very detailed exam guides :) |
+
+### Some amazing docs
+- [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
+- [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
 
 ## Projects
 
