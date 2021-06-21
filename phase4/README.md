@@ -48,4 +48,3 @@ You might be thinking that 4 weeks isn't a lot of time to cover all these, and y
 
 - [AWS Certified DevOps Engineer - Profession](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
 - [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
-
