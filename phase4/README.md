@@ -1,6 +1,6 @@
 # Phase 4: DevOps
 
-Final phase. First off, read some stuff about what DevOps is. Each cloud platform has a suite of DevOps tools, I've linked a few articles here. 
+Final phase. First off, read some stuff about what DevOps is. Each cloud platform has a suite of DevOps tools, I've linked a few articles here.
 
 - [Microsoft - What is DevOps](https://azure.microsoft.com/overview/what-is-devops/#overview)
 - [AWS - What is DevOps](https://aws.amazon.com/devops/what-is-devops/)
@@ -18,8 +18,6 @@ I also think it's worth reading [The Phoenix Project](https://itrevolution.com/t
 
 You might be thinking that 4 weeks isn't a lot of time to cover all these, and you're right. With DevOps, it's so hard to establish a standard of learning, because every organization implements it differently. However, I think if you spent these 4 weeks learning Version control, CI/CD and Infrastructure as Code, you'll have  good foundation. You'll also be exposed to these practices in the resume projects I listed in the cloud projects table.
 
-[DevOps Engineering Course for Beginners](https://youtu.be/j5Zsa_eOXeY)
-
 ## Resources
 
 | Practice                                                            | Tool                                                                                       |
@@ -27,6 +25,7 @@ You might be thinking that 4 weeks isn't a lot of time to cover all these, and y
 | Continuous integration and continuous delivery                      | [GitHub actions](https://docs.github.com/en/actions)                                       |
 | Version Control (you should've become familiar with Git in phase 2) | [Git and GitHub](https://docs.github.com/en/github/getting-started-with-github/quickstart) |
 | Infrastructure as Code                                              | [Terraform](https://www.terraform.io/)                                                     |
+[DevOps Engineering Course for Beginners](https://youtu.be/j5Zsa_eOXeY) | General
 
 ## Projects
 
@@ -38,15 +37,15 @@ You might be thinking that 4 weeks isn't a lot of time to cover all these, and y
 ## Things you should be familiar with at the end of this phase
 
 - Working knowledge of at least one continuous integration tool (Github Actions, Jenkins, etc)
-- An understanding of infrastructure as code (why you'd use it, etc)
-- An understanding of containerisation (why/when you'd need it / use containers)
-- An understanding of the practice of Continuous Integration (why it's needed)
+- An understanding of infrastructure as code (why you'd use it, etc). 
+- An understanding of containerization (why/when you'd need it / use containers)
+- An understanding of the practice of Continuous Integration (why it's needed) and have at least one project in your github deployed with a pipeline.
 - An appreciation for the ideas behind: "immutable infrastructure"
 - An appreciation for monitoring and the basic ideas of logs, metrics, traces
 - An appreciation for "declarative and imperative infrastructure as code"
-- Grab one of the projects you built in the previous phases and build a CI/CD pipeline for it.
 
 ## Certifications you might want to look into
 
 - [AWS Certified DevOps Engineer - Profession](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
-- [Microsoft Certified: DevOps Engineer Expert ](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
+- [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
+
