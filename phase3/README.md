@@ -59,6 +59,10 @@ If there is something you don't understand about a service or command, your go t
 | SysOps Administrator          | [freeCodeCamp](https://youtu.be/KX_AfyrhlgQ)       | Andrew Brown has great courses on freeCodeCamp's Youtube Channel                                                                                                                               |
 | AWS                           | [Rishab's Cloud Notes](https://notes.rishab.cloud) | I don't have recent first hand experience with any AWS content besides A Cloud Guru, but my good friend [Rishab](https://twitter.com/rishabk7) does, checkout his very detailed exam guides :) |
 
+### Some amazing docs
+- [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
+- [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
+
 ## Projects
 
  | Title                                                                   | Resources                                                                                                   |
