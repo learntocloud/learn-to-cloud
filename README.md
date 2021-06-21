@@ -1,6 +1,13 @@
 # Learn the fundamentals of Cloud Computing in 6 months
 
-![Timeline](img/timeline.png)
+| Phase | Topic                           | Time commitment |
+|-------|---------------------------------|-------------------|
+| [1](phase1/README.md)     | Linux and Networking essentials | 6 weeks           |
+| [2](phase2/README.md)    | Learn some scripting and coding | 6 weeks           |
+| [3](phase3/README.md)     | Learn a Cloud Platform          | 8 weeks           |
+| [4](phase4/README.md)     | Learn some DevOps practices   | 4 weeks  
+
+
 
 ## [Watch the guide here](https://youtu.be/ts9vNsrJypE)
 
