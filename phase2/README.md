@@ -1,6 +1,8 @@
 # Phase 2: Programming
 
-You'll be using code to automate tasks and deploy infrastructure and even though you don't need to know how to build full applications, understanding the basics of programming will give you an upper hand. In the previous step you would've been introduced to bash scripting, so you should know some concepts by now.
+You'll be using code to automate tasks and deploy infrastructure and even though you don't need to know how to build full applications, understanding the basics of programming will give you an upper hand.
+
+In the previous step you would've been introduced to bash scripting. There is a difference between scripting and 
 
 For this step, I would go with [Python](https://www.python.org/). It's a very popular language and there are many quality free resources out there to learn it and is one of the simpler languages to get started with too. Also please create a [GitHub](https://github.com/) account NOW if you don't already have one. It'll be your code portfolio and you should put as many projects as you'd like on there.
 

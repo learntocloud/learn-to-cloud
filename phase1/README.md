@@ -1,18 +1,15 @@
 # Phase 1: Linux and networking essentials
 
-## Intro
-
-The reason we pair them together is because lots of networking tasks are done via command line and Linux management is all about command line.
+The reason we pair these two topics is because lots of networking tasks are done via command line and Linux management is all about command line.
 
 ## Resources
 
-I'll put these in the order I'd learn them in. If a row has a same number, it means I would watch/read along side each other.
-
 | Order      | Title    | Notes     |
 | :------------- | ---------- | :----------- |
-|  1| [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | This book made learning Linux FUN! It's pretty easy to follow and take a chapter day by day.   |
+|  1| [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | This book made learning Linux FUN! It's pretty easy to follow and take a chapter day by day. |
 | 1   | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. |
 | 2   | [Introduction to Networking](https://www.youtube.com/watch?v=cNwEVYkx2Kk&list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8) | Great YouTube playlist of basic networking concepts. |
+| 2   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!|
 | Optional   | [Computer Networking Course - Network Engineering](https://youtu.be/qiQR5rTSshw) | This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks. |
 
 Once you have gone through this content, I think you would have a solid basic level of Linux and networking knowledge, no you're not a professional, but you shouldn't feel lost or clueless. The two books I mentioned have several projects, DO THEM! Do not just read the theory! If there is a concept you don't understand, look it up, don't limit yourself to the resources I am sharing here.
@@ -50,6 +47,7 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
 - Compression and archiving with `tar`, `gzip`, `gunzip`.
 - Filesystem device management with `fdisk`, `lsblk`, `mount`, `unmount`, `df`,`fsck`.
 - How to access a Linux server with `ssh`.
+- How to write a simple bash script.
 - Understand IP Addressing and what are subnets, subnet masks, DHCP, and DNS.
 - Understand what are gateways, route tables, load balancing and VPNs.
 
