@@ -67,7 +67,7 @@ If there is something you don't understand about a service or command, your go t
  | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)            | Similar to the previous project, except using Azure.                                                        |
  | [100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas) | A list of many projects to do                                                                               |
  | Create a script that will deploy an ubuntu VM                           | You provide a name and region                                                                               |
- | Deploy a [ghost blog](https://ghost.org/docs/install/)                  | Blogs are great for you to document your learning, here's [mine](https:madebygps.com), deployed on Azure :) |
+ | Deploy a [ghost blog](https://ghost.org/docs/install/)                  | Blogs are great for you to document your learning, here's [mine](https://madebygps.com), deployed on Azure :) |
  | Improve a project from [phase 2](../phase2/README.md)               | In phase 2 you either built a todo app or a product inventory app, try to add a cloud database to it for storage |
 
 ## Things you should be familiar with at the end of this phase
