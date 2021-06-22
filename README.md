@@ -13,6 +13,7 @@ A self-taught learning guide to cloud computing.
 | [3](phase3/README.md)    | Learn a Cloud platform| 8 weeks           |
 | [4](phase4/README.md)     | Learn some DevOps practices         | 4 weeks           |
 | [At anytime](resources/readme.md)     | Study resources         | Up to you        |
+| [At anytime](more-topics/README.md)     | Additional resources on tech related topics        | Up to you        |
 
 ## Note
 
