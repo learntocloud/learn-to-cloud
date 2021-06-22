@@ -74,11 +74,11 @@ If there is something you don't understand about a service or command, your go t
  | Deploy a [ghost blog](https://ghost.org/docs/install/)                  | Blogs are great for you to document your learning, here's [mine](https://madebygps.com), deployed on Azure :) |
   | Create some serverless functions                          | A function that emails you the weather every morning. A function that tells you which VMs are running that morning. An HTTP function that will show your resume details. [Azure Functions University is a fantastic resource.](https://github.com/marcduiker/azure-functions-university)|
 
-
-
 ## Things you should be familiar with at the end of this phase
 
+- An understanding of best practices for cloud infrastructure (reliability, performance efficiency, security, etc.)
 - How to grant and revoke access and permissions to users and applications in your cloud of choice.
+- How to setup billing alerts/alarms, budgets, and how to use the billing tools of your cloud platform of choice.
 - How to use the object storage service of your cloud of choice and and overall understanding of other storage options that cloud offers.
 - How to deploy scalable virtual machines in the service of you cloud of choice and and overall understanding of other compute services that cloud offers.
 - How networking works for the virtual machine service of your cloud of choice (Vnets/VPCs, subnets, route tables, public and private IP addresses, vpns, gateways, etc.)

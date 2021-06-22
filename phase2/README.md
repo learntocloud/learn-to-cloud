@@ -12,8 +12,10 @@ Take some time now to create a [GitHub](https://github.com/) account if you don'
 
 ## Resources
 
+
 | Order | Title                                                                        | Notes                                                                                       |
 | :---- | :--------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Optional     | [An introduction to Programming](https://docs.microsoft.com/en-us/learn/modules/web-development-101-introduction-programming/)                      | A great Microsoft Learn module on the topic.    |
 | 1     | [Python Crash Course](https://ehmatthes.github.io/pcc/)                      | Another fun book to follow, also there is an Appendix in there on Git which is great!       |
 | 1     | [An introduction to Python](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)    | A short intro to Python in case you are already familiar with programming                                                                 |
 | 1     | [Automate the boring stuff with Python](https://automatetheboringstuff.com/) | I haven't fully finished this book, but it can be used to learn Python too                  |
