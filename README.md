@@ -1,5 +1,16 @@
 # Learn the fundamentals of Cloud Computing in 6 months
 
+[![GitHub license](https://img.shields.io/github/license/madebygps/self-taught-guide-to-cloud-computing.svg)](https://github.com/microsoft/Web-Dev-For-Beginners/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/madebygps/self-taught-guide-to-cloud-computing.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/madebygps/self-taught-guide-to-cloud-computing.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/madebygps/self-taught-guide-to-cloud-computing.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+[![GitHub watchers](https://img.shields.io/github/watchers/madebygps/self-taught-guide-to-cloud-computing.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/madebygps/self-taught-guide-to-cloud-computing.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/network/)
+[![GitHub stars](https://img.shields.io/github/stars/madebygps/self-taught-guide-to-cloud-computing.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/stargazers/)
+
+
 A self-taught learning guide to cloud computing.
 
 ## Phases
