@@ -12,7 +12,9 @@ There are platforms out there like [A Cloud Guru](https://acloudguru.com) and [C
 
 ## Take a certification
 
-I personally like cloud certifications, they give you a nice outline to follow in terms of learning. However I don't think you need to have every single certification out there. One or two, plus the Linux, networking, programming, knowledge is plenty and already quite impressive.
+I personally like cloud certifications, they give you a nice outline to follow in terms of learning. However I don't think you need to have every single certification out there. One or two, plus the Linux, networking, programming, knowledge is plenty and already quite impressive when you're starting off.
+
+As you grow and want to specialize, certifications are great for up-skilling! 
 
 ## Certifications you might want to look into
 
@@ -21,7 +23,7 @@ You have two options here:
 - Entry level certification: Like the [AWS Certified cloud practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) or the [Azure Fundamentals AZ-900](https://docs.microsoft.com/learn/certifications/exams/az-900).
 - Skip the entry level and go for an associate level: AWS has [three](https://aws.amazon.com/certification/) associate level certifications and Azure has I believe [four now](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate).
 
-You can skip the entry level one and take more time studying for the associate, or take them both. Up to you.
+You can skip the entry level one and take more time studying for the associate, or take them both. Up to you. All certifications have an outline available and you can leverage them to decide if you want to take them.
 
 For the associate level AWS, I would go with any of them, I've heard the [SysOps](https://aws.amazon.com/certification/certified-sysops-admin-associate/) one is the hardest. Personally I have the [AWS certified developer associate](https://aws.amazon.com/certification/certified-developer-associate/) (it expired, but hey I still studied for it so I'm counting it!) it was a fun certification to study for. For Azure I would go for the [AZ-104](https://docs.microsoft.com/learn/certifications/azure-administrator/) or [AZ-204](https://docs.microsoft.com/learn/certifications/azure-developer/). The other associate level ones are a little more specificized. You can of course take them later on :)
 
