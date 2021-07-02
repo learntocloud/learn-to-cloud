@@ -15,6 +15,8 @@ A self-taught learning guide to cloud computing.
 
 ## Phases
 
+**[Web version here](https://madebygps.github.io/self-taught-guide-to-cloud-computing/)**
+
 **[Watch the guide here](https://youtu.be/ts9vNsrJypE)**
 
 | Order | Topic                           | Time commitment |
