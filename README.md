@@ -19,6 +19,7 @@ A self-taught learning guide to cloud computing.
 
 **[Watch the guide here](https://youtu.be/ts9vNsrJypE)**
 
+
 | Order | Topic                           | Time commitment |
 |-------|---------------------------------|-------------------|
 | [1](phase1/README.md)     | Linux and Networking essentials | 6 weeks           |
@@ -28,6 +29,7 @@ A self-taught learning guide to cloud computing.
 | [At anytime](resources/readme.md)     | Study resources         | Up to you        |
 | [At anytime](more-topics/README.md)     | Additional resources on tech related topics        | Up to you        |
 
+![MindMap](img/MindMap.png)
 ## Note
 
 This is a guide based on our experiences of going from help desk to Cloud and DevOps engineers. We tried to keep it as general and using the most popular options (in terms of content, community, and jobs) as possible.
