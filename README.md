@@ -2,11 +2,6 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/madebygps/self-taught-guide-to-cloud-computing.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/madebygps/self-taught-guide-to-cloud-computing/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/madebygps/self-taught-guide-to-cloud-computing.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/madebygps/self-taught-guide-to-cloud-computing/network/)
-[![GitHub stars](https://img.shields.io/github/stars/madebygps/self-taught-guide-to-cloud-computing.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/madebygps/self-taught-guide-to-cloud-computing/stargazers/)
-
-
 A self-taught learning guide to cloud computing.
 
 ## Phases
