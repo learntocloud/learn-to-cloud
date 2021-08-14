@@ -24,8 +24,9 @@ You might be thinking that 4 weeks isn't a lot of time to cover all these, and y
 | :------------------------------------------------------------------ | :----------------------------------------------------------------------------------------- |
 | Continuous integration and continuous delivery                      | [GitHub actions](https://docs.github.com/en/actions)                                       |
 | Version Control (you should've become familiar with Git in phase 2) | [Git and GitHub](https://docs.github.com/en/github/getting-started-with-github/quickstart) |
-| Infrastructure as Code                                              | [Terraform](https://www.terraform.io/)                                                     |
-[DevOps Engineering Course for Beginners](https://youtu.be/j5Zsa_eOXeY) | General
+| Infrastructure as Code                                              | [Terraform](https://www.terraform.io/)                                                     
+| [DevOps Engineering Course for Beginners](https://youtu.be/j5Zsa_eOXeY) | General |
+| [GitLab Learning Paths](https://about.gitlab.com/learn/) | [GitLab](https://about.gitlab.com/) |
 
 ## Projects
 
