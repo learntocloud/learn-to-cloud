@@ -21,7 +21,7 @@ A self-taught learning guide to cloud computing.
 | [At anytime](more-topics/README.md)     | Additional resources on tech related topics        | Up to you        |
 
 ![MindMap](img/CloudComputing.png)
-[Interactive Version](https://whimsical.com/cloud-computing-YXhM6K6UEmJ7iDe58MsUPx)
+[Web Version Mind Map](https://whimsical.com/cloud-computing-YXhM6K6UEmJ7iDe58MsUPx)
 
 ## Note
 
