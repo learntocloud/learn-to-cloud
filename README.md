@@ -20,7 +20,9 @@ A self-taught learning guide to cloud computing.
 | [At anytime](resources/readme.md)     | Study resources         | Up to you        |
 | [At anytime](more-topics/README.md)     | Additional resources on tech related topics        | Up to you        |
 
-![MindMap](img/MindMap.png)
+![MindMap](img/CloudComputing.png)
+<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/YXhM6K6UEmJ7iDe58MsUPx"></iframe>
+
 ## Note
 
 This is a guide based on our experiences of going from help desk to Cloud and DevOps engineers. We tried to keep it as general and using the most popular options (in terms of content, community, and jobs) as possible.
