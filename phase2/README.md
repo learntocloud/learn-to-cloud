@@ -1,4 +1,4 @@
-# Phase 2: Learn some scripting and programming
+# Phase 2: Programming fundamentals
 
 You'll be using code to automate tasks and deploy infrastructure and even though you don't need to know how to build full applications, understanding the basics of programming will give you an upper hand.
 
@@ -55,4 +55,4 @@ Programming certifications aren't as in demand/popular than cloud ones. As with 
 
 ## What's next
 
-[Go to Phase 3: Cloud Platform](../phase3/README.md)
+[Go to Phase 3: Cloud Platform fundamentals](../phase3/README.md)

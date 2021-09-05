@@ -1,4 +1,4 @@
-# Phase 4: DevOps
+# Phase 4: DevOps fundamentals
 
 Final phase. First off, read some stuff about what DevOps is. Each cloud platform has a suite of DevOps tools, I've linked a few articles here.
 

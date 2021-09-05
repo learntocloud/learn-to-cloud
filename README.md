@@ -13,14 +13,14 @@ A self-taught learning guide to cloud computing.
 
 | Order | Topic                           | Time commitment |
 |-------|---------------------------------|-------------------|
-| [1](phase1/README.md)     | Linux and Networking essentials | 6 weeks           |
-| [2](phase2/README.md)     | Learn some scripting and code | 6 weeks           |
-| [3](phase3/README.md)    | Learn a Cloud platform| 8 weeks           |
-| [4](phase4/README.md)     | Learn some DevOps practices         | 4 weeks           |
+| [1](phase1/README.md)     | Linux and Networking fundamentals | 6 weeks           |
+| [2](phase2/README.md)     | Programming fundamentals | 6 weeks           |
+| [3](phase3/README.md)    | Cloud platform fundamentals| 8 weeks           |
+| [4](phase4/README.md)     | DevOps fundamentals         | 4 weeks           |
 | [At anytime](resources/readme.md)     | Study resources         | Up to you        |
 | [At anytime](more-topics/README.md)     | Additional resources on tech related topics        | Up to you        |
 
-![MindMap](img/CloudComputing.png)
+![MindMap](img/mindmap2.png)
 [Web Version Mind Map](https://whimsical.com/cloud-computing-YXhM6K6UEmJ7iDe58MsUPx)
 
 ## Note
@@ -31,4 +31,4 @@ The 6 month timeline is something we put in place to help people with planning a
 
 Most of the resources we've listed have projects in each module/chapter. Don't leave them to the end and do them as you go.
 
-### [Go to Phase 1: Linux and Networking](phase1/README.md)
+### [Go to Phase 1: Linux and Networking fundamentals](phase1/README.md)

@@ -1,4 +1,4 @@
-# Phase 3: Cloud Platform
+# Phase 3: Cloud Platform fundamentals
 
 This phase is the longest and for good reason.
 
@@ -90,4 +90,4 @@ If there is something you don't understand about a service or command, your go t
 
 ## What's next
 
-[Go to Phase 4: DevOps](../phase4/README.md)
+[Go to Phase 4: DevOps fundamentals](../phase4/README.md)

@@ -1,4 +1,4 @@
-# Phase 1: Linux and networking essentials
+# Phase 1: Linux and networking fundamentals
 
 The reason we pair these two topics is because lots of networking tasks are done via command line and Linux management is all about command line.
 
@@ -63,4 +63,4 @@ At the end of the day, if you want to take them, go for it :)
   
 ## What's next
 
-[Go to Phase 2: Programming](../phase2/README.md)
+[Go to Phase 2: Programming fundamentals](../phase2/README.md)
