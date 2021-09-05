@@ -2,13 +2,17 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A self-taught learning guide to cloud computing.
+This is a guide based on our experiences of going from help desk to Cloud and DevOps engineers. We tried to keep it as general and using the most popular options (in terms of content, community, and jobs) as possible.
 
-## Phases
+The 6 month timeline is something we put in place to help people with planning and accountability. It may take you more or less time for each phase and if it does, that is completely fine.
+
+Most of the resources we've listed have projects in each module/chapter. Don't leave them to the end and do them as you go.
 
 **[Web version here](https://madebygps.github.io/self-taught-guide-to-cloud-computing/)**
 
 **[Watch the guide here](https://youtu.be/ts9vNsrJypE)**
+
+## Phases
 
 
 | Order | Topic                           | Time commitment |
@@ -22,13 +26,5 @@ A self-taught learning guide to cloud computing.
 
 ![MindMap](img/map.png)
 [Web Version Mind Map](https://whimsical.com/cloud-computing-YXhM6K6UEmJ7iDe58MsUPx)
-
-## Note
-
-This is a guide based on our experiences of going from help desk to Cloud and DevOps engineers. We tried to keep it as general and using the most popular options (in terms of content, community, and jobs) as possible.
-
-The 6 month timeline is something we put in place to help people with planning and accountability. It may take you more or less time for each phase and if it does, that is completely fine.
-
-Most of the resources we've listed have projects in each module/chapter. Don't leave them to the end and do them as you go.
 
 ### [Go to Phase 1: Linux and Networking fundamentals](phase1/README.md)
