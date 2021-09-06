@@ -12,7 +12,4 @@ include:
   - phase4/README.md
   - resources/readme.md
 
-remote_theme: chrisrhymes/bulma-clean-theme
-
-
 theme: jekyll-theme-cayman
