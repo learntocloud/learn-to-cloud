@@ -1,4 +1,4 @@
-# Learn the fundamentals of Cloud Computing in 6 months
+# Intro
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
