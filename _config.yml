@@ -12,5 +12,5 @@ include:
   - phase4/README.md
   - resources/readme.md
 
-remote_theme: remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
