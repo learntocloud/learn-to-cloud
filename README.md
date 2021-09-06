@@ -4,7 +4,9 @@
 
 This is a guide based on our experiences of going from help desk to Cloud and DevOps engineers. 
 
-You can learn more about [Rishab's journey from help desk to DevOps engineer without a degree](https://youtu.be/LZuWZ0SBYm8) and [Gwyn's journey from help desk to Cloud engineer without a degree](https://youtu.be/kluKaLXJ2lg)
+You can learn more about our journeys into cloud here:
+- [Rishab's journey from help desk to DevOps engineer without a degree](https://youtu.be/LZuWZ0SBYm8) 
+- [Gwyn's journey from help desk to Cloud engineer without a degree](https://youtu.be/kluKaLXJ2lg)
 
 We tried to keep it as general and using the most popular options (in terms of content, community, and jobs) as possible.
 
