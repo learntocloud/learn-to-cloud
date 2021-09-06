@@ -1,0 +1,24 @@
+name: Add contributors
+on:
+  schedule:
+    - cron:  '59 * * * *'
+# push:
+#   branches:
+#     - master
+
+jobs:
+  add-contributors:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: BobAnkh/add-contributors@master
+      with:
+        REPO_NAME: 'madebygps/self-taught-guide-to-cloud-computing'
+        CONTRIBUTOR: '### Contributors'
+        COLUMN_PER_ROW: '6'
+        ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        IMG_WIDTH: '100'
+        FONT_SIZE: '14'
+        PATH: '/Contributors.md'
+        COMMIT_MESSAGE: 'docs(Contributors): update contributors'
+        AVATAR_SHAPE: 'round'
