@@ -2,7 +2,11 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-This is a guide based on our experiences of going from help desk to Cloud and DevOps engineers. We tried to keep it as general and using the most popular options (in terms of content, community, and jobs) as possible.
+This is a guide based on our experiences of going from help desk to Cloud and DevOps engineers. 
+
+You can learn more about [Rishab's journey from help desk to DevOps engineer without a degree](https://youtu.be/LZuWZ0SBYm8) and [Gwyn's journey from help desk to Cloud engineer without a degree](https://youtu.be/kluKaLXJ2lg)
+
+We tried to keep it as general and using the most popular options (in terms of content, community, and jobs) as possible.
 
 The 6 month timeline is something we put in place to help people with planning and accountability. It may take you more or less time for each phase and if it does, that is completely fine.
 
