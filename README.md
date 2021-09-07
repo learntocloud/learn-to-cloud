@@ -14,7 +14,7 @@ The 6 month timeline is something we put in place to help people with planning a
 
 Most of the resources we've listed have projects in each module/chapter. Don't leave them to the end and do them as you go.
 
-**[Web version here]((https://learntocloud.guide))**
+**[Web version here](https://learntocloud.guide)**
 
 **[Watch the guide here](https://youtu.be/ts9vNsrJypE)**
 
