@@ -16,7 +16,6 @@ Most of the resources we've listed have projects in each module/chapter. Don't l
 
 **[Web version here](https://learntocloud.guide)**
 
-**[Watch the guide here](https://youtu.be/ts9vNsrJypE)**
 
 ## Phases
 

@@ -1,6 +1,12 @@
 # Phase 1: Linux and networking fundamentals
 
+## How does this phase apply to Cloud?
+
+These two topics are entire specialties and careers on their own. If you're already a Linux admin or network engineer, you can 100% apply your skills to the cloud. At the end of the day, the Cloud is just a bunch of Linux servers networked together :)
+
 The reason we pair these two topics is because lots of networking tasks are done via command line and Linux management is all about command line.
+
+A best practice for this phase is to lookup the [man pages](https://en.wikipedia.org/wiki/Man_page) for each command you use. You don't need to memorize it. 
 
 ## Resources
 
@@ -18,15 +24,17 @@ Once you have gone through this content, I think you would have a solid basic le
 
  Title    | Resource     |
  :---------- | :----------- |
- Install Linux on a computer   | Research a distro and install it (I really like [Pop!_OS](https://pop.system76.com/)) |
+ Install Linux on a computer   | Research a distro and install it (We like [Pop!_OS](https://pop.system76.com/)) |
 Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A pretty popular Linux admin task. |
  Deploy a NAS server | Checkout [FreeNAS](https://www.freenas.org/) |
  Deploy your own cloud | Checkout [NextCloud](https://nextcloud.com/) |
+  Convert video files | Checkout [ffmpeg](https://ffmpeg.org/ffmpeg.html) use it to write a script that converts a .mov file to mp4|
+   [Awesome Bash](https://github.com/awesome-lists/awesome-bash) | Lots of Bash resources|
 
 ## Things you should be able familiar with at the end of this phase
 
 - Navigate with the `cd` command.
-- Understand how to list the contents of a directory and using the `ls` command.
+- How to list the contents of a directory and using the `ls` command.
 - Create, copy, move, rename, directories and files with `mkdir`, `cp`, `rm`, and `touch` commands.
 - Find things with `locate`, `whereis`, `which`, and `find` commands.
 - Understand how to work with links with the `ln` command.
@@ -53,11 +61,19 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
 
 ## Certifications you might want to look into 
 
+There are several Linux certifications and you can chose to study for any of them really, but a lot of them cover WAY more than what you need to know for a solid foundation and are more focused on Linux administration.
+
 - [LPI essentials](https://www.lpi.org/our-certifications/linux-essentials-overview) - Great overview of many basic Linux commands.
 
-There are several Linux certifications and you can chose to study for any of them really, but a lot of them cover WAY more than what you need to know for a solid foundation and are more focused on Linux administration, for example the Red Hat, Linux Foundation, Oracle, and LPIC, and Comptia Linux+ certifications.
+- [RedHat](https://www.redhat.com/en/services/training-and-certification)
+- [Linux Foundation](https://training.linuxfoundation.org/certification-catalog/)
+- [Oracle](https://education.oracle.com/oracle-certification-path/pFamily_358)
+- [LPI](https://www.lpi.org/)
+- [Comptia Linux+](https://www.comptia.org/certifications/linux)
 
-There are also TONS of networking certifications out there, and similar to the Linux one, they are more focused on giving you a lot of knowledge so you can become a networking engineer/specialist, again at an introductory level, it's a little overkill. If you did want to get one, take a look at the [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) which are pretty much industry standard and/or [Comptia Network+](https://www.comptia.org/certifications/network)
+ I (GPS) took the [LPI Essentials](https://www.lpi.org/our-certifications/linux-essentials-overview). I had a good time studying for it and learned A LOT. Though it's an introductory certification, it wasn't easy.
+
+There are also TONS of networking certifications out there, and similar to the Linux ones, they are more focused on giving you a lot of knowledge so you can become a networking engineer/specialist, again at an introductory level, it's a little overkill. If you did want to get one, take a look at the [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) which are pretty much industry standard and/or [Comptia Network+](https://www.comptia.org/certifications/network)
 
 At the end of the day, if you want to take them, go for it :)
   

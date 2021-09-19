@@ -1,6 +1,10 @@
 # Phase 2: Programming fundamentals
 
-You'll be using code to automate tasks and deploy infrastructure and even though you don't need to know how to build full applications, understanding the basics of programming will give you an upper hand.
+## How does this phase apply to Cloud?
+
+You'll be using code to automate tasks and deploy infrastructure. You don't need to know how to build full applications, understanding the basics of programming will give you an upper hand.
+
+There are dedicated developer in roles, often called Cloud Development. For those you will need to know how to build full solutions, checkout [this video](https://youtu.be/WMUAc7bvB7M) for more info on that role. 
 
 In the previous step you would've been introduced to bash scripting. Bash scripting is used to automate tasks and could almost be considered like a universal language for servers, since nowadays, Bash is installed by default almost on every Linux server.
 
@@ -23,16 +27,18 @@ Take some time now to create a [GitHub](https://github.com/) account if you don'
 | 2     | [An introduction to Git](https://docs.microsoft.com/en-us/learn/modules/intro-to-git/)    | You'll need Git, learn it!                                                                  |
 | 3     | [Git branching](https://learngitbranching.js.org/)                           | A great resource to learn Git branching!                                                    |
 
-You can follow any one of the python resources, you don't have to do them all, but definitely do a Git one as well. [Git](https://git-scm.com/) is the most popular version control tool and one of the DevOps practices.
+You can follow any one of the python resources, you don't have to do them all, but definitely pair it with a Git one. [Git](https://git-scm.com/) is the most popular version control tool and one of the DevOps practices.
 
-As you work through these resources, make sure to create the project and demos they show, on your own machine and even push them to your GitHub profile if you'd like. Just make sure to use a [README](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes) to document your project. Here are some more projects you can do.
+As you work through these resources, make sure to create the project and demos they show, on your own machine and even push them to your GitHub profile. Just make sure to use a [README](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes) to document your project. Here are some more projects you can do.
 
 ## Projects
+
+I'd recommend sticking to console applications for this phase.
 
  | Title                     | Resource                                                                                                                                               |
  | :------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
  | Product Inventory Project | Create an application which manages an inventory of products. This will help you practice OOP concepts.                                                |
- | Score Tracker             | Create a console application that you provide a team name and it will tell you if that team played today and what the game score was. #HalaMadrid btw. |                                                                                                                                 |
+ | Score Tracker             | Create an application that you provide a team name and it will tell you if that team played today and what the score was. This will help you practice retrieving data from the web|                                                                                                                                 |
  [Create your GitHub profile readme](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) | Create a README to tell other people about yourself. Here's [mine](https://github.com/madebygps/madebygps) as an example. Rishab has a cool [one](https://github.com/rishabkumar7/rishabkumar7) too.
 
  There are plenty of lists of projects out there you can do. Google is your best bet here.

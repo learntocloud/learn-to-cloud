@@ -1,18 +1,30 @@
 # Phase 3: Cloud Platform fundamentals
 
-This phase is the longest and for good reason.
+## How does this phase apply to Cloud?
 
-AWS, Azure, GCP, the million dollar question. We would rule out GCP because there's already so much content, community, and jobs for AWS and Azure, which are essential when you're getting started. AWS or Azure? You can't go wrong with either. Regardless of which one you choose, the fundamentals are the same and our advice is the same.
+Sometimes people are surprised to see that this phase isn't number 1, though it is the longest and for good reason. As a Cloud professional, you will live in a platform, or multiple. Everything you build, support, develop, etc, will be on a platform.
+
+## Which cloud to learn?
+
+AWS, Azure, GCP, the million dollar question. We  rule out GCP ONLY because there's already so much content, community, and jobs for AWS and Azure, which are essential when you're getting started. However, if you're still leaning for GCP, go for it.
+
+Regardless of which one you choose, the fundamentals are the same and our advice is the same.
 
 Whichever cloud you pick, make sure you create an account and setup some budgets and alerts so you don't wake up to surprises on your bill. [Here](https://youtu.be/FZD0s7KE83Y) is how to do it in the Azure portal, and here [AWS](https://www.youtube.com/watch?v=fvz0cphjHjg).
 
 ## A note on paid cloud learning platforms
 
-There are platforms out there like [A Cloud Guru](https://acloudguru.com) and [CloudAcademy](https://cloudacademy.com) that you can pay for a monthly or yearly subscription and gain access to content and lab environments for your learning. These do help you avoid spending your own money in your own AWS and Azure accounts, which when you're getting started is a good thing. Ultimately, if you sign up for one, it's up to you. I had a subscription to A Cloud Guru and Linux Academy when I was getting started, my work paid for it though, maybe this is a perk your work can pay for too.
+There are platforms out there like [A Cloud Guru](https://acloudguru.com) and [CloudAcademy](https://cloudacademy.com) that you can pay for a monthly or yearly subscription and gain access to content and lab environments for your learning. 
+
+These do help you avoid spending your own money in your own AWS and Azure accounts, which when you're getting started is a good thing. Ultimately, if you sign up for one, it's up to you. 
+
+I (GPS) had a subscription to A Cloud Guru and Linux Academy when I was getting started, my work paid for it though, maybe this is a perk your work can pay for too.
 
 ## Take a certification
 
-I personally like cloud certifications, they give you a nice outline to follow in terms of learning. However I don't think you need to have every single certification out there. One or two, plus the Linux, networking, programming, knowledge is plenty and already quite impressive when you're starting off.
+We like cloud certifications, they give you a nice outline to follow in terms of learning. However we don't think you need to have every single certification out there. 
+
+One or two, plus the Linux, networking, programming, knowledge is plenty and already quite impressive when you're starting off.
 
 As you grow and want to specialize, certifications are great for up-skilling! 
 
@@ -31,7 +43,7 @@ For the associate level AWS, I would go with any of them, I've heard the [SysOps
 
 Regardless of which learning material you choose, it'll have some sort of demo/hands-on aspect to it. Do it. Don't just watch/read. This isn't a Netflix show you're consuming, this is learning time. If the instructor is doing something on screen, watch it, and then try it on your own.
 
-When you are first getting started with cloud, you'll be doing everything via the UI, and that is fine for getting started, however once you're in a job, you'll be using a CLI to manage your environments. My advice here is, for every exercise you do via the UI, look up the CLI command and do it that way too. By now you should be familiar with using a command line.
+When you are first getting started with cloud, you'll be doing everything via the UI, and that is fine for getting started, however once you're in a job, you'll be using a CLI to manage your environments. My advice here is, for every exercise you do via the UI, look up the CLI command and do it that way too. By now you should be familiar with using a command line. (Which is a big reason Linux phase and programming comes before this one)
 
 Eventually you'll learn these commands and it'll become easier to remember which one to use, but this is also a great time to introduce yourself to the official documentation, [AWS](https://docs.aws.amazon.com/index.html) and [Azure](https://docs.microsoft.com/azure/?product=featured)
 
