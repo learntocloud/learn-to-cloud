@@ -88,6 +88,14 @@ If there is something you don't understand about a service or command, your go t
  | Deploy a [ghost blog](https://ghost.org/docs/install/)                  | Blogs are great for you to document your learning, here's [mine](https://madebygps.com), deployed on Azure :) |
   | Create some serverless functions                          | A function that emails you the weather every morning. A function that tells you which VMs are running that morning. An HTTP function that will show your resume details. [Azure Functions University is a fantastic resource.](https://github.com/marcduiker/azure-functions-university)|
 
+  ## Community Projects
+
+Here are some projects you can do that have been contributed by the community <3
+
+ Title    | Resource     | Author | 
+ :---------- | :----------- | :----------- |
+
+
 ## Things you should be familiar with at the end of this phase
 
 - An understanding of best practices for cloud infrastructure (reliability, performance efficiency, security, etc.)

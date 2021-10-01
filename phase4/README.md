@@ -39,6 +39,15 @@ You might be thinking that 4 weeks isn't a lot of time to cover all these, and y
 | Deploy a VNet (or VPC) and 2 VMs in the cloud with Terraform | Make sure you can SSH into both VMs and from vm1 you can ping vm2 and vice-versa. |
 | Remember that NAS project from Phase 1?                      | Deploy it with Terraform                                                          |
 | Remember nextcloud project from Phase 1?                     | [Deploy it with  Terraform to an ec2 instance with github actions](https://github.com/abdrrahimelh/terraform-nextcloud)
+
+## Community Projects
+
+Here are some projects you can do that have been contributed by the community <3
+
+ Title    | Resource     | Author | 
+ :---------- | :----------- | :----------- |
+ 
+
 ## Things you should be familiar with at the end of this phase
 
 - Working knowledge of at least one continuous integration tool (Github Actions, Jenkins, etc)

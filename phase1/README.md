@@ -31,6 +31,14 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
   Convert video files | Checkout [ffmpeg](https://ffmpeg.org/ffmpeg.html) use it to write a script that converts a .mov file to mp4|
    [Awesome Bash](https://github.com/awesome-lists/awesome-bash) | Lots of Bash resources|
 
+## Community Projects
+
+Here are some projects you can do that have been contributed by the community <3
+
+ Title    | Resource     | Author | 
+ :---------- | :----------- | :----------- |
+
+
 ## Things you should be able familiar with at the end of this phase
 
 - Navigate with the `cd` command.

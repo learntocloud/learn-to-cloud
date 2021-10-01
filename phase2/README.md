@@ -43,6 +43,14 @@ I'd recommend sticking to console applications for this phase.
 
  There are plenty of lists of projects out there you can do. Google is your best bet here.
 
+ ## Community Projects
+
+Here are some projects you can do that have been contributed by the community <3
+
+ Title    | Resource     | Author | 
+ :---------- | :----------- | :----------- |
+
+
 ## Things you should be familiar with at the end of this phase
 
 - Variables
