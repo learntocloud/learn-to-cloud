@@ -2,7 +2,11 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-This is a guide based on our experiences of going from help desk to Cloud and DevOps engineers. 
+This is a guide based on our experiences of going from help desk to Cloud and DevOps engineers. Once done, you should have the enough technical knowledge for roles like:
+
+- System administrator.
+- Cloud Support Engineer.
+- Cloud Administrator.
 
 You can learn more about our journeys into cloud here:
 - [Rishab's journey from help desk to DevOps engineer without a degree](https://youtu.be/LZuWZ0SBYm8) 
