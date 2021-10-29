@@ -1,6 +1,6 @@
 # Intro
 
-![](img/HQ1.png)
+![](img/Logo-01.png)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
