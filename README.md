@@ -1,5 +1,7 @@
 # Intro
 
+![](img/HQ1.png)
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 This is a guide based on our experiences of going from help desk to Cloud and DevOps engineers. Once done, you should have the enough technical knowledge for roles like:
