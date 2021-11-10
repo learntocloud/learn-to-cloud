@@ -40,13 +40,6 @@ You might be thinking that 4 weeks isn't a lot of time to cover all these, and y
 | Remember that NAS project from Phase 1?                      | Deploy it with Terraform                                                          |
 | Remember nextcloud project from Phase 1?                     | [Deploy it with  Terraform to an ec2 instance with github actions](https://github.com/abdrrahimelh/terraform-nextcloud)
 
-## Community Projects
-
-Here are some projects you can do that have been contributed by the community <3
-
- Title    | Resource     | Author | 
- :---------- | :----------- | :----------- |
- 
 
 ## Things you should be familiar with at the end of this phase
 

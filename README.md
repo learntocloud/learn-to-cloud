@@ -36,6 +36,5 @@ Most of the resources we've listed have projects in each module/chapter. Don't l
 | [At anytime](more-topics/README.md)     | Additional resources on tech related topics        | Up to you        |
 
 ![MindMap](img/map.png)
-[Web Version Mind Map](https://whimsical.com/cloud-computing-YXhM6K6UEmJ7iDe58MsUPx)
 
 ### [Go to Phase 1: Linux and Networking fundamentals](phase1/README.md)
