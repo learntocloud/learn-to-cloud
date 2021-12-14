@@ -2,7 +2,9 @@
 
 ## How does this phase apply to Cloud?
 
-If you feel like you have zero tech experience but you want to get into Cloud Computing. This phase is for you. 
+If you feel like you have zero tech experience but you want to get into Cloud Computing. This phase is for you. If you are already in tech and switching to cloud, 
+[Go to Phase 1: Linux and Networking fundamentals](../phase1/README.md).
+
 
 Let's get started. 
 
