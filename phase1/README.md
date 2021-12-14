@@ -2,11 +2,11 @@
 
 ## How does this phase apply to Cloud?
 
-These two topics are entire specialties and careers on their own. If you're already a Linux admin or network engineer, you can 100% apply your skills to the cloud. At the end of the day, the Cloud is just a bunch of Linux servers networked together :)
+These two topics are careers on their own. If you're already a Linux admin or network engineer, you can apply your skills to the cloud. At the end of the day, the Cloud is just a bunch of Linux servers networked together :)
 
-The reason we pair these two topics is because lots of networking tasks are done via command line and Linux management is all about command line.
+The reason we pair these two topics is because lots of networking tasks are done via a command line and Linux management is all about command line.
 
-A best practice for this phase is to lookup the [man pages](https://en.wikipedia.org/wiki/Man_page) for each command you use. You don't need to memorize it. 
+A best practice for this phase is to lookup the [man pages](https://en.wikipedia.org/wiki/Man_page) for each command you use. You don't need to memorize it.
 
 ## Resources
 
@@ -18,7 +18,7 @@ A best practice for this phase is to lookup the [man pages](https://en.wikipedia
 | 2   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!|
 | Optional   | [Computer Networking Course - Network Engineering](https://youtu.be/qiQR5rTSshw) | This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks. |
 
-Once you have gone through this content, I think you would have a solid basic level of Linux and networking knowledge, no you're not a professional, but you shouldn't feel lost or clueless. The two books I mentioned have several projects, DO THEM! Do not just read the theory! If there is a concept you don't understand, look it up, don't limit yourself to the resources I am sharing here.
+The two books I mentioned have several projects, DO THEM! Do not just read the theory! If there is a concept you don't understand, look it up, don't limit yourself to the resources I am sharing here.
 
 ## Projects
 
@@ -55,23 +55,23 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
 - Compression and archiving with `tar`, `gzip`, `gunzip`.
 - Filesystem device management with `fdisk`, `lsblk`, `mount`, `unmount`, `df`,`fsck`.
 - How to access a Linux server with `ssh`.
-- How to write a simple bash script.
-- Understand IP Addressing and what are subnets, subnet masks, DHCP, and DNS.
+- How to write a bash script.
+- Understand IP Addressing, subnets, DHCP, DNS, OSI model, ICP/IP model.
 - Understand what are gateways, route tables, load balancing and VPNs.
+- Understand how to create and read network diagrams.
+- The OSI model.
+- 
 
 ## Certifications you might want to look into 
 
 There are several Linux certifications and you can chose to study for any of them really, but a lot of them cover WAY more than what you need to know for a solid foundation and are more focused on Linux administration.
 
-- [LPI essentials](https://www.lpi.org/our-certifications/linux-essentials-overview) - Great overview of many basic Linux commands.
-
+- [LPI essentials](https://www.lpi.org/our-certifications/linux-essentials-overview) 
 - [RedHat](https://www.redhat.com/en/services/training-and-certification)
 - [Linux Foundation](https://training.linuxfoundation.org/certification-catalog/)
 - [Oracle](https://education.oracle.com/oracle-certification-path/pFamily_358)
 - [LPI](https://www.lpi.org/)
 - [Comptia Linux+](https://www.comptia.org/certifications/linux)
-
- I (GPS) took the [LPI Essentials](https://www.lpi.org/our-certifications/linux-essentials-overview). I had a good time studying for it and learned A LOT. Though it's an introductory certification, it wasn't easy.
 
 There are also TONS of networking certifications out there, and similar to the Linux ones, they are more focused on giving you a lot of knowledge so you can become a networking engineer/specialist, again at an introductory level, it's a little overkill. If you did want to get one, take a look at the [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) which are pretty much industry standard and/or [Comptia Network+](https://www.comptia.org/certifications/network)
 

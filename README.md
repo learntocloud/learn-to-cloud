@@ -4,7 +4,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-This is a guide based on our experiences of going from help desk to Cloud and DevOps engineers. Once done, you should have the enough technical knowledge for roles like:
+This is a guide based on our experiences of going from help desk support to Cloud and DevOps Engineers. Once done, you should have the  technical knowledge for roles like:
 
 - System administrator.
 - Cloud Support Engineer.
@@ -30,7 +30,7 @@ Most of the resources we've listed have projects in each module/chapter. Don't l
 |-------|---------------------------------|-------------------|
 | [1](phase1/README.md)     | Linux and Networking fundamentals | 6 weeks           |
 | [2](phase2/README.md)     | Programming fundamentals | 6 weeks           |
-| [3](phase3/README.md)    | Cloud platform fundamentals| 8 weeks           |
+| [3](phase3/README.md)    | Cloud Platform fundamentals| 8 weeks           |
 | [4](phase4/README.md)     | DevOps fundamentals         | 4 weeks           |
 | [At anytime](resources/readme.md)     | Study resources         | Up to you        |
 | [At anytime](more-topics/README.md)     | Additional resources on tech related topics        | Up to you        |
