@@ -35,4 +35,7 @@ Most of the resources we've listed have projects in each module/chapter. Don't l
 | [4](phase4/README.md)     | DevOps fundamentals         | 4 weeks           |
 | [At anytime](resources/readme.md)     | Study resources         | Up to you        |
 | [At anytime](more-topics/README.md)     | Additional resources on tech related topics        | Up to you        |
+
+
+
 ### [Go to Phase 1: Linux and Networking fundamentals](phase1/README.md)
