@@ -4,6 +4,8 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+**[Web version here](https://learntocloud.guide)**
+
 This is a guide based on our experiences of going from help desk support to Cloud and DevOps Engineers. Once done, you should have the  technical knowledge for roles like:
 
 - System administrator.
@@ -20,8 +22,6 @@ The 6 month timeline is something we put in place to help people with planning a
 
 Most of the resources we've listed have projects in each module/chapter. Don't leave them to the end and do them as you go.
 
-**[Web version here](https://learntocloud.guide)**
-
 
 ## Phases
 
@@ -35,7 +35,4 @@ Most of the resources we've listed have projects in each module/chapter. Don't l
 | [4](phase4/README.md)     | DevOps fundamentals         | 4 weeks           |
 | [At anytime](resources/readme.md)     | Study resources         | Up to you        |
 | [At anytime](more-topics/README.md)     | Additional resources on tech related topics        | Up to you        |
-
-![MindMap](img/map.png)
-
 ### [Go to Phase 1: Linux and Networking fundamentals](phase1/README.md)
