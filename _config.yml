@@ -12,4 +12,4 @@ include:
   - phase4/README.md
   - resources/readme.md
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-tactile
