@@ -47,6 +47,7 @@ If there is something you don't understand about a service or command, your go t
 [Microsoft learn](https://docs.microsoft.com/learn/certifications/browse/)                       | Microsoft Learn has free content for many tech topics including all Azure certifications realted                                                                                                         |
  [Rishab's Cloud Notes](https://notes.rishab.cloud/)| Notes on LPI Essentials, Terraform, AWS, Azure, and more. 
  [Cloud Computing on FreeCodeCamp](https://www.freecodecamp.org/news/tag/cloud-computing/) | Free courses on AWS, Azure, GCP, and more.
+ | [GCP](https://cloud.google.com/certification) | GCP has plenty of free certification content
 | [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) | Azure recommendations and describes best practices
 | [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc) | AWS recommendations and describes best practices
 | [GCP Architecture](https://cloud.google.com/architecture/framework) | GCP recommendations and describes best practices
