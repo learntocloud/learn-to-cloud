@@ -43,32 +43,15 @@ If there is something you don't understand about a service or command, your go t
 
 ## Resources
 
-### Azure
 
-| Level  | Title                                                                                                 | Notes                                                                                                                                                                                         |
-| :----- | :---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| AZ-900 | [Microsoft learn](https://docs.microsoft.com/learn/certifications/exams/az-900)                       | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related                                                                                                   |
-| AZ-104 | [Microsoft learn](https://docs.microsoft.com/learn/certifications/exams/az-104)                       | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related                                                                                                   |
-| AZ-204 | [Microsoft learn](https://docs.microsoft.com/learn/certifications/exams/az-204)                       | Microsoft learn and Microsoft documentation is my go to for learning anything Azure related                                                                                                   |
-| AZ-900 | [A Cloud Guru](https://acloudguru.com/course/az-900-microsoft-azure-fundamentals)                     | I used to work with Lars, so I know how much work and care he puts into his courses, 10/10 recommend.                                                                                         |
-| AZ-104 | [A Cloud Guru](https://acloudguru.com/course/az-104-microsoft-azure-administrator-certification-prep) | I haven't done this one personally, but I know ACG is pretty good quality.                                                                                                                    |
-| AZ-204 | [A Cloud Guru](https://acloudguru.com/course/az-204-developing-solutions-for-microsoft-azure)         | I haven't done this one personally, but I know ACG is pretty good quality.                                                                                                                    |
-| AWS    | [Rishab's Cloud Notes](https://notes.rishab.cloud)                                    | I don't have recent first hand experience with any AWS content besides A Cloud Guru, but my good friend [Rishab](https://twitter.com/rishabk7) does, checkout his very details exam guides :) |
-
-### AWS
-
-| Level                         | Title                                              | Notes                                                                                                                                                                                          |
-| :---------------------------- | :------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cloud Practitioner            | [freeCodeCamp](https://youtu.be/3hLmDS179YE)       | Andrew Brown has great courses on freeCodeCamp's YouTube channel                                                                                                                               |
-| Solutions Architect Associate | [freeCodeCamp](https://youtu.be/Ia-UEYYR44s)       | Andrew Brown has great courses on freeCodeCamp's YouTube channel                                                                                                                               |
-| Developer Associate           | [freeCodeCamp](https://youtu.be/RrKRN9zRBWs)       | Andrew Brown has great courses on freeCodeCamp's Youtube Channel                                                                                                                               |
-| SysOps Administrator          | [freeCodeCamp](https://youtu.be/KX_AfyrhlgQ)       | Andrew Brown has great courses on freeCodeCamp's Youtube Channel                                                                                                                               |
-| AWS                           | [Rishab's Cloud Notes](https://notes.rishab.cloud) | I don't have recent first hand experience with any AWS content besides A Cloud Guru, but my good friend [Rishab](https://twitter.com/rishabk7) does, checkout his very detailed exam guides :) |
-
-### Some amazing docs
-- [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
-- [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
-- [GCP Architecture](https://cloud.google.com/architecture/framework)
+| Title                                                                                                 | Notes                                                                                                                                                                                         |
+ :---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+[Microsoft learn](https://docs.microsoft.com/learn/certifications/browse/)                       | Microsoft Learn has free content for many tech topics including all Azure certifications realted                                                                                                         |
+ [Rishab's Cloud Notes](https://notes.rishab.cloud/)| Notes on LPI Essentials, Terraform, AWS, Azure, and more. 
+ [Cloud Computing on FreeCodeCamp](https://www.freecodecamp.org/news/tag/cloud-computing/) | Free courses on AWS, Azure, GCP, and more.
+| [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) | Azure recommendations and describes best practices
+| [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc) | AWS recommendations and describes best practices
+| [GCP Architecture](https://cloud.google.com/architecture/framework) | GCP recommendations and describes best practices
 
 ## Projects
 
@@ -77,9 +60,7 @@ If there is something you don't understand about a service or command, your go t
  | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)             | Build your resume with AWS services.                                                                        |
  | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)            | Similar to the previous project, except using Azure.                                                        |
  | [100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas) | A list of many projects to do                                                                               |
- | Create a script that will deploy an ubuntu VM                           | You provide a name and region                                                                               |
- | Deploy a [ghost blog](https://ghost.org/docs/install/)                  | Blogs are great for you to document your learning, here's [mine](https://madebygps.com), deployed on Azure :) |
-  | Create some serverless functions                          | A function that emails you the weather every morning. A function that tells you which VMs are running that morning. An HTTP function that will show your resume details. [Azure Functions University is a fantastic resource.](https://github.com/marcduiker/azure-functions-university)|
+ | [Deploy a ghost blog](https://ghost.org/docs/install/)                  | Blogs are great for you to document your learning |
 
 
 ## Things you should be familiar with at the end of this phase
