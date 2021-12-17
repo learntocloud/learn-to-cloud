@@ -60,8 +60,6 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
 - Understand what are gateways, route tables, load balancing and VPNs.
 - Understand how to create and read network diagrams.
 - The OSI model.
-- 
-
 ## Certifications you might want to look into 
 
 There are several Linux certifications and you can chose to study for any of them really, but a lot of them cover WAY more than what you need to know for a solid foundation and are more focused on Linux administration.

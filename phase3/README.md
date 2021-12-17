@@ -12,15 +12,13 @@ See [FAQ](../more-topics/FAQ.md)
 
 See [FAQ](../more-topics/FAQ.md)
 
-## Take a certification
+## Certifications you might want to look into
 
 We like cloud certifications, they give you a nice outline to follow in terms of learning. However we don't think you need to have every single certification out there. 
 
 One or two, plus the Linux, networking, programming, knowledge is plenty and already quite impressive when you're starting off.
 
 As you grow and want to specialize, certifications are great for up-skilling! 
-
-## Certifications you might want to look into
 
 You have two options here:
 
