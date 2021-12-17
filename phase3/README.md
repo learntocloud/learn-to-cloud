@@ -6,19 +6,11 @@ Sometimes people are surprised to see that this phase isn't number 1, though it 
 
 ## Which cloud to learn?
 
-AWS, Azure, GCP, the million dollar question. We  rule out GCP ONLY because there's already so much content, community, and jobs for AWS and Azure, which are essential when you're getting started. However, if you're still leaning for GCP, go for it.
-
-Regardless of which one you choose, the fundamentals are the same and our advice is the same.
-
-Whichever cloud you pick, make sure you create an account and setup some budgets and alerts so you don't wake up to surprises on your bill. [Here](https://youtu.be/FZD0s7KE83Y) is how to do it in the Azure portal, and here [AWS](https://www.youtube.com/watch?v=fvz0cphjHjg).
+See [FAQ](../more-topics/FAQ.md)
 
 ## A note on paid cloud learning platforms
 
-There are platforms out there like [A Cloud Guru](https://acloudguru.com) and [CloudAcademy](https://cloudacademy.com) that you can pay for a monthly or yearly subscription and gain access to content and lab environments for your learning. 
-
-These do help you avoid spending your own money in your own AWS and Azure accounts, which when you're getting started is a good thing. Ultimately, if you sign up for one, it's up to you. 
-
-I (GPS) had a subscription to A Cloud Guru and Linux Academy when I was getting started, my work paid for it though, maybe this is a perk your work can pay for too.
+See [FAQ](../more-topics/FAQ.md)
 
 ## Take a certification
 
@@ -76,6 +68,7 @@ If there is something you don't understand about a service or command, your go t
 ### Some amazing docs
 - [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
 - [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
+- [GCP Architecture](https://cloud.google.com/architecture/framework)
 
 ## Projects
 
