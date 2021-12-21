@@ -52,14 +52,16 @@ If there is something you don't understand about a service or command, your go t
 | [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc) | AWS recommendations and describes best practices
 | [GCP Architecture](https://cloud.google.com/architecture/framework) | GCP recommendations and describes best practices
 
+
 ## Projects
 
  | Title                                                                   | Resources                                                                                                   |
  | :---------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
  | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)             | Build your resume with AWS services.                                                                        |
- | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)            | Similar to the previous project, except using Azure.                                                        |
+ | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)            | Build your resume with Azure Services                                                       |
  | [100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas) | A list of many projects to do                                                                               |
  | [Deploy a ghost blog](https://ghost.org/docs/install/)                  | Blogs are great for you to document your learning |
+ | [Deploy an App to Azure with ARM](https://github.com/SoniaConti/ContosoFinance-Demo) | ARM is an IaC tool used with Azure
 
 
 ## Things you should be familiar with at the end of this phase
