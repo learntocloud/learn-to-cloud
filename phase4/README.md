@@ -31,7 +31,7 @@ You might be thinking that 4 weeks isn't a lot of time to cover all these, and y
 | Infrastructure as Code                                              | [Terraform](https://www.terraform.io/)                                                     
 | [DevOps Engineering Course for Beginners](https://youtu.be/j5Zsa_eOXeY) | General |
 | [GitLab Learning Paths](https://about.gitlab.com/learn/) | [GitLab](https://about.gitlab.com/) |
-| [DevOps-Exercises](https://about.gitlab.com/learn/) | This repo [devops-exercises](https://github.com/bregman-arie/devops-exercises) contains questions and exercises on various technical topics sometimes related to DevOps and SRE |
+| [DevOps-Exercises](https://github.com/bregman-arie/devops-exercises) | This repo [devops-exercises](https://github.com/bregman-arie/devops-exercises) contains questions and exercises on various technical topics related to DevOps and SRE |
 
 ## Projects
 
