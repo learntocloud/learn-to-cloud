@@ -5,4 +5,3 @@
   * [Twitter](https://twitter.com/learntocloud)
 
 * [En](/)
-* [Spanish](/sp/)
