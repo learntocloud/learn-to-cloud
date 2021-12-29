@@ -59,7 +59,7 @@ If there is something you don't understand about a service or command, your go t
  | :---------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
  | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)             | Build your resume with AWS services.                                                                        |
  | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)            | Build your resume with Azure Services                                                       |
- | [100DaysOfCloud](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas) | A list of many projects to do                                                                               |
+ | [Azure Resume API](https://github.com/rishabkumar7/AzureResumeAPI) | Create a resume API endpoint with Azure Functions                                                                               |
  | [Deploy a ghost blog](https://ghost.org/docs/install/)                  | Blogs are great for you to document your learning |
  | [Deploy an App to Azure with ARM](https://github.com/SoniaConti/ContosoFinance-Demo) | ARM is an IaC tool used with Azure
 
