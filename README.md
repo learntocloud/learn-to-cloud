@@ -8,9 +8,9 @@
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/learntocloud/learn-to-cloud.svg)](https://GitHub.com/learntocloud/learn-to-cloud/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/network/)
-[![GitHub stars](https://img.shields.io/github/stars/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/learntocloud/learn-to-cloud.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/learntocloud/learn-to-cloud/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/learntocloud/learn-to-cloud.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/learntocloud/learn-to-cloud/network/)
+[![GitHub stars](https://img.shields.io/github/stars/learntocloud/learn-to-cloud.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/learntocloud/learn-to-cloud/stargazers/)
 
 **[Web version here](https://learntocloud.guide)**
 
