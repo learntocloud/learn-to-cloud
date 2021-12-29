@@ -2,6 +2,7 @@
 
 ![logo](img/Logo-01.png)
 
+[![Build and Deployment](https://github.com/learntocloud/learn-to-cloud/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/learntocloud/learn-to-cloud/actions/workflows/pages/pages-build-deployment)
 [![GitHub license](https://img.shields.io/github/license/learntocloud/learn-to-cloud.svg)](https://github.com/learntocloud/learn-to-cloud/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/learntocloud/learn-to-cloud.svg)](https://GitHub.com/learntocloud/learn-to-cloud/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/learntocloud/learn-to-cloud.svg)](https://GitHub.com/learntocloud/learn-to-cloud/issues/)
