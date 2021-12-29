@@ -35,6 +35,7 @@ As you work through these resources, make sure to create the project and demos t
  | :------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
  | [25 Python Projects for beginners](https://www.freecodecamp.org/news/python-projects-for-beginners/)| Do as many of these as you'd like. |
  [Create your GitHub profile readme](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) | Create a README to tell other people about yourself. Here's [mine](https://github.com/madebygps/madebygps) as an example. Rishab has a cool [one](https://github.com/rishabkumar7/rishabkumar7) too.
+ | [Networking Python Projects](https://youtu.be/FGdiSJakIS4)| Build some Python and Networking skills
  
 ## Things you should be familiar with at the end of this phase
 
