@@ -2,9 +2,7 @@
 
 ## How does this phase apply to Cloud?
 
-You'll be using code to automate tasks and deploy infrastructure. You don't need to know how to build full applications but understanding the basics of programming will give you an upper hand.
-
-There are dedicated developer roles in cloud. For those you will need to know how to build full solutions, checkout [this video](https://youtu.be/WMUAc7bvB7M) for more info on that role. 
+You'll be using code to automate tasks and deploy infrastructure. You don't need to know how to build full applications but understanding the basics of programming will give you an upper hand. There are dedicated developer roles in cloud. For those you will need to know how to build full solutions, checkout [this video](https://youtu.be/WMUAc7bvB7M) for more info on that role. 
 
 In the previous step you were introduced and wrote some Bash scripts. Bash scripting is used to automate tasks and is considered a universal language for servers, since nowadays, Bash is installed by default almost on every Linux server.
 
@@ -25,7 +23,8 @@ Take some time now to create a [GitHub](https://github.com/) account if you don'
 | 1     | [Automate the boring stuff with Python](https://automatetheboringstuff.com/) | I haven't fully finished this book, but it can be used to learn Python too                  |
 | 1     | [FreeCodeCamp Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw)     | One of the many amazing resources provided by [FreeCodeCamp](https://www.freecodecamp.org/) |
 | 2     | [An introduction to Git](https://docs.microsoft.com/en-us/learn/modules/intro-to-git/)    | You'll need Git, learn it!                                                                  |
-| 3     | [Git branching](https://learngitbranching.js.org/)                           | A great resource to learn Git branching!                                                    |
+| 2     | [Git branching](https://learngitbranching.js.org/)                           | A great resource to learn Git branching!                                                    |
+
 
 You can follow any one of the python resources, you don't have to do them all, but definitely pair it with a Git one. [Git](https://git-scm.com/) is the most popular version control tool and one of the DevOps practices.
 
@@ -34,15 +33,12 @@ As you work through these resources, make sure to create the project and demos t
 ## Projects
 
 
- | Title                     | Resource                                                                                                                                               |
+ | Title                     | Description                                                                                                                                               |
  | :------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
- | [Amazon Spending tracker](https://www.dataquest.io/blog/how-much-spent-amazon-data-analysis/) | Analyze your Amazon data using Python programming.                                     |
- | [Text-based Adventure game](https://coding-grace-guide.readthedocs.io/en/latest/guide/lessonplans/beginners-python-text-based-adventure.html)             | Make a text-based adventure game |
+ | [25 Python Projects for beginners](https://www.freecodecamp.org/news/python-projects-for-beginners/)| Do as many of these as you'd like. |
  [Create your GitHub profile readme](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) | Create a README to tell other people about yourself. Here's [mine](https://github.com/madebygps/madebygps) as an example. Rishab has a cool [one](https://github.com/rishabkumar7/rishabkumar7) too.
- | [Create a URL Shortener](https://www.udemy.com/course/try-django-1-10/) | Build a URL Shortening Service Identical to http://kirr.co 
-
- There are plenty of lists of projects out there you can do. Google is your best bet here.
-
+ | [Networking Python Projects](https://youtu.be/FGdiSJakIS4)| Build some Python and Networking skills
+ 
 ## Things you should be familiar with at the end of this phase
 
 - Variables
@@ -52,6 +48,12 @@ As you work through these resources, make sure to create the project and demos t
 - Iteration (for loops, etc)
 - An understanding of why testing your code is and it's importance (try to implement a simple unit test with a project you do)
 - Classes and OOP concepts.
+- How to create a git repo locally
+- How to create a GitHub repo and clone it locally.
+- How to create a git branch 
+- How too add changes to a git branch
+- How to merge Git changes
+- How to document code with a README
 
 ## Certifications you might want to look into
 
