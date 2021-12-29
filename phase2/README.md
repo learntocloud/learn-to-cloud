@@ -24,6 +24,8 @@ Take some time now to create a [GitHub](https://github.com/) account if you don'
 | 1     | [FreeCodeCamp Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw)     | One of the many amazing resources provided by [FreeCodeCamp](https://www.freecodecamp.org/) |
 | 2     | [An introduction to Git](https://docs.microsoft.com/en-us/learn/modules/intro-to-git/)    | You'll need Git, learn it!                                                                  |
 | 2     | [Git branching](https://learngitbranching.js.org/)                           | A great resource to learn Git branching!                                                    |
+
+
 You can follow any one of the python resources, you don't have to do them all, but definitely pair it with a Git one. [Git](https://git-scm.com/) is the most popular version control tool and one of the DevOps practices.
 
 As you work through these resources, make sure to create the project and demos they show on your own machine and even push them to your GitHub profile. Just make sure to use a [README](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes) to document your project.
