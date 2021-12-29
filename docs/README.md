@@ -2,15 +2,7 @@
 
 ![logo](img/Logo-01.png)
 
-[![GitHub license](https://img.shields.io/github/license/learntocloud/learn-to-cloud.svg)](https://github.com/learntocloud/learn-to-cloud/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/learntocloud/learn-to-cloud.svg)](https://GitHub.com/learntocloud/learn-to-cloud/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/learntocloud/learn-to-cloud.svg)](https://GitHub.com/learntocloud/learn-to-cloud/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/learntocloud/learn-to-cloud.svg)](https://GitHub.com/learntocloud/learn-to-cloud/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-[![GitHub watchers](https://img.shields.io/github/watchers/learntocloud/learn-to-cloud.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/learntocloud/learn-to-cloud/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/learntocloud/learn-to-cloud.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/learntocloud/learn-to-cloud/network/)
-[![GitHub stars](https://img.shields.io/github/stars/learntocloud/learn-to-cloud.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/learntocloud/learn-to-cloud/stargazers/)
 
 **[Web version here](https://learntocloud.guide)**
 
