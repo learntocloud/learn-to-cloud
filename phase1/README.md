@@ -8,15 +8,23 @@ The reason we pair these two topics is because lots of networking tasks are done
 
 A best practice for this phase is to lookup the [man pages](https://en.wikipedia.org/wiki/Man_page) for each command you use. You don't need to memorize it.
 
+## How to break down this phase
+
+I would suggest spending time on these three topics:
+
+- Introduction to Linux
+- Introduction to Networking
+- Introduction to Bash
+
 ## Resources
 
 | Order      | Title    | Notes     |
 | :------------- | ---------- | :----------- |
 |  1| [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | This book made learning Linux FUN! It's pretty easy to follow and take a chapter day by day. |
 | 1   | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. |
-| 2   | [Introduction to Networking](https://www.youtube.com/watch?v=cNwEVYkx2Kk&list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8) | Great YouTube playlist of basic networking concepts. |
+| 2   | [FreeCodeCamp Computer Networking Course](https://youtu.be/qiQR5rTSshw) | This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks.|
 | 3   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!|
-| Optional   | [Computer Networking Course - Network Engineering](https://youtu.be/qiQR5rTSshw) | This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks. |
+
 
 The two books I mentioned have several projects, DO THEM! Do not just read the theory! If there is a concept you don't understand, look it up, don't limit yourself to the resources I am sharing here.
 
@@ -38,7 +46,6 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
 - How to list the contents of a directory and using the `ls` command.
 - Create, copy, move, rename, directories and files with `mkdir`, `cp`, `rm`, and `touch` commands.
 - Find things with `locate`, `whereis`, `which`, and `find` commands.
-- Understand how to work with links with the `ln` command.
 - Understand how to learn more about commands with the `which`, `man`, and `--help` commands.
 - Familiar with finding logs details in `/var/log`
 - How to display the contents of a file with `cat`, `less`, `more`, `tail`, `head`.
@@ -54,7 +61,6 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
 - Manage environment aud user defined variables with `env`, `set`, `export` commands.
 - Add directories to your `PATH`.
 - Compression and archiving with `tar`, `gzip`, `gunzip`.
-- Filesystem device management with `fdisk`, `lsblk`, `mount`, `unmount`, `df`,`fsck`.
 - How to access a Linux server with `ssh`.
 - How to write a bash script.
 - Understand IP Addressing, subnets, DHCP, DNS, OSI model, ICP/IP model.

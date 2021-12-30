@@ -2,15 +2,15 @@
 
 ## How does this phase apply to Cloud?
 
-DevOps is all about getting your solutions to run efficiently. It's not specific to Cloud, as you can implement DevOps practices on-prem too.
+DevOps is all about getting your solutions to run efficiently. It's not specific to Cloud, as you can implement DevOps practices on-prem as well.
 
-First off, read some stuff about what DevOps is. Each cloud platform has a suite of DevOps tools, I've linked a few articles here.
+Read up on what DevOps is. Each cloud platform has a suite of DevOps tools, I've linked a few articles here:
 
 - [Microsoft - What is DevOps](https://azure.microsoft.com/overview/what-is-devops/#overview)
 - [AWS - What is DevOps](https://aws.amazon.com/devops/what-is-devops/)
 - [IBM - A DevOps complete guide](https://www.ibm.com/cloud/learn/devops-a-complete-guide)
 
-I also think it's worth reading [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) it's a pretty fun read because it's a fictional story but it explains the importance of DevOps. But if you'd prefer something more like a textbook with similiar ideas, check out [The DevOps Handbook](https://itrevolution.com/the-devops-handbook/).
+I also think it's worth reading [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) it's a pretty fun read because it's a fictional story but it explains the importance of DevOps. But if you'd prefer something more like a textbook with similar ideas, check out [The DevOps Handbook](https://itrevolution.com/the-devops-handbook/).
 
 ## DevOps practices
 
@@ -20,24 +20,34 @@ I also think it's worth reading [The Phoenix Project](https://itrevolution.com/t
 - Configuration management
 - Monitoring (logs, metrics, traces)
 
-You might be thinking that 4 weeks isn't a lot of time to cover all these, and you're right. With DevOps, it's so hard to establish a standard of learning, because every organization implements it differently. However, I think if you spent these 4 weeks learning Version control, CI/CD and Infrastructure as Code, you'll have  good foundation. You'll also be exposed to these practices in the resume projects I listed in the cloud projects table.
+## How to break down this phase
+
+I would spend my time on these two practices:
+
+- Continuous integration and continuous delivery (CI/CD)
+    - GitHub actions
+- Infrastructure as Code
+    - Terraform
+- Monitoring
+    - Prometheus
+
+Every DevOps practice matters, but these are the most used on an entry/junior level. You should already be familiar with Version Control from Phase 2.
 
 ## Resources
 
 | Practice                                                            | Tool                                                                                       |
 | :------------------------------------------------------------------ | :----------------------------------------------------------------------------------------- |
-| Continuous integration and continuous delivery                      | [GitHub actions](https://docs.github.com/en/actions)                                       |
-| Version Control (you should've become familiar with Git in phase 2) | [Git and GitHub](https://docs.github.com/en/github/getting-started-with-github/quickstart) |
-| Infrastructure as Code                                              | [Terraform](https://www.terraform.io/)                                                     
-| [DevOps Engineering Course for Beginners](https://youtu.be/j5Zsa_eOXeY) | General |
-| [GitLab Learning Paths](https://about.gitlab.com/learn/) | [GitLab](https://about.gitlab.com/) |
-| [DevOps-Exercises](https://github.com/bregman-arie/devops-exercises) | This repo [devops-exercises](https://github.com/bregman-arie/devops-exercises) contains questions and exercises on various technical topics related to DevOps and SRE |
+| [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)| This guide will help you use GitHub Actions to accelerate your application development workflows.
+| [HashiCorp Learn](https://learn.hashicorp.com/terraform)| Build, change, and destroy infrastructure with Terraform. Start here to learn the basics of Terraform with your favorite cloud provider.
+| [FreeCodeCamp DevOps Engineering Course](https://youtu.be/j5Zsa_eOXeY) | Learn all about DevOps in this comprehensive course for beginners with three technical tutorials.
+
 
 ## Projects
 
 | Title                                                        | Resource                                                                          |
 | :----------------------------------------------------------- | --------------------------------------------------------------------------------- |
 [Deploy an App to Azure with ARM](https://github.com/SoniaConti/ContosoFinance-Demo) | ARM is an IaC tool used with Azure
+| [DevOps-Exercises](https://github.com/bregman-arie/devops-exercises) | This repo [devops-exercises](https://github.com/bregman-arie/devops-exercises) contains questions and exercises on various technical topics related to DevOps and SRE |
 
 
 ## Things you should be familiar with at the end of this phase
@@ -49,6 +59,13 @@ You might be thinking that 4 weeks isn't a lot of time to cover all these, and y
 - An appreciation for the ideas behind: "immutable infrastructure"
 - An appreciation for monitoring and the basic ideas of logs, metrics, traces
 - An appreciation for "declarative and imperative infrastructure as code"
+- Be able to explain each DevOps practice
+    - What each one accomplishes
+    - Why each one matters
+- Hands on experience with
+    - CI/CD
+    - IaC
+
 
 ## Certifications you might want to look into
 

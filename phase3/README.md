@@ -42,15 +42,23 @@ If there is something you don't understand about a service or command, your go t
 ## Resources
 
 
-| Title                                                                                                 | Notes                                                                                                                                                                                         |
- :---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-[Microsoft learn](https://docs.microsoft.com/learn/certifications/browse/)                       | Microsoft Learn has free content for many tech topics including all Azure certifications realted                                                                                                         |
- [Rishab's Cloud Notes](https://notes.rishab.cloud/)| Notes on LPI Essentials, Terraform, AWS, Azure, and more. 
- [Cloud Computing on FreeCodeCamp](https://www.freecodecamp.org/news/tag/cloud-computing/) | Free courses on AWS, Azure, GCP, and more.
- | [GCP](https://cloud.google.com/certification) | GCP has plenty of free certification content
+| Cloud Platform | Title                                                                                                 | Notes                                                                                                                                                                                         |
+ :---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+Azure |[Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/)                       | Microsoft Learn has free content for many tech topics including all Azure certifications                                                                                                          |
+ Multi |[Rishab's Cloud Notes](https://notes.rishab.cloud/)| Notes on LPI Essentials, Terraform, AWS, Azure, and more. 
+ Multi |[Cloud Computing on FreeCodeCamp](https://www.freecodecamp.org/news/tag/cloud-computing/) | Free courses on AWS, Azure, GCP, and more.
+ Google Cloud | [Google Cloud training](https://cloud.google.com/certification) | GCP has plenty of free certification content |
+ AWS | [AWS training and Certification](https://aws.amazon.com/training/)| AWS official training
+
+
+
+## Read the Well Architected Whitepaper
+
+Title                                                                                                 | Notes                                                                                                                                                                                         |
+ :---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) | Azure recommendations and describes best practices
 | [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc) | AWS recommendations and describes best practices
-| [GCP Architecture](https://cloud.google.com/architecture/framework) | GCP recommendations and describes best practices
+| [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) | GCP recommendations and describes best practices
 
 
 ## Projects
@@ -65,14 +73,16 @@ If there is something you don't understand about a service or command, your go t
 ## Things you should be familiar with at the end of this phase
 
 - An understanding of best practices for cloud infrastructure (reliability, performance efficiency, security, etc.)
-- How to grant and revoke access and permissions to users and applications in your cloud of choice.
-- How to setup billing alerts/alarms, budgets, and how to use the billing tools of your cloud platform of choice.
-- How to use the object storage service of your cloud of choice and and overall understanding of other storage options that cloud offers.
-- How to deploy scalable virtual machines in the service of you cloud of choice and and overall understanding of other compute services that cloud offers.
-- How networking works for the virtual machine service of your cloud of choice (Vnets/VPCs, subnets, route tables, public and private IP addresses, vpns, gateways, etc.)
-- How to create a simple HTTP API with the serverless offering of your cloud of choice and an overall understanding of what that offering is capable of doing.
-- Deploy 2 VNets (VPCs) and a virtual machine in each one. The virtual machines must not have a public IP and must not be accessible via the internet. You must be able to ssh into one of them and  and ping the other from it.
-- How to use the CLI of your cloud of choice to accomplish all of the above.
+- How to grant and revoke access and permissions to users and applications.
+- How to setup billing alerts/alarms, budgets, and how to use the billing tools.
+- How to use the object storage service and understanding of other storage options.
+- How to deploy scalable virtual machines and an understanding of other compute services the platform offers.
+- How to setup monitoring for virtual machines and an understanding of all monitoring services the platform offers.
+- How networking works for virtual machines (Vnets/VPCs, subnets, route tables, public and private IP addresses, vpns, gateways, etc.)
+- How to create an API with the Functions as a Service offering your cloud platform has and an overall understanding of what the service is capable of.
+- Web application hosting services your cloud platform has to offer and hands on experience with one of the services. 
+- Database services your cloud platform has to offer and hands on experience with one of them.
+- How to use the CLI to create and manage cloud resources.
 
 ## What's next
 
