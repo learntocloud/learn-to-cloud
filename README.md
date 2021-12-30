@@ -37,10 +37,10 @@ Most of the resources we've listed have projects in each module/chapter. Don't l
 | Order | Topic                           | Time commitment |
 |-------|---------------------------------|-------------------|
 | [0](phase0/README.md)     | Start from zero tech experience  | optional 
-| [1](phase1/README.md)     | Linux and Networking fundamentals | 6 weeks           |
-| [2](phase2/README.md)     | Programming fundamentals | 6 weeks           |
+| [1](phase1/README.md)     | Linux and Networking fundamentals | 4 weeks           |
+| [2](phase2/README.md)     | Programming fundamentals | 4 weeks           |
 | [3](phase3/README.md)    | Cloud Platform fundamentals| 8 weeks           |
-| [4](phase4/README.md)     | DevOps fundamentals         | 4 weeks           |
+| [4](phase4/README.md)     | DevOps fundamentals         | 8 weeks           |
 | [At anytime](resources/readme.md)     | Study resources         | Up to you        |
 | [At anytime](more-topics/README.md)     | Additional resources on tech related topics        | Up to you        |
 

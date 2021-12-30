@@ -10,12 +10,15 @@ A best practice for this phase is to lookup the [man pages](https://en.wikipedia
 
 ## How to break down this phase
 
-I would suggest spending time on these three topics:
+I would suggest spending time on these three topics and this timeline:
 
-- Introduction to Linux
-- Introduction to Networking
-- Introduction to Bash
+| Order | Topic                           | Time commitment |
+|-------|---------------------------------|-------------------|
+| 1 | Introduction to Linux  | 2 weeks 
+| 2 | Introduction to Networking  | 1 week          |
+| 3 | Introduction to Bash Scripting | 1 week           |
 
+Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it.
 ## Resources
 
 | Order      | Title    | Notes     |

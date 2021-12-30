@@ -22,16 +22,17 @@ I also think it's worth reading [The Phoenix Project](https://itrevolution.com/t
 
 ## How to break down this phase
 
-I would spend my time on these two practices:
+I would suggest spending time on these topics and this timeline:
 
-- Continuous integration and continuous delivery (CI/CD)
-    - GitHub actions
-- Infrastructure as Code
-    - Terraform
-- Monitoring
-    - Prometheus
+| Order | Topic                 | Time commitment |
+|-------|-----------------------|-------------------|
+| 1 | CI/CD with GitHub Actions | 2 weeks 
+| 2 | IaC with Terraform | 2 weeks          |
+| 3 | Monitoring with Prometheus | 2 weeks     |
+| 4 | Containers with Docker | 1 week          |
+| 5 | Containers orchestration with Kubernetes | 1 week          |
 
-Every DevOps practice matters, but these are the most used on an entry/junior level. You should already be familiar with Version Control from Phase 2.
+Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it. Every DevOps practice matters, but these are the most used on an entry/junior level. You should already be familiar with Version Control from Phase 2.
 
 ## Resources
 
@@ -40,6 +41,9 @@ Every DevOps practice matters, but these are the most used on an entry/junior le
 | [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)| This guide will help you use GitHub Actions to accelerate your application development workflows.
 | [HashiCorp Learn](https://learn.hashicorp.com/terraform)| Build, change, and destroy infrastructure with Terraform. Start here to learn the basics of Terraform with your favorite cloud provider.
 | [FreeCodeCamp DevOps Engineering Course](https://youtu.be/j5Zsa_eOXeY) | Learn all about DevOps in this comprehensive course for beginners with three technical tutorials.
+| [Docker]() | 
+| [Kubernetes]() | 
+| [Prometheus]() | 
 
 
 ## Projects

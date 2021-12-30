@@ -14,10 +14,14 @@ There are several programming languages that are popular with Cloud, like Go, Ru
 
 ## How to break down this phase
 
-I would suggest spending time on these two topics:
+I would suggest spending time on these two topics and this timeline:
 
-- Introduction to Programming with Python
-- Introduction to Version Control with Git and GitHub
+| Order | Topic                           | Time commitment |
+|-------|---------------------------------|-------------------|
+| 1 | Introduction to Programming with Python  | 3 weeks 
+| 2 | Introduction to Version Control with Git and GitHub  | 1 week          |
+
+Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it. 
 
 ## Resources
 
