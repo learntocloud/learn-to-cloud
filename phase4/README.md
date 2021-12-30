@@ -12,14 +12,6 @@ Read up on what DevOps is. Each cloud platform has a suite of DevOps tools, I've
 
 I also think it's worth reading [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) it's a pretty fun read because it's a fictional story but it explains the importance of DevOps. But if you'd prefer something more like a textbook with similar ideas, check out [The DevOps Handbook](https://itrevolution.com/the-devops-handbook/).
 
-## DevOps practices
-
-- Continuous integration and continuous delivery (CI/CD)
-- Version Control
-- Infrastructure as Code
-- Configuration management
-- Monitoring (logs, metrics, traces)
-
 ## How to break down this phase
 
 I would suggest spending time on these topics and this timeline:
