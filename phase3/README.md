@@ -4,38 +4,17 @@
 
 Sometimes people are surprised to see that this phase isn't number 1, though it is the longest and for good reason. As a Cloud professional, you will live in a platform, or multiple. Everything you build, support, develop, etc, will be on a platform.
 
-## Which cloud to learn?
+Here are some popular questions we get at this phase:
 
-See [FAQ](../more-topics/FAQ.md)
-
-## A note on paid cloud learning platforms
-
-See [FAQ](../more-topics/FAQ.md)
-
-## Certifications you might want to look into
-
-We like cloud certifications, they give you a nice outline to follow in terms of learning. However we don't think you need to have every single certification out there. 
-
-One or two, plus the Linux, networking, programming, knowledge is plenty and already quite impressive when you're starting off.
-
-As you grow and want to specialize, certifications are great for up-skilling! 
-
-You have two options here:
-
-- Entry level certification: Like the [AWS Certified cloud practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) or the [Azure Fundamentals AZ-900](https://docs.microsoft.com/learn/certifications/exams/az-900).
-- Skip the entry level and go for an associate level: AWS has [three](https://aws.amazon.com/certification/) associate level certifications and Azure has I believe [four now](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate).
-
-You can skip the entry level one and take more time studying for the associate, or take them both. Up to you. All certifications have an outline available and you can leverage them to decide if you want to take them.
-
-For the associate level AWS, I would go with any of them, I've heard the [SysOps](https://aws.amazon.com/certification/certified-sysops-admin-associate/) one is the hardest. Personally I have the [AWS certified developer associate](https://aws.amazon.com/certification/certified-developer-associate/) (it expired, but hey I still studied for it so I'm counting it!) it was a fun certification to study for. For Azure I would go for the [AZ-104](https://docs.microsoft.com/learn/certifications/azure-administrator/) or [AZ-204](https://docs.microsoft.com/learn/certifications/azure-developer/). The other associate level ones are a little more specificized. You can of course take them later on :)
-
+- [Which cloud to learn?](../more-topics/FAQ.md)
+- [Are paid cloud learning platforms worth it?](../more-topics/FAQ.md)
 ## How to approach learning cloud computing
 
 Regardless of which learning material you choose, it'll have some sort of demo/hands-on aspect to it. Do it. Don't just watch/read. This isn't a Netflix show you're consuming, this is learning time. If the instructor is doing something on screen, watch it, and then try it on your own.
 
-When you are first getting started with cloud, you'll be doing everything via the UI, and that is fine for getting started, however once you're in a job, you'll be using a CLI to manage your environments. My advice here is, for every exercise you do via the UI, look up the CLI command and do it that way too. By now you should be familiar with using a command line. (Which is a big reason Linux phase and programming comes before this one)
+When you are first getting started with cloud, you'll be doing everything via the UI, and that is fine for getting started, however once you're in a job, you'll be using a CLI or Infrastructure as Code (you'll learn more about this in Phase 4) to manage your environments. My advice here is, for every exercise you do via the UI, look up the CLI command and do it that way too. By now you should be familiar with using a command line. (Which is a big reason Linux phase and programming comes before this one)
 
-Eventually you'll learn these commands and it'll become easier to remember which one to use, but this is also a great time to introduce yourself to the official documentation, [AWS](https://docs.aws.amazon.com/index.html) and [Azure](https://docs.microsoft.com/azure/?product=featured)
+Eventually you'll learn these commands and it'll become easier to remember which one to use, but this is also a great time to introduce yourself to the official documentation, [AWS](https://docs.aws.amazon.com/index.html), [Azure](https://docs.microsoft.com/azure/?product=featured) or [GCP](https://cloud.google.com/docs)
 
 If there is something you don't understand about a service or command, your go to should be the documentation. After that you can look up articles, tutorials, etc.
 
@@ -83,6 +62,21 @@ GCP | [Google Cloud Architecture Framework](https://cloud.google.com/architectur
 - Web application hosting services your cloud platform has to offer and hands on experience with one of the services. 
 - Database services your cloud platform has to offer and hands on experience with one of them.
 - How to use the CLI to create and manage cloud resources.
+
+## Certifications you might want to look into
+
+We like cloud certifications, they give you a nice outline to follow in terms of learning. However we don't think you need to have every single certification out there. One or two, plus the Linux, networking, programming, knowledge is plenty and already quite impressive when you're starting off. As you grow and want to specialize, certifications are great for up-skilling! 
+
+We recommended getting at least one certification and if you only get one it should be an associate level. You can of course get an entry level one as well.
+
+- Entry level: 
+    - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) 
+    - [Azure Fundamentals AZ-900](https://docs.microsoft.com/learn/certifications/exams/az-900).
+    - [Google Cloud Digital Leader](https://cloud.google.com/certification/cloud-digital-leader)
+- Associate level: 
+    - [AWS](https://aws.amazon.com/certification/): Any one. 
+    - [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Stick to the admin or developer, the other associate level ones are a little more specialized and you can tek them later if you want
+    - [GCP](https://cloud.google.com/certification/cloud-engineer): There is only one.
 
 ## What's next
 
