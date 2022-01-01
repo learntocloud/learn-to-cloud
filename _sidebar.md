@@ -6,3 +6,4 @@
 * [Phase 2: Programming fundamentals](phase2/README.md)
 * [Phase 3: Cloud Platform fundamentals](phase3/README.md)
 * [Phase 4: DevOps fundamentals](phase4/README.md)
+* [More projects](projects/README.md)
