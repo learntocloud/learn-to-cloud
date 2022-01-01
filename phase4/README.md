@@ -33,9 +33,9 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 | [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)| This guide will help you use GitHub Actions to accelerate your application development workflows.
 | [HashiCorp Learn](https://learn.hashicorp.com/terraform)| Build, change, and destroy infrastructure with Terraform. Start here to learn the basics of Terraform with your favorite cloud provider.
 | [FreeCodeCamp DevOps Engineering Course](https://youtu.be/j5Zsa_eOXeY) | Learn all about DevOps in this comprehensive course for beginners with three technical tutorials.
-| [Docker]() | 
-| [Kubernetes]() | 
-| [Prometheus]() | 
+| [Docker](https://youtu.be/3c-iBn73dDE) | Complete Docker Hands-on course with a lot of demos and explaining the concepts behind, so that you really understand it.
+| [Docker and Kubernetes](https://youtu.be/Wf2eSG3owoA) | Learn the fundamentals of Docker and Kubernetes in this complete hand-on course. 
+| [Prometheus](https://youtube.com/playlist?list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4) | Complete Prometheus Monitoring Tutorial
 
 
 ## Projects
