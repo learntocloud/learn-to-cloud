@@ -1,6 +1,6 @@
 # Intro
 
-![logo](img/Logo-01.png)
+![logo](img/logo.png)
 
 [![GitHub license](https://img.shields.io/github/license/learntocloud/learn-to-cloud.svg)](https://github.com/learntocloud/learn-to-cloud/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/learntocloud/learn-to-cloud.svg)](https://GitHub.com/learntocloud/learn-to-cloud/graphs/contributors/)
@@ -35,7 +35,6 @@ We tried to keep it as general and using the most popular options (in terms of c
 | [2](phase2/README.md)     | Programming fundamentals | 4 weeks           |
 | [3](phase3/README.md)    | Cloud Platform fundamentals| 8 weeks           |
 | [4](phase4/README.md)     | DevOps fundamentals         | 8 weeks           |
-| [At anytime](resources/readme.md)     | Study resources         | Up to you        |
 
 
 
