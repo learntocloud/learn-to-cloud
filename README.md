@@ -1,6 +1,6 @@
 # Intro
 
-![logo](img/logo.png)
+![logo](img/Logo-03.svg)
 
 [![GitHub license](https://img.shields.io/github/license/learntocloud/learn-to-cloud.svg)](https://github.com/learntocloud/learn-to-cloud/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/learntocloud/learn-to-cloud.svg)](https://GitHub.com/learntocloud/learn-to-cloud/graphs/contributors/)
