@@ -17,4 +17,4 @@
 - Built from first hand experience
 
 [GitHub](https://github.com/learntocloud/learn-to-cloud/)
-[Get Started](#intro)
+[Get Started](#welcome)
