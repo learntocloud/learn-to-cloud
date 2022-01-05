@@ -39,7 +39,7 @@ The two books I mentioned have several projects, DO THEM! Do not just read the t
 Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A pretty popular Linux admin task. |
  Deploy a NAS server | Checkout [FreeNAS](https://www.freenas.org/) |
  Deploy your own cloud | Checkout [NextCloud](https://nextcloud.com/) |
-  Convert video files | Checkout [ffmpeg](https://ffmpeg.org/ffmpeg.html) use it to write a script that converts a .mov file to mp4|
+  Convert video files | Checkout [ffmpeg](https://ffmpeg.org/ffmpeg.html) use it to write a script that converts a .mov file to mp4
  
 
 ## Things you should be able familiar with at the end of this phase
