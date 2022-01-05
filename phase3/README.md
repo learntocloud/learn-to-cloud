@@ -17,7 +17,8 @@ Azure |[Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/
  Multi |[Rishab's Cloud Notes](https://notes.rishab.cloud/)| Notes on LPI Essentials, Terraform, AWS, Azure, and more. 
  Multi |[Cloud Computing on FreeCodeCamp](https://www.freecodecamp.org/news/tag/cloud-computing/) | Free courses on AWS, Azure, GCP, and more.
  Google Cloud | [Google Cloud training](https://cloud.google.com/certification) | GCP has plenty of free certification content |
- AWS | [AWS training and Certification](https://aws.amazon.com/training/)| AWS official training
+ AWS | [AWS training and Certification](https://aws.amazon.com/training/)| AWS official training |
+ Azure | [John Savill](https://www.youtube.com/c/NTFAQGuy) | Many Azure training videos. 
  Azure | [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) | Azure recommendations and describes best practices
 AWS | [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc) | AWS recommendations and describes best practices
 GCP | [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) | GCP recommendations and describes best practices
