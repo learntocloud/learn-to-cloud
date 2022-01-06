@@ -39,6 +39,7 @@ You might be thinking that 4 weeks isn't a lot of time to cover all these, and y
 | Title                                                        | Resource                                                                          |
 | :----------------------------------------------------------- | --------------------------------------------------------------------------------- |
 [Deploy an App to Azure with ARM](https://github.com/SoniaConti/ContosoFinance-Demo) | ARM is an IaC tool used with Azure
+|Crypto-dot-net Ticket Dockerized](https://github.com/rishabkumar7/crypto-ticker-dotnet) | We Dockerize the crypto-dot-net ticker project that we built in Phase 3
 
 
 ## Things you should be familiar with at the end of this phase
