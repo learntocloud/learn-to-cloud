@@ -5,18 +5,19 @@
 DevOps is all about getting your solutions to run efficiently. It's not specific to Cloud, as you can implement DevOps practices on-prem too.
 
 First off, read some stuff about what DevOps is. Each cloud platform has a suite of DevOps tools, I've linked a few articles here.
+DevOps is a model, where development and operations teams are no longer isolated. These two groups are converged into a single group where the engineers work across the whole application lifecycle, from development and test to deployment to operations, and foster a scope of abilities not restricted to a single function.
 
 - [Microsoft - What is DevOps](https://azure.microsoft.com/overview/what-is-devops/#overview)
 - [AWS - What is DevOps](https://aws.amazon.com/devops/what-is-devops/)
 - [IBM - A DevOps complete guide](https://www.ibm.com/cloud/learn/devops-a-complete-guide)
 
-I also think it's worth reading [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) it's a pretty fun read because it's a fictional story but it explains the importance of DevOps. But if you'd prefer something more like a textbook with similiar ideas, check out [The DevOps Handbook](https://itrevolution.com/the-devops-handbook/).
+I also think it's worth reading [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) it's a pretty fun read because it's a fictional story but it explains the importance of DevOps. But if you'd prefer something more like a textbook with similar ideas, check out [The DevOps Handbook](https://itrevolution.com/the-devops-handbook/).
 
 ## DevOps practices
 
 - Continuous integration and continuous delivery (CI/CD)
-- Version Control
-- Infrastructure as Code
+- Version Control System (VCS)
+- Infrastructure as Code IaC
 - Configuration management
 - Monitoring (logs, metrics, traces)
 
