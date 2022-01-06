@@ -8,27 +8,34 @@ In the previous step you were introduced and wrote some Bash scripts. Bash scrip
 
 I think now it would be beneficial to learn some more programming skills.
 
-For this, I would go with [Python](https://www.python.org/). It's a very popular language and there are many quality free resources out there to learn it and it's one of the simpler languages to get started with.
+There are several programming languages that are popular with Cloud, like Go, Rust, .NET, JavaScript, but since you are a beginner,  I would go with [Python](https://www.python.org/). It's a very popular language and there are many quality free resources out there to learn it and it's one of the simpler languages to get started with. 
 
-Take some time now to create a [GitHub](https://github.com/) account if you don't already have one. It'll be your code portfolio and you should put as many projects as you'd like on there.
+[Git](https://git-scm.com/) is the most popular version control tool and one of the DevOps practices. It is used to manage and share your code. GitHub is one of the most popular Git repository hosting services. Take some time now to create a [GitHub](https://github.com/) account if you don't already have one. It'll be your code portfolio and you should put as many projects as you'd like on there.
+
+## How to break down this phase
+
+I would suggest spending time on these two topics and this timeline:
+
+| Order | Topic                           | Time commitment |
+|-------|---------------------------------|-------------------|
+| 1 | Introduction to Programming with Python  | 3 weeks 
+| 2 | Introduction to Version Control with Git and GitHub  | 1 week          |
+
+Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it. 
 
 ## Resources
 
 
 | Order | Title                                                                        | Notes                                                                                       |
 | :---- | :--------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Optional     | [An introduction to Programming](https://docs.microsoft.com/en-us/learn/modules/web-development-101-introduction-programming/)                      | A great Microsoft Learn module on the topic.    |
-| 1     | [Python Crash Course](https://ehmatthes.github.io/pcc/)                      | Another fun book to follow, also there is an Appendix in there on Git which is great!       |
-| 1     | [An introduction to Python](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)    | A short intro to Python in case you are already familiar with programming                                                                 |
-| 1     | [Automate the boring stuff with Python](https://automatetheboringstuff.com/) | I haven't fully finished this book, but it can be used to learn Python too                  |
+| Optional     | [An introduction to Programming](https://docs.microsoft.com/learn/modules/web-development-101-introduction-programming/)                      | A great Microsoft Learn module on the topic.    |
+| 1     | [Python Crash Course](https://ehmatthes.github.io/pcc/)                      | A great Python book, also there is an Appendix in there on Git which is great!     
 | 1     | [FreeCodeCamp Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw)     | One of the many amazing resources provided by [FreeCodeCamp](https://www.freecodecamp.org/) |
-| 2     | [An introduction to Git](https://docs.microsoft.com/en-us/learn/modules/intro-to-git/)    | You'll need Git, learn it!                                                                  |
-| 2     | [Git branching](https://learngitbranching.js.org/)                           | A great resource to learn Git branching!                                                    |
+1 | [Take your first steps with Python](https://docs.microsoft.com/learn/paths/python-first-steps/) | A 4 hour learning path introducing you to Python |
+1 | [Build Real World Applications with Python](https://docs.microsoft.com/learn/paths/python-language/) | A 2 hour hands on Microsoft Learn resource
+| 2     | [An introduction to Git](https://docs.microsoft.com/learn/modules/intro-to-git/)    | A great resource to learn Git by Microsoft Learn                                                                |
+| 2     | [FreeCodeCamp Git course](https://youtu.be/RGOj5yH7evk)                           | A great resource to learn Git by FreeCodeCamp                                                    |
 
-
-You can follow any one of the python resources, you don't have to do them all, but definitely pair it with a Git one. [Git](https://git-scm.com/) is the most popular version control tool and one of the DevOps practices.
-
-As you work through these resources, make sure to create the project and demos they show on your own machine and even push them to your GitHub profile. Just make sure to use a [README](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes) to document your project.
 
 ## Projects
 
@@ -41,19 +48,20 @@ As you work through these resources, make sure to create the project and demos t
  
 ## Things you should be familiar with at the end of this phase
 
-- Variables
-- Functions (defining them, function arguments)
-- When and how to use arrays, lists, dictionaries.
-- Basic data types and their uses (strings, booleans etc)
-- Iteration (for loops, etc)
-- An understanding of why testing your code is and it's importance (try to implement a simple unit test with a project you do)
-- Classes and OOP concepts.
-- How to create a git repo locally
-- How to create a GitHub repo and clone it locally.
-- How to create a git branch 
-- How too add changes to a git branch
-- How to merge Git changes
-- How to document code with a README
+- Programming:
+    - Variables
+    - Functions (defining them, function arguments)
+    - When and how to use arrays, lists, dictionaries.
+    - Basic data types and their uses (strings, booleans etc)
+    - Iteration (for loops, etc)
+    - Classes and OOP concepts.
+- Git
+    - How to create a Git repo locally
+    - How to create a GitHub repo and clone it locally.
+    - How to create a git branch 
+    - How too add changes to a git branch
+    - How to merge Git changes
+    - How to document code with a README
 
 ## Certifications you might want to look into
 
