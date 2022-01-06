@@ -46,6 +46,13 @@ GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchalle
 
 ## Things you should be familiar with at the end of this phase
 
+ | Title                                                                   | Resources                                                                                                   |
+ | :---------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
+ | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)             | Build your resume with AWS services.                                                                        |
+ | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)            | Build your resume with Azure Services   |
+ | [Azure Resume API](https://github.com/rishabkumar7/AzureResumeAPI)      | Build a resume API endpoint utilizing Azure Functions   |
+ | [Crypto-dot-net Ticker](https://github.com/madebygps/crypto-ticker-dotnet) | A website that provides crypto price information |
+
 - An understanding of best practices for cloud infrastructure (reliability, performance efficiency, security, cost optimization, etc.)
 - How to grant and revoke access and permissions to users and applications.
 - How to setup billing alerts/alarms, budgets, and how to use the billing tools.
@@ -57,7 +64,6 @@ GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchalle
 - Web application hosting services your cloud platform has to offer and hands on experience with one of the services. 
 - Database services your cloud platform has to offer and hands on experience with one of them.
 - How to use the CLI to create and manage cloud resources.
-
 ## Certifications you might want to look into
 
 We like cloud certifications, they give you a nice outline to follow in terms of learning. However we don't think you need to have every single certification out there. One or two, plus the Linux, networking, programming, knowledge is plenty and already quite impressive when you're starting off. As you grow and want to specialize, certifications are great for up-skilling! 

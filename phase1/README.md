@@ -27,7 +27,8 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 | 1   | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. |
 | 2   | [FreeCodeCamp Computer Networking Course](https://youtu.be/qiQR5rTSshw) | This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks.|
 | 3   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!|
-
+| 3   | [Linux Journey](https://linuxjourney.com/) | Interactive way to learn Linux and Linux CLI!|
+| Optional   | [Computer Networking Course - Network Engineering](https://youtu.be/qiQR5rTSshw) | This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks. |
 
 The two books I mentioned have several projects, DO THEM! Do not just read the theory! If there is a concept you don't understand, look it up, don't limit yourself to the resources I am sharing here.
 

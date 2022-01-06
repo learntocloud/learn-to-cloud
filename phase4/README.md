@@ -4,6 +4,8 @@
 
 DevOps is all about getting your solutions to run efficiently. It's not specific to Cloud, as you can implement DevOps practices on-prem as well.
 
+DevOps is a model, where development and operations teams are no longer isolated. These two groups are converged into a single group where the engineers work across the whole application lifecycle, from development and test to deployment to operations, and foster a scope of abilities not restricted to a single function.
+
 Read up on what DevOps is. Each cloud platform has a suite of DevOps tools, I've linked a few articles here:
 
 - [Microsoft - What is DevOps](https://azure.microsoft.com/overview/what-is-devops/#overview)
@@ -14,6 +16,11 @@ I also think it's worth reading [The Phoenix Project](https://itrevolution.com/t
 
 ## How to break down this phase
 
+- Continuous integration and continuous delivery (CI/CD)
+- Version Control System (VCS)
+- Infrastructure as Code (IaC)
+- Configuration management
+- Monitoring (logs, metrics, traces)
 I would suggest spending time on these topics and this timeline:
 
 | Order | Topic                 | Time commitment |
@@ -43,6 +50,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 | Title                                                        | Resource                                                                          |
 | :----------------------------------------------------------- | --------------------------------------------------------------------------------- |
 [Deploy an App to Azure with ARM](https://github.com/SoniaConti/ContosoFinance-Demo) | ARM is an IaC tool used with Azure
+|[Crypto-dot-net Ticket Dockerized](https://github.com/rishabkumar7/crypto-ticker-dotnet) | We Dockerize the crypto-dot-net ticker project that we built in Phase 3
 | [DevOps-Exercises](https://github.com/bregman-arie/devops-exercises) | This repo [devops-exercises](https://github.com/bregman-arie/devops-exercises) contains questions and exercises on various technical topics related to DevOps and SRE |
 | [DevOps Journey Using Azure DevOps](https://github.com/thomast1906/DevOps-Journey-Using-Azure-DevOps) | This tutorial/lab setup is going to take you through a DevOps journey using Azure DevOps. From setting up your pipeline to deploying an application to your Azure Kubernetes cluster! |
 | [DevOps the Hardway - Azure](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure) | This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to Azure. | 
