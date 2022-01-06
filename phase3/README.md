@@ -60,6 +60,7 @@ If there is something you don't understand about a service or command, your go t
  | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)             | Build your resume with AWS services.                                                                        |
  | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)            | Build your resume with Azure Services   |
  | [Azure Resume API](https://github.com/rishabkumar7/AzureResumeAPI)      | Build a resume API endpoint utilizing Azure Functions   |
+ | [Crypto-dot-net Ticker](https://github.com/madebygps/crypto-ticker-dotnet) | A website that provides crypto price information |
 
 
 ## Things you should be familiar with at the end of this phase
