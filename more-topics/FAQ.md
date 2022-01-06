@@ -2,13 +2,12 @@
 
 ## Which cloud to learn?
 
-When you're getting started, spending too much pick a Cloud Platform is a waste of time and everyday you'll find people arguing about which one is better online.
+Everyday you'll find people arguing about which one is better online.
 
 Checkout job listings in your area and pick the one with the most results. PICK ONE AND STICK WITH IT. The fundamentals are the same and our advice is the same.
 
 Whichever cloud you pick, make sure you create an account and setup some budgets and alerts so you don't wake up to surprises on your bill. [Here](https://youtu.be/FZD0s7KE83Y) is how to do it in the Azure portal, and here [AWS](https://www.youtube.com/watch?v=fvz0cphjHjg).
 
-![diagram](../img/which.png)
 
 ## Are paid cloud learning platforms worth it?
 
