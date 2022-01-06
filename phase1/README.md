@@ -16,6 +16,7 @@ A best practice for this phase is to lookup the [man pages](https://en.wikipedia
 | 1   | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. |
 | 2   | [Introduction to Networking](https://www.youtube.com/watch?v=cNwEVYkx2Kk&list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8) | Great YouTube playlist of basic networking concepts. |
 | 3   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!|
+| 3   | [Linux Journey](https://linuxjourney.com/) | Interactive way to learn Linux and Linux CLI!|
 | Optional   | [Computer Networking Course - Network Engineering](https://youtu.be/qiQR5rTSshw) | This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks. |
 
 The two books I mentioned have several projects, DO THEM! Do not just read the theory! If there is a concept you don't understand, look it up, don't limit yourself to the resources I am sharing here.
