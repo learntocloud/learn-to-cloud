@@ -45,7 +45,7 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
   
  Title    | Resource     |
  :---------- | :----------- |
- Create directory "Linux" & Create "myfile.txt" inside "Linux" directory | Checkout [mkdir](https://phoenixnap.com/kb/create-directory-linux-mkdir-command), Checkout [touch](https://www.javatpoint.com/linux-touch) |
+ Create directory "Linux" & Create "myfile.txt" inside "Linux" directory | Checkout [mkdir](https://phoenixnap.com/kb/create-directory-linux-mkdir-command), [touch](https://www.javatpoint.com/linux-touch) |
  
   
  
