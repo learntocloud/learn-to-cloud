@@ -40,6 +40,16 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
  Deploy a NAS server | Checkout [FreeNAS](https://www.freenas.org/) |
  Deploy your own cloud | Checkout [NextCloud](https://nextcloud.com/) |
   Convert video files | Checkout [ffmpeg](https://ffmpeg.org/ffmpeg.html) use it to write a script that converts a .mov file to mp4
+  
+## Simple Linux tasks
+  
+ Title    | Resource     |
+ :---------- | :----------- |
+ 
+ Create directory "Linux" & Create "myfile.txt" inside "Linux" directory | Checkout [FreeNAS](https://www.freenas.org/) |
+ Deploy your own cloud | Checkout [NextCloud](https://nextcloud.com/) |
+  Convert video files | Checkout [ffmpeg](https://ffmpeg.org/ffmpeg.html) use it to write a script that converts a .mov file to mp4
+  
  
 
 ## Things you should be able familiar with at the end of this phase
