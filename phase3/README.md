@@ -40,18 +40,14 @@ Platform | Title | Description |
 ---------|-------|-------------|
 AWS | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)| Build your resume with AWS services.| 
 Azure | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)| Build your resume with Azure Services   |  
-GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Build your resume with GCP services |       
- 
+GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Build your resume with GCP services |
+Azure | [Azure Resume API](https://github.com/rishabkumar7/AzureResumeAPI)      | Build a resume API endpoint utilizing Azure Functions   |
+Azure | [Crypto .Net Ticker](https://github.com/madebygps/crypto-ticker-dotnet) | Build a website that display crypto data with Azure functions and .NET |       
+  
 
 
 ## Things you should be familiar with at the end of this phase
 
- | Title                                                                   | Resources                                                                                                   |
- | :---------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
- | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)             | Build your resume with AWS services.                                                                        |
- | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)            | Build your resume with Azure Services   |
- | [Azure Resume API](https://github.com/rishabkumar7/AzureResumeAPI)      | Build a resume API endpoint utilizing Azure Functions   |
- | [Crypto-dot-net Ticker](https://github.com/madebygps/crypto-ticker-dotnet) | A website that provides crypto price information |
 
 - An understanding of best practices for cloud infrastructure (reliability, performance efficiency, security, cost optimization, etc.)
 - How to grant and revoke access and permissions to users and applications.
