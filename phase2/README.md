@@ -50,24 +50,25 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 
 ### Programming
 
-    - Variables
-    - Data types
-    - Comments
-    - Functions
-    - OOP 
-    - Lists
-    - Modules
-    - Dictionaries
-    - Loops
-    - Control statements
-    - Exceptions
+- Variables
+- Data types
+- Comments
+- Functions
+- OOP 
+- Lists
+- Modules
+- Dictionaries
+- Loops
+- Control statements
+- Exceptions
 ### Git
-    - How to create a Git repo locally
-    - How to create a GitHub repo and clone it locally.
-    - How to create a git branch 
-    - How too add changes to a git branch
-    - How to merge Git changes
-    - How to document code with a README
+
+- How to create a Git repo locally
+- How to create a GitHub repo and clone it locally.
+- How to create a git branch 
+- How too add changes to a git branch
+- How to merge Git changes
+- How to document code with a README
 
 ## Certifications you might want to look into
 
