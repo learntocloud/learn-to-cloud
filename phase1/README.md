@@ -42,47 +42,47 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
 
 ### Commands
 
-- Navigate with the `cd` command.
-- How to list the contents of a directory and using the `ls` command.
-- Create, copy, move, rename, directories and files with `mkdir`, `cp`, `rm`, and `touch` commands.
-- Find things with `locate`, `whereis`, `which`, and `find` commands.
-- Understand how to learn more about commands with the `which`, `man`, and `--help` commands.
-- Familiar with finding logs details in `/var/log`
-- How to display the contents of a file with `cat`, `less`, `more`, `tail`, `head`.
-- Filtering with `grep` and `sed`.
-- Redirection of standard input, output and error with `>` operator and `tee` command.
-- How to use pipelines with the `|` operator.
-- Manipulate files with `nano` or `vim`.
-- Install and uninstall packages. Depends on distro, debian based use `apt`.
-- Control permissions with `chown`, `chgrp`, `chmod` commands.
-- Creating users and the `sudo` command.
-- Process management with `ps`, `top`, `nice`, `kill`
-- Manage environment aud user defined variables with `env`, `set`, `export` commands.
-- Add directories to your `PATH`.
-- Compression and archiving with `tar`, `gzip`, `gunzip`.
-- How to access a Linux server with `ssh`.
+    - Navigate with the `cd` command.
+    - How to list the contents of a directory and using the `ls` command.
+    - Create, copy, move, rename, directories and files with `mkdir`, `cp`, `rm`, and `touch` commands.
+    - Find things with `locate`, `whereis`, `which`, and `find` commands.
+    - Understand how to learn more about commands with the `which`, `man`, and `--help` commands.
+    - Familiar with finding logs details in `/var/log`
+    - How to display the contents of a file with `cat`, `less`, `more`, `tail`, `head`.
+    - Filtering with `grep` and `sed`.
+    - Redirection of standard input, output and error with `>` operator and `tee` command.
+    - How to use pipelines with the `|` operator.
+    - Manipulate files with `nano` or `vim`.
+    - Install and uninstall packages. Depends on distro, debian based use `apt`.
+    - Control permissions with `chown`, `chgrp`, `chmod` commands.
+    - Creating users and the `sudo` command.
+    - Process management with `ps`, `top`, `nice`, `kill`
+    - Manage environment aud user defined variables with `env`, `set`, `export` commands.
+    - Add directories to your `PATH`.
+    - Compression and archiving with `tar`, `gzip`, `gunzip`.
+    - How to access a Linux server with `ssh`.
 
 ### Networking
 
-Concepts you should be familiar with.
+  Concepts you should be familiar with.
 
-- OSI Model
-- IP Addresses
-- MAC Addresses
-- Routing and Switching
-- TCP/IP
-- TCP and UDP
-- DNS
-- VPN tunneling
-- TLS and SSL
+    - OSI Model
+    - IP Addresses
+    - MAC Addresses
+    - Routing and Switching
+    - TCP/IP
+    - TCP and UDP
+    - DNS
+    - VPN tunneling
+    - TLS and SSL
 ### Bash Scripting
 
-- What is a shell?
-- What is Bash?
-- Why does a script have to start with #!?
-- What is a variable and how to use them
-- How to accept user input
-- How to execute a script
+    - What is a shell?
+    - What is Bash?
+    - Why does a script have to start with #!?
+    - What is a variable and how to use them
+    - How to accept user input
+    - How to execute a script
 
 ## Certifications you might want to look into 
 
