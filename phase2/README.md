@@ -51,11 +51,16 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 ### Programming
 
     - Variables
-    - Functions (defining them, function arguments)
-    - When and how to use arrays, lists, dictionaries.
-    - Basic data types and their uses (strings, booleans etc)
-    - Iteration (for loops, etc)
-    - Classes and OOP concepts.
+    - Data types
+    - Comments
+    - Functions
+    - OOP 
+    - Lists
+    - Modules
+    - Dictionaries
+    - Loops
+    - Control statements
+    - Exceptions
 ### Git
     - How to create a Git repo locally
     - How to create a GitHub repo and clone it locally.
