@@ -27,4 +27,5 @@ Title | Description | Author |
 ------|-------------|--------|
 [GCP Architecture Center](https://cloud.google.com/architecture)|   Architectures, diagrams, design patterns, guidance, and best practices for building or migrating your workloads on Google Cloud.  | GCP
 [GCP Codelabs](https://codelabs.developers.google.com/cloud) |  Learn about Google Cloud Platform by completing codelabs and coding challenges! | GCP
-[GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Build your resume with GCP services |       [Mattias Anderson](https://twitter.com/MattiasEh)
+[GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Build your resume with GCP services |       [Mattias Anderson](https://twitter.com/MattiasEh) |
+[Google Cloud Skills Boost](https://www.cloudskillsboost.google/) | Choose your path, build your skills, and validate your GCP knowledge. | GCP
