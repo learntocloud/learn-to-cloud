@@ -25,7 +25,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 | Linux   | [Linux Journey](https://linuxjourney.com/) | Interactive way to learn Linux and Linux CLI!|
 | Networking   | [FreeCodeCamp Computer Networking Course](https://youtu.be/qiQR5rTSshw) | This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks.|
 | Bash Scripting   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!|
-
+| Bash commands | [Beginner's crash course to Linux Bash](https://youtu.be/qALScO3E61I) | an hour video made by Gwyn
 
 ## Projects
 
