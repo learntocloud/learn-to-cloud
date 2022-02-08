@@ -19,6 +19,7 @@ Title | Description | Author |
 [Azure Citadel](https://www.azurecitadel.com/) | Many hands-on labs with Azure | [Azure Citadel](https://www.azurecitadel.com/) 
 [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/browse/) |   Architecture diagrams and technology descriptions for reference architectures, real world examples of cloud architectures, and solution ideas for common workloads on Azure.   | Microsoft
 [Azure networking labs by Binal Shah](https://github.com/binals/azurenetworking)|  This set of Azure Networking labs are simplified to demonstrate a single concept in each lab, using Azure portal or Azure CLI. | [Binal Shah](https://github.com/binals)
+[Azure Pet Store by Chris Tremblay](https://chtrembl.github.io/azure-cloud/petstore/)|  Build a Pet store using Azure | [Chris Tremblay](https://github.com/chtrembl)
 
 
 ## GCP Projects
