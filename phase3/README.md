@@ -11,18 +11,18 @@ Sometimes people are surprised to see that this phase isn't number 1, though it 
 ## Resources
 
 
-| Cloud Platform | Title                                                                                                 | Notes                                                                                                                                                                                         |
- :---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-Azure |[Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/)                       | Microsoft Learn has free content for many tech topics including all Azure certifications                                                                                                          |
- Multi |[Rishab's Cloud Notes](https://notes.rishab.cloud/)| Notes on LPI Essentials, Terraform, AWS, Azure, and more. 
- Multi |[Cloud Computing on FreeCodeCamp](https://www.freecodecamp.org/news/tag/cloud-computing/) | Free courses on AWS, Azure, GCP, and more.
- Google Cloud | [Google Cloud training](https://cloud.google.com/certification) | GCP has plenty of free certification content |
- AWS | [AWS training and Certification](https://aws.amazon.com/training/)| AWS official training |
- AWS | [GPS's AWS CDA Notes](https://1drv.ms/b/s!AlqgVriKH8xEhLtNpzoMYToI8lb8Tg) | These are the notes I took when studying for AWS CDA.
- Azure | [John Savill](https://www.youtube.com/c/NTFAQGuy) | Many Azure training videos. 
- Azure | [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) | Azure recommendations and describes best practices
-AWS | [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc) | AWS recommendations and describes best practices
-GCP | [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) | GCP recommendations and describes best practices
+| Cloud Platform | Title  | Notes  |
+|:-------------- | ------ | ------ |
+AWS | [AWS training and Certification](https://aws.amazon.com/training/)| AWS official training |
+AWS | [GPS's AWS CDA Notes](https://1drv.ms/b/s!AlqgVriKH8xEhLtNpzoMYToI8lb8Tg) | These are the notes I took when studying for AWS CDA.
+AWS | [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected) | AWS recommendations and describes best practices |
+Azure | [John Savill](https://www.youtube.com/c/NTFAQGuy) | Many Azure training videos. |
+Azure | [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) | Azure recommendations and describes best practices |
+Azure |[Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/) | Microsoft Learn has free content for many tech topics including all Azure certifications |
+GCP | [Google Cloud training](https://cloud.google.com/certification) | GCP has plenty of free certification content |
+GCP | [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) | GCP recommendations and describes best practices |
+Multi |[Rishab's Cloud Notes](https://notes.rishab.cloud/)| Notes on LPI Essentials, Terraform, AWS, Azure, and more. |
+Multi |[Cloud Computing on FreeCodeCamp](https://www.freecodecamp.org/news/tag/cloud-computing/) | Free courses on AWS, Azure, GCP, and more. |
 
 
 Regardless of which learning material you choose, it'll have some sort of demo/hands-on aspect to it. Do it. Don't just watch/read. This isn't a Netflix show you're consuming, this is learning time. 
