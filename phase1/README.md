@@ -2,8 +2,7 @@
 
 ## How does this phase apply to Cloud?
 
-The cloud is a bunch of Linux Servers networked together. Learning the fundamentals of how networking works, and how to interact with these servers via commands, and automating those commands via a script, is what this phase is about. If you're already a Linux admin or network engineer, you can apply your skills to the cloud. 
-
+The cloud is a bunch of Linux Servers networked together. Learning the fundamentals of how networking works, and how to interact with these servers via commands, and automating those commands via a script, is what this phase is about. If you're already a Linux admin or network engineer, you can apply your skills to the cloud.
 
 ## How to break down this phase
 
@@ -11,11 +10,12 @@ I would suggest spending time on these three topics and this timeline:
 
 | Order | Topic                           | Time commitment |
 |-------|---------------------------------|-------------------|
-| 1 | Introduction to Linux Commands | 2 weeks 
+| 1 | Introduction to Linux Commands | 2 weeks
 | 2 | Introduction to Networking  | 1 week          |
 | 3 | Introduction to Bash Scripting | 1 week           |
 
 Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it.
+
 ## Resources
 
 | Topic      | Title    |  Notes     |
@@ -24,6 +24,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 | Linux   | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. |
 | Linux   | [Linux Journey](https://linuxjourney.com/) | Interactive way to learn Linux and Linux CLI!|
 | Networking   | [FreeCodeCamp Computer Networking Course](https://youtu.be/qiQR5rTSshw) | This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks.|
+| Introduction to Bash  | [Linux Bash Course by GPS](https://youtu.be/qALScO3E61I) | An introduction to Bash!|
 | Bash Scripting   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!|
 | Bash commands | [Beginner's crash course to Linux Bash](https://youtu.be/qALScO3E61I) | an hour video made by Gwyn
 
@@ -36,7 +37,6 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
  Deploy a NAS server | Checkout [FreeNAS](https://www.freenas.org/) |
  Deploy your own cloud | Checkout [NextCloud](https://nextcloud.com/) |
   Convert video files | Checkout [ffmpeg](https://ffmpeg.org/ffmpeg.html) use it to write a script that converts a .mov file to mp4
- 
 
 ## Things you should be able familiar with at the end of this phase
 
@@ -75,6 +75,7 @@ Concepts you should be familiar with.
 - DNS
 - VPN tunneling
 - TLS and SSL
+
 ### Bash Scripting
 
 - What is a shell?
@@ -84,11 +85,11 @@ Concepts you should be familiar with.
 - How to accept user input
 - How to execute a script
 
-## Certifications you might want to look into 
+## Certifications you might want to look into
 
 There are several Linux certifications and you can chose to study for any of them really, but a lot of them cover WAY more than what you need to know for a solid foundation and are more focused on Linux administration.
 
-- [LPI essentials](https://www.lpi.org/our-certifications/linux-essentials-overview) 
+- [LPI essentials](https://www.lpi.org/our-certifications/linux-essentials-overview)
 - [RedHat](https://www.redhat.com/en/services/training-and-certification)
 - [Linux Foundation](https://training.linuxfoundation.org/certification-catalog/)
 - [Oracle](https://education.oracle.com/oracle-certification-path/pFamily_358)
