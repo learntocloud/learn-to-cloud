@@ -23,7 +23,18 @@ We tried to keep it as general and using the most popular options (in terms of c
 | [3](phase3/README.md)    | Cloud Platform fundamentals| 8 weeks           |
 | [4](phase4/README.md)     | DevOps fundamentals         | 8 weeks           |
 
-
+```mermaid
+flowchart LR;
+A(How to learn cloud computing)-->B{Are you comfortable with Linux fundamentals?};
+B--Yes-->C{Can you script or code?};
+B--No-->F[Time to learn some Linux!];
+C--Yes-->D{Have you done the cloud resume challenge?};
+C--NO-->E[Learn fundamentals of programming]
+D--YES-->H{Are you comfortable with DevOps practices?};
+D--NO-->G[Do the Azure/AWS/GCP resume challenge];
+H--YES-->I[Start applying to roles!];
+H--NO-->J[Learn VC, CI/CD, and IaC];
+```
 
 
 ### [Go to Phase 1: Linux and Networking fundamentals](phase1/README.md)
