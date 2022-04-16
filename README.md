@@ -23,7 +23,7 @@ We tried to keep it as general and using the most popular options (in terms of c
 | [3](phase3/README.md)    | Cloud Platform fundamentals| 8 weeks           |
 | [4](phase4/README.md)     | DevOps fundamentals         | 8 weeks           |
 
-```mermaid
+```mermaid-example
 flowchart LR;
 A(How to learn cloud computing)-->B{Are you comfortable with Linux fundamentals?};
 B--Yes-->C{Can you script or code?};
