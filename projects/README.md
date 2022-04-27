@@ -16,6 +16,7 @@ Title | Description | Author
 Title | Description | Author |
 ------|-------------|--------|
 [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)  | Build your resume with Azure Services   |  [GPS](https://twitter.com/madebygps)
+[Azure Resume API](https://github.com/rishabkumar7/AzureResumeAPI)  | Build an API for resume with Azure Functions   |  [Rishab Kumar](https://twitter.com/rishabk7)
 [Azure Citadel](https://www.azurecitadel.com/) | Many hands-on labs with Azure | [Azure Citadel](https://www.azurecitadel.com/) 
 [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/browse/) |   Architecture diagrams and technology descriptions for reference architectures, real world examples of cloud architectures, and solution ideas for common workloads on Azure.   | Microsoft
 [Azure networking labs by Binal Shah](https://github.com/binals/azurenetworking)|  This set of Azure Networking labs are simplified to demonstrate a single concept in each lab, using Azure portal or Azure CLI. | [Binal Shah](https://github.com/binals)
