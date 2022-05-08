@@ -44,7 +44,7 @@ Azure | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)| Build your
 GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Build your resume with GCP services |
 Azure | [Azure Resume API](https://github.com/rishabkumar7/AzureResumeAPI)      | Build a resume API endpoint utilizing Azure Functions   |
 Azure | [Crypto .Net Ticker](https://github.com/madebygps/crypto-ticker-dotnet) | Build a website that display crypto data with Azure functions and .NET |       
-  
+AWS | [Cloud Is Free](https://cloudisfree.com) | Set up practical projects through an interactive and detailed documentation, while taking advantage of the Free Tier from AWS.
 
 
 ## Things you should be familiar with at the end of this phase
