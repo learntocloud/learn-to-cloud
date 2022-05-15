@@ -73,7 +73,7 @@ We recommended getting at least one certification and if you only get one it sho
     - [Google Cloud Digital Leader](https://cloud.google.com/certification/cloud-digital-leader)
 - Associate level: 
     - [AWS](https://aws.amazon.com/certification/): Any one. 
-    - [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Stick to the admin or developer, the other associate level ones are a little more specialized and you can tek them later if you want
+    - [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Stick to the admin or developer, the other associate level ones are a little more specialized and you can take them later if you want.
     - [GCP](https://cloud.google.com/certification/cloud-engineer): There is only one.
 
 ## What's next
