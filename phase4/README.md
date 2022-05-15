@@ -2,9 +2,10 @@
 
 ## How does this phase apply to Cloud?
 
-DevOps is all about getting your solutions to run efficiently. It's not specific to Cloud, as you can implement DevOps practices on-prem as well.
+DevOps is all about getting your solutions to run efficiently from deployment to updates.
+It's not specific to Cloud, as you can implement DevOps practices on-prem as well.
 
-DevOps is a model, where development and operations teams are no longer isolated. These two groups are converged into a single group where the engineers work across the whole application lifecycle, from development and test to deployment to operations, and foster a scope of abilities not restricted to a single function.
+DevOps is a culture, where development and operations teams are no longer isolated. These two groups are converged into a single group where the engineers work across the whole application lifecycle, from development and test to deployment to operations, and foster a scope of abilities not restricted to a single function.
 
 Read up on what DevOps is. Each cloud platform has a suite of DevOps tools, I've linked a few articles here:
 
@@ -58,19 +59,17 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 
 ## Things you should be familiar with at the end of this phase
 
-- Working knowledge of at least one continuous integration tool (Github Actions, Jenkins, etc)
-- An understanding of infrastructure as code (why you'd use it, etc).
-- An understanding of containerization (why/when you'd need it / use containers)
-- An understanding of the practice of Continuous Integration (why it's needed) and have at least one project in your github deployed with a pipeline.
-- An appreciation for the ideas behind: "immutable infrastructure"
-- An appreciation for monitoring and the basic ideas of logs, metrics, traces
-- An appreciation for "declarative and imperative infrastructure as code"
+
 - Be able to explain each DevOps practice
-  - What each one accomplishes
-  - Why each one matters
+  - Why each one matters.
+  - What each one accomplishes.
+  - Most popular tools for each practice.
 - Hands on experience with
   - CI/CD
   - IaC
+  - Version control
+- An understanding for infrastructure and application monitoring and the basic ideas of logs, metrics, traces
+
 
 ## Certifications you might want to look into
 
