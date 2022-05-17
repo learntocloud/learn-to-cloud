@@ -19,7 +19,7 @@ Nós tentamos deixar isso o mais genérico e também utilizando as opções mais
 | Ordem | Tópico                           | Comprometimento necessário |
 |-------|----------------------------------|----------------------------|
 | [0](pt/phase0/README.md)     | Comece com zero experiência em tecnologia  | opcional 
-| [1](pt/phase1/README.md)     | Fundamentos de Linux, Redes, and Scripts | 4 semanas           |
+| [1](pt/phase1/README.md)     | Fundamentos de Linux, Redes, e Scripts | 4 semanas           |
 | [2](pt/phase2/README.md)     | Fundamentos de programação  | 4 semanas           |
 | [3](pt/phase3/README.md)     | Fundamentos de Cloud Platform| 8 semanas           |
 | [4](pt/phase4/README.md)     | Fundamentos de DevOps  | 8 semanas           |
