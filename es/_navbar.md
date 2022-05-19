@@ -1,10 +1,10 @@
 <!-- _navbar.md -->
 
-* Socials
+* Redes Sociales
 
   * [Twitter](https://twitter.com/learntocloud)
 
-* [Contributors](Contributors.md)
+* [Contribuyentes](../Contributors.md)
 
 * [En](/)
 
