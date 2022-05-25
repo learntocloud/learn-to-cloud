@@ -1,37 +1,37 @@
 # Fase 0: Começando do zero
 
-## How does this phase apply to Cloud?
+## Como essa fase se aplica à Nuvem?
 
-If you feel like you have zero tech experience but you want to get into Cloud Computing. This phase is for you. If you are already in tech and switching to cloud, 
-[Go to Phase 1: Linux and Networking fundamentals](../phase1/README.md).
-
-
-Let's get started. 
-
-1. I think a good first step is understanding the fundamentals of IT and [this video](https://youtu.be/awLnur5Yt9o) is a fantastic overview.
-
-2. The above video should give you some understanding of the following but let's dive in a little more and understand what some of the fundamentals of Cloud are.
-
-   - [What is Linux](https://youtu.be/PwugmcN1hf8)
-   - [What is Networking](https://youtu.be/3QhU9jd03a0)
-   - [What is Programming](https://youtu.be/ifo76VyrBYo)
-   - [What is Cloud Computing](https://youtu.be/eZLcyTxi8ZI)
-   - [What is DevOps](https://youtu.be/9pZ2xmsSDdo/)
-   - [What is a Cloud Engineer and how to become one](https://youtu.be/7i1WMGxyt4Q)
+Se você acha que não tem experiência em tecnologia, mas deseja entrar na computação em nuvem. Essa fase é para você. Se você já trabalha com tecnologia e está migrando para a nuvem,
+[Vá para a Fase 1: Fundamentos de Linux, Redes, e Scripts](../phase1/README.md).
 
 
-## Things you should be able familiar with at the end of this phase
+Vamos começar.
 
-- Honestly at this point, all you need to make sure of is that you want to get into tech and you're prepared to learn a lot. The learning will never stop.
+1. Acho que um bom primeiro passo é entender os fundamentos de TI e [este vídeo](https://youtu.be/awLnur5Yt9o) é um fantástico overview.
+
+2. O vídeo acima deve lhe dar alguma compreensão do conteudo, mas vamos mergulhar um pouco mais e entender quais são alguns dos fundamentos da Nuvem.
+
+   - [O que é Linux](https://youtu.be/PwugmcN1hf8)
+   - [O que é Redes](https://youtu.be/3QhU9jd03a0)
+   - [O que é Programação](https://youtu.be/ifo76VyrBYo)
+   - [O que é Computação na Nuvem](https://youtu.be/eZLcyTxi8ZI)
+   - [O que é DevOps](https://youtu.be/9pZ2xmsSDdo/)
+   - [O que é um Cloud Engineer e como se tornar um](https://youtu.be/7i1WMGxyt4Q)
 
 
-## Certifications you might want to look into 
+## Coisas com as quais você deve estar familiarizado no final desta fase
 
-An industry standard for people getting into tech is the [CompTIA A+](https://www.comptia.org/certifications/a).
+- Honestamente, neste momento, tudo o que você precisa ter certeza é que quer entrar na área de tecnologia e está preparado para aprender muito. O aprendizado nunca vai parar.
 
-Is it necessary? No. Is it helpful? Depends on your learning style. Did I take the A+? Also no. Does that mean you shouldn't take it? No. Does it help your resume? Maybe.
 
-However some people have told me that it's helped them land support roles like 
+## Certificações que você pode querer dar uma olhada
+
+Um padrão da indústria para quem está entrando na área de tecnologia é o [CompTIA A+](https://www.comptia.org/certifications/a).
+
+Isso é necessário? Não. É útil? Depende do seu estilo de aprendizagem. Eu tirei o A+? Também não. Isso significa que você não deve fazer? Não. Isso ajuda no seu currículo? Talvez.
+
+No entanto, algumas pessoas me disseram que isso os ajudou a conseguir papéis de apoio como: 
 
 - Service Desk Analyst
 - Help Desk Tech
@@ -42,15 +42,15 @@ However some people have told me that it's helped them land support roles like
 - Help Desk Technician 
 - System Support Specialist
 
-## Jobs
+## Empregos
 
-I'm a big fan of starting in tech at a support role and moving up. They are entry level friendly and often are willing to pay for educational material and certifications. 
+Eu sou um grande fã de começar em tecnologia em uma função de suporte técnico e ir migrando. Esses cargos são amigáveis para iniciantes e muitas vezes estão dispostos a pagar por material educacional e certificações.
 
-Also almost every company has a helpdesk, so plenty of openings to get started in!
+Além disso, quase todas as empresas têm um helpdesk, então há muitas vagas para começar!
 
-Take a look at this video by KevTech on [Helpdesk interview questions](https://youtu.be/McxVgoQaCpU). Binge watch his channel because he has so much great content!
+Dê uma olhada neste vídeo da KevTech sobre [Perguntas da entrevista de Helpdesk](https://youtu.be/McxVgoQaCpU). Assista o canal dele porque ele tem muito conteúdo ótimo!
 
-## What's next
+## O que vem a seguir?
 
 
-[Go to Phase 1: Linux and Networking fundamentals](../phase1/README.md)
+[Vá para a Fase 1: Fundamentos de Linux, Redes, e Scripts](../phase1/README.md)
