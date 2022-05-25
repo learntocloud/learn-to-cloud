@@ -9,21 +9,21 @@ Ce guide est basé sur nos experiences en debutant dans le Cloud et DevOps. une 
 - Administrateur Cloud.
 
 Vous pouvez apprendre plus sur notre parcours dans le cloud ici :
-- [le parcours de Rishab  de help desk à ingenieur DevOps sans diplome universitaire ](https://youtu.be/LZuWZ0SBYm8) 
-- [le parcours de Gwyneth de help desk à ingenieur cloud  without sans diplome universitaire](https://youtu.be/kluKaLXJ2lg)
+- [le parcours de Rishab  de service d’assistance à ingenieur DevOps sans diplome universitaire ](https://youtu.be/LZuWZ0SBYm8) 
+- [le parcours de Gwyneth de service d’assistance à ingenieur cloud  sans diplome universitaire](https://youtu.be/kluKaLXJ2lg)
+- 
+- Nous avons essayé de le garder aussi général et d’utiliser les options les plus populaires(en terme des contenus,communauté,et emplois) autant que possible. le progrmamme de 6 mois est quelque chose que nous mettons en place pour aider avec la plannification et Suivie. cela pourrait vous prendre plus ou moins de temps pour chaque phase et si c’est le cas,c’est tout à fait vrai.
 
-We tried to keep it as general and using the most popular options (in terms of content, community, and jobs) as possible. The 6 month timeline is something we put in place to help people with planning and accountability. It may take you more or less time for each phase and if it does, that is completely fine.
 
-
-| Order | Topic                           | Time commitment |
+| Ordre| Matière                 | Temps à Devouer |
 |-------|---------------------------------|-------------------|
-| [0](phase0/README.md)     | Start from zero tech experience  | optional 
-| [1](phase1/README.md)     | Linux, Networking, and Scripting fundamentals | 4 weeks           |
-| [2](phase2/README.md)     | Programming fundamentals | 4 weeks           |
-| [3](phase3/README.md)    | Cloud Platform fundamentals| 8 weeks           |
-| [4](phase4/README.md)     | DevOps fundamentals         | 8 weeks           |
+| [0](phase0/README.md)     | Commencez avec zero experience en tech | optionel 
+| [1](phase1/README.md)     | Linux,Reseau,et Scripting de base | 4 semaines          |
+| [2](phase2/README.md)     | Programmation de base | 4 semaines         |
+| [3](phase3/README.md)    | plateformes cloud de base| 8 semaines          |
+| [4](phase4/README.md)     | DevOps de base       | 8 semaines          |
 
 
 
 
-### [Go to Phase 1: Linux and Networking fundamentals](phase1/README.md)
+### [Allez à phase 1: Linux et Reseau de base](phase1/README.md)
