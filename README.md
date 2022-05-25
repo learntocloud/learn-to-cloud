@@ -1,16 +1,16 @@
-# Welcome
+# Bienvenue 
 
-**[Web version here](https://learntocloud.guide)**
+**[version web ici](https://learntocloud.guide)**
 
-This is a guide based on our experiences getting into Cloud and DevOps. Once done, you should have the technical knowledge for roles like:
+Ce guide est basé sur nos experiences en debutant dans le Cloud et DevOps. une fois fini,vous devriez avoir des connaissaces techniques pour des roles comme:
 
-- System administrator.
-- Cloud Support Engineer.
-- Cloud Administrator.
+- Administrateur systeme.
+- Ingenieur de support cloud.
+- Administrateur Cloud.
 
-You can learn more about our journeys into cloud here:
-- [Rishab's journey from help desk to DevOps engineer without a degree](https://youtu.be/LZuWZ0SBYm8) 
-- [Gwyn's journey from help desk to Cloud engineer without a degree](https://youtu.be/kluKaLXJ2lg)
+Vous pouvez apprendre plus sur notre parcours dans le cloud ici :
+- [le parcours de Rishab  de help desk à ingenieur DevOps sans diplome universitaire ](https://youtu.be/LZuWZ0SBYm8) 
+- [le parcours de Gwyneth de help desk à ingenieur cloud  without sans diplome universitaire](https://youtu.be/kluKaLXJ2lg)
 
 We tried to keep it as general and using the most popular options (in terms of content, community, and jobs) as possible. The 6 month timeline is something we put in place to help people with planning and accountability. It may take you more or less time for each phase and if it does, that is completely fine.
 
