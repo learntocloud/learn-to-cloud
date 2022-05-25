@@ -1,81 +1,84 @@
-# Phase 2: Programming fundamentals
+# Phase 2: Programmation de base
 
-## How does this phase apply to Cloud?
+## Comment s'applique cette phase au cloud ?
 
-You'll be using code to automate tasks and deploy infrastructure. You don't need to know how to build full applications but understanding the basics of programming will give you an upper hand. There are dedicated developer roles in cloud. For those you will need to know how to build full solutions, checkout [this video](https://youtu.be/WMUAc7bvB7M) for more info on that role. 
+Vous utiliserez du code pour automatiser les tâches et déployer l’infrastructure. Vous n’avez pas besoin de savoir comment créer des applications complètes, mais comprendre les bases de la programmation vous donnera un avantage. Il existe des rôles des développeurs dédiés dans le cloud.Pour ceux dont vous aurez besoin de savoir comment construire des solutions complètes, Consultez [cette video](https://youtu.be/WMUAc7bvB7M) pour plus d'infos sur ce rôle.
 
-In the previous step you were introduced and wrote some Bash scripts. Bash scripting is used to automate tasks and is considered a universal language for servers, since nowadays, Bash is installed by default almost on every Linux server.
+Dans l’étape précédente, vous avez été présenté et avez écrit des scripts Bash. Le script bash est utilisé pour automatiser les tâches et est considéré comme un langage universel pour les serveurs, car de nos jours, Bash est installé par défaut presque sur tous les serveurs Linux.
+Je pense qu’il serait maintenant bénéfique d’apprendre plus de compétences en programmation.
 
-I think now it would be beneficial to learn some more programming skills.
 
-There are several programming languages that are popular with Cloud, like Go, Rust, .NET, JavaScript, but since you are a beginner,  I would go with [Python](https://www.python.org/). It's a very popular language and there are many quality free resources out there to learn it and it's one of the simpler languages to get started with. 
+Il existe plusieurs langages de programmation qui sont populaires avec Cloud,comme Go,Rust,.NET,JavaScript, mais parce que vous êtes débutant,je choisirai [Python](https://www.python.org/). C’est un langage populaire et il existe de nombreuses ressources gratuites de qualité pour l’apprendre et c’est l’un des langages les plus simples pour debuter avec.
 
-[Git](https://git-scm.com/) is the most popular version control tool and one of the DevOps practices. It is used to manage and share your code. GitHub is one of the most popular Git repository hosting services. Take some time now to create a [GitHub](https://github.com/) account if you don't already have one. It'll be your code portfolio and you should put as many projects as you'd like on there.
+[Git](https://git-scm.com/) est l’outil de contrôle de version le plus populaire et l’une des pratiques DevOps. Il est utilisé pour gérer et partager votre code. GitHub est l’un des services d’hébergement de référentiel Git les plus populaires. Prenez le temps maintenant de créer un compte [GitHub](https://github.com/) si vous n’en avez pas déjà un. Ce sera votre portefeuille de code et vous devriez y mettre autant de projets que vous le souhaitez. 
 
-## How to break down this phase
 
-I would suggest spending time on these two topics and this timeline:
 
-| Order | Topic                           | Time commitment |
-|-------|---------------------------------|-------------------|
-| 1 | Introduction to Programming with Python  | 3 weeks 
-| 2 | Introduction to Version Control with Git and GitHub  | 1 week          |
+## Comment decomposer cette phase 
 
-Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it. 
+Je suggérerais de passer du temps sur ces deux sujets et cette chronologie:
+
+| Ordre | sujets                         | Temps à devouer |
+|-------|---------------------------------|-------------------
+| 1 | Introduction à la programming avec Python  | 3 semaines 
+| 2 | Introduction au Controle de version avec Git et GitHub  | 1 semaine          |
+
+Bien sûr, n’hésitez pas à passer autant de temps que vous le souhaitez,les gens ont demandé un calendrier et une decomposition,alors je l’ai ajouté.
+ 
 
 ## Resources
 
 
-| Order | Title                                                                        | Notes                                                                                       |
+| Ordre | Titre                                                                     | Notes                                                                                       |
 | :---- | :--------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Optional     | [An introduction to Programming](https://docs.microsoft.com/learn/modules/web-development-101-introduction-programming/)                      | A great Microsoft Learn module on the topic.    |
-| 1     | [Python Crash Course](https://ehmatthes.github.io/pcc/)                      | A great Python book, also there is an Appendix in there on Git which is great!     
-| 1     | [FreeCodeCamp Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw)     | One of the many amazing resources provided by [FreeCodeCamp](https://www.freecodecamp.org/) |
-1 | [Take your first steps with Python](https://docs.microsoft.com/learn/paths/python-first-steps/) | A 4 hour learning path introducing you to Python |
-1 | [Build Real World Applications with Python](https://docs.microsoft.com/learn/paths/python-language/) | A 2 hour hands on Microsoft Learn resource
-| 2     | [An introduction to Git](https://docs.microsoft.com/learn/modules/intro-to-git/)    | A great resource to learn Git by Microsoft Learn                                                                |
-| 2     | [FreeCodeCamp Git course](https://youtu.be/RGOj5yH7evk)                           | A great resource to learn Git by FreeCodeCamp                                                    |
+| Optionel     | [Une introduction à la programmation](https://docs.microsoft.com/learn/modules/web-development-101-introduction-programming/)                      | Un excellent module Microsoft Learn sur le sujet.    |
+| 1     | [Python Cours intensif](https://ehmatthes.github.io/pcc/)                      |  Un excellent livre Python,il y a aussi une annexe là-dedans sur Git qui est génial!   
+| 1     | [FreeCodeCamp apprendre python](https://www.youtube.com/watch?v=rfscVS0vtbw)     | L’une des nombreuses ressources precieuses fournies par [FreeCodeCamp](https://www.freecodecamp.org/) |
+1 | [Prenez vos premiers avec python](https://docs.microsoft.com/learn/paths/python-first-steps/) | Un parcours d’apprentissage de 4 heures vous présentant Python |
+1 | [Creez des applications du monde reel avec python](https://docs.microsoft.com/learn/paths/python-language/) | Une ressource d’apprentissage pratique Microsoft de 2 heures
+| 2     | [Introduction à Git ](https://docs.microsoft.com/learn/modules/intro-to-git/)    | Une excellente ressource pour apprendre Git par Microsoft learn                                                               |
+| 2     | [Cours Git FreeCodeCamp](https://youtu.be/RGOj5yH7evk)                           | Une excellente ressource pour apprendre Git par FreeCodeCamp                                                 |
 
 
-## Projects
+## Projets
 
 
- | Title                     | Description                                                                                                                                               |
+ | Titre                    | Description                                                                                                                                               |
  | :------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
- | [25 Python Projects for beginners](https://www.freecodecamp.org/news/python-projects-for-beginners/)| Do as many of these as you'd like. |
- [Create your GitHub profile readme](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) | Create a README to tell other people about yourself. Here's [mine](https://github.com/madebygps/madebygps) as an example. Rishab has a cool [one](https://github.com/rishabkumar7/rishabkumar7) too.
- | [Networking Python Projects](https://youtu.be/FGdiSJakIS4)| Build some Python and Networking skills
+ | [25 projets python pour debutant](https://www.freecodecamp.org/news/python-projects-for-beginners/)| Faites-en autant que vous le souhaitez. |
+ [Creer votre profile GitHub readme](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) | Créez un fichier README pour parler de vous aux autres. Voici [le mien](https://github.com/madebygps/madebygps) comme un exemple. Rishab en a [un](https://github.com/rishabkumar7/rishabkumar7) aussi.
+ | [Mise en réseau de projets Python](https://youtu.be/FGdiSJakIS4)| Développez des compétences en Python et en réseau.
  
-## Things you should be familiar with at the end of this phase
+## Les choses dont vous devriez etre familier avant la fin de cette phase
 
-### Programming
+### Programmation
 
 - Variables
-- Data types
-- Comments
-- Functions
-- OOP 
-- Lists
+- Types de données
+- Commentaires
+- Fonctions
+- Programmation orienté objet
+- Listes
 - Modules
-- Dictionaries
-- Loops
-- Control statements
+- Dictionnaires
+- Boucles
+- Instructions de contrôle
 - Exceptions
 ### Git
 
-- How to create a Git repo locally
-- How to create a GitHub repo and clone it locally.
-- How to create a git branch 
-- How too add changes to a git branch
-- How to merge Git changes
-- How to document code with a README
+- Comment creer un dépôt localement
+- Comment creer un dépôt Git et le cloner (telecharger) localement
+- Comment creer une branche Git
+- Comment ajouter des modifications à une branche avec Git
+- Comment fusionner les changements avec Git
+- Comment documenter le code avec un README
 
-## Certifications you might want to look into
+## Les certifications que vous pouvez examiner 
 
 - [Python Institute certifications](https://pythoninstitute.org/certification/)
 
-Programming certifications aren't as in demand/popular than cloud ones. As with any certification, you can use it to reinforce your knowledge, but it isn't an obligation. There are plenty of cloud engineers with zero certifications.
+Les certifications de programmation ne sont pas en demandes / populaires que celles du cloud. Comme pour toute certification,vous pouvez l’utiliser pour renforcer vos connaissances, mais ce n’est pas une obligation. Il y a beaucoup d’ingénieurs cloud sans certification.
 
-## What's next
+## Quelle est la prochaine étape ?
 
-[Go to Phase 3: Cloud Platform fundamentals](../phase3/README.md)
+[Allez à phase 3: Cl](../phase3/README.md)
