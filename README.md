@@ -1,12 +1,16 @@
 # Welcome
 
-**[Web version here](https://learntocloud.guide)**
+## What is Learn to Cloud?
 
-This is a guide based on our experiences getting into Cloud and DevOps. Once done, you should have the technical knowledge for roles like:
+This is a guide based on our experiences getting into Cloud and DevOps. It's not a book or course. It outlines everything you need to learn so that at the end of it you should have the technical knowledge for roles like:
 
 - System administrator.
 - Cloud Support Engineer.
 - Cloud Administrator.
+
+## Who are the authors?
+
+- Hi, [I'm Gwyn](https://aka.ms/madebygps), the original author of Learn to Cloud and it all started from [this tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en). 
 
 You can learn more about our journeys into cloud here:
 - [Rishab's journey from help desk to DevOps engineer without a degree](https://youtu.be/LZuWZ0SBYm8) 
