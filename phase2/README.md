@@ -20,7 +20,7 @@ Je suggérerais de passer du temps sur ces deux sujets et cette chronologie:
 
 | Ordre | sujets                         | Temps à devouer |
 |-------|---------------------------------|-------------------
-| 1 | Introduction à la programming avec Python  | 3 semaines 
+| 1 | Introduction à la programmation avec Python  | 3 semaines 
 | 2 | Introduction au Controle de version avec Git et GitHub  | 1 semaine          |
 
 Bien sûr, n’hésitez pas à passer autant de temps que vous le souhaitez,les gens ont demandé un calendrier et une decomposition,alors je l’ai ajouté.
