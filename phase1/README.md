@@ -1,93 +1,93 @@
-# Phase 1: Linux, Networking, and Scripting fundamentals
+# Phase 1: Linux,Reseau,et Scripting de base 
 
-## How does this phase apply to Cloud?
+## Comment s’applique cette phase au Cloud?
 
-The cloud is a bunch of Linux Servers networked together. Learning the fundamentals of how networking works, and how to interact with these servers via commands, and automating those commands via a script, is what this phase is about. If you're already a Linux admin or network engineer, you can apply your skills to the cloud.
+le cloud est un tas des serveurs Linux mise en reseau ensemble. apprendre les bases de comment les reseaux fonctionnent,et comment interagir avec ces serveurs via les commandes, et automatiser ces commandes via un script, est l’objet de cette phase. si vous êtes déjà un administrateur linux ou ingenieur reseau,vous pouvez appliquer vos connaissances dans le cloud.
 
-## How to break down this phase
+## Comment decomposer cette phase
 
-I would suggest spending time on these three topics and this timeline:
+ Je suggérerais de passer du temps sur ces trois sujets et cette chronologie:
 
-| Order | Topic                           | Time commitment |
+| Ordre |   sujets                        | Temps à devouer | 
 |-------|---------------------------------|-------------------|
-| 1 | Introduction to Linux Commands | 2 weeks
-| 2 | Introduction to Networking  | 1 week          |
-| 3 | Introduction to Bash Scripting | 1 week           |
+| 1 | Introduction aux Commandes linux | 2 semaines
+| 2 | Introduction au Reseau  | 1 semaine         |
+| 3 | Introduction au Scripting bash | 1 semaine           |
 
-Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it.
+Bien sûr,n’hésitez pas à passer autant de temps que vous le souhaitez, les gens ont demandé un calendrier et une decomposition, alors je l’ai ajouté..
 
 ## Resources
 
-| Topic      | Title    |  Notes     |
+|   Sujets   | Titre    |  Notes     |
 | :------------- | ---------- | :----------- |
-|  Linux | [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | This book made learning Linux FUN! It's pretty easy to follow and take a chapter day by day. You don't need to read the whole thing, the first 9 chapters cover most of what you need to know.  |
-| Linux   | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. |
-| Linux   | [Linux Journey](https://linuxjourney.com/) | Interactive way to learn Linux and Linux CLI!|
-| Networking   | [FreeCodeCamp Computer Networking Course](https://youtu.be/qiQR5rTSshw) | This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks.|
-| Introduction to Bash  | [Linux Bash Course by GPS](https://youtu.be/qALScO3E61I) | An introduction to Bash!|
-| Bash Scripting   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!|
-| Bash commands | [Beginner's crash course to Linux Bash](https://youtu.be/qALScO3E61I) | an hour video made by Gwyn
+|  Linux | [Linux de base pour les pirates](https://nostarch.com/linuxbasicsforhackers)   |  Ce livre a rendu l’apprentissage de Linux amusant!C’est assez facile à suivre et à prendre un chapitre jour après jour. Vous n’avez pas besoin de lire le tout,les 9 premiers chapitres couvrent la plupart de ce que vous devez savoir.  |
+| Linux   | [La ligne de commande linux ](https://nostarch.com/tlcl2) | Je l’ai utilisé davantage comme référence pour renforcer les sujets du premier livre.. |
+| Linux   | [Parcours Linux](https://linuxjourney.com/) | Une maniere interactive d’apprendre Linux et la ligne de commande !|
+| Reseau  | [Cours de réseautage informatique FreeCodeCamp](https://youtu.be/qiQR5rTSshw) | Ce cours complet de réseau informatique vous préparera à configurer,gérer et dépanner les réseaux informatiques.|
+| Introduction à Bash | [Cours de bash linux par GPS](https://youtu.be/qALScO3E61I) | Une introduction à Bash!|
+| Scripting Bash   | [Introduction au scripting bash](https://youtu.be/_n5ZegzieSQ) | Fantastique introduction au script bash, la voix de Joe Collins est apaisante!|
+| Les commandes Bash | [Cours intensif pour débutants sur Linux Bash](https://youtu.be/qALScO3E61I) | une vidéo d’une heure réalisée par Gwyneth
 
-## Projects
+## Projets
 
- Title    | Resource     |
+ Titre  | Resource     |
  :---------- | :----------- |
- Install Linux on a computer   | Research a distro and install it (We like [Pop!_OS](https://pop.system76.com/)) |
-Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A pretty popular Linux admin task. |
- Deploy a NAS server | Checkout [FreeNAS](https://www.freenas.org/) |
- Deploy your own cloud | Checkout [NextCloud](https://nextcloud.com/) |
-  Convert video files | Checkout [ffmpeg](https://ffmpeg.org/ffmpeg.html) use it to write a script that converts a .mov file to mp4
+ Installez linux sur un ordinateur   | Cherchez une distribution et installez (Nous aimons [Pop!_OS](https://pop.system76.com/)) |
+Configurez un [Serveur Lamp](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | Une tâche d’administration Linux assez populaire. |
+ Deployer un serveur NAS | Consultez [FreeNAS](https://www.freenas.org/) |
+ Deployer votre propre Cloud | Consultez [NextCloud](https://nextcloud.com/) |
+  Convertissez les fichiers Videos | Consultez [ffmpeg](https://ffmpeg.org/ffmpeg.html) utilisez-le pour écrire un script qui convertit un fichier .mov en mp4
 
-## Things you should be able familiar with at the end of this phase
+## Les choses dont vous devriez etre familier à la fin de cette phase
 
-### Commands
+### Commandes
 
-- Navigate with the `cd` command.
-- How to list the contents of a directory and using the `ls` command.
-- Create, copy, move, rename, directories and files with `mkdir`, `cp`, `rm`, and `touch` commands.
-- Find things with `locate`, `whereis`, `which`, and `find` commands.
-- Understand how to learn more about commands with the `which`, `man`, and `--help` commands.
-- Familiar with finding logs details in `/var/log`
-- How to display the contents of a file with `cat`, `less`, `more`, `tail`, `head`.
-- Filtering with `grep` and `sed`.
-- Redirection of standard input, output and error with `>` operator and `tee` command.
-- How to use pipelines with the `|` operator.
-- Manipulate files with `nano` or `vim`.
-- Install and uninstall packages. Depends on distro, debian based use `apt`.
-- Control permissions with `chown`, `chgrp`, `chmod` commands.
-- Creating users and the `sudo` command.
-- Process management with `ps`, `top`, `nice`, `kill`
-- Manage environment aud user defined variables with `env`, `set`, `export` commands.
-- Add directories to your `PATH`.
-- Compression and archiving with `tar`, `gzip`, `gunzip`.
-- How to access a Linux server with `ssh`.
+- Naviguez avec la commande `cd`
+- Comment lister les contenus d’un repertoire en utilisant la commande `ls`
+- Creer,copier,deplacer,renommer,repertoires et fichiers avec `mkdir`, `cp`, `rm`, et la commande `touch`.
+- Trouver les choses avec `locate`, `whereis`, `which`, et la commande `find` 
+- Comprendre comment apprendre plus sur les commandes avec `which`, `man`, et la commande `--help`
+- Familier en trouvant les details des logs dans `/var/log`
+- Comment afficher le contenu d’un fichier avec `cat`, `less`, `more`, `tail`, `head`.
+- Filtrer avec `grep` et `sed`.
+- Redirection des entrees standard, sortie et erreur avec `>` operateur et la commande `tee`
+- Comment utiliser les pipelines avec `|` operateur.
+- Manipuler les fichiers avec `nano` ou `vim`.
+- Installer et desinstaller les paquets. Depend de la distribution,utilisation basée sur Debian `apt`.
+- Controle des permissions avec les commandes `chown`, `chgrp`, `chmod`.
+- Creer des utilisateurs et la commande `sudo`
+- Gestion des processus avec `ps`, `top`, `nice`, `kill`
+- Gérez l’environnement et les variables définies par l’utilisateur avec les commandes `env`, `set`, `export` 
+- Ajoutez vos repertoires à votre chemin `PATH`.
+- Compression et archivage avec `tar`, `gzip`, `gunzip`.
+- Comment accedez à un serveur linux avec `ssh`.
 
-### Networking
+### Reseau
 
-Concepts you should be familiar with.
+Les concepts dont vous devriez etre familier.
 
-- OSI Model
-- IP Addresses
-- MAC Addresses
-- Routing and Switching
+- Le modèle OSI
+- L’addressage IP
+- Les addresses MAC 
+- Routage et Commutation
 - TCP/IP
-- TCP and UDP
-- DNS
-- VPN tunneling
-- TLS and SSL
+- TCP et UDP
+- Le DNS
+- Le VPN tunneling
+- TLS et SSL
 
-### Bash Scripting
+### Scripting bash
 
-- What is a shell?
-- What is Bash?
-- Why does a script have to start with #!?
-- What is a variable and how to use them
-- How to accept user input
-- How to execute a script
+- qu’est-ce qu’un shell ?
+- qu’est-ce que bash ?
+- Pourquoi un script doit commencer avec #!?
+- qu’est ce que les variables et comment les utiliser
+- Comment accepter les entrees utilisateurs 
+- Comment executer un script
 
-## Certifications you might want to look into
+## les certifications que vous pouvez examiner
 
-There are several Linux certifications and you can chose to study for any of them really, but a lot of them cover WAY more than what you need to know for a solid foundation and are more focused on Linux administration.
+il y a plusieurs certifications et vous pouvez choisir pour étudier pour l’un d’entre eux vraiment,mais beaucoup d’entre eux couvrent beaucoup plus que ce que vous devez savoir pour une base solide et sont plus axés sur l’administration Linux.
 
 - [LPI essentials](https://www.lpi.org/our-certifications/linux-essentials-overview)
 - [RedHat](https://www.redhat.com/en/services/training-and-certification)
@@ -96,10 +96,10 @@ There are several Linux certifications and you can chose to study for any of the
 - [LPI](https://www.lpi.org/)
 - [Comptia Linux+](https://www.comptia.org/certifications/linux)
 
-There are also TONS of networking certifications out there, and similar to the Linux ones, they are more focused on giving you a lot of knowledge so you can become a networking engineer/specialist, again at an introductory level, it's a little overkill. If you did want to get one, take a look at the [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) which are pretty much industry standard and/or [Comptia Network+](https://www.comptia.org/certifications/network)
+Il existe également des tonnes de certifications réseau, et similaires à celles de Linux, elles sont plus axées sur le fait de vous donner beaucoup de connaissances afin que vous puissiez devenir un ingénieur / spécialiste des réseaux, encore une fois à un niveau d’introduction, c’est un peu exagéré. Si vous vouliez en obtenir un, jetez un coup d’œil au [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) qui sont à peu près la norme de l’industrie et/ou [Comptia Network+](https://www.comptia.org/certifications/network).
 
-At the end of the day, if you want to take them, go for it :)
+À la fin de la journée, si vous voulez les prendre, allez-y :)
   
-## What's next
+## Quelle est la prochaine étape ?
 
-[Go to Phase 2: Programming fundamentals](../phase2/README.md)
+[Allez à Phase 2: Programmation de base](../phase2/README.md)
