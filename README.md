@@ -15,9 +15,16 @@ This is a guide based on our experiences getting into Cloud and DevOps. It's not
 ## Who are the authors?
 
 
-- [Gwyn](https://aka.ms/madebygps) is the original author. Learn more about her [journey from college dropout to Cloud Engineer](https://youtu.be/kluKaLXJ2lg).
+- [Gwyn](https://aka.ms/madebygps) is the lead author.
 
-- [Rishab](https://twitter.com/rishabk7) joined as a co author shortly after. Learn about his [journey from help desk to DevOps engineer without a degree](https://youtu.be/LZuWZ0SBYm8) 
+- [Rishab](https://twitter.com/rishabk7) is the co author. 
+
+## Can I get into cloud without a degree
+
+Yes, we did.
+
+- [Gwyn's journey from college dropout to Cloud Engineer](https://youtu.be/kluKaLXJ2lg)
+- [Rishab's journey from help desk to DevOps Engineer](https://youtu.be/LZuWZ0SBYm8)
 
 ## How long will this take me to complete
 
