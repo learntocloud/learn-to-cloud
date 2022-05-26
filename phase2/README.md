@@ -81,4 +81,4 @@ Les certifications de programmation ne sont pas en demandes / populaires que cel
 
 ## Quelle est la prochaine étape ?
 
-[Allez à phase 3: Cl](../phase3/README.md)
+[Allez à phase 3: Plateforme cloud de base ](../phase3/README.md)
