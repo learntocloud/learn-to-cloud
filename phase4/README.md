@@ -1,6 +1,6 @@
-# Phase 4: DevOps fundamentals
+# Phase 4: Les fondamentaux du DevOps 
 
-## How does this phase apply to Cloud?
+## Comment s'applique cette phase au cloud ?
 
 DevOps is all about getting your solutions to run efficiently from deployment to updates.
 It's not specific to Cloud, as you can implement DevOps practices on-prem as well.
@@ -15,7 +15,7 @@ Read up on what DevOps is. Each cloud platform has a suite of DevOps tools, I've
 
 I also think it's worth reading [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) it's a pretty fun read because it's a fictional story but it explains the importance of DevOps. But if you'd prefer something more like a textbook with similar ideas, check out [The DevOps Handbook](https://itrevolution.com/the-devops-handbook/).
 
-## How to break down this phase
+## Comment decomposer cette phase
 
 - Continuous integration and continuous delivery (CI/CD)
 - Version Control System (VCS)
@@ -24,7 +24,7 @@ I also think it's worth reading [The Phoenix Project](https://itrevolution.com/t
 - Monitoring (logs, metrics, traces)
 I would suggest spending time on these topics and this timeline:
 
-| Order | Topic                 | Time commitment |
+| Ordre | sujets                 | Temps à devouer |
 |-------|-----------------------|-------------------|
 | 1 | CI/CD with GitHub Actions | 2 weeks
 | 2 | IaC with Terraform | 2 weeks          |
@@ -46,9 +46,9 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 | [Docker and Kubernetes](https://youtu.be/Wf2eSG3owoA) | Learn the fundamentals of Docker and Kubernetes in this complete hand-on course.
 | [Prometheus](https://youtube.com/playlist?list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4) | Complete Prometheus Monitoring Tutorial
 
-## Projects
+## Projets
 
-| Title                                                        | Resource                                                                          |
+| Titre                                                        | Resource                                                                          |
 | :----------------------------------------------------------- | --------------------------------------------------------------------------------- |
 [Deploy an App to Azure with ARM](https://github.com/SoniaConti/ContosoFinance-Demo) | ARM is an IaC tool used with Azure
 |[Crypto-dot-net Ticket Dockerized](https://github.com/rishabkumar7/crypto-ticker-dotnet) | We Dockerize the crypto-dot-net ticker project that we built in Phase 3
@@ -57,7 +57,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 | [DevOps the Hardway - Azure](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure) | This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to Azure. |
 | [DevOps the Hardway - AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) | This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to AWS. |
 
-## Things you should be familiar with at the end of this phase
+## Les choses dont vous devriez être familier à la fin de cette phase
 
 
 - Be able to explain each DevOps practice
@@ -71,7 +71,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 - An understanding for infrastructure and application monitoring and the basic ideas of logs, metrics, traces
 
 
-## Certifications you might want to look into
+## les certifications que vous pouvez examiner
 
 - [AWS Certified DevOps Engineer - Profession](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
 - [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
