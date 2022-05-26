@@ -20,7 +20,7 @@ Bien sûr,n’hésitez pas à passer autant de temps que vous le souhaitez, les 
 
 |   Sujets   | Titre    |  Notes     |
 | :------------- | ---------- | :----------- |
-|  Linux | [Linux de base pour les pirates](https://nostarch.com/linuxbasicsforhackers)   |  Ce livre a rendu l’apprentissage de Linux amusant!C’est assez facile à suivre et à prendre un chapitre jour après jour. Vous n’avez pas besoin de lire le tout,les 9 premiers chapitres couvrent la plupart de ce que vous devez savoir.  |
+|  Linux | [Linux de base pour les pirates](https://nostarch.com/linuxbasicsforhackers)   |  Ce livre a rendu l’apprentissage de Linux amusant! C’est assez facile à suivre et à lire un chapitre jour après jour. Vous n’avez pas besoin de lire le tout,les 9 premiers chapitres couvrent la plupart de ce que vous devez savoir.  |
 | Linux   | [La ligne de commande linux ](https://nostarch.com/tlcl2) | Je l’ai utilisé davantage comme référence pour renforcer les sujets du premier livre.. |
 | Linux   | [Parcours Linux](https://linuxjourney.com/) | Une maniere interactive d’apprendre Linux et la ligne de commande !|
 | Reseau  | [Cours de réseautage informatique FreeCodeCamp](https://youtu.be/qiQR5rTSshw) | Ce cours complet de réseau informatique vous préparera à configurer,gérer et dépanner les réseaux informatiques.|
