@@ -9,4 +9,4 @@
 * Translations
 
   * [En](/)
-  * [Pt](/pt/readme.md)
+  * [Pt](../pt/README.md)
