@@ -6,4 +6,7 @@
 
 * [Colaboradores](../Contributors.md)
 
-* [En](/) [Pt](/pt)
+* Translations
+
+  * [En](/)
+  * [Pt](/pt/readme.md)
