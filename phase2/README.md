@@ -1,4 +1,4 @@
-# Phase 2: Programmation de base
+# Phase 2: Les fondamentaux de la programmation
 
 ## Comment s'applique cette phase au cloud ?
 
@@ -66,7 +66,7 @@ Bien sûr, n’hésitez pas à passer autant de temps que vous le souhaitez,les 
 - Exceptions
 ### Git
 
-- Comment creer un dépôt localement
+- Comment créer un dépôt localement
 - Comment créer un dépôt Git et le cloner (telecharger) localement
 - Comment créer une branche Git
 - Comment ajouter des modifications à une branche avec Git
@@ -81,4 +81,4 @@ Les certifications de programmation ne sont pas en demandes / populaires que cel
 
 ## Quelle est la prochaine étape ?
 
-[Allez à phase 3: Plateforme cloud de base ](../phase3/README.md)
+[Allez à phase 3: Les fondamentaux des plateformes cloud](../phase3/README.md)
