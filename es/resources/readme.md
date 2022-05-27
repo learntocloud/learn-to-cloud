@@ -1,14 +1,15 @@
-# Study tips and resources
+# Recursos y recomendaciones de estudio
 
-- This 6 month timeline is based on about 3 hours of study time a day and assuming that you know how to learn.
-- I use the [Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique). Give it a try if you need help breaking your studying into sessions.
-- I take lots of notes, here's an overview of [How I study for certifications](https://acloudguru.com/blog/engineering/from-student-to-engineer-how-to-study-smarter-for-cloud-cert) that might give you some tips.
+- Esta línea de tiempo es basada en aproximadamente 3 horas de estudio por día y asumiendo que sabes como aprender.
+- Yo uso la [Técnica de Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique). Dale un intento si necesitas tener un descanso en las sesiones.
+- Yo tomo muchas notas, este es un resumen de [Como estudio para las certificaciones](https://acloudguru.com/blog/engineering/from-student-to-engineer-how-to-study-smarter-for-cloud-cert) que te pueden dar unos tips.
 
- | Title                     | Resource                                                                                                                                               |
+
+ | Título                    | Recursos                                                                                                                                               |
  | :------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
- | [Learning how to learn](https://barbaraoakley.com/books/learning-how-to-learn/)| Great book that helped me improve how I learn                                              |
- | [Deep work](https://www.calnewport.com/books/deep-work/)             | Another great book, this time about how to focus and get deep work time into your day. |
- | [How I study for certs](https://youtu.be/fpPCZqfOBJs)               | A video with some tips I've picked up on the way                                                                  |
+ | [Learning how to learn](https://barbaraoakley.com/books/learning-how-to-learn/)| Un excelente libro que me ayudó a mejorar como aprender.                                          |
+ | [Deep work](https://www.calnewport.com/books/deep-work/)             | Otro excelente libro, se trata acerca de como enfocarse y obtener eficiente tiempo de trabajo en tu día.    |
+ | [How I study for certs](https://youtu.be/fpPCZqfOBJs)               | Un video de algunos tips que he escogido durante el tiempo.                                                  |
 
 
  

@@ -1,4 +1,4 @@
-# Welcome
+# Bienvenidos
 
 **[Versión web aquí](https://learntocloud.guide)**
 
@@ -8,22 +8,22 @@ Esta es una guía basada en nuestras experiencias llegando hacia Cloud y DevOps.
 - Ingeniero de Soporte de Nube (Cloud Support Engineer).
 - Administrador de Nube (Cloud Administrator).
 
-You can learn more about our journeys into cloud here:
+Puede aprender más acerca de nuestro camino hacia cloud, aquí:
 - [Rishab's journey from help desk to DevOps engineer without a degree](https://youtu.be/LZuWZ0SBYm8) 
 - [Gwyn's journey from help desk to Cloud engineer without a degree](https://youtu.be/kluKaLXJ2lg)
 
-We tried to keep it as general and using the most popular options (in terms of content, community, and jobs) as possible. The 6 month timeline is something we put in place to help people with planning and accountability. It may take you more or less time for each phase and if it does, that is completely fine.
+Hemos tratado de mantenerlo lo mas general y usando las opciones mas populares (en términos de contenido, comunidad, y trabajos). Los 6 meses de tiempo es algo que hemos puesto para ayudar a las personas a planear. Puede tomarte más o menos tiempo para cada fase y si es así, está completamente bien.
 
 
-| Order | Topic                           | Time commitment |
+| Orden | Tema                           | Tiempo de compromiso |
 |-------|---------------------------------|-------------------|
-| [0](phase0/README.md)     | Start from zero tech experience  | optional 
-| [1](phase1/README.md)     | Linux, Networking, and Scripting fundamentals | 4 weeks           |
-| [2](phase2/README.md)     | Programming fundamentals | 4 weeks           |
-| [3](phase3/README.md)    | Cloud Platform fundamentals| 8 weeks           |
-| [4](phase4/README.md)     | DevOps fundamentals         | 8 weeks           |
+| [0](es/phase0/README.md)     | Empezar desde cero experiencia en tech  | opcional 
+| [1](es/phase1/README.md)     | Fundamentos de Linux, Redes y scripting | 4 semanas           |
+| [2](es/phase2/README.md)     | Fundamentos de Programación | 4 semanas           |
+| [3](es/phase3/README.md)    | Fundamentos de Computación de la nube | 8 semanas           |
+| [4](es/phase4/README.md)     | Fundamentos de DevOps         | 8 semanas           |
 
 
 
 
-### [Go to Phase 1: Linux and Networking fundamentals](phase1/README.md)
+### [Ve a la Fase 1: Fundamentos de Linux, Redes y scripting](es/phase1/README.md)

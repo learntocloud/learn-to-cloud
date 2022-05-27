@@ -10,12 +10,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/learntocloud/learn-to-cloud.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/learntocloud/learn-to-cloud/stargazers/)
 
 
-<!-- > A 6 month guide to the fundamentals of Cloud Computing -->
-> 6 meses de guía hacia los fundamentos de Computación de la nube
+> Una guía de 6 meses hacia los fundamentos de la COmputación de la nube
 
 - Libre y Código Abierto
 - Recursos, Tareas y Proyectos
-- Construye de primera mano con práctica
+- Construye de primera mano con prácticas
 
 [GitHub](https://github.com/learntocloud/learn-to-cloud/)
 [Empieza aquí](#welcome)
