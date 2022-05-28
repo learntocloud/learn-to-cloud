@@ -96,7 +96,7 @@ il y a plusieurs certifications et vous pouvez choisir pour étudier pour l’un
 - [LPI](https://www.lpi.org/)
 - [Comptia Linux+](https://www.comptia.org/certifications/linux)
 
-Il existe également des tonnes de certifications réseau, et similaires à celles de Linux, elles sont plus axées sur le fait de vous donner beaucoup de connaissances afin que vous puissiez devenir un ingénieur / spécialiste des réseaux, encore une fois à un niveau d’introduction, c’est un peu exagéré. Si vous vouliez en obtenir un, jetez un coup d’œil au [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) qui sont à peu près la norme de l’industrie et/ou [Comptia Network+](https://www.comptia.org/certifications/network).
+Il existe également des tonnes de certifications réseau, et similaires à celles de Linux, elles sont plus axées sur le fait de vous donner beaucoup de connaissances afin que vous puissiez devenir un ingénieur / spécialiste des réseaux, encore une fois à un niveau d’introduction, c’est un peu exagéré. Si vous vouliez en obtenir un, jetez un coup d’œil aux [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) qui sont à peu près la norme de l’industrie et/ou [Comptia Network+](https://www.comptia.org/certifications/network).
 
 À la fin de la journée, si vous voulez les prendre, allez-y :)
   
