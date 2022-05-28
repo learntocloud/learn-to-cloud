@@ -34,7 +34,7 @@ C'est également le moment idéal pour vous présenter à la documentation offic
 
 S'il y a quelque chose que vous ne comprenez pas à propos d'un service ou d'une commande, votre point de référence devrait être la documentation. Ensuite, vous pouvez rechercher des articles, des tutoriels, etc.
 
-## Projects
+## Projets
 
 Nous vous recommandons de commencer par le Cloud Resume Challenge. Une fois que vous avez terminé, visitez la page [Projets] (../projects/README.md) pour en savoir plus !
 
@@ -48,7 +48,7 @@ Azure | [Crypto .Net Ticker](https://github.com/madebygps/crypto-ticker-dotnet) 
 AWS | [Cloud Is Free](https://cloudisfree.com) | Mettez en place des projets pratiques grâce à une documentation interactive et détaillée, tout en profitant de l'option de gratuité d'AWS.
 
 
-## Les choses que vous devez être familiarisé avec à la fin de cette phase
+## Les choses que vous devez être familier avec à la fin de cette phase
 
 
 - Une compréhension des bonnes pratiques en matière d'infrastructure cloud (fiabilité, efficacité des performances, sécurité, optimisation des coûts, etc.)
