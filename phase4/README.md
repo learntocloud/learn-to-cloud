@@ -15,7 +15,7 @@ Read up on what DevOps is. Each cloud platform has a suite of DevOps tools, I've
 
 I also think it's worth reading [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) it's a pretty fun read because it's a fictional story but it explains the importance of DevOps. But if you'd prefer something more like a textbook with similar ideas, check out [The DevOps Handbook](https://itrevolution.com/the-devops-handbook/).
 
-## Comment decomposer cette phase
+## Comment décomposer cette phase
 
 - Continuous integration and continuous delivery (CI/CD)
 - Version Control System (VCS)
@@ -48,7 +48,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 
 ## Projets
 
-| Titre                                                        | Resource                                                                          |
+| Titre                                                        | Ressource                                                                          |
 | :----------------------------------------------------------- | --------------------------------------------------------------------------------- |
 [Deploy an App to Azure with ARM](https://github.com/SoniaConti/ContosoFinance-Demo) | ARM is an IaC tool used with Azure
 |[Crypto-dot-net Ticket Dockerized](https://github.com/rishabkumar7/crypto-ticker-dotnet) | We Dockerize the crypto-dot-net ticker project that we built in Phase 3
