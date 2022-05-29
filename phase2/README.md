@@ -73,7 +73,7 @@ Bien sûr, n’hésitez pas à passer autant de temps que vous le souhaitez,les 
 - Comment fusionner les changements avec Git
 - Comment documenter le code avec un README
 
-## Les certifications que vous pouvez examiner 
+## Certifications que vous pourriez vouloir voir
 
 - [Python Institute certifications](https://pythoninstitute.org/certification/)
 
