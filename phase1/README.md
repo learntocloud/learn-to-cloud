@@ -1,8 +1,8 @@
-# Phase 1: Linux,Reseau,et les Fondamentaux du scripting 
+# Phase 1: Linux,Réseau,et les Fondamentaux du scripting 
 
 ## Comment s’applique cette phase au Cloud?
 
-le cloud est un tas des serveurs Linux mise en reseau ensemble. apprendre les bases de comment les reseaux fonctionnent,et comment interagir avec ces serveurs via les commandes, et automatiser ces commandes via un script, est l’objet de cette phase. si vous êtes déjà un administrateur linux ou ingenieur reseau,vous pouvez appliquer vos connaissances dans le cloud.
+le cloud est un tas des serveurs Linux mise en réseau ensemble. apprendre les bases des fonctionnement réseaux,et comment interagir avec ces serveurs via les commandes, et automatiser ces commandes via un script, est l’objet de cette phase. si vous êtes déjà un administrateur linux ou ingenieur réseau,vous pouvez appliquer vos connaissances dans le cloud.
 
 ## Comment decomposer cette phase
 
@@ -11,7 +11,7 @@ le cloud est un tas des serveurs Linux mise en reseau ensemble. apprendre les ba
 | Ordre |   sujets                        | Temps à devouer | 
 |-------|---------------------------------|-------------------|
 | 1 | Introduction aux Commandes linux | 2 semaines
-| 2 | Introduction au Reseau  | 1 semaine         |
+| 2 | Introduction au Réseau  | 1 semaine         |
 | 3 | Introduction au Scripting bash | 1 semaine           |
 
 Bien sûr,n’hésitez pas à passer autant de temps que vous le souhaitez, les gens ont demandé un calendrier et une decomposition, alors je l’ai ajouté..
