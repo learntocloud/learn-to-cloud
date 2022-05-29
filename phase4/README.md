@@ -36,7 +36,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 
 ## Resources
 
-| Practique                                                            | Outil                                                                                    |
+| Pratique                                                          | Outil                                                                                    |
 | :------------------------------------------------------------------ | :----------------------------------------------------------------------------------------- |
 | [Rishab's DevOps Series](https://youtube.com/playlist?list=PLK_LRl1CH4L9ZI0N6WqmQE-Y_-lflAbqM)| Explanation on some of the fundamentals concepts of DevOps.
 | [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)| This guide will help you use GitHub Actions to accelerate your application development workflows.
