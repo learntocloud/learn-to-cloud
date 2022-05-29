@@ -68,7 +68,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
   - CI/CD
   - IaC
   - Version control
-- An understanding for infrastructure and application monitoring and the basic ideas of logs, metrics, traces
+
 
 
 ## Certifications que vous pourriez vouloir voir
