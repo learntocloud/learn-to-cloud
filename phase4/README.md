@@ -36,7 +36,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 
 ## Resources
 
-| Practice                                                            | Tool                                                                                       |
+| Practique                                                            | Outil                                                                                    |
 | :------------------------------------------------------------------ | :----------------------------------------------------------------------------------------- |
 | [Rishab's DevOps Series](https://youtube.com/playlist?list=PLK_LRl1CH4L9ZI0N6WqmQE-Y_-lflAbqM)| Explanation on some of the fundamentals concepts of DevOps.
 | [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)| This guide will help you use GitHub Actions to accelerate your application development workflows.
@@ -57,7 +57,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 | [DevOps the Hardway - Azure](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure) | This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to Azure. |
 | [DevOps the Hardway - AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) | This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to AWS. |
 
-## Les choses dont vous devriez être familier à la fin de cette phase
+## Les aspects que vous devriez connaître à la fin de cette phase
 
 
 - Be able to explain each DevOps practice
@@ -71,7 +71,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 - An understanding for infrastructure and application monitoring and the basic ideas of logs, metrics, traces
 
 
-## les certifications que vous pouvez examiner
+## Certifications que vous pourriez vouloir voir
 
 - [AWS Certified DevOps Engineer - Profession](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
 - [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
