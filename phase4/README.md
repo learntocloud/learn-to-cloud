@@ -1,6 +1,6 @@
-# Phase 4: Les fondamentaux du DevOps 
+# Phase 4: Principes fondamentaux de DevOps
 
-## Comment s'applique cette phase au cloud ?
+## Comment cette phase s'applique-t-elle au Cloud ?
 
 DevOps is all about getting your solutions to run efficiently from deployment to updates.
 It's not specific to Cloud, as you can implement DevOps practices on-prem as well.
@@ -24,7 +24,7 @@ I also think it's worth reading [The Phoenix Project](https://itrevolution.com/t
 - Monitoring (logs, metrics, traces)
 I would suggest spending time on these topics and this timeline:
 
-| Ordre | sujets                 | Temps à devouer |
+| Ordre | sujet              | Délai |
 |-------|-----------------------|-------------------|
 | 1 | CI/CD with GitHub Actions | 2 weeks
 | 2 | IaC with Terraform | 2 weeks          |
