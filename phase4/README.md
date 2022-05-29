@@ -1,4 +1,4 @@
-# Phase 4: Principes fondamentaux de DevOps
+# Phase 4: Les fondamentaux du DevOps
 
 ## Comment cette phase s'applique-t-elle au Cloud ?
 
