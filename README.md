@@ -25,4 +25,4 @@ Vous pouvez apprendre plus sur notre parcours dans le cloud ici :
 
 
 
-### [Allez à phase 1: Linux et Reseau de base](phase1/README.md)
+### [Allez à phase 1: Linux et Les fondamentaux du Réseau](phase1/README.md)
