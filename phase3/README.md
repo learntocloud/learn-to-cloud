@@ -1,4 +1,4 @@
-# Phase 3: Fondamentaux de la plate-forme cloud
+# Phase 3: Fondamentaux des plateformes cloud
 
 ## Comment cette phase s'applique-t-elle au Cloud ?
 
