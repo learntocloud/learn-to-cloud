@@ -64,7 +64,7 @@ Configurez un [Serveur Lamp](https://en.wikipedia.org/wiki/LAMP_(software_bundle
 
 ### Reseau
 
-Les concepts dont vous devriez etre familier.
+Les concepts que vous devriez être familier.
 
 - Le modèle OSI
 - L’addressage IP
