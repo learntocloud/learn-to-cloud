@@ -102,4 +102,4 @@ Il existe également des tonnes de certifications réseau, et similaires à cell
   
 ## Quelle est la prochaine étape ?
 
-[Allez à Phase 2: Programmation de base](../phase2/README.md)
+[Allez à Phase 2: Les fondamentaux de la Programmation ](../phase2/README.md)
