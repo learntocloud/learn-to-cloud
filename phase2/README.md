@@ -49,7 +49,7 @@ Bien sûr, n’hésitez pas à passer autant de temps que vous le souhaitez,les 
  [Creer votre profile GitHub readme](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) | Créez un fichier README pour parler de vous aux autres. Voici [le mien](https://github.com/madebygps/madebygps) comme un exemple. Rishab en a [un](https://github.com/rishabkumar7/rishabkumar7) aussi.
  | [Mise en réseau de projets Python](https://youtu.be/FGdiSJakIS4)| Développez des compétences en Python et en réseau.
  
-## Les choses dont vous devriez être familier à la fin de cette phase
+## Les choses que vous devez être familier avec à la fin de cette phase
 
 ### Programmation
 
