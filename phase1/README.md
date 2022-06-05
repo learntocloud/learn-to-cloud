@@ -38,7 +38,7 @@ Configurez un [Serveur Lamp](https://en.wikipedia.org/wiki/LAMP_(software_bundle
  Deployer votre propre Cloud | Consultez [NextCloud](https://nextcloud.com/) |
   Convertissez les fichiers Videos | Consultez [ffmpeg](https://ffmpeg.org/ffmpeg.html) utilisez-le pour écrire un script qui convertit un fichier .mov en mp4
 
-## Les choses dont vous devriez être familier à la fin de cette phase
+## Les choses que vous devez être familier avec à la fin de cette phase
 
 ### Commandes
 
