@@ -57,7 +57,7 @@ Bien sûr, n'hésitez pas à y consacrer autant de temps que vous le souhaitez. 
 | [DevOps the Hardway - Azure](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure) | Ce tutoriel contient une solution complète et réelle pour la mise en place d'un environnement utilisant les technologies et pratiques DevOps pour le déploiement d'applications et de services/infrastructures cloud sur Azure. |
 | [DevOps the Hardway - AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) | Ce tutoriel contient une solution complète et réelle pour la mise en place d'un environnement utilisant les technologies et pratiques DevOps pour le déploiement d'applications et de services/infrastructures cloud sur AWS. |
 
-## Les aspects que vous devriez connaître à la fin de cette phase
+## Les choses que vous devez être familier avec à la fin de cette phase
 
 
 - Être capable d'expliquer chaque pratique DevOps
