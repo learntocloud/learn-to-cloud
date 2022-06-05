@@ -7,10 +7,15 @@ Each phase has a list of projects that we recommend you complete. Here is a list
 Title | Description | Author 
 ------|-------------|--------|
 [Cloud Resume Challenge](https://cloudresumechallenge.dev/)| Build your resume with AWS services.| [Forrest Brazeal](https://twitter.com/forrestbrazeal)
-[AWS Hands On Tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all) |  Get started with step-by-step tutorials to launch your first application | AWS |
+[AWS Hands On Tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all), </br>  [AWS Workshops](https://workshops.aws/), </br> [AWS Samples](https://github.com/aws-samples) |  Get started with step-by-step tutorials, examples of different architectures or walkthrough workshops to launch your first application | AWS |
 [AWS Architecture Center](https://aws.amazon.com/architecture/) | The AWS Architecture Center provides reference architecture diagrams, vetted architecture solutions, Well-Architected best practices, patterns, icons, and more. | AWS
 [Cloud Is Free](https://cloudisfree.com) | Set up practical projects through an interactive and detailed documentation, while taking advantage of the Free Tier from AWS. | [Yassin Dahmouni](https://github.com/ydamni)
-     
+[Wild Rydes](https://webapp.serverlessworkshops.io/) | Deploy a simple web application. Uses AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, Amazon Cognito, and AWS Amplify Console. | AWS
+[Simple Voting Service (Go)](https://golang.serverlessworkshops.io/the-service/) | Build a simple voting service that exposes a RESTful API with a single /votes resource that supports two methods | AWS
+[Serverless Image Processing](https://www.image-processing.serverlessworkshops.io/) | Build an image processing workflow using AWS Step Functions. A simulated business process to upload a profile picture, checking the photo for uniqueness, generating a thumbnail, and persisting metadata that associates the user with the photo. AWS Lambda, DynamoDB, Simple Notification Service (SNS). | AWS
+[CI/CD for Serverless Applications](https://cicd.serverlessworkshops.io/) | Learn how to start a new Serverless application from scratch using the AWS Serverless Application Model (AWS SAM) and how to fully automate builds and deployments. | AWS
+
+
 
 ## Azure Projects
 
