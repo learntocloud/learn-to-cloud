@@ -24,7 +24,7 @@ Je pense aussi que cela vaut la peine de lire [Le projet Phoenix](https://itrevo
 - Monitoring (logs, métriques, traces)
 Je vous suggère de consacrer du temps à ces sujets et à cette chronologie :
 
-| Ordre | Sujet                | Délai |
+| Ordre | Sujet                | Temps à devouer |
 |-------|-----------------------|-------------------|
 | 1 | CI/CD avec GitHub Actions | 2 semaines
 | 2 | IaC avec Terraform | 2 semaines         |
