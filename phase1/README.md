@@ -4,7 +4,7 @@
 
 le cloud est un tas des serveurs Linux mise en réseau ensemble. apprendre les bases des fonctionnement réseaux,et comment interagir avec ces serveurs via les commandes, et automatiser ces commandes via un script, est l’objet de cette phase. si vous êtes déjà un administrateur linux ou ingenieur réseau,vous pouvez appliquer vos connaissances dans le cloud.
 
-## Comment decomposer cette phase
+## Comment décomposer cette phase
 
  Je suggérerais de passer du temps sur ces trois sujets et cette chronologie:
 
@@ -14,7 +14,7 @@ le cloud est un tas des serveurs Linux mise en réseau ensemble. apprendre les b
 | 2 | Introduction au Réseau  | 1 semaine         |
 | 3 | Introduction au Scripting bash | 1 semaine           |
 
-Bien sûr,n’hésitez pas à passer autant de temps que vous le souhaitez, les gens ont demandé un calendrier et une decomposition, alors je l’ai ajouté..
+Bien sûr,n’hésitez pas à passer autant de temps que vous le souhaitez, les gens ont demandé un calendrier et une décomposition, alors je l’ai ajouté..
 
 ## Resources
 
@@ -44,18 +44,18 @@ Configurez un [Serveur Lamp](https://en.wikipedia.org/wiki/LAMP_(software_bundle
 
 - Naviguez avec la commande `cd`
 - Comment lister les contenus d’un repertoire en utilisant la commande `ls`
-- Creer,copier,deplacer,renommer,repertoires et fichiers avec `mkdir`, `cp`, `rm`, et la commande `touch`.
+- Creer,copier,deplacer,renommer, des repertoires et fichiers avec `mkdir`, `cp`, `rm`, et la commande `touch`.
 - Trouver les choses avec `locate`, `whereis`, `which`, et la commande `find` 
 - Comprendre comment apprendre plus sur les commandes avec `which`, `man`, et la commande `--help`
 - Familier en trouvant les details des logs dans `/var/log`
 - Comment afficher le contenu d’un fichier avec `cat`, `less`, `more`, `tail`, `head`.
 - Filtrer avec `grep` et `sed`.
-- Redirection des entrees standard, sortie et erreur avec `>` operateur et la commande `tee`
-- Comment utiliser les pipelines avec `|` operateur.
+- Redirection des entrées standard, sorties et erreurs avec l'operateur `>`  et la commande `tee`
+- Comment utiliser les pipelines avec l'operateur `|` .
 - Manipuler les fichiers avec `nano` ou `vim`.
-- Installer et desinstaller les paquets. Depend de la distribution,utilisation basée sur Debian `apt`.
+- Installer et desinstaller les paquets. Depend de la distribution, utilisation basée sur Debian `apt`.
 - Controle des permissions avec les commandes `chown`, `chgrp`, `chmod`.
-- Creer des utilisateurs et la commande `sudo`
+- Créer des utilisateurs et la commande `sudo`
 - Gestion des processus avec `ps`, `top`, `nice`, `kill`
 - Gérez l’environnement et les variables définies par l’utilisateur avec les commandes `env`, `set`, `export` 
 - Ajoutez vos repertoires à votre chemin `PATH`.
@@ -79,10 +79,10 @@ Les concepts dont vous devriez etre familier.
 ### Scripting bash
 
 - qu’est-ce qu’un shell ?
-- qu’est-ce que bash ?
+- qu’est-ce qu'un bash ?
 - Pourquoi un script doit commencer avec #!?
 - qu’est ce que les variables et comment les utiliser
-- Comment accepter les entrees utilisateurs 
+- Comment accepter les entrées utilisateurs 
 - Comment executer un script
 
 ## Les Certifications que vous pourriez vouloir voir
