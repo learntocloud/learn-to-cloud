@@ -17,7 +17,7 @@ Vous pouvez apprendre plus sur notre parcours dans le cloud ici :
 | Ordre| Matière                 | Temps à Devouer |
 |-------|---------------------------------|-------------------|
 | [0](phase0/README.md)     | Commencez avec zéro experience en tech | optionel 
-| [1](phase1/README.md)     | Linux,Réseau,et Scripting de base | 4 semaines          |
+| [1](phase1/README.md)     | Linux,Réseau,et les Fondamentaux du Scripting  | 4 semaines          |
 | [2](phase2/README.md)     | Les fondamentaux de la programmation | 4 semaines         |
 | [3](phase3/README.md)    |Les fondamentaux des plateformes cloud | 8 semaines          |
 | [4](phase4/README.md)     | Les fondamentaux du Devops      | 8 semaines          |
@@ -25,4 +25,4 @@ Vous pouvez apprendre plus sur notre parcours dans le cloud ici :
 
 
 
-### [Allez à phase 1: Linux et Les fondamentaux du Réseau](phase1/README.md)
+### [Allez à phase 1: Linux,Réseau,et les Fondamentaux du Scripting](phase1/README.md)
