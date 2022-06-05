@@ -85,8 +85,7 @@ Les concepts dont vous devriez etre familier.
 - Comment accepter les entrees utilisateurs 
 - Comment executer un script
 
-## les certifications que vous pouvez examiner
-
+## Les Certifications que vous pourriez vouloir voir
 il y a plusieurs certifications et vous pouvez choisir pour étudier pour l’un d’entre eux vraiment,mais beaucoup d’entre eux couvrent beaucoup plus que ce que vous devez savoir pour une base solide et sont plus axés sur l’administration Linux.
 
 - [LPI essentials](https://www.lpi.org/our-certifications/linux-essentials-overview)
