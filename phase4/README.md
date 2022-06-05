@@ -1,6 +1,6 @@
 # Phase 4: Principes fondamentaux de DevOps
 
-## Comment cette phase s'applique-t-elle au Cloud ?
+## Comment s'applique cette phase au cloud  ?
 
 DevOps consiste à faire en sorte que vos solutions fonctionnent efficacement, du déploiement aux mises à jour.
 Ce n'est pas spécifique au Cloud, car vous pouvez également mettre en œuvre des pratiques DevOps on-prem.
