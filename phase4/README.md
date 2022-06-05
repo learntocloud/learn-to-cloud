@@ -1,4 +1,4 @@
-# Phase 4: Principes fondamentaux de DevOps
+# Phase 4: Les fondamentaux du DevOps
 
 ## Comment s'applique cette phase au cloud  ?
 
@@ -24,7 +24,7 @@ Je pense aussi que cela vaut la peine de lire [Le projet Phoenix](https://itrevo
 - Monitoring (logs, métriques, traces)
 Je vous suggère de consacrer du temps à ces sujets et à cette chronologie :
 
-| Ordre | Sujet                | Délai |
+| Ordre | Sujet                | Temps à devouer |
 |-------|-----------------------|-------------------|
 | 1 | CI/CD avec GitHub Actions | 2 semaines
 | 2 | IaC avec Terraform | 2 semaines         |
@@ -57,7 +57,7 @@ Bien sûr, n'hésitez pas à y consacrer autant de temps que vous le souhaitez. 
 | [DevOps the Hardway - Azure](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure) | Ce tutoriel contient une solution complète et réelle pour la mise en place d'un environnement utilisant les technologies et pratiques DevOps pour le déploiement d'applications et de services/infrastructures cloud sur Azure. |
 | [DevOps the Hardway - AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) | Ce tutoriel contient une solution complète et réelle pour la mise en place d'un environnement utilisant les technologies et pratiques DevOps pour le déploiement d'applications et de services/infrastructures cloud sur AWS. |
 
-## Les aspects que vous devriez connaître à la fin de cette phase
+## Les choses que vous devez être familier avec à la fin de cette phase
 
 
 - Être capable d'expliquer chaque pratique DevOps
@@ -74,3 +74,6 @@ Bien sûr, n'hésitez pas à y consacrer autant de temps que vous le souhaitez. 
 
 - [AWS Certified DevOps Engineer - Profession](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
 - [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
+
+
+

@@ -1,8 +1,8 @@
-# Phase 1: Linux,Réseau,et Scripting de base 
+# Phase 1: Linux,Réseau,et les Fondamentaux du scripting 
 
 ## Comment s’applique cette phase au Cloud?
 
-le cloud est un tas des serveurs Linux mise en réseau ensemble. apprendre les bases de comment les reseaux fonctionnent,et comment interagir avec ces serveurs via les commandes, et automatiser ces commandes via un script, est l’objet de cette phase. si vous êtes déjà un administrateur linux ou ingenieur réseau,vous pouvez appliquer vos connaissances dans le cloud.
+le cloud est un tas des serveurs Linux mise en réseau ensemble. apprendre les bases des fonctionnement réseaux,et comment interagir avec ces serveurs via les commandes, et automatiser ces commandes via un script, est l’objet de cette phase. si vous êtes déjà un administrateur linux ou ingenieur réseau,vous pouvez appliquer vos connaissances dans le cloud.
 
 ## Comment décomposer cette phase
 
@@ -11,7 +11,7 @@ le cloud est un tas des serveurs Linux mise en réseau ensemble. apprendre les b
 | Ordre |   sujets                        | Temps à devouer | 
 |-------|---------------------------------|-------------------|
 | 1 | Introduction aux Commandes linux | 2 semaines
-| 2 | Introduction au Reseau  | 1 semaine         |
+| 2 | Introduction au Réseau  | 1 semaine         |
 | 3 | Introduction au Scripting bash | 1 semaine           |
 
 Bien sûr,n’hésitez pas à passer autant de temps que vous le souhaitez, les gens ont demandé un calendrier et une décomposition, alors je l’ai ajouté..
@@ -20,7 +20,7 @@ Bien sûr,n’hésitez pas à passer autant de temps que vous le souhaitez, les 
 
 |   Sujets   | Titre    |  Notes     |
 | :------------- | ---------- | :----------- |
-|  Linux | [Linux de base pour les pirates](https://nostarch.com/linuxbasicsforhackers)   |  Ce livre a rendu l’apprentissage de Linux amusant!C’est assez facile à suivre et à prendre un chapitre jour après jour. Vous n’avez pas besoin de lire le tout,les 9 premiers chapitres couvrent la plupart de ce que vous devez savoir.  |
+|  Linux | [Linux de base pour les pirates](https://nostarch.com/linuxbasicsforhackers)   |  Ce livre a rendu l’apprentissage de Linux amusant! C’est assez facile à suivre et à lire un chapitre jour après jour. Vous n’avez pas besoin de lire le tout,les 9 premiers chapitres couvrent la plupart de ce que vous devez savoir.  |
 | Linux   | [La ligne de commande linux ](https://nostarch.com/tlcl2) | Je l’ai utilisé davantage comme référence pour renforcer les sujets du premier livre.. |
 | Linux   | [Parcours Linux](https://linuxjourney.com/) | Une maniere interactive d’apprendre Linux et la ligne de commande !|
 | Reseau  | [Cours de réseautage informatique FreeCodeCamp](https://youtu.be/qiQR5rTSshw) | Ce cours complet de réseau informatique vous préparera à configurer,gérer et dépanner les réseaux informatiques.|
@@ -38,7 +38,7 @@ Configurez un [Serveur Lamp](https://en.wikipedia.org/wiki/LAMP_(software_bundle
  Deployer votre propre Cloud | Consultez [NextCloud](https://nextcloud.com/) |
   Convertissez les fichiers Videos | Consultez [ffmpeg](https://ffmpeg.org/ffmpeg.html) utilisez-le pour écrire un script qui convertit un fichier .mov en mp4
 
-## Les choses dont vous devriez etre familier à la fin de cette phase
+## Les choses dont vous devriez être familier à la fin de cette phase
 
 ### Commandes
 
@@ -85,8 +85,7 @@ Les concepts dont vous devriez etre familier.
 - Comment accepter les entrées utilisateurs 
 - Comment executer un script
 
-## les certifications que vous pouvez examiner
-
+## Les Certifications que vous pourriez vouloir voir
 il y a plusieurs certifications et vous pouvez choisir pour étudier pour l’un d’entre eux vraiment,mais beaucoup d’entre eux couvrent beaucoup plus que ce que vous devez savoir pour une base solide et sont plus axés sur l’administration Linux.
 
 - [LPI essentials](https://www.lpi.org/our-certifications/linux-essentials-overview)
@@ -96,7 +95,7 @@ il y a plusieurs certifications et vous pouvez choisir pour étudier pour l’un
 - [LPI](https://www.lpi.org/)
 - [Comptia Linux+](https://www.comptia.org/certifications/linux)
 
-Il existe également des tonnes de certifications réseau, et similaires à celles de Linux, elles sont plus axées sur le fait de vous donner beaucoup de connaissances afin que vous puissiez devenir un ingénieur / spécialiste des réseaux, encore une fois à un niveau d’introduction, c’est un peu exagéré. Si vous vouliez en obtenir un, jetez un coup d’œil au [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) qui sont à peu près la norme de l’industrie et/ou [Comptia Network+](https://www.comptia.org/certifications/network).
+Il existe également des tonnes de certifications réseau, et similaires à celles de Linux, elles sont plus axées sur le fait de vous donner beaucoup de connaissances afin que vous puissiez devenir un ingénieur / spécialiste des réseaux, encore une fois à un niveau d’introduction, c’est un peu exagéré. Si vous vouliez en obtenir un, jetez un coup d’œil aux [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) qui sont à peu près la norme de l’industrie et/ou [Comptia Network+](https://www.comptia.org/certifications/network).
 
 À la fin de la journée, si vous voulez les prendre, allez-y :)
   

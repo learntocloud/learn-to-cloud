@@ -8,7 +8,8 @@ Dans l’étape précédente, vous avez été présenté et avez écrit des scri
 Je pense qu’il serait maintenant bénéfique d’apprendre plus de compétences en programmation.
 
 
-Il existe plusieurs langages de programmation qui sont populaires avec Cloud, comme Go, Rust, .NET, JavaScript, mais parce que vous êtes débutant,je choisirai [Python](https://www.python.org/). C’est un langage populaire et il existe de nombreuses ressources gratuites de qualité pour l’apprendre et c’est l’un des langages les plus simples pour debuter avec.
+
+Il existe plusieurs langages de programmation qui sont populaires avec le Cloud,comme Go,Rust,.NET,JavaScript, mais parce que vous êtes débutant,je choisirai [Python](https://www.python.org/). C’est un langage populaire et il existe de nombreuses ressources gratuites de qualité pour l’apprendre et c’est l’un des langages les plus simples pour debuter avec.
 
 [Git](https://git-scm.com/) est l’outil de contrôle de version le plus populaire et l’une des pratiques DevOps. Il est utilisé pour gérer et partager votre code. GitHub est l’un des services d’hébergement de référentiel Git les plus populaires. Prenez le temps maintenant de créer un compte [GitHub](https://github.com/) si vous n’en avez pas déjà un. Ce sera votre portefeuille de code et vous devriez y mettre autant de projets que vous le souhaitez. 
 
@@ -49,7 +50,7 @@ Bien sûr, n’hésitez pas à passer autant de temps que vous le souhaitez, les
  [Creer votre profile GitHub readme](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) | Créez un fichier README pour parler de vous aux autres. Voici [le mien](https://github.com/madebygps/madebygps) comme un exemple. Rishab en a [un](https://github.com/rishabkumar7/rishabkumar7) aussi.
  | [Mise en réseau de projets Python](https://youtu.be/FGdiSJakIS4)| Développez des compétences en Python et en Réseau.
  
-## Les choses dont vous devriez etre familier avant la fin de cette phase
+## Les choses dont vous devriez être familier à la fin de cette phase
 
 ### Programmation
 
@@ -67,13 +68,13 @@ Bien sûr, n’hésitez pas à passer autant de temps que vous le souhaitez, les
 ### Git
 
 - Comment créer un dépôt localement
-- Comment créer un dépôt Git et le cloner (télécharger) localement
+- Comment créer un dépôt Git et le cloner (telecharger) localement
 - Comment créer une branche Git
 - Comment ajouter des modifications à une branche avec Git
 - Comment fusionner les changements avec Git
 - Comment documenter le code avec un README
 
-## Les certifications que vous pouvez examiner 
+## Certifications que vous pourriez vouloir voir
 
 - [Python Institute certifications](https://pythoninstitute.org/certification/)
 
