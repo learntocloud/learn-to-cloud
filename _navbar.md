@@ -10,3 +10,4 @@
 
   * [En](/)
   * [Pt](/pt/README.md)
+  * [Es](/es/)
