@@ -1,16 +1,33 @@
 # Welcome
 
-**[Web version here](https://learntocloud.guide)**
+## What is Learn to Cloud?
 
-This is a guide based on our experiences getting into Cloud and DevOps. Once done, you should have the technical knowledge for roles like:
+
+It all started from [this tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en)
+
+This is a guide based on our experiences getting into Cloud and DevOps. It's not a book or course. It outlines everything you need to learn so that at the end of it you should have the technical knowledge for roles like:
 
 - System administrator.
 - Cloud Support Engineer.
 - Cloud Administrator.
+ 
 
-You can learn more about our journeys into cloud here:
-- [Rishab's journey from help desk to DevOps engineer without a degree](https://youtu.be/LZuWZ0SBYm8) 
-- [Gwyn's journey from help desk to Cloud engineer without a degree](https://youtu.be/kluKaLXJ2lg)
+## Who are the authors?
+
+
+- [Gwyn](https://aka.ms/madebygps) is the lead author.
+
+- [Rishab](https://twitter.com/rishabk7) is the co author. 
+
+## Can I get into cloud without a degree
+
+Yes, we did.
+
+- [Gwyn's journey from college dropout to Cloud Engineer](https://youtu.be/kluKaLXJ2lg)
+- [Rishab's journey from help desk to DevOps Engineer](https://youtu.be/LZuWZ0SBYm8)
+
+## How long will this take me to complete
+
 
 We tried to keep it as general and using the most popular options (in terms of content, community, and jobs) as possible. The 6 month timeline is something we put in place to help people with planning and accountability. It may take you more or less time for each phase and if it does, that is completely fine.
 

@@ -6,6 +6,8 @@
 
 * [Contributors](Contributors.md)
 
-* [En](/)
+* Translations
 
-* [Es](/es/)
+  * [En](/)
+  * [Pt](/pt/README.md)
+  * [Es](/es/)
