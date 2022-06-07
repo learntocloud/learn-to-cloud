@@ -38,14 +38,21 @@
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/azgcloudev>
+            <img src=https://avatars.githubusercontent.com/u/72358828?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Aldair/>
+            <br />
+            <sub style="font-size:14px"><b>Aldair</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/ydamni>
             <img src=https://avatars.githubusercontent.com/u/93495053?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Yassin DAHMOUNI/>
             <br />
             <sub style="font-size:14px"><b>Yassin DAHMOUNI</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/loujaybee>
             <img src=https://avatars.githubusercontent.com/u/5528307?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Lou Bichard/>
