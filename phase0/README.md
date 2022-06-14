@@ -8,7 +8,7 @@ If you feel like you have zero tech experience but you want to get into Cloud Co
 
 Let's get started. 
 
-1. I think a good first step is understanding the fundamentals of IT and [this video](https://youtu.be/gkOdIZwUKfM) is a fantastic overview.
+1. I think a good first step is understanding the fundamentals of IT and [this playlsit](https://www.youtube.com/playlist?list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K) is a fantastic overview.
 
 2. The above video should give you some understanding of the following but let's dive in a little more and understand what some of the fundamentals of Cloud are.
 
