@@ -1,6 +1,6 @@
 # Phase 4: DevOps fundamentals
 
-Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
+Author: [Rishab Kumar](https://twitter.com/rishabk7)
 
 ## How does this phase apply to Cloud?
 

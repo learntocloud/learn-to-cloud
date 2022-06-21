@@ -10,7 +10,7 @@
   - [Phase 2: Programming fundamentals](phase2/README.md)
   - [Phase 3: Cloud Platform fundamentals](phase3/README.md)
   - [Phase 4: DevOps fundamentals](phase4/README.md)
-  - [Phase 5: Cloud Security fundamentals](phase4/README.md)
+  - [Phase 5: Cloud Security fundamentals](phase5/README.md)
 
 - Resources
 
