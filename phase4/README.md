@@ -77,3 +77,8 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 
 - [AWS Certified DevOps Engineer - Profession](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
 - [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
+
+
+## What's next
+
+[Go to Phase 5: Cloud Security fundamentals](../phase4/README.md)
