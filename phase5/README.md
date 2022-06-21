@@ -12,7 +12,7 @@ Here's one of my favorite articles by [Christophe Tafani-Dereeper](https://twitt
 
 - [Cloud Security Breaches and Vulnerabilities: 2021 in Review](https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/)
 
-I also recommend checking out [Securing DevOps: Security in the Cloud](https://www.manning.com/books/securing-devops) by [Julien Vehent](https://twitter.com/jvehent) which covers several of the core components for protecting the cloud infrastructure, loggin and detecting threats and so on. It even has  practical and visual aids that help in learning these concepts. 
+I also recommend checking out [Securing DevOps: Security in the Cloud](https://www.manning.com/books/securing-devops) by [Julien Vehent](https://twitter.com/jvehent) which covers several of the core components for protecting cloud infrastructure, logging, detecting threats and so on. It even has practical and visual aids that help in learning these concepts. 
 
 Another book recommendation is [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/) by [Chris Dotson](https://www.linkedin.com/in/chris-dotson-6a9b55/). This book is a good complimentary resource to the previous book as it goes in-depth into various concepts, standards, frameworks and principles required for cloud security, and as the name implies, it is practical.
 
@@ -59,7 +59,7 @@ Azure | [SIEM Tutorial for Beginners | Azure Sentinel Tutorial MAP with LIVE CYB
 
 - An understanding of core IAM concepts (Users, Roles, Policies, Groups, Service Accounts/Principals, etc.)
 - An understanding of how authentication works in the cloud.
-- An understanding of secure cloud storage.
+- An understanding of secure cloud storage, compute, networking, applications and so on .
 - Common security vulnerabilites and misconfigurations in the cloud.
 - How to investigate cloud logs and determine if a cloud envrionment has been compromised.
 - How to simulate attacks against cloud environments.
