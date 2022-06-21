@@ -1,5 +1,7 @@
 # Phase 2: Programming fundamentals
 
+Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
+
 ## How does this phase apply to Cloud?
 
 You'll be using code to automate tasks and deploy infrastructure. You don't need to know how to build full applications but understanding the basics of programming will give you an upper hand. There are dedicated developer roles in cloud. For those you will need to know how to build full solutions, checkout [this video](https://youtu.be/WMUAc7bvB7M) for more info on that role. 

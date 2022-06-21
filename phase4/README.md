@@ -1,5 +1,7 @@
 # Phase 4: DevOps fundamentals
 
+Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
+
 ## How does this phase apply to Cloud?
 
 DevOps is all about getting your solutions to run efficiently from deployment to updates.

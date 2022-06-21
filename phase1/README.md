@@ -1,5 +1,8 @@
 # Phase 1: Linux, Networking, and Scripting fundamentals
 
+
+Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
+
 ## How does this phase apply to Cloud?
 
 The cloud is a bunch of Linux Servers networked together. Learning the fundamentals of how networking works, and how to interact with these servers via commands, and automating those commands via a script, is what this phase is about. If you're already a Linux admin or network engineer, you can apply your skills to the cloud.

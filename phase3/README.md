@@ -1,5 +1,7 @@
 # Phase 3: Cloud Platform fundamentals
 
+Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
+
 ## How does this phase apply to Cloud?
 
 Sometimes people are surprised to see that this phase isn't number 1, though it is the longest and for good reason. As a Cloud professional, you will live in a platform, or multiple. Everything you build, support, develop, etc, will be on a platform. Here are some popular questions we get at this phase:
