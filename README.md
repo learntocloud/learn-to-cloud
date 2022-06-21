@@ -21,7 +21,7 @@ Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
 | [2](phase2/README.md)  | Programming fundamentals |          |
 | [3](phase3/README.md)  | Cloud Platform fundamentals|           |
 | [4](phase4/README.md)  | DevOps fundamentals         |          |
-| [5](phase5/README.md)  | Cloud Security fundamentals|        Coming soon   | 
+| [5](phase5/README.md)  | Cloud Security fundamentals|         | 
 
 
 
