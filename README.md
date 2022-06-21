@@ -2,43 +2,29 @@
 
 ## What is Learn to Cloud?
 
-
-It all started from [this tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en)
-
-This is a guide based on our experiences getting into Cloud and DevOps. It's not a book or course. It outlines everything you need to learn so that at the end of it you should have the technical knowledge for roles like:
+Learn to Cloud is a GUIDE that originated from [this tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en). It's not a book or course. The goal is to provide an outline of skills you need to learn to get into Cloud Computing. At the end of it you should have the technical knowledge for roles like:
 
 - System administrator.
 - Cloud Support Engineer.
 - Cloud Administrator.
  
+## Questions? Comments? Feedback?
 
-## Who are the authors?
+Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
 
+## Phases
 
-- [Gwyn](https://aka.ms/madebygps) is the lead author.
-
-- [Rishab](https://twitter.com/rishabk7) is the co author. 
-
-## Can I get into cloud without a degree
-
-Yes, we did.
-
-- [Gwyn's journey from college dropout to Cloud Engineer](https://youtu.be/kluKaLXJ2lg)
-- [Rishab's journey from help desk to DevOps Engineer](https://youtu.be/LZuWZ0SBYm8)
-
-## How long will this take me to complete
-
-
-We tried to keep it as general and using the most popular options (in terms of content, community, and jobs) as possible. The 6 month timeline is something we put in place to help people with planning and accountability. It may take you more or less time for each phase and if it does, that is completely fine.
-
-
-| Order | Topic                           | Time commitment |
+| Order | Topic                           | Notes |
 |-------|---------------------------------|-------------------|
-| [0](phase0/README.md)     | Start from zero tech experience  | optional 
-| [1](phase1/README.md)     | Linux, Networking, and Scripting fundamentals | 4 weeks           |
-| [2](phase2/README.md)     | Programming fundamentals | 4 weeks           |
-| [3](phase3/README.md)    | Cloud Platform fundamentals| 8 weeks           |
-| [4](phase4/README.md)     | DevOps fundamentals         | 8 weeks           |
+| [0](phase0/README.md)  | Start from zero tech experience  | optional 
+| [1](phase1/README.md)  | Linux and Networking fundamentals|
+| [2](phase2/README.md)  | Programming fundamentals |          |
+| [3](phase3/README.md)  | Cloud Platform fundamentals|           |
+| [4](phase4/README.md)  | DevOps fundamentals         |          |
+| [5](phase5/README.md)  | Cloud Security fundamentals|        Coming soon   | 
+
+
+
 
 
 
