@@ -8,7 +8,7 @@ Security is the biggest challenge to cloud computing. As cloud adoption continue
 
 The individual cloud components you were introduced to in the previous phases all require security in some shape or form. Better yet, security has to be considered from every perspective in order to prevent malicious actors from finding and exploiting vulnerabilities in our cloud environments which could potentially lead to data or infrastructure compromise.
 
-Here's one of my favorite articles by [Christophe Tafani-Dereeper](https://twitter.com/christophetdb) that covers Cloud Security Breaches and Vulnerabilities:
+Here's one of my favorite articles by [Christophe Tafani-Dereeper](https://twitter.com/christophetd) that covers Cloud Security Breaches and Vulnerabilities:
 
 - [Cloud Security Breaches and Vulnerabilities: 2021 in Review](https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/)
 
