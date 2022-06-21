@@ -17,7 +17,7 @@ Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
 | Order | Topic                           | Notes |
 |-------|---------------------------------|-------------------|
 | [0](phase0/README.md)  | Start from zero tech experience  | optional 
-| [1](phase1/README.md)  | Linux, Networking, and Scripting fundamentals|
+| [1](phase1/README.md)  | Linux and Networking fundamentals|
 | [2](phase2/README.md)  | Programming fundamentals |          |
 | [3](phase3/README.md)  | Cloud Platform fundamentals|           |
 | [4](phase4/README.md)  | DevOps fundamentals         |          |
