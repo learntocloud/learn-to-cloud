@@ -81,4 +81,4 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 
 ## What's next
 
-[Go to Phase 5: Cloud Security fundamentals](../phase4/README.md)
+[Go to Phase 5: Cloud Security fundamentals](../phase5/README.md)
