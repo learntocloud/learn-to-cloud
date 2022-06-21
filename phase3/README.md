@@ -6,8 +6,8 @@ Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
 
 Sometimes people are surprised to see that this phase isn't number 1, though it is the longest and for good reason. As a Cloud professional, you will live in a platform, or multiple. Everything you build, support, develop, etc, will be on a platform. Here are some popular questions we get at this phase:
 
-- [Which cloud to learn?](../more-topics/FAQ.md)
-- [Are paid cloud learning platforms worth it?](../more-topics/FAQ.md)
+- [Which cloud to learn?](../resources/FAQ.md)
+- [Are paid cloud learning platforms worth it?](../resources/FAQ.md)
 
 
 ## Resources
@@ -45,7 +45,6 @@ AWS | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)| Build your re
 Azure | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)| Build your resume with Azure Services   |  
 GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Build your resume with GCP services |
 Azure | [Azure Resume API](https://github.com/rishabkumar7/AzureResumeAPI)      | Build a resume API endpoint utilizing Azure Functions   |
-Azure | [Crypto .Net Ticker](https://github.com/madebygps/crypto-ticker-dotnet) | Build a website that display crypto data with Azure functions and .NET |       
 AWS | [Cloud Is Free](https://cloudisfree.com) | Set up practical projects through an interactive and detailed documentation, while taking advantage of the Free Tier from AWS.
 
 

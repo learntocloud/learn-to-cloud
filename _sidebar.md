@@ -15,8 +15,7 @@
 - Resources
 
   - [More projects](projects/README.md)
-  - [Study tips](resources/readme.md)
-  - [Flowcharts](resources/flowcharts.md)
+  - [Study tips and resources](resources/readme.md)
 
 - Follow the guide
 
