@@ -26,6 +26,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 |  Linux | [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | This book made learning Linux FUN! It's pretty easy to follow and take a chapter day by day. You don't need to read the whole thing, the first 9 chapters cover most of what you need to know.  |
 | Linux   | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. |
 | Linux   | [Linux Journey](https://linuxjourney.com/) | Interactive way to learn Linux and Linux CLI!|
+| Networking   | [Practical Networking - Networking Fundamentals](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi) | This series will walk you through what you need to understand the core of Networking:  How data moves through the Internet|
 | Networking   | [FreeCodeCamp Computer Networking Course](https://youtu.be/qiQR5rTSshw) | This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks.|
 | Introduction to Bash  | [Linux Bash Course by GPS](https://youtu.be/qALScO3E61I) | An introduction to Bash!|
 | Bash Scripting   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!|
