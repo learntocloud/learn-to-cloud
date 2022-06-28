@@ -16,6 +16,7 @@
 
   - [More projects](projects/README.md)
   - [Study tips and resources](resources/readme.md)
+  - [Resume Resources](resources/resume-tips.md)
 
 - Follow the guide
 
