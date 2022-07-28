@@ -16,7 +16,7 @@ Sometimes people are surprised to see that this phase isn't number 1, though it 
 | Cloud Platform | Title  | Notes  |
 |:-------------- | ------ | ------ |
 AWS | [AWS training and Certification](https://aws.amazon.com/training/)| AWS official training |
-AWS | [GPS's AWS CDA Notes](https://1drv.ms/b/s!AlqgVriKH8xEhLtOcSYu73TqOAMOVw?e=ycAe4f) | These are the notes I took when studying for AWS CDA.
+AWS | [GPS's AWS CDA Notes](https://1drv.ms/b/s!AlqgVriKH8xEhLtO_DCxLO3bCJEz6w?e=cMkL9n) | These are the notes I took when studying for AWS CDA.
 AWS | [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected) | AWS recommendations and describes best practices |
 Azure | [John Savill](https://www.youtube.com/c/NTFAQGuy) | Many Azure training videos. |
 Azure | [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) | Azure recommendations and describes best practices |
