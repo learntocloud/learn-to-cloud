@@ -7,10 +7,18 @@ Learn to Cloud is a GUIDE that originated from [this tweet](https://twitter.com/
 - System administrator.
 - Cloud Support Engineer.
 - Cloud Administrator.
+
+## Can I really get into Cloud by being self-taught?
+
+Yes, watch [this](https://youtu.be/kluKaLXJ2lg)
  
 ## Questions? Comments? Feedback?
 
 Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
+
+To keep up to date with improvements on the guide, follow our [podcast]
+- [Video](https://www.youtube.com/channel/UCbEDpkjQYiDn9XfssWGuyHQ)
+- [Audio](https://randomcloudchats.transistor.fm/)
 
 ## Phases
 
