@@ -31,6 +31,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 | Introduction to Bash  | [Linux Bash Course by GPS](https://youtu.be/qALScO3E61I) | An introduction to Bash!|
 | Bash Scripting   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!|
 | Bash commands | [Beginner's crash course to Linux Bash](https://youtu.be/qALScO3E61I) | an hour video made by Gwyn
+| Linux Hackathon | [A Linux Hackathon for beginner's](https://linuxhackathon.com/) | Basic Linux challenges
 
 ## Projects
 

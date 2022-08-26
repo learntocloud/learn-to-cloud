@@ -71,6 +71,7 @@ We recommended getting at least one certification and if you only get one it sho
 - Entry level: 
     - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) 
     - [Azure Fundamentals AZ-900](https://docs.microsoft.com/learn/certifications/exams/az-900).
+    - [Study Cram for Azure Fundamentals AZ-900](https://github.com/ricmmartins/study-guide-az900)
     - [Google Cloud Digital Leader](https://cloud.google.com/certification/cloud-digital-leader)
 - Associate level: 
     - [AWS](https://aws.amazon.com/certification/): Any one. 
