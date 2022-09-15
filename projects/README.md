@@ -23,7 +23,7 @@ Title | Description | Author |
 [Azure networking labs by Binal Shah](https://github.com/binals/azurenetworking)|  This set of Azure Networking labs are simplified to demonstrate a single concept in each lab, using Azure portal or Azure CLI. | [Binal Shah](https://github.com/binals)
 [Azure Pet Store by Chris Tremblay](https://chtrembl.github.io/azure-cloud/petstore/)|  The Azure Pet Store is comprised of hypothetical open source applications developed to help you learn about and build awesome software on Azure| [Chris Tremblay](https://github.com/chtrembl)
 [AZ-104 Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)|  AZ-104 guided labs | Microsoft learning
-[WTH Serverless](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj94eSsxpf6AhWrEmIAHZ-ABekQFnoECAUQAQ&url=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLp7zlUSO6BQUecDwnnIOPotsZB2JXr4zE&usg=AOvVaw0HaDZL_zXbACK0tefBDc8H) | Build a Serverless Tollbooth Application on Azure | [GPS](https://twitter.com/madebygps)
+[WTH Serverless](https://www.youtube.com/playlist?list=PLmsFUfdnGr3wg9NCWGYGw0IJORaqXhzLP) | Build a Serverless Tollbooth Application on Azure | [GPS](https://twitter.com/madebygps)
 
 
 ## GCP Projects
