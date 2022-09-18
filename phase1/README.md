@@ -24,12 +24,13 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 | Topic      | Title    |  Notes     | Tips |
 | :------------- | ---------- | :----------- | :----------- |
 |  Linux | [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | This book made learning Linux FUN! It's pretty easy to follow and take a chapter day by day.   | You don't need to read the whole thing, the first 9 chapters cover most of what you need to know. 
-| Linux   | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. | Optional, but helpful. 
+| Linux   | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. | Optional, but helpful |
+Introduction to Bash  | [Linux Bash Course by GPS](https://youtu.be/qALScO3E61I) | An introduction to Bash!| Here I introduce you to some useful Bash commands. Watch it and then do them on your own.
+| Bash Scripting   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!| This will introduce you to concepts you'll use in the next phase.
 | Networking   | [Networking basics (2020)](https://www.youtube.com/watch?v=_IOZ8_cPgu8) | This 15 minute video covers all the essential networking concepts at a high level.  | Spend a day watching this and Googling each concept. Read more on each concept on your own.
 Networking | [Fundamentals of computer networking](https://learn.microsoft.com/en-us/training/modules/network-fundamentals/) | You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths. | Read this after the previous video.
 Networking | [Azure networking services overview](https://learn.microsoft.com/azure/networking/fundamentals/networking-overview) | You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths. | Optional, but I think it's a great time to introduce yourself to cloud services in the networking category, in this case Azure.
-| Introduction to Bash  | [Linux Bash Course by GPS](https://youtu.be/qALScO3E61I) | An introduction to Bash!| Here I introduce you to some useful Bash commands. Watch it and then do them on your own.
-| Bash Scripting   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!| This will introduce you to concepts you'll use in the next phase.
+
 
 
 
