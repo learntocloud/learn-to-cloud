@@ -38,14 +38,21 @@
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/ricmmartins>
+            <img src=https://avatars.githubusercontent.com/u/44813563?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Ricardo Martins/>
+            <br />
+            <sub style="font-size:14px"><b>Ricardo Martins</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/erh-git>
             <img src=https://avatars.githubusercontent.com/u/8422319?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=erh-git/>
             <br />
             <sub style="font-size:14px"><b>erh-git</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/azgcloudev>
             <img src=https://avatars.githubusercontent.com/u/72358828?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Aldair/>
@@ -58,6 +65,13 @@
             <img src=https://avatars.githubusercontent.com/u/93495053?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Yassin DAHMOUNI/>
             <br />
             <sub style="font-size:14px"><b>Yassin DAHMOUNI</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/JacobHigbee>
+            <img src=https://avatars.githubusercontent.com/u/23349913?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jacob Higbee/>
+            <br />
+            <sub style="font-size:14px"><b>Jacob Higbee</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
@@ -74,6 +88,8 @@
             <sub style="font-size:14px"><b>Sylvain Reiter</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/thomast1906>
             <img src=https://avatars.githubusercontent.com/u/12154020?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Thomas Thornton/>
@@ -88,8 +104,13 @@
             <sub style="font-size:14px"><b>Vaz</b></sub>
         </a>
     </td>
-</tr>
-<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/mpenrow>
+            <img src=https://avatars.githubusercontent.com/u/106648?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=mpenrow/>
+            <br />
+            <sub style="font-size:14px"><b>mpenrow</b></sub>
+        </a>
+    </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/nathanrobb>
             <img src=https://avatars.githubusercontent.com/u/3893233?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=nate/>

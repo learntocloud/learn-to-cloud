@@ -16,7 +16,7 @@ Sometimes people are surprised to see that this phase isn't number 1, though it 
 | Cloud Platform | Title  | Notes  |
 |:-------------- | ------ | ------ |
 AWS | [AWS training and Certification](https://aws.amazon.com/training/)| AWS official training |
-AWS | [GPS's AWS CDA Notes](https://1drv.ms/b/s!AlqgVriKH8xEhLtOcSYu73TqOAMOVw?e=ycAe4f) | These are the notes I took when studying for AWS CDA.
+AWS | [GPS's AWS CDA Notes](https://1drv.ms/b/s!AlqgVriKH8xEhLtO_DCxLO3bCJEz6w?e=cMkL9n) | These are the notes I took when studying for AWS CDA.
 AWS | [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected) | AWS recommendations and describes best practices |
 Azure | [John Savill](https://www.youtube.com/c/NTFAQGuy) | Many Azure training videos. |
 Azure | [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) | Azure recommendations and describes best practices |
@@ -44,8 +44,6 @@ Platform | Title | Description |
 AWS | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)| Build your resume with AWS services.| 
 Azure | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)| Build your resume with Azure Services   |  
 GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Build your resume with GCP services |
-Azure | [Azure Resume API](https://github.com/rishabkumar7/AzureResumeAPI)      | Build a resume API endpoint utilizing Azure Functions   |
-AWS | [Cloud Is Free](https://cloudisfree.com) | Set up practical projects through an interactive and detailed documentation, while taking advantage of the Free Tier from AWS.
 
 
 ## Things you should be familiar with at the end of this phase
@@ -71,6 +69,7 @@ We recommended getting at least one certification and if you only get one it sho
 - Entry level: 
     - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) 
     - [Azure Fundamentals AZ-900](https://docs.microsoft.com/learn/certifications/exams/az-900).
+    - [Study Cram for Azure Fundamentals AZ-900](https://github.com/ricmmartins/study-guide-az900)
     - [Google Cloud Digital Leader](https://cloud.google.com/certification/cloud-digital-leader)
 - Associate level: 
     - [AWS](https://aws.amazon.com/certification/): Any one. 
