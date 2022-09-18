@@ -21,9 +21,8 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 
 ## Resources
 
-<<<<<<< HEAD
 | Topic      | Title    |  Notes     | Tips |
-| :------------- | ---------- | :----------- | :----------- |
+| :------------- | ---------- | ----------- | :----------- |
 |  Linux | [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | This book made learning Linux FUN! It's pretty easy to follow and take a chapter day by day.   | You don't need to read the whole thing, the first 9 chapters cover most of what you need to know. 
 | Linux   | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. | Optional, but helpful |
 Introduction to Bash  | [Linux Bash Course by GPS](https://youtu.be/qALScO3E61I) | An introduction to Bash!| Here I introduce you to some useful Bash commands. Watch it and then do them on your own.
@@ -32,22 +31,6 @@ Introduction to Bash  | [Linux Bash Course by GPS](https://youtu.be/qALScO3E61I)
 Networking | [Fundamentals of computer networking](https://learn.microsoft.com/en-us/training/modules/network-fundamentals/) | You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths. | Read this after the previous video.
 Networking | [Azure networking services overview](https://learn.microsoft.com/azure/networking/fundamentals/networking-overview) | You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths. | Optional, but I think it's a great time to introduce yourself to cloud services in the networking category, in this case Azure.
 
-
-
-
-=======
-| Topic      | Title    |  Notes     |
-| :------------- | ---------- | :----------- |
-|  Linux | [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | This book made learning Linux FUN! It's pretty easy to follow and take a chapter day by day. You don't need to read the whole thing, the first 9 chapters cover most of what you need to know.  |
-| Linux   | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. |
-| Linux   | [Linux Journey](https://linuxjourney.com/) | Interactive way to learn Linux and Linux CLI!|
-| Networking   | [Practical Networking - Networking Fundamentals](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi) | This series will walk you through what you need to understand the core of Networking:  How data moves through the Internet|
-| Networking   | [FreeCodeCamp Computer Networking Course](https://youtu.be/qiQR5rTSshw) | This full college-level computer networking course will prepare you to configure, manage, and troubleshoot computer networks.|
-| Introduction to Bash  | [Linux Bash Course by GPS](https://youtu.be/qALScO3E61I) | An introduction to Bash!|
-| Bash Scripting   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!|
-| Bash commands | [Beginner's crash course to Linux Bash](https://youtu.be/qALScO3E61I) | an hour video made by Gwyn
-| Linux Hackathon | [A Linux Hackathon for beginner's](https://linuxhackathon.com/) | Basic Linux challenges
->>>>>>> eb6b2f1983f44c1f6ff03434a62485bcce7a5b73
 
 ## Projects
 
