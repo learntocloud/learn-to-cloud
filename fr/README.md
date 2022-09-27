@@ -1,6 +1,6 @@
 # Bienvenue 
 
-**[version web ici](https://learntocloud.guide)**
+**[Version web ici](https://learntocloud.guide)**
 
 Ce guide est basé sur nos experiences en debutant dans le Cloud et DevOps. Une fois fini, vous devriez avoir des connaissances techniques pour des rôles comme:
 
