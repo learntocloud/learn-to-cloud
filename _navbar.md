@@ -1,9 +1,16 @@
 <!-- _navbar.md -->
 
+* [Podcast](https://www.youtube.com/channel/UCbEDpkjQYiDn9XfssWGuyHQ/)
+
 * Socials
 
   * [Twitter](https://twitter.com/learntocloud)
+  * [Instagram](https://www.instagram.com/learntocloudguide/)
 
 * [Contributors](Contributors.md)
 
-* [En](/)
+* Translations
+
+  * [En](/)
+  * [Pt](/pt/README.md)
+  * [Es](/es/)

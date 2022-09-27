@@ -1,5 +1,7 @@
 # Phase 0: Starting from zero
 
+Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
+
 ## How does this phase apply to Cloud?
 
 If you feel like you have zero tech experience but you want to get into Cloud Computing. This phase is for you. If you are already in tech and switching to cloud, 
@@ -8,7 +10,7 @@ If you feel like you have zero tech experience but you want to get into Cloud Co
 
 Let's get started. 
 
-1. I think a good first step is understanding the fundamentals of IT and [this video](https://youtu.be/awLnur5Yt9o) is a fantastic overview.
+1. I think a good first step is understanding the fundamentals of IT and [this playlist](https://www.youtube.com/playlist?list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K) is a fantastic overview.
 
 2. The above video should give you some understanding of the following but let's dive in a little more and understand what some of the fundamentals of Cloud are.
 

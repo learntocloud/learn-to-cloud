@@ -6,6 +6,7 @@ Each phase has a list of projects that we recommend you complete. Here is a list
 
 Title | Description | Author 
 ------|-------------|--------|
+[AWS Workshop](https://workshops.aws/)| Amazon Workshops are hands-on events designed to teach or introduce practical skills, techniques, or concepts which you can use to solve business problems.
 [Cloud Resume Challenge](https://cloudresumechallenge.dev/)| Build your resume with AWS services.| [Forrest Brazeal](https://twitter.com/forrestbrazeal)
 [AWS Hands On Tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all) |  Get started with step-by-step tutorials to launch your first application | AWS |
 [AWS Architecture Center](https://aws.amazon.com/architecture/) | The AWS Architecture Center provides reference architecture diagrams, vetted architecture solutions, Well-Architected best practices, patterns, icons, and more. | AWS
@@ -21,8 +22,9 @@ Title | Description | Author |
 [Azure Citadel](https://www.azurecitadel.com/) | Many hands-on labs with Azure | [Azure Citadel](https://www.azurecitadel.com/) 
 [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/browse/) |   Architecture diagrams and technology descriptions for reference architectures, real world examples of cloud architectures, and solution ideas for common workloads on Azure.   | Microsoft
 [Azure networking labs by Binal Shah](https://github.com/binals/azurenetworking)|  This set of Azure Networking labs are simplified to demonstrate a single concept in each lab, using Azure portal or Azure CLI. | [Binal Shah](https://github.com/binals)
-[Azure Pet Store by Chris Tremblay](https://chtrembl.github.io/azure-cloud/petstore/)|  Build a Pet store using Azure | [Chris Tremblay](https://github.com/chtrembl)
+[Azure Pet Store by Chris Tremblay](https://chtrembl.github.io/azure-cloud/petstore/)|  The Azure Pet Store is comprised of hypothetical open source applications developed to help you learn about and build awesome software on Azure| [Chris Tremblay](https://github.com/chtrembl)
 [AZ-104 Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)|  AZ-104 guided labs | Microsoft learning
+[WTH Serverless](https://www.youtube.com/playlist?list=PLmsFUfdnGr3wg9NCWGYGw0IJORaqXhzLP) | Build a Serverless Tollbooth Application on Azure | [GPS](https://twitter.com/madebygps)
 
 
 ## GCP Projects

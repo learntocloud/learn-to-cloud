@@ -1,83 +1,81 @@
 # Phase 3: Fondamentaux des plateformes cloud
 
-## Comment cette phase s'applique-t-elle au Cloud ?
+Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
 
-Les gens sont parfois surpris de voir que cette phase n'est pas la première, alors qu'elle est la plus longue, et pour une bonne raison. En tant que professionnel du cloud, vous vivrez dans une ou plusieurs plateformes. Tout ce que vous construisez, soutenez, développez, etc, sera sur une plate-forme. Voici quelques-unes des questions les plus fréquentes que nous recevons dans cette phase :
+## How does this phase apply to Cloud?
 
-- [Quel cloud apprendre?](../more-topics/FAQ.md)
-- [Les plateformes d'apprentissage du cloud payantes en valent-elles la peine ?](../more-topics/FAQ.md)
+Sometimes people are surprised to see that this phase isn't number 1, though it is the longest and for good reason. As a Cloud professional, you will live in a platform, or multiple. Everything you build, support, develop, etc, will be on a platform. Here are some popular questions we get at this phase:
+
+- [Which cloud to learn?](../resources/FAQ.md)
+- [Are paid cloud learning platforms worth it?](../resources/FAQ.md)
 
 
 ## Resources
 
 
-| Plate-forme cloud | Titre  | Notes  |
+| Cloud Platform | Title  | Notes  |
 |:-------------- | ------ | ------ |
-AWS | [Formation et certification AWS](https://aws.amazon.com/training/)| Formation officielle AWS |
-AWS | [Notes de GPS sur l'AWS CDA](https://1drv.ms/b/s!AlqgVriKH8xEhLtOcSYu73TqOAMOVw?e=ycAe4f) | Ce sont les notes que j'ai prises lors de la préparation de l'AWS CDA.
-AWS | [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected) | Recommandations d'AWS et description des bonnes pratiques |
-Azure | [John Savill](https://www.youtube.com/c/NTFAQGuy) | Plusieurs vidéos de formation sur Azure. |
-Azure | [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) | Recommandations d'Azure et description des bonnes pratiques |
-Azure |[Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/) | Microsoft Learn propose du contenu gratuit pour de nombreux sujets techniques, y compris toutes les certifications Azure. |
-GCP | [Google Cloud training](https://cloud.google.com/certification) | GCP a plein de contenu de certification gratuit |
-GCP | [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) | Recommandations sur GCP et description des bonnes pratiques |
-Multi |[Notes de Rishab sur le cloud](https://notes.rishab.cloud/)| Notes sur les LPI Essentials, Terraform, AWS, Azure, etc. |
-Multi |[Cloud Computing sur FreeCodeCamp](https://www.freecodecamp.org/news/tag/cloud-computing/) | Cours gratuits sur AWS, Azure, GCP, etc. |
+AWS | [AWS training and Certification](https://aws.amazon.com/training/)| AWS official training |
+AWS | [GPS's AWS CDA Notes](https://1drv.ms/b/s!AlqgVriKH8xEhLtO_DCxLO3bCJEz6w?e=cMkL9n) | These are the notes I took when studying for AWS CDA.
+AWS | [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected) | AWS recommendations and describes best practices |
+Azure | [John Savill](https://www.youtube.com/c/NTFAQGuy) | Many Azure training videos. |
+Azure | [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) | Azure recommendations and describes best practices |
+Azure |[Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/) | Microsoft Learn has free content for many tech topics including all Azure certifications |
+GCP | [Google Cloud training](https://cloud.google.com/certification) | GCP has plenty of free certification content |
+GCP | [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) | GCP recommendations and describes best practices |
+Multi |[Rishab's Cloud Notes](https://notes.rishab.cloud/)| Notes on LPI Essentials, Terraform, AWS, Azure, and more. |
+Multi |[Cloud Computing on FreeCodeCamp](https://www.freecodecamp.org/news/tag/cloud-computing/) | Free courses on AWS, Azure, GCP, and more. |
 
 
-Quel que soit le matériel d'apprentissage que vous choisissez, il comportera une sorte de démo ou d'aspect pratique. Faites-le. Ne vous contentez pas de regarder/lire. Ce n'est pas une série Netflix que vous consommez, c'est un moment d'apprentissage.
+Regardless of which learning material you choose, it'll have some sort of demo/hands-on aspect to it. Do it. Don't just watch/read. This isn't a Netflix show you're consuming, this is learning time. 
 
-Lorsque vous débutez avec le cloud, vous ferez tout via l'interface utilisateur, ce qui est très bien pour commencer, mais une fois que vous aurez un poste, vous utiliserez le CLI ou Infrastructure as Code (vous en apprendrez davantage à ce sujet dans la phase 4) pour gérer vos environnements. Mon conseil est le suivant : pour chaque exercice que vous faites via l'interface utilisateur, recherchez la commande CLI et faites-le également de cette manière. À présent, vous devriez être familiarisé avec l'utilisation d'une ligne de commande. (C'est une des raisons pour lesquelles la phase Linux et la programmation viennent avant celle-ci).
+When you are first getting started with cloud, you'll be doing everything via the UI, and that is fine for getting started, however once you're in a job, you'll be using a CLI or Infrastructure as Code (you'll learn more about this in Phase 4) to manage your environments. My advice here is, for every exercise you do via the UI, look up the CLI command and do it that way too. By now you should be familiar with using a command line. (Which is a big reason Linux phase and programming comes before this one).
 
+This is also a great time to introduce yourself to the official documentation, [AWS](https://docs.aws.amazon.com/index.html), [Azure](https://docs.microsoft.com/azure/?product=featured) or [GCP](https://cloud.google.com/docs)
 
-C'est également le moment idéal pour vous présenter à la documentation officielle, [AWS](https://docs.aws.amazon.com/index.html), [Azure](https://docs.microsoft.com/azure/?product=featured) or [GCP](https://cloud.google.com/docs)
+If there is something you don't understand about a service or command, your go to should be the documentation. After that you can look up articles, tutorials, etc.
 
-S'il y a quelque chose que vous ne comprenez pas à propos d'un service ou d'une commande, votre point de référence devrait être la documentation. Ensuite, vous pouvez rechercher des articles, des tutoriels, etc.
+## Projects
 
-## Projets
+We recommend your first cloud project to be the Cloud Resume Challenge. Once you're done with that, visit the [Projects page](../projects/README.md) for more!
 
-Nous vous recommandons de commencer par le Cloud Resume Challenge. Une fois que vous avez terminé, visitez la page [Projets] (../projects/README.md) pour en savoir plus !
-
-Plateforme | Titre | Description |
+Platform | Title | Description |
 ---------|-------|-------------|
-AWS | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)| Construisez votre CV avec les services AWS.| 
-Azure | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)| Construisez votre CV avec les services Azure   |  
-GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Construisez votre CV avec les services GCP |
-Azure | [Azure Resume API](https://github.com/rishabkumar7/AzureResumeAPI)      | Construire un point de terminaison API de CV en utilisant les fonctions Azure |
-Azure | [Crypto .Net Ticker](https://github.com/madebygps/crypto-ticker-dotnet) | Construire un site web qui affiche des données cryptographiques avec les fonctions Azure et .NET |       
-AWS | [Cloud Is Free](https://cloudisfree.com) | Mettez en place des projets pratiques grâce à une documentation interactive et détaillée, tout en profitant de l'option de gratuité d'AWS.
+AWS | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)| Build your resume with AWS services.| 
+Azure | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)| Build your resume with Azure Services   |  
+GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Build your resume with GCP services |
 
 
-## Les choses que vous devez être familier avec à la fin de cette phase
+## Things you should be familiar with at the end of this phase
 
 
-- Une compréhension des bonnes pratiques en matière d'infrastructure cloud (fiabilité, efficacité des performances, sécurité, optimisation des coûts, etc.)
-- Comment accorder et révoquer l'accès et les autorisations aux utilisateurs et aux applications.
-- Comment configurer les alertes/alarmes de facturation, les budgets, et comment utiliser les outils de facturation.
-- Comment utiliser le service de stockage objet et comprendre les autres options de stockage.
-- Comment déployer des machines virtuelles évolutives et comprendre les autres services de calcul offerts par la plate-forme.
-- Comment configurer la surveillance des machines virtuelles et comprendre tous les services de surveillance offerts par la plate-forme.
-- Comment la mise en réseau fonctionne pour les machines virtuelles (Vnets/VPCs, sous-réseaux, tables de routes, adresses IP publiques et privées, VPN, passerelles, etc.)
-- Comment créer une API avec l'offre Functions as a Service de votre plateforme cloud et une compréhension globale de ce que le service est capable de faire.
-- Services d'hébergement d'applications Web offerts par votre plateforme cloud et une expérience pratique avec l'un de ces services. 
-- Les services de base de données offerts par votre plateforme cloud et une expérience pratique avec l'un d'entre eux.
-- Comment utiliser le CLI pour créer et gérer les ressources du cloud.
-## Certifications que vous pourriez vouloir voir
+- An understanding of best practices for cloud infrastructure (reliability, performance efficiency, security, cost optimization, etc.)
+- How to grant and revoke access and permissions to users and applications.
+- How to setup billing alerts/alarms, budgets, and how to use the billing tools.
+- How to use the object storage service and understanding of other storage options.
+- How to deploy scalable virtual machines and an understanding of other compute services the platform offers.
+- How to setup monitoring for virtual machines and an understanding of all monitoring services the platform offers.
+- How networking works for virtual machines (Vnets/VPCs, subnets, route tables, public and private IP addresses, VPNs, gateways, etc.)
+- How to create an API with the Functions as a Service offering your cloud platform has and an overall understanding of what the service is capable of.
+- Web application hosting services your cloud platform has to offer and hands on experience with one of the services. 
+- Database services your cloud platform has to offer and hands on experience with one of them.
+- How to use the CLI to create and manage cloud resources.
+## Certifications you might want to look into
 
-Nous aimons les certifications dans le domaine du cloud computing, car elles vous donnent un cadre agréable à suivre en termes d'apprentissage. Cependant, nous ne pensons pas qu'il soit nécessaire de posséder toutes les certifications existantes. Une ou deux, plus les connaissances en matière de Linux, de réseau, de programmation, sont suffisantes et déjà assez impressionnantes lorsque vous débutez. Au fur et à mesure que vous vous développez et que vous souhaitez vous spécialiser, les certifications sont un excellent moyen de vous perfectionner! 
+We like cloud certifications, they give you a nice outline to follow in terms of learning. However we don't think you need to have every single certification out there. One or two, plus the Linux, networking, programming, knowledge is plenty and already quite impressive when you're starting off. As you grow and want to specialize, certifications are great for up-skilling! 
 
+We recommended getting at least one certification and if you only get one it should be an associate level. You can of course get an entry level one as well.
 
-Nous vous recommandons d'obtenir au moins une certification, et si vous n'en obtenez qu'une, elle doit être de niveau associé. Vous pouvez bien évidemment obtenir une certification de niveau débutant.
-
-- Niveau débutant : 
+- Entry level: 
     - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) 
     - [Azure Fundamentals AZ-900](https://docs.microsoft.com/learn/certifications/exams/az-900).
+    - [Study Cram for Azure Fundamentals AZ-900](https://github.com/ricmmartins/study-guide-az900)
     - [Google Cloud Digital Leader](https://cloud.google.com/certification/cloud-digital-leader)
-- Niveau associé : 
-    - [AWS](https://aws.amazon.com/certification/): N'importe laquelle.
-    - [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Tenez-vous en à l'administration ou au développement, les autres niveaux d'associé sont un peu plus spécialisés et vous pouvez les prendre plus tard si vous le souhaitez.
-    - [GCP](https://cloud.google.com/certification/cloud-engineer): Il n'y a qu'une seule.
+- Associate level: 
+    - [AWS](https://aws.amazon.com/certification/): Any one. 
+    - [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Stick to the admin or developer, the other associate level ones are a little more specialized and you can take them later if you want.
+    - [GCP](https://cloud.google.com/certification/cloud-engineer): There is only one.
 
-## Quelle est la prochaine étape ?
+## What's next
 
-[Passez à la phase 4 : les fondamentaux du DevOps](../phase4/README.md)
+[Go to Phase 4: DevOps fundamentals](../phase4/README.md)

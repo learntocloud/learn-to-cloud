@@ -1,28 +1,32 @@
 # Bienvenue 
 
-**[version web ici](https://learntocloud.guide)**
+## What is Learn to Cloud?
 
-Ce guide est basé sur nos experiences en debutant dans le Cloud et DevOps. une fois fini,vous devriez avoir des connaissances techniques pour des rôles comme:
+Learn to Cloud is a GUIDE (not a book or course) that originated from [this tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en). The goal is to provide an outline of skills you need to learn to get into Cloud Computing. At the end of it you should have the technical knowledge for roles like:
 
 - Administrateur systeme.
 - Ingenieur de support cloud.
 - Administrateur Cloud.
 
-Vous pouvez apprendre plus sur notre parcours dans le cloud ici :
-- [le parcours de Rishab  de service d’assistance à ingenieur DevOps sans diplome universitaire ](https://youtu.be/LZuWZ0SBYm8) 
-- [le parcours de Gwyneth de service d’assistance à ingenieur cloud  sans diplome universitaire](https://youtu.be/kluKaLXJ2lg)
-- Nous avons essayé de le garder aussi général et d’utiliser les options les plus populaires(en terme des contenus,communauté,et emplois) autant que possible. le programamme de 6 mois est quelque chose que nous mettons en place pour aider avec la plannification et Suivie. cela pourrait vous prendre plus ou moins de temps pour chaque phase et si c’est le cas,c’est tout à fait vrai.
+## Can I really get into Cloud by being self-taught?
 
+Yes, watch [this](https://youtu.be/kluKaLXJ2lg)
+ 
+## Questions? Comments? Feedback?
 
-| Ordre| Matière                 | Temps à Devouer |
+Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
+
+To keep up to date with improvements on the guide, follow our podcast
+- [Video](https://www.youtube.com/channel/UCbEDpkjQYiDn9XfssWGuyHQ)
+- [Audio](https://podcast.learntocloud.guide/)
+
+## Phases
+
+| Order | Topic                           | Notes |
 |-------|---------------------------------|-------------------|
-| [0](phase0/README.md)     | Commencez avec zéro experience en tech | optionel 
-| [1](phase1/README.md)     | Linux,Réseau,et les Fondamentaux du Scripting  | 4 semaines          |
-| [2](phase2/README.md)     | Les fondamentaux de la programmation | 4 semaines         |
-| [3](phase3/README.md)    |Les fondamentaux des plateformes cloud | 8 semaines          |
-| [4](phase4/README.md)     | Les fondamentaux du Devops      | 8 semaines          |
-
-
-
-
-### [Allez à phase 1: Linux,Réseau,et les Fondamentaux du Scripting](phase1/README.md)
+| [0](phase0/README.md)  | Start from zero tech experience  | optional 
+| [1](phase1/README.md)  | Linux and Networking fundamentals|
+| [2](phase2/README.md)  | Programming fundamentals |          |
+| [3](phase3/README.md)  | Cloud Platform fundamentals|           |
+| [4](phase4/README.md)  | DevOps fundamentals         |          |
+| [5](phase5/README.md)  | Cloud Security fundamentals|         | 
