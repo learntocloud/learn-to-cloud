@@ -1,4 +1,4 @@
-# Phase 3: Cloud Platform fundamentals
+# Phase 3: Fondamentaux des plateformes cloud
 
 Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
 
