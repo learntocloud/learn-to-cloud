@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
-- Start here
-  - [Welcome](/#welcome)
+- Commencez Ici
+  - [Bienvenue](/#Bienvenue)
 
 - Guide
 
