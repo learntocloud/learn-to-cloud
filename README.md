@@ -16,11 +16,6 @@ Yes, watch [this](https://youtu.be/kluKaLXJ2lg)
 
 Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
 
-To keep up to date with improvements on the guide, follow our podcast
-
-- [Video](https://www.youtube.com/channel/UCbEDpkjQYiDn9XfssWGuyHQ)
-- [Audio](https://podcast.learntocloud.guide/)
-
 ## Phases
 
 | Order | Topic                           | Notes |
