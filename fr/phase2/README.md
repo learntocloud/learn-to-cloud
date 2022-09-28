@@ -76,7 +76,7 @@ Bien sûr, n’hésitez pas à passer autant de temps que vous le souhaitez, les
 
 ## Certifications que vous pourriez vouloir voir
 
-- [Python Institute certifications](https://pythoninstitute.org/certification/)
+- [Python Institute certifications](https://pythoninstitute.org/certification-tracks)
 
 Les certifications de programmation ne sont pas en demandes / populaires que celles du cloud. Comme pour toute certification,vous pouvez l’utiliser pour renforcer vos connaissances, mais ce n’est pas une obligation. Il y a beaucoup d’ingénieurs cloud sans certification.
 
