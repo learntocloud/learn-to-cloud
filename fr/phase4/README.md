@@ -1,11 +1,11 @@
 # Phase 4: Les fondamentaux du DevOps
 
-## Comment s'applique cette phase au cloud  ?
+## Comment s'applique cette phase au cloud?
 
 DevOps consiste à faire en sorte que vos solutions fonctionnent efficacement, du déploiement aux mises à jour.
 Ce n'est pas spécifique au Cloud, car vous pouvez également mettre en œuvre des pratiques DevOps on-prem.
 
-DevOps est une culture dans laquelle les équipes de développement et d'exploitation ne sont plus isolées. Ces deux groupes convergent en un seul groupe où les ingénieurs travaillent sur l'ensemble du cycle de vie des applications, du développement et des tests au déploiement et aux opérations, et favorisent un champ de compétences qui ne se limite pas à une seule fonction.
+DevOps est une culture dans laquelle les équipes de développement et d'opérations ne sont plus isolées. Ces deux groupes convergent en un seul groupe où les ingénieurs travaillent sur l'ensemble du cycle de vie des applications, du développement et des tests au déploiement et aux opérations, et favorisent un champ de compétences qui ne se limite pas à une seule fonction.
 
 Renseignez-vous sur ce qu'est DevOps. Chaque plateforme de cloud dispose d'une suite d'outils DevOps. J'ai mis en lien quelques articles ici :
 
@@ -13,7 +13,7 @@ Renseignez-vous sur ce qu'est DevOps. Chaque plateforme de cloud dispose d'une s
 - [AWS - Qu'est-ce que DevOps ?](https://aws.amazon.com/devops/what-is-devops/)
 - [IBM - Un guide complet sur le DevOps](https://www.ibm.com/cloud/learn/devops-a-complete-guide)
 
-Je pense aussi que cela vaut la peine de lire [Le projet Phoenix](https://itrevolution.com/the-phoenix-project/) C'est une lecture assez amusante car il s'agit d'une histoire fictive qui explique l'importance de DevOps. Mais si vous préférez quelque chose qui ressemble plus à un manuel avec des idées similaires, jetez un coup d'œil à [Le manuel du DevOps](https://itrevolution.com/the-devops-handbook/).
+Je pense aussi que cela vaut la peine de lire [Le projet Phoenix (Anglais)](https://itrevolution.com/the-phoenix-project/) C'est une lecture assez amusante car il s'agit d'une histoire fictive qui explique l'importance de DevOps. Mais si vous préférez quelque chose qui ressemble plus à un manuel avec des idées similaires, jetez un coup d'œil à [Le manuel du DevOps (Anglais)](https://itrevolution.com/the-devops-handbook/).
 
 ## Comment décomposer cette phase
 
@@ -38,13 +38,13 @@ Bien sûr, n'hésitez pas à y consacrer autant de temps que vous le souhaitez. 
 
 | Pratique                                                           | Outil                                                                                     |
 | :------------------------------------------------------------------ | :----------------------------------------------------------------------------------------- |
-| [Les séries DevOps de Rishab](https://youtube.com/playlist?list=PLK_LRl1CH4L9ZI0N6WqmQE-Y_-lflAbqM)| Explication de certains des concepts fondamentaux de DevOps.
+| [Les séries DevOps de Rishab (Anglais)](https://youtube.com/playlist?list=PLK_LRl1CH4L9ZI0N6WqmQE-Y_-lflAbqM)| Explication de certains des concepts fondamentaux de DevOps.
 | [Apprendre les actions GitHub](https://docs.github.com/en/actions/learn-github-actions)| Ce guide vous aidera à utiliser les actions GitHub pour accélérer les flux de développement de vos applications.
 | [HashiCorp Learn](https://learn.hashicorp.com/terraform)| Construisez, modifiez et détruisez votre infrastructure avec Terraform. Commencez ici pour apprendre les bases de Terraform avec votre fournisseur de cloud préféré.
-| [Cours d'ingénierie DevOps de FreeCodeCamp](https://youtu.be/j5Zsa_eOXeY) | Apprenez tout sur DevOps dans ce cours complet pour les débutants avec trois tutoriels techniques.
-| [Docker](https://youtu.be/3c-iBn73dDE) | Cours pratique complet sur Docker avec de nombreuses démonstrations et explications des concepts derrière, afin que vous le compreniez vraiment.
-| [Docker et Kubernetes](https://youtu.be/Wf2eSG3owoA) | Apprenez les principes fondamentaux de Docker et Kubernetes dans ce cours pratique complet.
-| [Prometheus](https://youtube.com/playlist?list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4) | Tutoriel complet sur Prometheus Monitoring 
+| [Cours d'ingénierie DevOps de FreeCodeCamp (Anglais)](https://youtu.be/j5Zsa_eOXeY) | Apprenez tout sur DevOps dans ce cours complet pour les débutants avec trois tutoriels techniques.
+| [Docker (Anglais)](https://youtu.be/3c-iBn73dDE) | Cours pratique complet sur Docker avec de nombreuses démonstrations et explications des concepts derrière, afin que vous le compreniez vraiment.
+| [Docker et Kubernetes (Anglais)](https://youtu.be/Wf2eSG3owoA) | Apprenez les principes fondamentaux de Docker et Kubernetes dans ce cours pratique complet.
+| [Prometheus (Anglais)](https://youtube.com/playlist?list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4) | Tutoriel complet sur Prometheus Monitoring 
 
 ## Projets
 
@@ -57,7 +57,7 @@ Bien sûr, n'hésitez pas à y consacrer autant de temps que vous le souhaitez. 
 | [DevOps the Hardway - Azure](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure) | Ce tutoriel contient une solution complète et réelle pour la mise en place d'un environnement utilisant les technologies et pratiques DevOps pour le déploiement d'applications et de services/infrastructures cloud sur Azure. |
 | [DevOps the Hardway - AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) | Ce tutoriel contient une solution complète et réelle pour la mise en place d'un environnement utilisant les technologies et pratiques DevOps pour le déploiement d'applications et de services/infrastructures cloud sur AWS. |
 
-## Les choses que vous devez être familier avec à la fin de cette phase
+## Les choses avec lesquelles vous devez être familier à la fin de cette phase
 
 
 - Être capable d'expliquer chaque pratique DevOps
