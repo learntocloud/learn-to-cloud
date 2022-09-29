@@ -24,6 +24,13 @@
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/CarolineChiari>
+            <img src=https://avatars.githubusercontent.com/u/57648401?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Caroline Chiari/>
+            <br />
+            <sub style="font-size:14px"><b>Caroline Chiari</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Abdennour0210>
             <img src=https://avatars.githubusercontent.com/u/46243233?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Abdennour/>
             <br />
@@ -37,6 +44,8 @@
             <sub style="font-size:14px"><b>Jose Cruz</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/antoniolofiego>
             <img src=https://avatars.githubusercontent.com/u/33105749?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Antonio Lo Fiego/>
@@ -44,8 +53,6 @@
             <sub style="font-size:14px"><b>Antonio Lo Fiego</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/abdrrahimelh>
             <img src=https://avatars.githubusercontent.com/u/59322515?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=EL HIMIR ABDERRAHIM/>
@@ -81,6 +88,8 @@
             <sub style="font-size:14px"><b>Yassin DAHMOUNI</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/JacobHigbee>
             <img src=https://avatars.githubusercontent.com/u/23349913?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jacob Higbee/>
@@ -88,8 +97,6 @@
             <sub style="font-size:14px"><b>Jacob Higbee</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/loujaybee>
             <img src=https://avatars.githubusercontent.com/u/5528307?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Lou Bichard/>
@@ -125,6 +132,8 @@
             <sub style="font-size:14px"><b>mpenrow</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/nathanrobb>
             <img src=https://avatars.githubusercontent.com/u/3893233?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=nate/>
