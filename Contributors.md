@@ -1,6 +1,16 @@
 ### Contributors
 
 <table>
+    
+     <tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/faizanlalcode>
+            <img src=https://avatars.githubusercontent.com/u/109913982?s=400&u=0f0739a57c5637d6ce960257b4cc64cc8c17f320&v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px"  Faizan Lal/>
+            <br />
+            <sub style="font-size:14px"><b>Faizan Lal</b></sub>
+        </a>
+    </td>
+<tr>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/madebygps>
