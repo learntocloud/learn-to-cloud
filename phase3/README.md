@@ -1,6 +1,6 @@
 # Phase 3: Cloud Platform fundamentals
 
-Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
+Author: [GPS](https://twitter.com/madebygps)
 
 ## How does this phase apply to Cloud?
 
@@ -8,6 +8,19 @@ Sometimes people are surprised to see that this phase isn't number 1, though it 
 
 - [Which cloud to learn?](../resources/FAQ.md)
 - [Are paid cloud learning platforms worth it?](../resources/FAQ.md)
+
+
+
+## How to break down this phase
+
+I would suggest spending time on these three topics and this timeline:
+
+| Order | Topic                           | Time commitment |
+|-------|---------------------------------|-------------------|
+| 1 | Cloud Certification | 4 weeks
+| 2 | Cloud Resume Challenge | 4 weeks
+
+Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it. 
 
 ## Resources
 

@@ -1,7 +1,6 @@
 # Phase 1: Linux, Networking, and Scripting fundamentals
 
-
-Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
+Author: [GPS](https://twitter.com/madebygps)
 
 ## How does this phase apply to Cloud?
 

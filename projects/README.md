@@ -35,3 +35,11 @@ Title | Description | Author |
 [GCP Codelabs](https://codelabs.developers.google.com/cloud) |  Learn about Google Cloud Platform by completing codelabs and coding challenges! | GCP
 [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Build your resume with GCP services |       [Mattias Anderson](https://twitter.com/MattiasEh) |
 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) | Choose your path, build your skills, and validate your GCP knowledge. | GCP
+
+## DevOps Projects
+
+Title | Description | Author |
+------|-------------|--------|
+[Deploy an App to Azure with ARM](https://github.com/SoniaConti/ContosoFinance-Demo) | ARM is an IaC tool used with Azure | [Sonia Conti](https://github.com/SoniaConti/ContosoFinance-Demo)
+|[Crypto-dot-net Ticket Dockerized](https://github.com/rishabkumar7/crypto-ticker-dotnet) | We Dockerize the crypto-dot-net ticker project that we built in Phase 3 | [Rishab Kumar](http://twitter.com/rishabk7)
+| [DevOps-Exercises](https://github.com/bregman-arie/devops-exercises) | This repo [devops-exercises](https://github.com/bregman-arie/devops-exercises) contains questions and exercises on various technical topics related to DevOps and SRE | [Arie Bregman](https://github.com/bregman-arie)

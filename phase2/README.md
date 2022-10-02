@@ -1,6 +1,6 @@
 # Phase 2: Programming fundamentals
 
-Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
+Author: [GPS](https://twitter.com/madebygps)
 
 ## How does this phase apply to Cloud?
 
@@ -16,7 +16,7 @@ There are several programming languages that are popular with Cloud, like Go, Ru
 
 ## How to break down this phase
 
-I would suggest spending time on these two topics and this timeline:
+I would suggest spending time on these three topics and this timeline:
 
 | Order | Topic                           | Time commitment |
 |-------|---------------------------------|-------------------|
