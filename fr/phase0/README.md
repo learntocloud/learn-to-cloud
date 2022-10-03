@@ -48,7 +48,7 @@ Je suis un grand fan de commencer dans la technologie à un rôle de soutien et 
 
 En outre, presque chaque entreprise a un helpdesk, donc beaucoup d’ouvertures pour commencer!
 
-Jetez un coup d’œil à cette vidéo de KevTech sur [Questions d’entrevue du Service d’assistance] (https://youtu.be/McxVgoQaCpU). Binge regarder sa chaîne parce qu’il a tellement de grand contenu!
+Jetez un coup d’œil à cette vidéo de KevTech sur [Questions d’entrevue du Service d’assistance](https://youtu.be/McxVgoQaCpU). Binge regarder sa chaîne parce qu’il a tellement de grand contenu!
 
 ## Prochaines étapes
 
