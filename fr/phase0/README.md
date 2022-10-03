@@ -1,56 +1,56 @@
-# Phase 0: Starting from zero
+# Phase 0 : Partir de zéro
 
-## How does this phase apply to Cloud?
+## Comment cette phase s’applique-t-elle au Cloud?
 
-If you feel like you have zero tech experience but you want to get into Cloud Computing. This phase is for you. If you are already in tech and switching to cloud, 
-[Go to Phase 1: Linux and Networking fundamentals](../phase1/README.md).
+Si vous avez l’impression de n’avoir aucune expérience technologique, mais que vous voulez vous lancer dans l’informatique en nuage. Cette phase est pour vous. Si vous êtes déjà dans la technologie et passez au cloud, 
+[Aller à Phase 1 : Linux and Networking fundamentals](../phase1/README.md).
 
 
-Let's get started. 
+On va s’y mettre. 
 
-1. I think a good first step is understanding the fundamentals of IT and [this video](https://youtu.be/awLnur5Yt9o) is a fantastic overview.
+1. Je pense qu’une bonne première étape consiste à comprendre les fondements de la TI et [cette vidéo] (https://youtu.be/awLnur5Yt9o) est un aperçu fantastique.
 
-2. The above video should give you some understanding of the following but let's dive in a little more and understand what some of the fundamentals of Cloud are.
+2. La vidéo ci-dessus devrait vous aider à comprendre ce qui suit, mais examinons un peu plus en détail certains des principes fondamentaux du nuage.
 
-   - [What is Linux](https://youtu.be/PwugmcN1hf8)
+   - [Qu’est-ce que Linux](https://youtu.be/PwugmcN1hf8)
    - [What is Networking](https://youtu.be/3QhU9jd03a0)
-   - [What is Programming](https://youtu.be/ifo76VyrBYo)
+   - [What is Programming] (https://youtu.be/ifo76VyrBYo)
    - [What is Cloud Computing](https://youtu.be/eZLcyTxi8ZI)
-   - [What is DevOps](https://youtu.be/9pZ2xmsSDdo/)
-   - [What is a Cloud Engineer and how to become one](https://youtu.be/7i1WMGxyt4Q)
+   - [Qu’est-ce que DevOps](https://youtu.be/9pZ2xmsSDdo/)
+   - [Qu’est-ce qu’un ingénieur cloud et comment le devenir](https://youtu.be/7i1WMGxyt4Q)
 
 
-## Things you should be able familiar with at the end of this phase
+## Choses que vous devriez connaître à la fin de cette phase
 
-- Honestly at this point, all you need to make sure of is that you want to get into tech and you're prepared to learn a lot. The learning will never stop.
-
-
-## Certifications you might want to look into 
-
-An industry standard for people getting into tech is the [CompTIA A+](https://www.comptia.org/certifications/a).
-
-Is it necessary? No. Is it helpful? Depends on your learning style. Did I take the A+? Also no. Does that mean you shouldn't take it? No. Does it help your resume? Maybe.
-
-However some people have told me that it's helped them land support roles like 
-
-- Service Desk Analyst
-- Help Desk Tech
-- Desktop Support Administrator
-- Technical Support Specialist
-- End User Computing Technician
-- Field Service Technician
-- Help Desk Technician 
-- System Support Specialist
-
-## Jobs
-
-I'm a big fan of starting in tech at a support role and moving up. They are entry level friendly and often are willing to pay for educational material and certifications. 
-
-Also almost every company has a helpdesk, so plenty of openings to get started in!
-
-Take a look at this video by KevTech on [Helpdesk interview questions](https://youtu.be/McxVgoQaCpU). Binge watch his channel because he has so much great content!
-
-## What's next
+- Honnêtement, à ce stade, tout ce dont vous devez vous assurer, c’est que vous voulez entrer dans la technologie et que vous êtes prêt à apprendre beaucoup. L’apprentissage ne s’arrêtera jamais.
 
 
-[Go to Phase 1: Linux and Networking fundamentals](../phase1/README.md)
+## Certifications que vous pourriez vouloir examiner 
+
+Une norme de l’industrie pour les gens qui entrent dans la technologie est [CompTIA A+](https://www.comptia.org/certifications/a).
+
+Est-ce nécessaire? Non. Est-ce utile? Cela dépend de votre style d’apprentissage. Ai-je pris le A+? Aussi non. Est-ce que cela signifie que vous ne devriez pas le prendre? Non. Est-ce que cela aide votre curriculum vitae? Peut-être.
+
+Cependant, certaines personnes m’ont dit que cela les a aidés à assumer des rôles de soutien des terres comme 
+
+- Analyste du bureau de service
+- Assistance technique
+- Administrateur du soutien de bureau
+- Spécialiste du soutien technique
+- Technicien informatique utilisateur final
+- Technicien de maintenance sur site
+- Technicien du bureau d’assistance 
+- Spécialiste du soutien des systèmes
+
+## Emplois
+
+Je suis un grand fan de commencer dans la technologie à un rôle de soutien et de progresser. Ils sont sympathiques au niveau d’entrée et sont souvent prêts à payer pour le matériel éducatif et les certifications. 
+
+En outre, presque chaque entreprise a un helpdesk, donc beaucoup d’ouvertures pour commencer!
+
+Jetez un coup d’œil à cette vidéo de KevTech sur [Questions d’entrevue du Service d’assistance] (https://youtu.be/McxVgoQaCpU). Binge regarder sa chaîne parce qu’il a tellement de grand contenu!
+
+## Prochaines étapes
+
+
+[Aller à la Phase 1 : Linux and Networking fundamentals](../phase1/README.md)
