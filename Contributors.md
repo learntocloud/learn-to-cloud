@@ -61,6 +61,13 @@
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/arushmangal>
+            <img src=https://avatars.githubusercontent.com/u/83538403?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Arush Mangal/>
+            <br />
+            <sub style="font-size:14px"><b>Arush Mangal</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/ricmmartins>
             <img src=https://avatars.githubusercontent.com/u/44813563?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Ricardo Martins/>
             <br />
@@ -81,6 +88,8 @@
             <sub style="font-size:14px"><b>Aldair</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/ydamni>
             <img src=https://avatars.githubusercontent.com/u/93495053?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Yassin DAHMOUNI/>
@@ -88,8 +97,6 @@
             <sub style="font-size:14px"><b>Yassin DAHMOUNI</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/JacobHigbee>
             <img src=https://avatars.githubusercontent.com/u/23349913?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jacob Higbee/>
@@ -125,6 +132,8 @@
             <sub style="font-size:14px"><b>Vaz</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/mpenrow>
             <img src=https://avatars.githubusercontent.com/u/106648?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=mpenrow/>
@@ -132,8 +141,6 @@
             <sub style="font-size:14px"><b>mpenrow</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/nathanrobb>
             <img src=https://avatars.githubusercontent.com/u/3893233?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=nate/>
