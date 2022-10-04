@@ -80,6 +80,8 @@ Concepts you should be familiar with.
 - DNS
 - VPN tunneling
 - TLS and SSL
+- HTTP and HTTPS
+- Telnet
 
 ### Bash Scripting
 
@@ -89,6 +91,10 @@ Concepts you should be familiar with.
 - What is a variable and how to use them
 - How to accept user input
 - How to execute a script
+- Conditional Statements
+- Bash File Testing Operators
+- Bash Loops
+- Arithmetic Operators in Bash Scripting
 
 ## Certifications you might want to look into
 
