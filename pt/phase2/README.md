@@ -77,4 +77,4 @@ Certificações de programação não são tão procuradas/populares quanto às 
 
 ## O que vem a seguir?
 
-[Go to Phase 3: Fundamentos de Cloud Platform](../phase3/README.md)
+[Vá para a fase 3: Fundamentos de Cloud Platform](../phase3/README.md)
