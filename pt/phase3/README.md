@@ -55,7 +55,7 @@ Nós recomendamos que o seu primeiro projeto cloud seja um Desafio Currículo na
 | Azure | [Desafio Currículo na Nuvem na Azure](https://youtu.be/ieYrBWmkfno)| Construa o seu currículo com os serviços da Azure |  
 | GCP | [Desafio Currículo na Nuvem na GCP](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Construa o seu currículo com os serviços da GCP |
 
-## Coisas que voc~e deveria estar familiarizado ao final desta fase
+## Coisas que você deveria estar familiarizado ao final desta fase
 
 - Um entendimento das boas práticas da infraestrutura nuvem (confiabilidade, eficiência de desempenho, segurança, otimização de custos, etc.)
 - Como garantir e revogar acessos e permissões para usuários e aplicações.
