@@ -1,4 +1,4 @@
-# Fase 4: Fundamento em DevOps
+# Fase 4: Fundamentos em DevOps
 
 Autor: [GPS](https://twitter.com/madebygps)
 
@@ -6,7 +6,7 @@ Autor: [GPS](https://twitter.com/madebygps)
 
 DevOps é tudo que envolve obter a sua solução para rodar com mais eficiência desde a implementação até as atualizações.
 
-Não é específico para Cloud, você também pode implementar as práticas DevOps tanto nos modelos on-premese quanto nos híbridos. DevOps não está limitado a um único cargo. Embora muitas companhias têm cargos dedicados à DevOps. Se o seu objetivo é se tornar uma engenheiro DevOps, nesta fase você vai obter uma introdução mas precisará se aprofundar mais depois.
+Não é específico para Cloud, você também pode implementar as práticas DevOps tanto nos modelos on-premese quanto nos híbridos. DevOps não está limitado a um único cargo. Embora muitas companhias têm cargos dedicados à DevOps. Se o seu objetivo é se tornar um(a) engenheiro(a) DevOps, nesta fase você vai obter uma introdução mas precisará se aprofundar mais depois.
 
 DevOps é uma cultura, e não uma ferramenta ou serviço específicos. Leia sobre o que é DevOps. Cada plataforma de nuvem tem a sua suite de ferramentas DevOps, eu linkei alguns artigos aqui:
 
