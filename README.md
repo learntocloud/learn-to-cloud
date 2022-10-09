@@ -8,9 +8,12 @@ Learn to Cloud is a GUIDE (not a book or course) that originated from [this twee
 - Cloud Support Engineer.
 - Cloud Administrator.
 
+Before you dive into this guide, make sure one of these roles is what you actually want to to do. Use this [video](https://youtu.be/nJVhcO9kR8w) and [this guide](http://openupthecloud.com/role) to figure that out.
+
 ## Can I really get into Cloud by being self-taught?
 
 Yes, watch [this](https://youtu.be/kluKaLXJ2lg)
+and [this](https://youtu.be/LZuWZ0SBYm8)
 
 ## Questions? Comments? Feedback?
 
