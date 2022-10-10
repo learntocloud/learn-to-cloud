@@ -14,9 +14,9 @@
 
 - Fontes
 
-  - [Mais projetos](../projects/README.md)
-  - [Dicas de estudos](../resources/readme.md)
-  - [Fluxogramas](../es/resources/flowcharts.md)
+  - [Mais projetos](projects/README.md)
+  - [Dicas de estudos](resources/readme.md)
+  - [Fluxogramas](resources/flowcharts.md)
 
 - Siga o guia
 
