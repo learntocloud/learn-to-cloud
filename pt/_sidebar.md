@@ -5,11 +5,12 @@
 
 - Guia
 
-  - [Fase 0: Começando do zero](/pt/phase0/README.md)
-  - [Fase 1: Fundamentos de Linux, Redes, and Scripts](/pt/phase1/README.md)
+  - [Fase 0: Começando do zero](phase0/README.md)
+  - [Fase 1: Fundamentos de Linux, Redes, and Scripts](phase1/README.md)
   - [Fase 2: Fundamentos de programação](phase2/README.md)
   - [Fase 3: Fundamentos de Cloud Platform](phase3/README.md)
   - [Fase 4: Fundamentos de DevOps](phase4/README.md)
+  - [Fase 5: Fundamentos de segurança na nuvem](phase5/README.md)
 
 - Fontes
 
