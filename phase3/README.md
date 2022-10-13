@@ -84,6 +84,7 @@ We recommended getting at least one certification and if you only get one it sho
   - [AWS](https://aws.amazon.com/certification/): Any one.
   - [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Stick to the admin or developer, the other associate level ones are a little more specialized and you can take them later if you want.
   - [GCP](https://cloud.google.com/certification/cloud-engineer): There is only one.
+  - [OCI](https://education.oracle.com/oracle-cloud-infrastructure-2022-foundations-associate/pexam_1Z0-1085-22)
 
 ## What's next
 
