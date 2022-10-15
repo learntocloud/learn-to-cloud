@@ -105,6 +105,13 @@
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/ashu-0453>
+            <img src=https://avatars.githubusercontent.com/u/86668736?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Astush Sharma/>
+            <br />
+            <sub style="font-size:14px"><b>Astush Sharma</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/JacobHigbee>
             <img src=https://avatars.githubusercontent.com/u/23349913?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jacob Higbee/>
             <br />
@@ -125,6 +132,8 @@
             <sub style="font-size:14px"><b>Sylvain Reiter</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/thomast1906>
             <img src=https://avatars.githubusercontent.com/u/12154020?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Thomas Thornton/>
@@ -132,8 +141,6 @@
             <sub style="font-size:14px"><b>Thomas Thornton</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/vazsingh>
             <img src=https://avatars.githubusercontent.com/u/74464807?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Vaz/>
