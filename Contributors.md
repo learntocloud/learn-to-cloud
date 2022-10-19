@@ -126,14 +126,21 @@
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/srishtipoudel>
+            <img src=https://avatars.githubusercontent.com/u/66827364?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Srishti />
+            <br />
+            <sub style="font-size:14px"><b>Srishti </b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/sylvainreiter>
             <img src=https://avatars.githubusercontent.com/u/3787458?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sylvain Reiter/>
             <br />
             <sub style="font-size:14px"><b>Sylvain Reiter</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/thomast1906>
             <img src=https://avatars.githubusercontent.com/u/12154020?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Thomas Thornton/>
