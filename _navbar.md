@@ -16,3 +16,4 @@
   * [Pt](/pt/README.md)
   * [Fr](/fr/README.md)
   * [Es](/es/)
+  * [Nep](/Nepali/)
