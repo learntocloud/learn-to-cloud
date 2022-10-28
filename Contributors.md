@@ -98,6 +98,13 @@
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/sarthakregmi>
+            <img src=https://avatars.githubusercontent.com/u/66667396?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sarthak Regmi/>
+            <br />
+            <sub style="font-size:14px"><b>Sarthak Regmi</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/azgcloudev>
             <img src=https://avatars.githubusercontent.com/u/72358828?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Aldair/>
             <br />
@@ -125,6 +132,8 @@
             <sub style="font-size:14px"><b>Jacob Higbee</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/loujaybee>
             <img src=https://avatars.githubusercontent.com/u/5528307?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Lou Bichard/>
@@ -132,8 +141,6 @@
             <sub style="font-size:14px"><b>Lou Bichard</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/sylvainreiter>
             <img src=https://avatars.githubusercontent.com/u/3787458?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sylvain Reiter/>
