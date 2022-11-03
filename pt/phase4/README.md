@@ -74,4 +74,4 @@ Claro, sinta-se livre para gastar o tempo que você quiser. As pessoas pediram u
 
 ## E oque vem a seguir?
 
-[Vá para a fase 5: Fundamentos sobre segurança na nuvem](../phase5/README.md)
+[Vá para a fase 5: Fundamentos sobre segurança na nuvem](../pt/phase5/README.md)
