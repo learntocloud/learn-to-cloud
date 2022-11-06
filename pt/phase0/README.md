@@ -1,9 +1,11 @@
 # Fase 0: Começando do zero
 
+Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
+
 ## Como essa fase se aplica à Nuvem?
 
 Se você acha que não tem experiência em tecnologia, mas deseja entrar na computação em nuvem. Essa fase é para você. Se você já trabalha com tecnologia e está migrando para a nuvem,
-[Vá para a Fase 1: Fundamentos de Linux, Redes, e Scripts](../phase1/README.md).
+[Vá para a Fase 1: Fundamentos de Linux, Redes, e Scripts](../pt/phase1/README.md).
 
 
 Vamos começar.
@@ -53,4 +55,4 @@ Dê uma olhada neste vídeo da KevTech sobre [Perguntas da entrevista de Helpdes
 ## O que vem a seguir?
 
 
-[Vá para a Fase 1: Fundamentos de Linux, Redes, e Scripts](../phase1/README.md)
+[Vá para a Fase 1: Fundamentos de Linux, Redes, e Scripts](../pt/phase1/README.md)

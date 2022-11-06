@@ -1,5 +1,7 @@
 # Fase 1: Fundamentos de Linux, Redes, e Scripts
 
+Author: [GPS](https://twitter.com/madebygps)
+
 ## Como essa fase se aplica à Nuvem?
 
 A nuvem é um monte de servidores Linux conectados em rede. Aprender os fundamentos de como a rede funciona e como interagir com esses servidores por meio de comandos e automatizar esses comandos por meio de um script é o objetivo desta fase. Se você já é um administrador Linux ou engenheiro de redes, pode aplicar suas habilidades no cloud.
@@ -102,4 +104,4 @@ No final do dia, se você quiser fazer elas, vá em frente :D
   
 ## O que vem a seguir?
 
-[Vá para a Fase 2: Fundamentos da programação](../phase2/README.md)
+[Vá para a Fase 2: Fundamentos da programação](../pt/phase2/README.md)

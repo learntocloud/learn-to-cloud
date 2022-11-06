@@ -1,5 +1,7 @@
 # Fase 2: Fundamentos de programação
 
+Author: [GPS](https://twitter.com/madebygps)
+
 ## Como esta fase se aplica à nuvem
 
 Você usará códigos para automatizar tarefas e a infraestrutura de deploy. Você não precisa saber como fazer o build de toda a aplicação mas entender o básico de programação te dará uma vantagem. Existem funções de desenvolvedor dedicadas na nuvem. Para isso, você precisará saber fazer o build de toda a solução. Para mais informações sobre essas funções, assista [esse vídeo](https://youtu.be/WMUAc7bvB7M).
@@ -77,4 +79,4 @@ Certificações de programação não são tão procuradas/populares quanto às 
 
 ## O que vem a seguir?
 
-[Vá para a fase 3: Fundamentos de Cloud Platform](../phase3/README.md)
+[Vá para a fase 3: Fundamentos de Cloud Platform](../pt/phase3/README.md)

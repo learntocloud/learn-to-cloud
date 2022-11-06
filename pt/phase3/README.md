@@ -87,4 +87,4 @@ Nós recomendamos tirar ao menos uma certificação e se tirar apenas uma, esta 
 
 ## E oque vem a seguir?
 
-[Vá para a fase 4: Fundamentos em DevOps](../phase4/README.md)
+[Vá para a fase 4: Fundamentos em DevOps](../pt/phase4/README.md)
