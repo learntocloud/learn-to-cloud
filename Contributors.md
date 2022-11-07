@@ -163,12 +163,21 @@
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/allan-oliveira>
+            <img src=https://avatars.githubusercontent.com/u/10514795?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Allan Oliveira/>
+            <br />
+            <sub style="font-size:14px"><b>Allan Oliveira</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/mpenrow>
             <img src=https://avatars.githubusercontent.com/u/106648?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=mpenrow/>
             <br />
             <sub style="font-size:14px"><b>mpenrow</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/nathanrobb>
             <img src=https://avatars.githubusercontent.com/u/3893233?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=nate/>
