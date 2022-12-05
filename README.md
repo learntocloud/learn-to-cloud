@@ -13,7 +13,7 @@ Before you dive into this guide, make sure one of these roles is what you actual
 ## Can I really get into Cloud by being self-taught?
 
 Yes, watch [this](https://youtu.be/kluKaLXJ2lg)
-and [this](https://youtu.be/LZuWZ0SBYm8)
+
 
 ## Questions? Comments? Feedback?
 
