@@ -10,11 +10,11 @@ The cloud is a bunch of Linux Servers networked together. Learning the fundament
 
 I would suggest spending time on these three topics and this timeline:
 
-| Order | Topic                           | Time commitment |
-|-------|---------------------------------|-------------------|
-| 1 | Introduction to Bash Commands | 2 weeks
-| 2 | Introduction to Networking  | 1 week          |
-| 3 | Introduction to Bash Scripting | 1 week           |
+| Order | Topic                           
+|-------|---------------------------------
+| 1 | Introduction to Bash Commands | 
+| 2 | Introduction to Bash Scripting  |         |
+| 3 | Introduction to Networking|          |
 
 Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it.
 

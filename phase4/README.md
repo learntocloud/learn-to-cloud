@@ -19,13 +19,13 @@ You should've completed the [Cloud Resume Challenge](https://cloudresumechalleng
 
 ## How to break down this phase
 
-| Order | Topic                 | Time commitment |
-|-------|-----------------------|-------------------|
-| 1 | CI/CD with GitHub Actions | 1 week
-| 2 | IaC with Terraform | 1 week          |
-| 3 | Containers with Docker | 1 week          |
-| 4 | Containers orchestration with Kubernetes | 1 weeks          |
-| 5 | Monitoring with Prometheus | 1 weeks     |
+| Order | Topic                 |
+|-------|-----------------------|
+| 1 | CI/CD with GitHub Actions |
+| 2 | IaC with Terraform |
+| 3 | Containers with Docker | 
+| 4 | Containers orchestration with Kubernetes | 
+| 5 | Monitoring with Prometheus and Grafana | 
 
 Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it. Every DevOps practice matters, but these are the most used on an entry/junior level. You should already be familiar with Version Control from Phase 2.
 

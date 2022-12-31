@@ -8,12 +8,9 @@ Learn to Cloud is a GUIDE (not a book or course) that originated from [this twee
 - Cloud Support Engineer.
 - Cloud Administrator.
 
-Before you dive into this guide, make sure one of these roles is what you actually want to to do. Use this [video](https://youtu.be/nJVhcO9kR8w) and [this guide](http://openupthecloud.com/role) to figure that out.
-
 ## Can I really get into Cloud by being self-taught?
 
-Yes, watch [this](https://youtu.be/kluKaLXJ2lg) and [this](https://youtu.be/LZuWZ0SBYm8)
-
+Yes, watch [this](https://youtu.be/kluKaLXJ2lg)
 
 ## Questions? Comments? Feedback?
 
@@ -21,13 +18,16 @@ Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
 
 ## Phases
 
-| Order | Topic                           | Notes |
-|-------|---------------------------------|-------------------|
-| [0](phase0/README.md)  | Start from zero tech experience  | optional
-| [1](phase1/README.md)  | Linux Bash and Networking fundamentals| 4 weeks
-| [2](phase2/README.md)  | Programming fundamentals |     5 weeks     |
-| [3](phase3/README.md)  | Cloud Platform fundamentals|  6 weeks         |
-| [4](phase4/README.md)  | DevOps fundamentals         |      6 weeks    |
-| [5](phase5/README.md)  | Cloud Security fundamentals|       3 weeks  |
+| Order | Topic                           | 
+|-------|---------------------------------|
+| [optional](phase0/README.md)  | Start from zero tech experience  |
+| [1](phase1/README.md)  | Bash and Networking fundamentals|  
+| [2](phase2/README.md)  | Programming fundamentals |    
+| [3](phase3/README.md)  | Cloud Platform fundamentals| 
+| [4](phase4/README.md)  | DevOps fundamentals         |      
+| [5](phase5/README.md)  | Cloud Security fundamentals|    
 
+## Study Plan
+
+[Here is a 6 month study plan you can use that follows this guide](http://bootcamp.madebygps.com/)
 ### [Go to Phase 1: Bash and Networking fundamentals](phase1/README.md)

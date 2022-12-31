@@ -18,10 +18,10 @@ There are several programming languages that are popular with Cloud, like Go, Ru
 
 I would suggest spending time on these three topics and this timeline:
 
-| Order | Topic                           | Time commitment |
-|-------|---------------------------------|-------------------|
-| 1 | Introduction to Programming with Python  | 3 weeks 
-| 2 | Introduction to Version Control with Git and GitHub  | 1 week          |
+| Order | Topic                           |
+|-------|---------------------------------|
+| 1 | Introduction to Programming with Python  |
+| 2 | Introduction to Version Control with Git and GitHub  |        
 
 Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it. 
 
@@ -33,8 +33,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 | Optional     | [An introduction to Programming](https://docs.microsoft.com/learn/modules/web-development-101-introduction-programming/)                      | A great Microsoft Learn module on the topic.    |
 | 1     | [Python Crash Course](https://ehmatthes.github.io/pcc/)                      | A great Python book, also there is an Appendix in there on Git which is great!     
 | 1     | [FreeCodeCamp Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw)     | One of the many amazing resources provided by [FreeCodeCamp](https://www.freecodecamp.org/) |
-1 | [Take your first steps with Python](https://docs.microsoft.com/learn/paths/python-first-steps/) | A 4 hour learning path introducing you to Python |
-1 | [Build Real World Applications with Python](https://docs.microsoft.com/learn/paths/python-language/) | A 2 hour hands on Microsoft Learn resource
+1 | [Python for Beginners](https://youtu.be/jFCNu1-Xdsw) | A 44 part video series introducing you to Python |
 | 2     | [An introduction to Git](https://docs.microsoft.com/learn/modules/intro-to-git/)    | A great resource to learn Git by Microsoft Learn                                                                |
 | 2     | [FreeCodeCamp Git course](https://youtu.be/RGOj5yH7evk)                           | A great resource to learn Git by FreeCodeCamp                                                    |
 
