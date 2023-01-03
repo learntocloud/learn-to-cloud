@@ -53,6 +53,6 @@ Title | Description | Author | Area of Focus | Difficulty
 
 Title | Description | Author | Area of Focus | Difficulty
 ------|-------------|--------| --------| --------|
-[Deploy an App to Azure with ARM](https://github.com/SoniaConti/ContosoFinance-Demo) | ARM is an IaC tool used with Azure | [Sonia Conti](https://github.com/SoniaConti/ContosoFinance-Demo) | DevOps | Associate
-|[Crypto-dot-net Ticket Dockerized](https://github.com/rishabkumar7/crypto-ticker-dotnet) | We Dockerize [this .NET project](https://github.com/madebygps/signalr-crypto-tickers-workshop) | [Rishab Kumar](http://twitter.com/rishabk7) | DevOps | Associate |
-| [DevOps-Exercises](https://github.com/bregman-arie/devops-exercises) | This repo [devops-exercises](https://github.com/bregman-arie/devops-exercises) contains questions and exercises on various technical topics related to DevOps and SRE | [Arie Bregman](https://github.com/bregman-arie) | DevOps | Associate
+[Deploy an App to Azure with ARM](https://github.com/SoniaConti/ContosoFinance-Demo) | ARM is an IaC tool used with Azure | [Sonia Conti](https://github.com/SoniaConti/ContosoFinance-Demo) | DevOps | Associate |
+[Crypto-dot-net Ticket Dockerized](https://github.com/rishabkumar7/crypto-ticker-dotnet) | We Dockerize [this .NET project](https://github.com/madebygps/signalr-crypto-tickers-workshop) | [Rishab Kumar](http://twitter.com/rishabk7) | DevOps | Associate |
+[DevOps-Exercises](https://github.com/bregman-arie/devops-exercises) | This repo [devops-exercises](https://github.com/bregman-arie/devops-exercises) contains questions and exercises on various technical topics related to DevOps and SRE | [Arie Bregman](https://github.com/bregman-arie) | DevOps | Associate |
