@@ -1,41 +1,34 @@
-# Website
+# Welcome
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+## What is Learn to Cloud?
 
-### Installation
+Learn to Cloud is a GUIDE (not a book or course) that originated from [this tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en). The goal is to provide an outline of skills you need to learn to get into Cloud Computing. At the end of it you should have the technical knowledge for roles like:
 
-```
-$ yarn
-```
+- System administrator.
+- Cloud Support Engineer.
+- Cloud Administrator.
 
-### Local Development
+## Can I really get into Cloud by being self-taught?
 
-```
-$ yarn start
-```
+Yes, watch [this](https://youtu.be/kluKaLXJ2lg)
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Questions? Comments? Feedback?
 
-### Build
+Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
 
-```
-$ yarn build
-```
+## Phases
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+| Order | Topic                           |
+|-------|---------------------------------|
+| [optional](phase0/README.md)  | Start from zero tech experience  |
+| [1](phase1/README.md)  | Bash and Networking fundamentals|  
+| [2](phase2/README.md)  | Programming fundamentals |
+| [3](phase3/README.md)  | Cloud Platform fundamentals|
+| [4](phase4/README.md)  | DevOps fundamentals         |
+| [5](phase5/README.md)  | Cloud Security fundamentals|
 
-### Deployment
+## Study Plan
 
-Using SSH:
+[Here is a 6 month study plan you can use that follows this guide](http://bootcamp.madebygps.com/)
 
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+### [Go to Phase 1: Bash and Networking fundamentals](phase1/README.md)
