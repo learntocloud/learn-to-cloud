@@ -25,6 +25,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 |  Linux Bash| [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | This book made learning Linux FUN! It's pretty easy to follow and take a chapter day by day.   | You don't need to read the whole thing, the first 9 chapters cover most of what you need to know. 
 | Linux Bash  | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. | Optional, but helpful |
 Introduction to Bash  | [Linux Bash Course by GPS](https://youtu.be/qALScO3E61I) | An introduction to Bash!| Here I introduce you to some useful Bash commands. Watch it and then do them on your own.
+Test your Bash skills with OverTheWire! Bandit Game |[Bandit](https://overthewire.org/wargames/bandit/) | A game to teach you the fundamental Bash commands you'll need for cloud and even security | This will cover more than the fundamentals. Similar to Linux Basics for hackers, it has a security focus. 
 | Bash Scripting   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!| This will introduce you to concepts you'll use in the next phase.
 | Networking   | [Networking basics (2020)](https://www.youtube.com/watch?v=_IOZ8_cPgu8) | This 15 minute video covers all the essential networking concepts at a high level.  | Spend a day watching this and Googling each concept. Read more on each concept on your own.
 Networking | [Fundamentals of computer networking](https://learn.microsoft.com/en-us/training/modules/network-fundamentals/) | You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths. | Read this after the previous video.
@@ -42,6 +43,7 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
  Deploy a NAS server | Checkout [FreeNAS](https://www.freenas.org/) |
  Deploy your own cloud | Checkout [NextCloud](https://nextcloud.com/) | A fun way to create your own private cloud. 
   Convert video files | Checkout [ffmpeg](https://ffmpeg.org/ffmpeg.html) use it to write a script that converts a .mov file to mp4 | Great way to practice scripting skills.
+  Test your 
 
 ## Things you should be able familiar with at the end of this phase
 
