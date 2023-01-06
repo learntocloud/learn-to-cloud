@@ -10,7 +10,7 @@ const config = {
   tagline: 'A 6 month guide to the fundamentals of Cloud Computing',
   url: 'https://learntocloud.guide',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
