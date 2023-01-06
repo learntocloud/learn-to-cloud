@@ -59,7 +59,7 @@ const config = {
           isCloseable: false,
         },
         navbar: {
-          title: 'Learn To Cloud',
+          title: 'LTC',
           logo: {
             alt: 'My Site Logo',
             src: '/img/favicon.ico',
