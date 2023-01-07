@@ -100,8 +100,5 @@ Existem várias certificações Linux e você pode optar por estudar para qualqu
 
 Existem também TONELADAS de certificações de redes por aí e, semelhantes às do Linux, elas são mais focadas em fornecer muito conhecimento para que você possa se tornar um engenheiro / especialista em redes, novamente em um nível introdutório, é um pouco exagerado. Se você quiser obter uma, dê uma olhada nas [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) que são praticamente padrão da indústria e/ou as  [Comptia Network+](https://www.comptia.org/certifications/network)
 
-No final do dia, se você quiser fazer elas, vá em frente :D 
+No final do dia, se você quiser fazer elas, vá em frente :D
   
-## O que vem a seguir?
-
-[Vá para a Fase 2: Fundamentos da programação](../pt/phase2/README.md)

@@ -7,7 +7,6 @@ Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
 Se você acha que não tem experiência em tecnologia, mas deseja entrar na computação em nuvem. Essa fase é para você. Se você já trabalha com tecnologia e está migrando para a nuvem,
 [Vá para a Fase 1: Fundamentos de Linux, Redes, e Scripts](../pt/phase1/README.md).
 
-
 Vamos começar.
 
 1. Acho que um bom primeiro passo é entender os fundamentos de TI e [este vídeo](https://youtu.be/awLnur5Yt9o) é um fantástico overview.
@@ -21,11 +20,9 @@ Vamos começar.
    - [O que é DevOps](https://youtu.be/9pZ2xmsSDdo/)
    - [O que é um Cloud Engineer e como se tornar um](https://youtu.be/7i1WMGxyt4Q)
 
-
 ## Coisas com as quais você deve estar familiarizado no final desta fase
 
 - Honestamente, neste momento, tudo o que você precisa ter certeza é que quer entrar na área de tecnologia e está preparado para aprender muito. O aprendizado nunca vai parar.
-
 
 ## Certificações que você pode querer dar uma olhada
 
@@ -33,7 +30,7 @@ Um padrão da indústria para quem está entrando na área de tecnologia é o [C
 
 Isso é necessário? Não. É útil? Depende do seu estilo de aprendizagem. Eu tirei o A+? Também não. Isso significa que você não deve fazer? Não. Isso ajuda no seu currículo? Talvez.
 
-No entanto, algumas pessoas me disseram que isso os ajudou a conseguir papéis de apoio como: 
+No entanto, algumas pessoas me disseram que isso os ajudou a conseguir papéis de apoio como:
 
 - Service Desk Analyst
 - Help Desk Tech
@@ -41,7 +38,7 @@ No entanto, algumas pessoas me disseram que isso os ajudou a conseguir papéis d
 - Technical Support Specialist
 - End User Computing Technician
 - Field Service Technician
-- Help Desk Technician 
+- Help Desk Technician
 - System Support Specialist
 
 ## Empregos
@@ -51,8 +48,3 @@ Eu sou um grande fã de começar em tecnologia em uma função de suporte técni
 Além disso, quase todas as empresas têm um helpdesk, então há muitas vagas para começar!
 
 Dê uma olhada neste vídeo da KevTech sobre [Perguntas da entrevista de Helpdesk](https://youtu.be/McxVgoQaCpU). Assista o canal dele porque ele tem muito conteúdo ótimo!
-
-## O que vem a seguir?
-
-
-[Vá para a Fase 1: Fundamentos de Linux, Redes, e Scripts](../pt/phase1/README.md)

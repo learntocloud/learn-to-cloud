@@ -44,7 +44,7 @@ Bien sûr, n'hésitez pas à y consacrer autant de temps que vous le souhaitez. 
 | [Cours d'ingénierie DevOps de FreeCodeCamp (Anglais)](https://youtu.be/j5Zsa_eOXeY) | Apprenez tout sur DevOps dans ce cours complet pour les débutants avec trois tutoriels techniques.
 | [Docker (Anglais)](https://youtu.be/3c-iBn73dDE) | Cours pratique complet sur Docker avec de nombreuses démonstrations et explications des concepts derrière, afin que vous le compreniez vraiment.
 | [Docker et Kubernetes (Anglais)](https://youtu.be/Wf2eSG3owoA) | Apprenez les principes fondamentaux de Docker et Kubernetes dans ce cours pratique complet.
-| [Prometheus (Anglais)](https://youtube.com/playlist?list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4) | Tutoriel complet sur Prometheus Monitoring 
+| [Prometheus (Anglais)](https://youtube.com/playlist?list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4) | Tutoriel complet sur Prometheus Monitoring
 
 ## Projets
 
@@ -58,7 +58,6 @@ Bien sûr, n'hésitez pas à y consacrer autant de temps que vous le souhaitez. 
 | [DevOps the Hardway - AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) | Ce tutoriel contient une solution complète et réelle pour la mise en place d'un environnement utilisant les technologies et pratiques DevOps pour le déploiement d'applications et de services/infrastructures cloud sur AWS. |
 
 ## Les choses avec lesquelles vous devez être familier à la fin de cette phase
-
 
 - Être capable d'expliquer chaque pratique DevOps
   - Pourquoi chacune d'entre elles est importante.
@@ -74,6 +73,3 @@ Bien sûr, n'hésitez pas à y consacrer autant de temps que vous le souhaitez. 
 
 - [AWS Certified DevOps Engineer - Profession](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
 - [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
-
-
-

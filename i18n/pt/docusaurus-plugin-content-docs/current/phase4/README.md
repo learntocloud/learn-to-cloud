@@ -16,7 +16,7 @@ DevOps é uma cultura, e não uma ferramenta ou serviço específicos. Leia sobr
 
 Eu também acho que vale a pena ler o [Projeto Phoenix](https://itrevolution.com/the-phoenix-project/). É uma leitura bem divertida porque é uma ficção mas que explica a importância da cultura DevOps. Se você preferir algo mais parecido com um livro didático com ideias similares, dê uma olhada no [Manual DevOps](https://itrevolution.com/the-devops-handbook/).
 
-Você deveria ter concluído o [Desafio CUrrículo na Nuvem](https://cloudresumechallenge.dev/) da fase anterior. Esse projeto te apresenta os conceitos de DevOps, se você não os conhece, volte e faça. 
+Você deveria ter concluído o [Desafio CUrrículo na Nuvem](https://cloudresumechallenge.dev/) da fase anterior. Esse projeto te apresenta os conceitos de DevOps, se você não os conhece, volte e faça.
 
 ## Como desmembrar esta fase?
 
@@ -35,11 +35,10 @@ Claro, sinta-se livre para gastar o tempo que você quiser. As pessoas pediram u
 | Fonte | Notes |
 | :---- | :---- |
 | [Tutorial GitHub Actions - Conceitos básicos e pipeline CI/CD com Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)| Nana é a rainha do DevOpse criou alguns dos melhores conteúdos de aprendizado sobre o assunto que existe por aí. Este tutorial irá lhe introduzir ao GitHub Actions. |
-| [Curso completo de Terraform - Do INICIANTE ao PROFISSIONAL!](https://www.youtube.com/watch?v=7xngnjfIlK4)| Aprenda como usar o Terraform para automatizar sua infraestrutura AWS. | 
+| [Curso completo de Terraform - Do INICIANTE ao PROFISSIONAL!](https://www.youtube.com/watch?v=7xngnjfIlK4)| Aprenda como usar o Terraform para automatizar sua infraestrutura AWS. |
 | [Tutorial Docker para iniciantes](https://youtu.be/3c-iBn73dDE) | Um curso completo e "mão na massa" de Docker com muitas demonstrações e explicações de conceitos por detrás para que você realmente entenda-os. |
 | [Curso intensivo de Kubernetes para iniciantes absolutos](https://youtu.be/s_o8dwzRlu4) | Tutorial mão na massa sobre Kubernetes | Aprenda Kubernetes em 1 hora - Um intensivão de Kubernetes para iniciantes. |
 | [Tutorial completo sobre monitoramento com Prometheus](https://youtube.com/playlist?list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4) | Um Tutorial completo sobre monitoramento com Prometheus. |
-
 
 ## Projetos
 
@@ -50,7 +49,6 @@ Claro, sinta-se livre para gastar o tempo que você quiser. As pessoas pediram u
 | [DevOps da maneira difícil - AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) | Este tutorial contém uma solução completa do mundo real para configurar um ambiente que usa tecnologias e práticas de DevOps para implantar aplicativos e serviços de nuvem/infraestrutura de nuvem na AWS. |
 
 ## Coisas que você deveria estar familiarizado ao final desta fase
-
 
 - Ser capaz de explicar cada prática DevOps
   - Por que cada uma delas importa
@@ -64,14 +62,7 @@ Claro, sinta-se livre para gastar o tempo que você quiser. As pessoas pediram u
     - Garanta que você pode entender o registro de logs e os dados das métricas
   - Se algo der errado com o seu projeto, saber como solucionar os problemas
 
-
-
 ## Certificações que você pode querer dar uma olhada
 
 - [Certificação DevOps Engineer da AWS - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
 - [Certificação DevOps Engineer Expert da Microsoft](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
-
-
-## E oque vem a seguir?
-
-[Vá para a fase 5: Fundamentos sobre segurança na nuvem](../pt/phase5/README.md)

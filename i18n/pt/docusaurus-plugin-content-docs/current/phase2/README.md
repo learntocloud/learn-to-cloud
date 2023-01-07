@@ -10,7 +10,7 @@ Na faze anterior, você introduziu e escreveu alguns scripts Bash. Esses scripts
 
 Creio que agora seria benéfico aprender algumas skills a mais de programação.
 
-Existem inúmeras linguagens de programação que são populares na Nuvem, como `Go`, `Rust`, `.NET`, `JavaScript`, mas, já que você é um iniciante, eu sugeriria [`Python`](https://www.python.org/). Além de ser uma linguagem muito popular e de existir muitas fontes gratuitas de qualidade por aí para se aprender, é umas das linguagens mais simples para de começar. 
+Existem inúmeras linguagens de programação que são populares na Nuvem, como `Go`, `Rust`, `.NET`, `JavaScript`, mas, já que você é um iniciante, eu sugeriria [`Python`](https://www.python.org/). Além de ser uma linguagem muito popular e de existir muitas fontes gratuitas de qualidade por aí para se aprender, é umas das linguagens mais simples para de começar.
 
 [Git](https://git-scm.com/) é a mais popular ferramenta de controle de versão e uma das práticas de DevOps. É uado para gerenciar e compartilhar o seu código. [GitHub](https://github.com/) é um dos mais populares serviçoes de hospedagem de repositórios Git. Dedique algum tempo para criar uma conta no GitHub se ainda não tem uma. Ele será o seu portfólio de códigos e você pode colocar quantos projetos você quiser por lá.
 
@@ -45,7 +45,7 @@ Claro, sinta-se livre para gastar o tempo que você quiser. As pessoas pediram u
 | [25 projetos Python para iniciantes](https://www.freecodecamp.org/news/python-projects-for-beginners/)| Faça quantas dessas você quiser. (Aproveita e já vai montando o seu repositório no GitHub)|
 [Crie o seu profile README no GitHub](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) | Crie um README para dizer às outras pessoas sobre você mesmo. Aqui estão alguns exemplos: [madebygps](https://github.com/madebygps/madebygps); [Rishab](https://github.com/rishabkumar7/rishabkumar7); [ViniViniAntunes](https://github.com/ViniViniAntunes).
 | [Curso de programação de rede com Python](https://youtu.be/FGdiSJakIS4)| Desenvolca algumas habilidades de Python e de Redes |
- 
+
 ## Coisas que você precisa estar familiarizado ao final desta fase
 
 ### Programação
@@ -76,7 +76,3 @@ Claro, sinta-se livre para gastar o tempo que você quiser. As pessoas pediram u
 - [Certificação da Python Institute](https://pythoninstitute.org/certification-tracks)
 
 Certificações de programação não são tão procuradas/populares quanto às de nuvem. Como qualquer certificação, você usá-la para reforçar o seu conhecimento, mas não é uma obrigação. Existem muitos cloud engineers com um total de zero certificações.
-
-## O que vem a seguir?
-
-[Vá para a fase 3: Fundamentos de Cloud Platform](../pt/phase3/README.md)

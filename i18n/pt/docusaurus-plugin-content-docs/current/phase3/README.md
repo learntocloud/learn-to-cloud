@@ -2,14 +2,12 @@
 
 Autor: [GPS](https://twitter.com/madebygps)
 
-
 ## Como esta fase se aplica à Nuvem?
 
 às vezes, as pessoas são surpreendidas ao ver que esta fase não é a fase número um, embora seja a mais longa e por uma boa razão. Como um professional de Cloud, você vai viver em uma plataforma, ou várias. Tudo o que você constrói, dá suporte, desenvolve, etc, será numa plataforma. Aqui estão algumas perguntas populares que responderemos nesta fase:
 
 - [Qual plataforma cloud aprender?](../more-topics/FAQ.md)
 - [As plataformas pagas de aprendizado em nuvem valem a pena?](../more-topics/FAQ.md)
-
 
 ## Como desmembrar esta fase?
 
@@ -20,7 +18,7 @@ Eu sugeriria gastar um tempo nesses três tópicos e esta linha do tempo:
 | 1 | Certificação cloud | 4 semanas |
 | 2 | Desafio de currículo na nuvem | 4 semanas |
 
-Claro, sinta-se livre para gastar o tempo que você quiser. As pessoas pediram uma linha do tempo e detalhamento, então eu os adicionei. 
+Claro, sinta-se livre para gastar o tempo que você quiser. As pessoas pediram uma linha do tempo e detalhamento, então eu os adicionei.
 
 ## Fontes
 
@@ -84,7 +82,3 @@ Nós recomendamos tirar ao menos uma certificação e se tirar apenas uma, esta 
   - [AWS](https://aws.amazon.com/certification/): Qualquer uma.
   - [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Atenha-se às administrador ou desenvolvedor, as outras de nível de associado são um pouco mais específicas e você pode obtê-las mais tarde se você quiser.
   - [GCP](https://cloud.google.com/certification/cloud-engineer): Só tem uma.
-
-## E oque vem a seguir?
-
-[Vá para a fase 4: Fundamentos em DevOps](../pt/phase4/README.md)

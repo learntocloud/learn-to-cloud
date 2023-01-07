@@ -18,9 +18,7 @@
 
 यो सधैं सम्झनुहोस्, तपाईंले नबुझेको कुरा सुरक्षित गर्न सक्नुहुन्न, त्यसैले क्लाउडको वास्तुकला र मुख्य भागहरू बुझ्न निश्चित गर्नुहोस् ताकि तपाईंले तिनीहरूलाई ठीकसँग सुरक्षित गर्न सक्नुहुन्छ।
 
-
 ## स्रोतहरू
-
 
 | क्लाउड प्लेटफर्म | शीर्षक| विवरण  |
 |:-------------- | ------ | ------ |
@@ -40,11 +38,7 @@ GCP | [GCP GOAT](https://gcpgoat.joshuajebaraj.com/)| GCP-बाख्रा GCP
 GCP | [ThunderCTF](https://aws.amazon.com/training/)| Thunder CTF ले खेलाडीहरूलाई Google क्लाउड प्लेटफर्म (GCP) मा कमजोर क्लाउड परियोजनाहरू आक्रमण गर्ने अभ्यास गर्न अनुमति दिन्छ। प्रत्येक स्तरमा, खेलाडीहरूलाई क्लाउड डिप्लोइमेन्टको शोषणको लागि यो भित्र भण्डार गरिएको "गोप्य" पूर्णांक फेला पार्ने जिम्मा दिइएको छ। |
 Kubernetes | [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/)| Kubernetes बाख्रा एक अन्तरक्रियात्मक Kuberenetes सुरक्षा लर्निंग खेल मैदान हो |
 
-
-
-
-## Projects 
-
+## Projects
 
 | क्लाउड प्लेटफर्म | शीर्षक  | विवरण  |
 |:-------------- | ------ | ------ |
@@ -53,11 +47,10 @@ AWS | [AWS Threat Simulation & Detection](https://github.com/sbasu7241/AWS-Threa
 Azure | [Azure Cloud Detection Lab(Blog)](https://cyberwoxacademy.com/azure-cloud-detection-lab-project/), [Azure Cloud Detection Lab(Videos)](https://youtube.com/playlist?list=PLBNtagSCmDWw27ccfeWeiaMcpNIxpGHy4)| Azure Sentinal को प्रयोग गरेर azure वातावरणमा खतराहरू कसरी पत्ता लगाउने भनेर देखाउने ह्यान्ड्स-अन प्रोजेक्ट। |
 Azure | [SIEM Tutorial for Beginners Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!](https://youtu.be/RoZeVbbZ0o0)| एक ह्यान्ड्स-अन प्रोजेक्टले कसरी महको भाँडो सेटअप गर्ने र Azure Sentinel प्रयोग गरेर दुर्भावनापूर्ण ट्राफिक विश्लेषण गर्ने देखाउँदै। |
 
-
 ## यस चरणको अन्त्यमा तपाईले परिचित हुनै पर्ने कुराहरू
 
-
 कोर IAM अवधारणाहरू (प्रयोगकर्ताहरू, भूमिकाहरू, नीतिहरू, समूहहरू, सेवा खाताहरू/प्रिन्सिपलहरू, आदि) को समझ।
+
 - क्लाउडमा प्रमाणीकरणले कसरी काम गर्छ भन्ने बुझाइ।
 - सुरक्षित क्लाउड भण्डारण, कम्प्युट, नेटवर्किङ, एप्लिकेसनहरू र यस्तै अन्यको बुझाइ।
 - क्लाउडमा सामान्य सुरक्षा कमजोरीहरू र गलत कन्फिगरेसनहरू।
@@ -75,9 +68,9 @@ Azure | [SIEM Tutorial for Beginners Azure Sentinel Tutorial MAP with LIVE CYBER
 - [गुगल प्रोफेशनल क्लाउड सुरक्षा इन्जिनियर](https://cloud.google.com/certification/cloud-security-engineer)
 
 ### व्यावहारिक प्रमाणीकरण (प्रशिक्षण समावेश)
+
 यी कम थाहा भएका प्रमाणीकरणहरू हुन् तर तिनीहरू तपाईंलाई आवश्यक पर्ने तालिमहरू प्रदान गर्नमा केन्द्रित छन् साथै हातमा प्रमाणीकरणहरू जहाँ तपाईंले प्रयोग गर्न सिकेका सीपहरू  बहु विकल्प प्रश्नहरू मार्फत क्लिक नगरी राख्नुहुन्छ।
+
 - [प्रमाणित Az रेड टीम प्रोफेशनल](https://bootcamps.pentesteracademy.com/course/ad-azure-may-21)
 - [प्रमाणित Azure वेब अनुप्रयोग सुरक्षा व्यावसायिक](https://bootcamps.pentesteracademy.com/course/azure-appsec-beginner-jul-22)
 - [Offensive Azure सुरक्षा पेशेवर](https://cloudbreach.io/labs/)
-
-

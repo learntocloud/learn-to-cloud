@@ -82,7 +82,3 @@ GCP | [GCP क्लाउड रिजुमे](https://acloudguru.com/blog/en
   - [AWS](https://aws.amazon.com/certification/): कुनै पनि।
   - [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): प्रशासक वा विकासकर्तामा टाँसिनुहोस्, अन्य सहयोगी स्तरहरू अलि बढी विशिष्ट छन् र तपाईं यदि तपाईं चाहनुहुन्छ भने तिनीहरूलाई पछि लिन सक्नुहुन्छ।
   - [GCP](https://cloud.google.com/certification/cloud-engineer): त्यहाँ एउटा मात्र छ।
-
-## अब के ?
-
-[चरण ४ मा जानुहोस्: DevOps को आधारभूत कुराहरू](..Nepali/phase4/README.md)

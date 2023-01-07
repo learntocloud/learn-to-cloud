@@ -1,4 +1,4 @@
-# Phase 1: Linux,Réseau,et les Fondamentaux du scripting 
+# Phase 1: Linux,Réseau,et les Fondamentaux du scripting
 
 ## Comment s’applique cette phase au Cloud?
 
@@ -8,7 +8,7 @@ Le cloud est un tas de serveurs Linux mis en réseau ensemble. Apprendre les bas
 
  Je suggère de passer du temps sur ces trois sujets et dans cet order:
 
-| Ordre |   sujets                        | Temps à devouer | 
+| Ordre |   sujets                        | Temps à devouer |
 |-------|---------------------------------|-------------------|
 | 1 | Introduction aux Commandes linux | 2 semaines
 | 2 | Introduction au Réseau  | 1 semaine         |
@@ -45,7 +45,7 @@ Configurez un [Serveur Lamp](https://en.wikipedia.org/wiki/LAMP_(software_bundle
 - Naviguer avec la commande `cd`
 - Comment lister les contenus d’un repertoire en utilisant la commande `ls`
 - Créer, copier, deplacer, renommer, des repertoires et fichiers avec `mkdir`, `cp`, `rm`, et la commande `touch`.
-- Trouver les choses avec `locate`, `whereis`, `which`, et la commande `find` 
+- Trouver les choses avec `locate`, `whereis`, `which`, et la commande `find`
 - Comprendre comment apprendre plus sur les commandes avec `which`, `man`, et la commande `--help`
 - Capable de trouver les details des logs dans `/var/log`
 - Comment afficher le contenu d’un fichier avec `cat`, `less`, `more`, `tail`, `head`.
@@ -57,7 +57,7 @@ Configurez un [Serveur Lamp](https://en.wikipedia.org/wiki/LAMP_(software_bundle
 - Controle des permissions avec les commandes `chown`, `chgrp`, `chmod`.
 - Créer des utilisateurs et la commande `sudo`
 - Gestion des processus avec `ps`, `top`, `nice`, `kill`
-- Gérer l’environnement et les variables définies par l’utilisateur avec les commandes `env`, `set`, `export` 
+- Gérer l’environnement et les variables définies par l’utilisateur avec les commandes `env`, `set`, `export`
 - Ajouter vos repertoires à votre chemin `PATH`.
 - Compression et archivage avec `tar`, `gzip`, `gunzip`.
 - Comment acceder à un serveur linux avec `ssh`.
@@ -68,7 +68,7 @@ Les concepts qui devraient vous être familiers.
 
 - Le modèle OSI
 - L’addressage IP
-- Les addresses MAC 
+- Les addresses MAC
 - Routage et Commutation
 - TCP/IP
 - TCP et UDP
@@ -82,10 +82,11 @@ Les concepts qui devraient vous être familiers.
 - Qu’est-ce que Bash ?
 - Pourquoi un script doit commencer avec `#!`?
 - Que sont les variables et comment les utiliser
-- Comment accepter les entrées utilisateurs 
+- Comment accepter les entrées utilisateurs
 - Comment executer un script
 
 ## Les Certifications que vous pourriez vouloir voir
+
 Il y a plusieurs certifications et vous pouvez choisir d'étudier pour n'importe lesquelles, mais beaucoup d’entre elles couvrent beaucoup plus que ce que vous devez savoir pour une base solide et sont plus axés sur l’administration Linux.
 
 - [LPI essentials](https://www.lpi.org/our-certifications/linux-essentials-overview)
@@ -99,6 +100,3 @@ Il existe également des tonnes de certifications réseau, et de même que celle
 
 À la fin de la journée, si vous voulez les prendre, allez-y :)
   
-## Quelle est la prochaine étape ?
-
-[Allez à Phase 2: Les fondamentaux de la Programmation ](../phase2/README.md)
