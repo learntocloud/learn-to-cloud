@@ -27,8 +27,8 @@ logs
 
 node_modules
 bower_components
-package-lock.json
-package.json
+# package-lock.json
+# package.json
 *.sublime*
 
 psd
