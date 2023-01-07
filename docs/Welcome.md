@@ -49,5 +49,3 @@ Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
 ## Study Plan
 
 [Here is a 6 month study plan you can use that follows this guide](http://bootcamp.madebygps.com/)
-
-### [Go to Phase 1: Bash and Networking fundamentals](phase1/)

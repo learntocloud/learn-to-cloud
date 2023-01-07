@@ -9,18 +9,16 @@ Sometimes people are surprised to see that this phase isn't number 1, though it 
 - [Which cloud to learn?](../resources/FAQ.md)
 - [Are paid cloud learning platforms worth it?](../resources/FAQ.md)
 
-
-
 ## How to break down this phase
 
 I would suggest spending time on these three topics and this timeline:
 
 | Order | Topic                           |
 |-------|---------------------------------|
-| 1 | Cloud Certification | 
+| 1 | Cloud Certification |
 | 2 | Cloud Resume Challenge |
 
-Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it. 
+Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it.
 
 ## Resources
 
@@ -82,7 +80,3 @@ We recommended getting at least one certification and if you only get one it sho
   - [AWS](https://aws.amazon.com/certification/): Any one.
   - [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Stick to the admin or developer, the other associate level ones are a little more specialized and you can take them later if you want.
   - [GCP](https://cloud.google.com/certification/cloud-engineer): There is only one.
-
-## What's next
-
-[Go to Phase 4: DevOps fundamentals](../phase4/README.md)

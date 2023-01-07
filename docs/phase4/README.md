@@ -15,7 +15,7 @@ DevOps is a culture, and not a specific tool or service. Read up on what DevOps 
 
 I also think it's worth reading [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) it's a pretty fun read because it's a fictional story but it explains the importance of DevOps. But if you'd prefer something more like a textbook with similar ideas, check out [The DevOps Handbook](https://itrevolution.com/the-devops-handbook/).
 
-You should've completed the [Cloud Resume Challenge](https://cloudresumechallenge.dev/) in the previous phase. That project introduces you to DevOps concepts, if you haven't, go back and do so. 
+You should've completed the [Cloud Resume Challenge](https://cloudresumechallenge.dev/) in the previous phase. That project introduces you to DevOps concepts, if you haven't, go back and do so.
 
 ## How to break down this phase
 
@@ -23,9 +23,9 @@ You should've completed the [Cloud Resume Challenge](https://cloudresumechalleng
 |-------|-----------------------|
 | 1 | CI/CD with GitHub Actions |
 | 2 | IaC with Terraform |
-| 3 | Containers with Docker | 
-| 4 | Containers orchestration with Kubernetes | 
-| 5 | Monitoring with Prometheus and Grafana | 
+| 3 | Containers with Docker |
+| 4 | Containers orchestration with Kubernetes |
+| 5 | Monitoring with Prometheus and Grafana |
 
 Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it. Every DevOps practice matters, but these are the most used on an entry/junior level. You should already be familiar with Version Control from Phase 2.
 
@@ -34,7 +34,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 | Resource                                                        | Notes                                                                                       |
 | :------------------------------------------------------------------ | :----------------------------------------------------------------------------------------- |
 | [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)|Nana is the queen of DevOps and creates some of the best DevOps learning content out there. This tutorial will introduce you to GitHub actions.
-| [Complete Terraform Course - From BEGINNER to PRO!](https://www.youtube.com/watch?v=7xngnjfIlK4)| Learn how to use Terraform to automate your AWS infrastructure. 
+| [Complete Terraform Course - From BEGINNER to PRO!](https://www.youtube.com/watch?v=7xngnjfIlK4)| Learn how to use Terraform to automate your AWS infrastructure.
 | [Docker tutorial for Beginners](https://youtu.be/3c-iBn73dDE) | Complete Docker Hands-on course with a lot of demos and explaining the concepts behind, so that you really understand it.
 | [Kubernetes Crash Course for Absolute Beginners](https://youtu.be/s_o8dwzRlu4) | Hands-On Kubernetes Tutorial | Learn Kubernetes in 1 Hour - Kubernetes Course for Beginners
 | [Complete Prometheus Monitoring Tutorial](https://youtube.com/playlist?list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4) | Complete Prometheus Monitoring Tutorial
@@ -49,7 +49,6 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 
 ## Things you should be familiar with at the end of this phase
 
-
 - Be able to explain each DevOps practice
   - Why each one matters.
   - What each one accomplishes.
@@ -59,17 +58,10 @@ Of course feel free to spend as much time as you'd like, people have asked for a
   - Have a CI/CD pipeline.
   - Have IaC files for each project.
   - Have monitoring implemented for each one.
-    - Make sure you can understand the logging and metrics data. 
+    - Make sure you can understand the logging and metrics data.
   - If something were to go wrong with your project, understand how to troubleshoot.
-
-
 
 ## Certifications you might want to look into
 
 - [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
 - [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
-
-
-## What's next
-
-[Go to Phase 5: Cloud Security fundamentals](../phase5/README.md)
