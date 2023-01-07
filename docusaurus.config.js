@@ -50,14 +50,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     (
       {
-        announcementBar: {
-          id: 'support_us',
-          content:
-            'Translations will be coming soon',
-          backgroundColor: '#fafbfc',
-          textColor: '#091E42',
-          isCloseable: false,
-        },
         navbar: {
           title: 'LTC',
           logo: {
