@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Learn to Cloud',
-  tagline: 'A 6 month guide to the fundamentals of Cloud Computing',
+  tagline: 'A 6 open-source guide to the fundamentals of Cloud Computing',
   url: 'https://learntocloud.guide',
   baseUrl: '/',
   onBrokenLinks: 'warn',
