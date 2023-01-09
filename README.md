@@ -1,5 +1,7 @@
 # Welcome
 
+[![Azure Static Web Apps CI/CD](https://github.com/learntocloud/learn-to-cloud/actions/workflows/azure-static-web-apps-agreeable-forest-05e8c1b0f.yml/badge.svg?branch=main)](https://github.com/learntocloud/learn-to-cloud/actions/workflows/azure-static-web-apps-agreeable-forest-05e8c1b0f.yml)
+
 ## What is Learn to Cloud?
 
 Learn to Cloud is a GUIDE (not a book or course) that originated from [this tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en). The goal is to provide an outline of skills you need to learn to get into Cloud Computing. At the end of it you should have the technical knowledge for roles like:

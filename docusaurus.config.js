@@ -127,6 +127,18 @@ const config = {
           darkTheme: darkCodeTheme,
         },
       }),
+  plugins: [
+    [
+      '@docusaurus/plugin-ideal-image',
+      {
+        quality: 70,
+        max: 640, // max resized image's size.
+        min: 160, // min resized image's size. 
+        steps: 2, // #images b/w min and max (inclusive)
+        disableInDev: false,
+      },
+    ],
+  ],
 };
 
 module.exports = config;
