@@ -7,7 +7,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Learn to Cloud',
-  tagline: 'An open-source guide to the fundamentals of Cloud Computing',
   url: 'https://learntocloud.guide',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -83,43 +82,7 @@ const config = {
         },
         footer: {
           style: 'dark',
-          links: [
-            {
-              title: 'Guide',
-              items: [
-                {
-                  label: 'Guide',
-                  to: '/docs/Welcome',
-                },
-              ],
-            },
-            {
-              title: 'Community',
-              items: [
-                {
-                  label: 'Discord',
-                  href: 'https://discord.learntocloud.guide',
-                },
-                {
-                  label: 'Twitter',
-                  href: 'https://twitter.com/learntocloud',
-                },
-              ],
-            },
-            {
-              title: 'More',
-              items: [
-                {
-                  label: 'Podcast',
-                  href: 'https://youtube.com/learntocloud'
-                },
-                {
-                  label: 'GitHub',
-                  href: 'https://github.com/facebook/docusaurus',
-                },
-              ],
-            },
-          ],
+        
           copyright: `Copyright © ${new Date().getFullYear()} Learn To Cloud`,
         },
         prism: {

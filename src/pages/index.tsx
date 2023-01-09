@@ -29,18 +29,19 @@ export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="An open-source guide to the fundamentals of Cloud Computing">
       <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-        <div className={styles.buttons}>
+      <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/Welcome">
             Start Here
           </Link>
         </div>
+      
+      <main>
+        
+        
       </main>
     </Layout>
   );
