@@ -7,20 +7,19 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
+import Image from '@theme/IdealImage';
+import bannerImg from '../../static/img/LTC-HQ1.png';
+
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
+        <Image img={bannerImg} className={styles.featureImg} />
+        {/*
         <h1 className="hero__title">{siteConfig.title}</h1>
+        */}
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/Welcome">
-            Start Here
-          </Link>
-        </div>
       </div>
     </header>
   );
@@ -35,6 +34,13 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/Welcome">
+            Start Here
+          </Link>
+        </div>
       </main>
     </Layout>
   );
