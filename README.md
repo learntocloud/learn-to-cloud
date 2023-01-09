@@ -22,15 +22,15 @@ Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
 
 | Order | Topic                           |
 |-------|---------------------------------|
-| [optional](phase0/README.md)  | Start from zero tech experience  |
-| [1](phase1/README.md)  | Bash and Networking fundamentals|  
-| [2](phase2/README.md)  | Programming fundamentals |
-| [3](phase3/README.md)  | Cloud Platform fundamentals|
-| [4](phase4/README.md)  | DevOps fundamentals         |
-| [5](phase5/README.md)  | Cloud Security fundamentals|
+| [optional](/docs/phase0/README.md)  | Start from zero tech experience  |
+| [1](/docs/phase1/README.md)  | Bash and Networking fundamentals|  
+| [2](/docs/phase2/README.md)  | Programming fundamentals |
+| [3](/docs/phase3/README.md)  | Cloud Platform fundamentals|
+| [4](/docs/phase4/README.md)  | DevOps fundamentals         |
+| [5](/docs/phase5/README.md)  | Cloud Security fundamentals|
 
 ## Study Plan
 
 [Here is a 6 month study plan you can use that follows this guide](http://bootcamp.madebygps.com/)
 
-### [Go to Phase 1: Bash and Networking fundamentals](phase1/README.md)
+### [Go to Phase 1: Bash and Networking fundamentals](/docs/phase1/README.md)
