@@ -8,6 +8,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-color: var(--ifm-hero-bg-color);
 }
 
 @media screen and (max-width: 996px) {
@@ -30,4 +31,8 @@
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 2rem;
+}
+
+.hero__subtitle {
+  color: white;
 }
