@@ -74,7 +74,7 @@ const config = {
               position: 'right',
             },
             {
-              href: 'https://github.com/learn-to-cloud/learn-to-cloud',
+              href: 'https://github.com/learntocloud/learn-to-cloud',
               label: 'GitHub',
               position: 'right',
             },
