@@ -52,7 +52,7 @@ const config = {
         navbar: {
           title: 'LTC',
           logo: {
-            alt: 'My Site Logo',
+            alt: 'LTC Logo',
             src: '/img/favicon.ico',
           },
           items: [
@@ -74,7 +74,12 @@ const config = {
               position: 'right',
             },
             {
-              href: 'https://github.com/learn-to-cloud/learn-to-cloud',
+              href: 'https://github.com/orgs/learntocloud/projects/2/views/1',
+              label: 'LTC Roadmap',
+              position: 'right',
+            },
+            {
+              href: 'https://github.com/learntocloud/learn-to-cloud',
               label: 'GitHub',
               position: 'right',
             },
