@@ -69,7 +69,7 @@ const config = {
               label: 'Guide',
             },
             {
-              href: 'https://youtube.com/@learntocloud',
+              href: '/podcast',
               label: 'Podcast',
               position: 'right',
             },
@@ -82,7 +82,7 @@ const config = {
         },
         footer: {
           style: 'dark',
-        
+
           copyright: `Copyright © ${new Date().getFullYear()} Learn To Cloud`,
         },
         prism: {
