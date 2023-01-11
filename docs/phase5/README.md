@@ -34,6 +34,8 @@ Azure | [CONVEX](https://github.com/Azure/CONVEX)| Cloud Open-source Network Vul
 Azure | [Securing Azure Infrastructure - Hands on Lab Guide](https://github.com/azurecitadel/azure-security-lab)| A hands on guide to securing azure infrastructure using various azure security controls. |
 Azure | [Azure Security Technologies](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/)| Various labs scenarios covering azure security. |
 Azure | [Create an Azure Vulnerable Lab](https://0xpwn.wordpress.com/2022/03/05/setting-up-an-azure-pentest-lab-part-1-anonymous-blob-access/)| A four-part series explaining azure vulnerabilities. |
+Azure | [Azure Goat](https://github.com/ine-labs/AzureGoat)| AzureGoat : A Damn Vulnerable Azure Infrastructure |
+Azure | [Purple Cloud](https://github.com/iknowjason/PurpleCloud)| A little tool to play with Azure Identity - Azure Active Directory lab creation tool |
 GCP | [GCP GOAT](https://gcpgoat.joshuajebaraj.com/)| GCP-Goat is intentionally vulnerable GCP environment to learn and practice GCP Security |
 GCP | [ThunderCTF](https://aws.amazon.com/training/)| Thunder CTF allows players to practice attacking vulnerable cloud projects on Google Cloud Platform (GCP). In each level, players are tasked with exploiting a cloud deployment to find a "secret" integer stored within it. |
 Kubernetes | [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/)| Kubernetes Goat is an interactive Kuberenetes Security Learning Playground |
