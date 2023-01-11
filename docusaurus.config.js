@@ -69,6 +69,11 @@ const config = {
               label: 'Guide',
             },
             {
+              href: 'https://madebygps.com/cloudcamp',
+              label: 'Study Plan',
+              position: 'left',
+            },
+            {
               href: 'https://youtube.com/@learntocloud',
               label: 'Podcast',
               position: 'right',
