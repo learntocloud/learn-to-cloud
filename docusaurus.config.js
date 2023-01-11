@@ -69,7 +69,7 @@ const config = {
               label: 'Guide',
             },
             {
-              href: '/podcast',
+              href: 'https://youtube.com/@learntocloud',
               label: 'Podcast',
               position: 'right',
             },
