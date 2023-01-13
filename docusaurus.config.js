@@ -102,6 +102,12 @@ const config = {
       }),
   plugins: [
     [
+      '@docusaurus/plugin-google-analytics',
+      {
+        trackingID: 'UA-216012364-1',
+      },
+    ],
+    [
       '@docusaurus/plugin-ideal-image',
       {
         quality: 70,
