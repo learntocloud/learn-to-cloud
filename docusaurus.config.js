@@ -74,6 +74,11 @@ const config = {
               position: 'left',
             },
             {
+              href: 'http://discord.learntocloud.guide',
+              label: 'Discord',
+              position: 'right',
+            },
+            {
               href: 'https://youtube.com/@learntocloud',
               label: 'Podcast',
               position: 'right',
@@ -81,7 +86,7 @@ const config = {
             {
               href: 'https://github.com/orgs/learntocloud/projects/2/views/1',
               label: 'LTC Roadmap',
-              position: 'right',
+              position: 'left',
             },
             {
               href: 'https://github.com/learntocloud/learn-to-cloud',
