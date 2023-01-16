@@ -69,6 +69,16 @@ const config = {
               label: 'Guide',
             },
             {
+              href: 'https://madebygps.com/cloudcamp',
+              label: 'Study Plan',
+              position: 'left',
+            },
+            {
+              href: 'http://discord.learntocloud.guide',
+              label: 'Discord',
+              position: 'right',
+            },
+            {
               href: 'https://youtube.com/@learntocloud',
               label: 'Podcast',
               position: 'right',
@@ -76,7 +86,7 @@ const config = {
             {
               href: 'https://github.com/orgs/learntocloud/projects/2/views/1',
               label: 'LTC Roadmap',
-              position: 'right',
+              position: 'left',
             },
             {
               href: 'https://github.com/learntocloud/learn-to-cloud',
@@ -96,6 +106,12 @@ const config = {
         },
       }),
   plugins: [
+    [
+      '@docusaurus/plugin-google-analytics',
+      {
+        trackingID: 'UA-216012364-1',
+      },
+    ],
     [
       '@docusaurus/plugin-ideal-image',
       {

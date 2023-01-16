@@ -6,6 +6,9 @@ Author: [GPS](https://twitter.com/madebygps)
 
 You'll be using code to automate tasks and deploy infrastructure. You don't need to know how to build full applications but understanding the basics of programming will give you an upper hand. There are dedicated developer roles in cloud. For those you will need to know how to build full solutions, checkout [this video](https://youtu.be/WMUAc7bvB7M) for more info on that role.
 
+<!--truncate -->
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/WMUAc7bvB7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 In the previous step you were introduced and wrote some Bash scripts. Bash scripting is used to automate tasks and is considered a universal language for servers, since nowadays, Bash is installed by default almost on every Linux server.
 
 I think now it would be beneficial to learn some more programming skills.

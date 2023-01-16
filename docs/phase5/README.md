@@ -16,7 +16,7 @@ I also recommend checking out [Securing DevOps: Security in the Cloud](https://w
 
 Another book recommendation is [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/) by [Chris Dotson](https://www.linkedin.com/in/chris-dotson-6a9b55/). This book is a good complimentary resource to the previous book as it goes in-depth into various concepts, standards, frameworks and principles required for cloud security, and as the name implies, it is practical.
 
-Always rememeber this, you can not secure what you do not understand, so make sure to understand the architectural and core components of the cloud so that you can properly secure them.
+Always remember this, you can not secure what you do not understand, so make sure to understand the architectural and core components of the cloud so that you can properly secure them.
 
 ## Resources
 
@@ -34,6 +34,8 @@ Azure | [CONVEX](https://github.com/Azure/CONVEX)| Cloud Open-source Network Vul
 Azure | [Securing Azure Infrastructure - Hands on Lab Guide](https://github.com/azurecitadel/azure-security-lab)| A hands on guide to securing azure infrastructure using various azure security controls. |
 Azure | [Azure Security Technologies](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/)| Various labs scenarios covering azure security. |
 Azure | [Create an Azure Vulnerable Lab](https://0xpwn.wordpress.com/2022/03/05/setting-up-an-azure-pentest-lab-part-1-anonymous-blob-access/)| A four-part series explaining azure vulnerabilities. |
+Azure | [Azure Goat](https://github.com/ine-labs/AzureGoat)| AzureGoat : A Damn Vulnerable Azure Infrastructure |
+Azure | [Purple Cloud](https://github.com/iknowjason/PurpleCloud)| A little tool to play with Azure Identity - Azure Active Directory lab creation tool |
 GCP | [GCP GOAT](https://gcpgoat.joshuajebaraj.com/)| GCP-Goat is intentionally vulnerable GCP environment to learn and practice GCP Security |
 GCP | [ThunderCTF](https://aws.amazon.com/training/)| Thunder CTF allows players to practice attacking vulnerable cloud projects on Google Cloud Platform (GCP). In each level, players are tasked with exploiting a cloud deployment to find a "secret" integer stored within it. |
 Kubernetes | [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/)| Kubernetes Goat is an interactive Kuberenetes Security Learning Playground |
@@ -52,8 +54,8 @@ Azure | [SIEM Tutorial for Beginners Azure Sentinel Tutorial MAP with LIVE CYBER
 - An understanding of core IAM concepts (Users, Roles, Policies, Groups, Service Accounts/Principals, etc.)
 - An understanding of how authentication works in the cloud.
 - An understanding of secure cloud storage, compute, networking, applications and so on .
-- Common security vulnerabilites and misconfigurations in the cloud.
-- How to investigate cloud logs and determine if a cloud envrionment has been compromised.
+- Common security vulnerabilities and misconfigurations in the cloud.
+- How to investigate cloud logs and determine if a cloud environment has been compromised.
 - How to simulate attacks against cloud environments.
 - How to deploy vulnerable infrastructure in the cloud for security testing.
 - Knowledge and usage various cloud security tools.
