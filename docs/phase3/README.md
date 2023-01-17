@@ -4,10 +4,16 @@ Author: [GPS](https://twitter.com/madebygps)
 
 ## How does this phase apply to Cloud?
 
-Sometimes people are surprised to see that this phase isn't number 1, though it is the longest and for good reason. As a Cloud professional, you will live in a platform, or multiple. Everything you build, support, develop, etc, will be on a platform. Here are some popular questions we get at this phase:
+Sometimes people are surprised to see that this phase isn't number 1, though it is the longest and for good reason. As a Cloud professional, you will live in a platform, or multiple. Everything you build, support, develop, etc, will be on a platform. 
 
-- [Which cloud to learn?](../resources/FAQ.md)
+Here are some popular questions we get at this phase:
+
 - [Are paid cloud learning platforms worth it?](../resources/FAQ.md)
+
+- Which cloud to learn?:
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/W3_8O3doYlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## How to break down this phase
 
