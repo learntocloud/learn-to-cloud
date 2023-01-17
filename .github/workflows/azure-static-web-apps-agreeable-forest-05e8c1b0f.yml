@@ -9,6 +9,7 @@ on:
     types: [opened, synchronize, reopened, closed]
     branches:
       - main
+      - staging
 
 jobs:
   build_and_deploy_job:
