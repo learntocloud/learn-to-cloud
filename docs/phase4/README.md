@@ -7,7 +7,7 @@ Author: [GPS](https://twitter.com/madebygps)
 DevOps is all about getting your solutions to run efficiently from deployment to updates.
 It's not specific to Cloud, as you can implement DevOps practices on-prem and in hybrid environments as well. DevOps is not limited to a single role. However most companies have dedicated roles to DevOps. If your aim is to become a DevOps engineer, this phase will get you started but you'll have to go deeper.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=YMXwThdwTiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/YMXwThdwTiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 DevOps is a culture, and not a specific tool or service. Read up on what DevOps is. Each cloud platform has a suite of DevOps tools, I've linked a few articles here:
 
