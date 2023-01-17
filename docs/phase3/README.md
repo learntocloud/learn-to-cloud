@@ -12,7 +12,7 @@ Here are some popular questions we get at this phase:
 
 - Which cloud to learn?:
 
-<iframe width="100%" height="315" src="https://youtu.be/W3_8O3doYlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=W3_8O3doYlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## How to break down this phase
 
