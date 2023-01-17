@@ -21,7 +21,7 @@ Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
 
 ## Roadmap
 
-Take a look at our backlog (https://github.com/orgs/learntocloud/projects/2) for a full list of proposed features (and known issues).
+Take a look at our [backlog](https://github.com/orgs/learntocloud/projects/2) for a full list of proposed features (and known issues).
 
 ## Contributing
 
@@ -37,4 +37,4 @@ If you have ideas for updating the guide content, please open a PR and we would 
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See [LICENSE](/LICENSE) for more information.
