@@ -10,27 +10,31 @@ Learn to Cloud is a GUIDE (not a book or course) that originated from [this twee
 - Cloud Support Engineer.
 - Cloud Administrator.
 
-## Can I really get into Cloud by being self-taught?
+## How to get started?
 
-Yes, watch [this](https://youtu.be/kluKaLXJ2lg)
+Our website is live [here](https://learntocloud.guide)
+
 
 ## Questions? Comments? Feedback?
 
 Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
 
-## Phases
+## Roadmap
 
-| Order | Topic                           |
-|-------|---------------------------------|
-| [optional](/docs/phase0/README.md)  | Start from zero tech experience  |
-| [1](/docs/phase1/README.md)  | Bash and Networking fundamentals|  
-| [2](/docs/phase2/README.md)  | Programming fundamentals |
-| [3](/docs/phase3/README.md)  | Cloud Platform fundamentals|
-| [4](/docs/phase4/README.md)  | DevOps fundamentals         |
-| [5](/docs/phase5/README.md)  | Cloud Security fundamentals|
+Take a look at our backlog (https://github.com/orgs/learntocloud/projects/2) for a full list of proposed features (and known issues).
 
-## Study Plan
+## Contributing
 
-[Here is a 6 month study plan you can use that follows this guide](http://bootcamp.madebygps.com/)
+We have 2 areas for contribution:
 
-### [Go to Phase 1: Bash and Networking fundamentals](/docs/phase1/README.md)
+### Engineering
+
+We would love to be your first PR! or any PR for that matter. Take a look at our [backlog](https://github.com/orgs/learntocloud/projects/2) and comment on an issue you'd like to work on and we can get you started.
+
+### Content
+
+If you have ideas for updating the guide content, please open a PR and we would take a look at it.
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
