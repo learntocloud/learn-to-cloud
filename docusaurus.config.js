@@ -73,7 +73,7 @@ const config = {
               position: 'left',
             },
             {
-              href: 'http://discord.learntocloud.guide',
+              href: 'https://discord.gg/nxcGpYQpw4',
               label: 'Discord',
               position: 'right',
             },
