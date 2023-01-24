@@ -7,17 +7,14 @@ on:
     - staging
 
 jobs:
-  add-contributors:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: BobAnkh/add-contributors@master
-      with:
-        CONTRIBUTOR: '# Contributors'
-        COLUMN_PER_ROW: '6'
-        ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        IMG_WIDTH: '100'
-        FONT_SIZE: '14'
-        PATH: '/src/pages/Contributors.md'
-        COMMIT_MESSAGE: 'docs(README): update contributors'
-        AVATAR_SHAPE: 'round'
+    contrib-readme-job:
+        runs-on: ubuntu-latest
+        name: A job to automate contribute list in readme.md
+        steps:
+            - name: Contribute List
+              uses: akhilmhdh/contributors-readme-action@master
+              with:
+                  readme_path: "/src/pages/Contributors.md"
+                  columns_per_row: '6'
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
