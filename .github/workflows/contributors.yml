@@ -7,7 +7,7 @@ on:
     - staging
 
 jobs:
-    contrib-readme-job:
+    contributors-markdown-job:
         runs-on: ubuntu-latest
         name: A job to automate contribute list in readme.md
         steps:
@@ -16,5 +16,14 @@ jobs:
               with:
                   readme_path: "Contributors.md"
                   columns_per_row: '6'
+                  committer_username: "rishabkumar7"
+                  committer_email: "rishabkumar7@gmail.com"
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    contributors-svg:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: wow-actions/contributors-list@v1
+          with:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            svgPath: CONTRIBUTORS.svg              
