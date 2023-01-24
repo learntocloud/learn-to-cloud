@@ -14,7 +14,7 @@ jobs:
             - name: Contribute List
               uses: akhilmhdh/contributors-readme-action@master
               with:
-                  readme_path: "/src/pages/Contributors.md"
+                  readme_path: "src/pages/Contributors.md"
                   columns_per_row: '6'
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
