@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import styles from './styles.module.css';
 
-function HomepageApi() {
-  const [data, setData] = useState([]);
+export default function HomepageApi() {
+  const [words, setWords] = useState();
   const getData = () => {
     fetch('https://clouddictionary.azurewebsites.net/api/GetRandomDefinition'
       , {
@@ -12,25 +12,24 @@ function HomepageApi() {
         }
       }
     )
-      .then(function (response) {
-        console.log(response)
-        return response.json();
+      .then((response) => response.json())
+      .then((actualData) => {
+        setWords(actualData);
+        console.log(actualData);
       })
-      .then(function (myJson) {
-        console.log(myJson);
-        setData(myJson)
-      });
-  }
+      .catch((err) => {
+        console.log(err.message);
+      })
+  };
+
   useEffect(() => {
     getData()
-  }, [])
+  }, []);
+
   return (
-    <div className={styles.cloudapi}>
-      {
-        data && data.length > 0 && data.map((object) => <p>{object}</p>)
-      }
+    <div className="definition-container">
+      
     </div>
+
   );
 }
-
-export default HomepageApi;
