@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import styles from './styles.module.css';
 
 function HomepageApi() {
   const [data, setData] = useState([]);
@@ -24,9 +25,9 @@ function HomepageApi() {
     getData()
   }, [])
   return (
-    <div className="App">
+    <div className={styles.cloudapi}>
       {
-        data && data.length > 0 && data.map((item) => <p>{item.about}</p>)
+        data && data.length > 0 && data.map((object) => <p>{object}</p>)
       }
     </div>
   );
