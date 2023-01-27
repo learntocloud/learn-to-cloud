@@ -38,6 +38,7 @@ Title | Description | Author | Area of Focus | Difficulty
 [Azure Pet Store by Chris Tremblay](https://chtrembl.github.io/azure-cloud/petstore/)|  The Azure Pet Store is comprised of hypothetical open source applications developed to help you learn about and build awesome software on Azure| [Chris Tremblay](https://github.com/chtrembl) | AZ-204 | Associate
 [AZ-104 Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)|  AZ-104 guided labs | Microsoft learning | AZ-104 | Associate
 [WTH Serverless](https://www.youtube.com/playlist?list=PLmsFUfdnGr3wg9NCWGYGw0IJORaqXhzLP) | Build a Serverless Tollbooth Application on Azure | [GPS](https://twitter.com/madebygps) | AZ-204 | Associate
+[WTH Datadog on Azure](https://microsoft.github.io/WhatTheHack/059-DatadogOnAzure/) | This What The Hack provides provides hands on experience on how to monitor Azure workloads using Datadog. | [WTH](https://microsoft.github.io/WhatTheHack/)| AZ-104/204 | Associate
 
 
 ## GCP Projects
