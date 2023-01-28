@@ -13,9 +13,9 @@ export default function HomepageApi() {
       }
     )
       .then((response) => response.json())
-      .then((actualData) => {
-        setWords(actualData);
-        console.log(actualData);
+      .then((result) => {
+        setWords(result);
+        console.log(result);
       })
       .catch((err) => {
         console.log(err.message);
@@ -27,8 +27,14 @@ export default function HomepageApi() {
   }, []);
 
   return (
-    <div className="definition-container">
-      
+    <div className={styles.flex}>
+    <div className={styles.card}>
+      <h3>cloud word of the day</h3>
+      <h4><strong>{words?.Word}</strong></h4>
+      <h5>{words?.Content}</h5>
+      <p> - {words?.Author.Name}</p>
+      <a href={words?.LearnMoreUrl}><button className={styles.button}> learn more</button></a>
+    </div>
     </div>
 
   );
