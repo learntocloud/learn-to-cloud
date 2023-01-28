@@ -2,7 +2,7 @@
 display: flex;
 justify-content: space-around;
 padding-bottom: 1em;
-padding-top: 2em;
+padding-top: 1em;
 padding-right: 2em;
 padding-left: 2em;
 }
@@ -26,22 +26,30 @@ h3, h4, h5 {
   text-align: center;
 }
 
+a {
+color: #ffffff;
+}
+
+h3 {
+  font-size: 20px;
+}
+
 h4 { 
 font-size: 40px;
 }
 
 h5 {
-  font-size: 20px;
+  font-size: 15px;
 }
 
-p {
-  font-size: 12px;
+h6 {
+  font-size: 15px;
   text-align: right;
 }
 
 button {
   text-transform: uppercase;
-  width: 150px;
+  width: 250px;
   display: block;
   margin: 0 auto;
   color: #0C7DF6;

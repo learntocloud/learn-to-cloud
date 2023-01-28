@@ -4,7 +4,7 @@
  */
 
 .heroBanner {
- padding-bottom: 0rem;
+  padding-bottom: 0rem;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -25,7 +25,7 @@
 }
 
 .featureImg {
-  width: 20%;
+  width: 15%;
   position: relative;
   display: block;
   margin-left: auto;

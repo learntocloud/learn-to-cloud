@@ -31,8 +31,8 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       description="An open-source guide to the fundamentals of Cloud Computing">
-      <HomepageApi />
       <HomepageHeader />
+      <HomepageApi />
       <div className={styles.buttons}>
         <Link
           className="button button--secondary button--lg"

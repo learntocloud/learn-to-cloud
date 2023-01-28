@@ -29,11 +29,11 @@ export default function HomepageApi() {
   return (
     <div className={styles.flex}>
     <div className={styles.card}>
-      <h3>cloud word of the day</h3>
-      <h4><strong>{words?.Word}</strong></h4>
+      <h3>Cloud word of the day</h3>
+      <a href={words?.LearnMoreUrl}><h4><strong>{words?.Word}</strong></h4></a>
       <h5>{words?.Content}</h5>
-      <p> - {words?.Author.Name}</p>
-      <a href={words?.LearnMoreUrl}><button className={styles.button}> learn more</button></a>
+      <a href={words?.Author.Link}><h6> - {words?.Author.Name}</h6></a>
+      <a href="https://github.com/learntocloud/cloud-dictionary/issues/new/choose"><button className={styles.button}> Submit your own definition</button></a>
     </div>
     </div>
 
