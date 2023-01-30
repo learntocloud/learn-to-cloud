@@ -103,6 +103,13 @@ const config = {
           theme: lightCodeTheme,
           darkTheme: darkCodeTheme,
         },
+        algolia: {
+          appId: process.env.APP_ID,
+          apiKey: process.env.ALGOLIA_API_KEY,
+
+          // Ensures search results are relevant to the current language and version
+          contextualSearch: true,
+        }
       }),
   plugins: [
     [
