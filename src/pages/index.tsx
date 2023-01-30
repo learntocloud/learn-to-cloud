@@ -32,12 +32,18 @@ export default function Home(): JSX.Element {
     <Layout
       description="An open-source guide to the fundamentals of Cloud Computing">
       <HomepageHeader />
+      <h2>Cloud word of the day</h2>
       <HomepageApi />
       <div className={styles.buttons}>
         <Link
           className="button button--secondary button--lg"
           to="/docs/Welcome">
           Go to Guide
+        </Link>
+        <Link
+          className="button button--secondary button--lg"
+          to="https://github.com/learntocloud/cloud-dictionary/issues/new/choose">
+          Submit your own definition
         </Link>
       </div>
       <main>
