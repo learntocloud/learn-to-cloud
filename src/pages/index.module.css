@@ -29,12 +29,12 @@
 }
 
 .featureImg {
-  width: 15%;
+  width: 10%;
   position: relative;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 2rem;
+  padding-top: 1rem;
 }
 
 .hero__subtitle {
