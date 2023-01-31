@@ -24,6 +24,10 @@
   padding-bottom: 3rem;
 }
 
+.button {
+  padding-right: 1rem;
+}
+
 .featureImg {
   width: 15%;
   position: relative;
@@ -35,4 +39,28 @@
 
 .hero__subtitle {
   color: white;
+}
+
+h2 {
+  text-align: center;
+}
+
+.btngrad {
+  background-image: linear-gradient(to right, #1A2980 0%, #26D0CE  51%, #1A2980  100%);
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: block;
+}
+
+.btngrad:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
 }

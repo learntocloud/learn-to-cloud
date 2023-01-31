@@ -36,12 +36,13 @@ export default function Home(): JSX.Element {
       <HomepageApi />
       <div className={styles.buttons}>
         <Link
-          className="button button--secondary button--lg"
+          className={styles.btngrad}
           to="/docs/Welcome">
           Go to Guide
         </Link>
+        <br></br>
         <Link
-          className="button button--secondary button--lg"
+          className={styles.btngrad}
           to="https://github.com/learntocloud/cloud-dictionary/issues/new/choose">
           Submit your own definition
         </Link>

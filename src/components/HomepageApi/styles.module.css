@@ -35,11 +35,13 @@ h3 {
 }
 
 h4 { 
-font-size: 40px;
+font-size: 30px;
+text-align: left;
 }
 
 h5 {
   font-size: 15px;
+  text-align: left;
 }
 
 h6 {
