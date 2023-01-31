@@ -5,7 +5,7 @@ on:
     branches:
       - main
       - staging
-  pull_request:
+  pull_request_target:
     types: [opened, synchronize, reopened, closed]
     branches:
       - main
