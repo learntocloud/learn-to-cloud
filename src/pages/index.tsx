@@ -16,8 +16,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <Image img={bannerImg} className={styles.featureImg} />
-        {/*
+        {/*<Image img={bannerImg} className={styles.featureImg} />
         <h1 className="hero__title">{siteConfig.title}</h1>
         */}
         <p className="hero__subtitle">{siteConfig.tagline}</p>
@@ -32,7 +31,7 @@ export default function Home(): JSX.Element {
     <Layout
       description="An open-source guide to the fundamentals of Cloud Computing">
       <HomepageHeader />
-      <h2>Cloud word of the day</h2>
+      <p className={styles.gradientText}>Cloud word of the day</p>
       <HomepageApi />
       <div className={styles.buttons}>
         <Link
@@ -42,9 +41,9 @@ export default function Home(): JSX.Element {
         </Link>
         <br></br>
         <Link
-          className={styles.btngrad}
+          className={styles.btngrad2}
           to="https://github.com/learntocloud/cloud-dictionary/issues/new/choose">
-          Submit your own definition
+          Submit a definition
         </Link>
       </div>
       <main>

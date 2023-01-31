@@ -34,7 +34,6 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 1rem;
 }
 
 .hero__subtitle {
@@ -46,21 +45,41 @@ h2 {
 }
 
 .btngrad {
-  background-image: linear-gradient(to right, #1A2980 0%, #26D0CE  51%, #1A2980  100%);
+  background-color: #134D99;
   margin: 10px;
   padding: 15px 45px;
   text-align: center;
   text-transform: uppercase;
-  transition: 0.5s;
-  background-size: 200% auto;
-  color: white;            
-  box-shadow: 0 0 20px #eee;
+  transition: 0.5s;           
+  border-radius: 10px;
+  display: block;
+}
+.btngrad2 {
+  background-color: #2DBACF ;
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;           
   border-radius: 10px;
   display: block;
 }
 
-.btngrad:hover {
-  background-position: right center; /* change the direction of the change here */
+.btngrad:hover, .btngrad2:hover {
+  background-color: #33A1FD;
   color: #fff;
   text-decoration: none;
+}
+
+/* gradient text for modern browsers */
+@supports (background-clip: text) {
+  .gradientText {
+    background-image: radial-gradient(circle farthest-corner at center center, #30CFD0 0%, #1B39CF 100%);
+    background-clip: text;
+    color: transparent;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 800;
+  }
 }
