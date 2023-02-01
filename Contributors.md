@@ -1,203 +1,200 @@
-### Contributors
+# Contributors
 
+<!-- readme: contributors -start -->
 <table>
 <tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/madebygps>
-            <img src=https://avatars.githubusercontent.com/u/6733686?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Gwyneth Peña-Siguenza/>
+    <td align="center">
+        <a href="https://github.com/madebygps">
+            <img src="https://avatars.githubusercontent.com/u/6733686?v=4" width="100;" alt="madebygps"/>
             <br />
-            <sub style="font-size:14px"><b>Gwyneth Peña-Siguenza</b></sub>
+            <sub><b>Gwyneth Peña-Siguenza</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/rishabkumar7>
-            <img src=https://avatars.githubusercontent.com/u/45825464?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Rishab Kumar/>
+    <td align="center">
+        <a href="https://github.com/rishabkumar7">
+            <img src="https://avatars.githubusercontent.com/u/45825464?v=4" width="100;" alt="rishabkumar7"/>
             <br />
-            <sub style="font-size:14px"><b>Rishab Kumar</b></sub>
+            <sub><b>Rishab Kumar</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/verlaine-muhungu>
-            <img src=https://avatars.githubusercontent.com/u/39829558?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Verlaine_Devnet/>
+    <td align="center">
+        <a href="https://github.com/verlaine-muhungu">
+            <img src="https://avatars.githubusercontent.com/u/39829558?v=4" width="100;" alt="verlaine-muhungu"/>
             <br />
-            <sub style="font-size:14px"><b>Verlaine_Devnet</b></sub>
+            <sub><b>Verlaine_Devnet</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/ViniViniAntunes>
-            <img src=https://avatars.githubusercontent.com/u/57882903?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Vini Antunes/>
+    <td align="center">
+        <a href="https://github.com/ViniViniAntunes">
+            <img src="https://avatars.githubusercontent.com/u/57882903?v=4" width="100;" alt="ViniViniAntunes"/>
             <br />
-            <sub style="font-size:14px"><b>Vini Antunes</b></sub>
+            <sub><b>Vini Antunes</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/CarolineChiari>
-            <img src=https://avatars.githubusercontent.com/u/57648401?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Caroline Chiari/>
+    <td align="center">
+        <a href="https://github.com/CarolineChiari">
+            <img src="https://avatars.githubusercontent.com/u/57648401?v=4" width="100;" alt="CarolineChiari"/>
             <br />
-            <sub style="font-size:14px"><b>Caroline Chiari</b></sub>
+            <sub><b>Caroline Chiari</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Abdennour0210>
-            <img src=https://avatars.githubusercontent.com/u/46243233?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Abdennour/>
+    <td align="center">
+        <a href="https://github.com/Abdennour0210">
+            <img src="https://avatars.githubusercontent.com/u/46243233?v=4" width="100;" alt="Abdennour0210"/>
             <br />
-            <sub style="font-size:14px"><b>Abdennour</b></sub>
+            <sub><b>Abdennour</b></sub>
         </a>
-    </td>
-</tr>
+    </td></tr>
 <tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/srishtipoudel>
-            <img src=https://avatars.githubusercontent.com/u/66827364?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Srishti />
+    <td align="center">
+        <a href="https://github.com/srishtipoudel">
+            <img src="https://avatars.githubusercontent.com/u/66827364?v=4" width="100;" alt="srishtipoudel"/>
             <br />
-            <sub style="font-size:14px"><b>Srishti </b></sub>
+            <sub><b>Srishti </b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/joseasync>
-            <img src=https://avatars.githubusercontent.com/u/18737977?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jose Cruz/>
+    <td align="center">
+        <a href="https://github.com/joseasync">
+            <img src="https://avatars.githubusercontent.com/u/18737977?v=4" width="100;" alt="joseasync"/>
             <br />
-            <sub style="font-size:14px"><b>Jose Cruz</b></sub>
+            <sub><b>Jose Cruz</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/antoniolofiego>
-            <img src=https://avatars.githubusercontent.com/u/33105749?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Antonio Lo Fiego/>
+    <td align="center">
+        <a href="https://github.com/antoniolofiego">
+            <img src="https://avatars.githubusercontent.com/u/33105749?v=4" width="100;" alt="antoniolofiego"/>
             <br />
-            <sub style="font-size:14px"><b>Antonio Lo Fiego</b></sub>
+            <sub><b>Antonio Lo Fiego</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/abdrrahimelh>
-            <img src=https://avatars.githubusercontent.com/u/59322515?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=EL HIMIR ABDERRAHIM/>
+    <td align="center">
+        <a href="https://github.com/abdrrahimelh">
+            <img src="https://avatars.githubusercontent.com/u/59322515?v=4" width="100;" alt="abdrrahimelh"/>
             <br />
-            <sub style="font-size:14px"><b>EL HIMIR ABDERRAHIM</b></sub>
+            <sub><b>EL HIMIR ABDERRAHIM</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/arushmangal>
-            <img src=https://avatars.githubusercontent.com/u/83538403?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Arush Mangal/>
+    <td align="center">
+        <a href="https://github.com/arushmangal">
+            <img src="https://avatars.githubusercontent.com/u/83538403?v=4" width="100;" alt="arushmangal"/>
             <br />
-            <sub style="font-size:14px"><b>Arush Mangal</b></sub>
+            <sub><b>Arush Mangal</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/ricmmartins>
-            <img src=https://avatars.githubusercontent.com/u/44813563?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Ricardo Martins/>
+    <td align="center">
+        <a href="https://github.com/ricmmartins">
+            <img src="https://avatars.githubusercontent.com/u/44813563?v=4" width="100;" alt="ricmmartins"/>
             <br />
-            <sub style="font-size:14px"><b>Ricardo Martins</b></sub>
+            <sub><b>Ricardo Martins</b></sub>
         </a>
-    </td>
-</tr>
+    </td></tr>
 <tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/erh-git>
-            <img src=https://avatars.githubusercontent.com/u/8422319?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=erh-git/>
+    <td align="center">
+        <a href="https://github.com/erh-git">
+            <img src="https://avatars.githubusercontent.com/u/8422319?v=4" width="100;" alt="erh-git"/>
             <br />
-            <sub style="font-size:14px"><b>erh-git</b></sub>
+            <sub><b>Null</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/sarthakregmi>
-            <img src=https://avatars.githubusercontent.com/u/66667396?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sarthak Regmi/>
+    <td align="center">
+        <a href="https://github.com/sarthakregmi">
+            <img src="https://avatars.githubusercontent.com/u/66667396?v=4" width="100;" alt="sarthakregmi"/>
             <br />
-            <sub style="font-size:14px"><b>Sarthak Regmi</b></sub>
+            <sub><b>Sarthak Regmi</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/azgcloudev>
-            <img src=https://avatars.githubusercontent.com/u/72358828?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Aldair/>
+    <td align="center">
+        <a href="https://github.com/azgcloudev">
+            <img src="https://avatars.githubusercontent.com/u/72358828?v=4" width="100;" alt="azgcloudev"/>
             <br />
-            <sub style="font-size:14px"><b>Aldair</b></sub>
+            <sub><b>Aldair</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/ydamni>
-            <img src=https://avatars.githubusercontent.com/u/93495053?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Yassin DAHMOUNI/>
+    <td align="center">
+        <a href="https://github.com/ydamni">
+            <img src="https://avatars.githubusercontent.com/u/93495053?v=4" width="100;" alt="ydamni"/>
             <br />
-            <sub style="font-size:14px"><b>Yassin DAHMOUNI</b></sub>
+            <sub><b>Yassin DAHMOUNI</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/ams0>
-            <img src=https://avatars.githubusercontent.com/u/1541352?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Alessandro Vozza/>
+    <td align="center">
+        <a href="https://github.com/ams0">
+            <img src="https://avatars.githubusercontent.com/u/1541352?v=4" width="100;" alt="ams0"/>
             <br />
-            <sub style="font-size:14px"><b>Alessandro Vozza</b></sub>
+            <sub><b>Alessandro Vozza</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/ashu-0453>
-            <img src=https://avatars.githubusercontent.com/u/86668736?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Astush Sharma/>
+    <td align="center">
+        <a href="https://github.com/ashu-0453">
+            <img src="https://avatars.githubusercontent.com/u/86668736?v=4" width="100;" alt="ashu-0453"/>
             <br />
-            <sub style="font-size:14px"><b>Astush Sharma</b></sub>
+            <sub><b>Astush Sharma</b></sub>
         </a>
-    </td>
-</tr>
+    </td></tr>
 <tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/ethanolivertroy>
-            <img src=https://avatars.githubusercontent.com/u/63926014?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Ethan Troy/>
+    <td align="center">
+        <a href="https://github.com/ethanolivertroy">
+            <img src="https://avatars.githubusercontent.com/u/63926014?v=4" width="100;" alt="ethanolivertroy"/>
             <br />
-            <sub style="font-size:14px"><b>Ethan Troy</b></sub>
+            <sub><b>Ethan Troy</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/JacobHigbee>
-            <img src=https://avatars.githubusercontent.com/u/23349913?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jacob Higbee/>
+    <td align="center">
+        <a href="https://github.com/JacobHigbee">
+            <img src="https://avatars.githubusercontent.com/u/23349913?v=4" width="100;" alt="JacobHigbee"/>
             <br />
-            <sub style="font-size:14px"><b>Jacob Higbee</b></sub>
+            <sub><b>Jacob Higbee</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/loujaybee>
-            <img src=https://avatars.githubusercontent.com/u/5528307?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Lou Bichard/>
+    <td align="center">
+        <a href="https://github.com/loujaybee">
+            <img src="https://avatars.githubusercontent.com/u/5528307?v=4" width="100;" alt="loujaybee"/>
             <br />
-            <sub style="font-size:14px"><b>Lou Bichard</b></sub>
+            <sub><b>Lou Bichard</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/sylvainreiter>
-            <img src=https://avatars.githubusercontent.com/u/3787458?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sylvain Reiter/>
+    <td align="center">
+        <a href="https://github.com/sylvainreiter">
+            <img src="https://avatars.githubusercontent.com/u/3787458?v=4" width="100;" alt="sylvainreiter"/>
             <br />
-            <sub style="font-size:14px"><b>Sylvain Reiter</b></sub>
+            <sub><b>Sylvain Reiter</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/thomast1906>
-            <img src=https://avatars.githubusercontent.com/u/12154020?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Thomas Thornton/>
+    <td align="center">
+        <a href="https://github.com/thomast1906">
+            <img src="https://avatars.githubusercontent.com/u/12154020?v=4" width="100;" alt="thomast1906"/>
             <br />
-            <sub style="font-size:14px"><b>Thomas Thornton</b></sub>
+            <sub><b>Thomas Thornton</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/vazsingh>
-            <img src=https://avatars.githubusercontent.com/u/74464807?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Vaz/>
+    <td align="center">
+        <a href="https://github.com/vazsingh">
+            <img src="https://avatars.githubusercontent.com/u/74464807?v=4" width="100;" alt="vazsingh"/>
             <br />
-            <sub style="font-size:14px"><b>Vaz</b></sub>
+            <sub><b>Vaz</b></sub>
         </a>
-    </td>
-</tr>
+    </td></tr>
 <tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/allan-oliveira>
-            <img src=https://avatars.githubusercontent.com/u/10514795?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Allan Oliveira/>
+    <td align="center">
+        <a href="https://github.com/allan-oliveira">
+            <img src="https://avatars.githubusercontent.com/u/10514795?v=4" width="100;" alt="allan-oliveira"/>
             <br />
-            <sub style="font-size:14px"><b>Allan Oliveira</b></sub>
+            <sub><b>Allan Oliveira</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/mpenrow>
-            <img src=https://avatars.githubusercontent.com/u/106648?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=mpenrow/>
+    <td align="center">
+        <a href="https://github.com/mpenrow">
+            <img src="https://avatars.githubusercontent.com/u/106648?v=4" width="100;" alt="mpenrow"/>
             <br />
-            <sub style="font-size:14px"><b>mpenrow</b></sub>
+            <sub><b>Null</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/nathanrobb>
-            <img src=https://avatars.githubusercontent.com/u/3893233?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=nate/>
+    <td align="center">
+        <a href="https://github.com/nathanrobb">
+            <img src="https://avatars.githubusercontent.com/u/3893233?v=4" width="100;" alt="nathanrobb"/>
             <br />
-            <sub style="font-size:14px"><b>nate</b></sub>
+            <sub><b>Nate</b></sub>
         </a>
-    </td>
-</tr>
+    </td></tr>
 </table>
+<!-- readme: contributors -end -->

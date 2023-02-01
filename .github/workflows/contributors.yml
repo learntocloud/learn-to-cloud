@@ -2,23 +2,28 @@ name: Add contributors
 on:
   schedule:
     - cron:  '0 12 * * *'
-# push:
-#   branches:
-#     - master
+  push:
+    branches:
+    - staging
 
 jobs:
-  add-contributors:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: BobAnkh/add-contributors@master
-      with:
-        REPO_NAME: 'learntocloud/learn-to-cloud'
-        CONTRIBUTOR: '### Contributors'
-        COLUMN_PER_ROW: '6'
-        ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        IMG_WIDTH: '100'
-        FONT_SIZE: '14'
-        PATH: '/Contributors.md'
-        COMMIT_MESSAGE: 'docs(Contributors): update contributors'
-        AVATAR_SHAPE: 'round'
+    contributors-markdown-job:
+        runs-on: ubuntu-latest
+        name: A job to automate contribute list in readme.md
+        steps:
+            - name: Contribute List
+              uses: akhilmhdh/contributors-readme-action@master
+              with:
+                  readme_path: "Contributors.md"
+                  columns_per_row: '6'
+                  committer_username: "rishabkumar7"
+                  committer_email: "rishabkumar7@gmail.com"
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    contributors-svg:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: wow-actions/contributors-list@v1
+          with:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            svgPath: 'static/img/CONTRIBUTORS.svg'              

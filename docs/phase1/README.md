@@ -45,7 +45,6 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
  Deploy a NAS server | Checkout [FreeNAS](https://www.freenas.org/) |
  Deploy your own cloud | Checkout [NextCloud](https://nextcloud.com/) | A fun way to create your own private cloud.
   Convert video files | Checkout [ffmpeg](https://ffmpeg.org/ffmpeg.html) use it to write a script that converts a .mov file to mp4 | Great way to practice scripting skills.
-  Test your
 
 ## Things you should be able familiar with at the end of this phase
 

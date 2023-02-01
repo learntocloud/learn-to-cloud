@@ -89,8 +89,9 @@ const config = {
             },
             {
               href: 'https://github.com/learntocloud/learn-to-cloud',
-              label: 'GitHub',
               position: 'right',
+              className: "header-github-link",
+              "aria-label": "GitHub repository",
             },
           ],
         },
@@ -102,6 +103,17 @@ const config = {
         prism: {
           theme: lightCodeTheme,
           darkTheme: darkCodeTheme,
+        },
+        announcementBar: {
+          id: 'Learn Cloud',
+          content:
+          /*
+            '<b>Find #30DaysOfSWA useful? Give it a star on <a href="https://github.com/staticwebdev/30DaysOfSWA"><b>GitHub</b></a></b>',
+          */
+            '<b>Found this guide helpful? Give us a star on <a href="https://github.com/learntocloud/learn-to-cloud"><b>GitHub</b></a></b> ☁️',
+          backgroundColor: '#134D99',
+          textColor: '#ffffff',
+          isCloseable: false,
         },
       }),
   plugins: [
