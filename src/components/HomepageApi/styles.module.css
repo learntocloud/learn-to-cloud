@@ -29,6 +29,7 @@ padding-left: 2em;
 .word { 
 font-size: 30px;
 text-align: left;
+color:#fff;
 }
 
 .definition {
@@ -39,6 +40,7 @@ text-align: left;
 .author {
   font-size: 15px;
   text-align: right;
+  color: #fff;
 }
 
 button {
