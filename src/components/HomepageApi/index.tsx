@@ -29,9 +29,9 @@ export default function HomepageApi() {
   return (
     <div className={styles.flex}>
     <div className={styles.card}>
-      <a href={words?.LearnMoreUrl}><h4><strong>{words?.Word}</strong></h4></a>
-      <h5>{words?.Content}</h5>
-      <a href={words?.Author.Link}><h6> - {words?.Author.Name}</h6></a>
+      <a href={words?.LearnMoreUrl}><h4 className={styles.word}><strong>{words?.Word}</strong></h4></a>
+      <h5 className={styles.definition}>{words?.Content}</h5>
+      <a href={words?.Author.Link}><h6 className={styles.author}> - {words?.Author.Name}</h6></a>
     </div>
     </div>
 

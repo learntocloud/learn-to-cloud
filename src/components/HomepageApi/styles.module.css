@@ -22,29 +22,21 @@ padding-left: 2em;
   margin-right: auto;
 }
 
-h3, h4, h5 {
+.word, .definition, .author {
   text-align: center;
 }
 
-a {
-color: #ffffff;
-}
-
-h3 {
-  font-size: 20px;
-}
-
-h4 { 
+.word { 
 font-size: 30px;
 text-align: left;
 }
 
-h5 {
+.definition {
   font-size: 15px;
   text-align: left;
 }
 
-h6 {
+.author {
   font-size: 15px;
   text-align: right;
 }

@@ -40,10 +40,6 @@
   color: white;
 }
 
-h2 {
-  text-align: center;
-}
-
 .btngrad {
   background-color: #134D99;
   margin: 10px;
@@ -53,6 +49,7 @@ h2 {
   transition: 0.5s;           
   border-radius: 10px;
   display: block;
+  color:#fff;
 }
 .btngrad2 {
   background-color: #2DBACF ;
@@ -63,6 +60,7 @@ h2 {
   transition: 0.5s;           
   border-radius: 10px;
   display: block;
+  color:#fff;
 }
 
 .btngrad:hover, .btngrad2:hover {
