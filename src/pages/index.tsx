@@ -4,12 +4,20 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageApi from '../components/HomepageApi';
+import { ApplicationInsights } from '@microsoft/applicationinsights-web'
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
 import Image from '@theme/IdealImage';
 import bannerImg from '../../static/img/LTC-HQ1.png';
+
+const appInsights = new ApplicationInsights({ config: {
+  connectionString: process.env.AZURE_APP_CONNECTION_STRING
+  /* ...Other Configuration Options... */
+} });
+appInsights.loadAppInsights();
+appInsights.trackPageView();
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
