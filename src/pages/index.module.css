@@ -4,7 +4,7 @@
  */
 
 .heroBanner {
- padding-bottom: 0rem;
+  padding-bottom: 0rem;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -24,15 +24,60 @@
   padding-bottom: 3rem;
 }
 
+.button {
+  padding-right: 1rem;
+}
+
 .featureImg {
-  width: 30%;
+  width: 10%;
   position: relative;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 15rem;
 }
 
 .hero__subtitle {
   color: white;
+}
+
+.btngrad {
+  background-color: #134D99;
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;           
+  border-radius: 10px;
+  display: block;
+  color:#fff;
+}
+.btngrad2 {
+  background-color: #2DBACF ;
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;           
+  border-radius: 10px;
+  display: block;
+  color:#fff;
+}
+
+.btngrad:hover, .btngrad2:hover {
+  background-color: #33A1FD;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* gradient text for modern browsers */
+@supports (background-clip: text) {
+  .gradientText {
+    background-image: radial-gradient(circle farthest-corner at center center, #30CFD0 0%, #1B39CF 100%);
+    background-clip: text;
+    color: transparent;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 800;
+  }
 }

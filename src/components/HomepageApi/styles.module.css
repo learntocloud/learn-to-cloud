@@ -1,0 +1,58 @@
+.flex {
+display: flex;
+justify-content: space-around;
+padding-bottom: 1em;
+padding-top: 1em;
+padding-right: 2em;
+padding-left: 2em;
+}
+
+.card {
+  width: 700px;
+  box-sizing: border-box;
+  padding: 2em;
+  font-family: Ubuntu;
+  border-radius: 25px;
+  color: white;
+  line-height: 25px;
+  box-shadow: 5px 5px 10px #ccc;
+  float: left;
+  background: linear-gradient(150deg, #134D99, #75D2FE 100%);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.word, .definition, .author {
+  text-align: center;
+}
+
+.word { 
+font-size: 30px;
+text-align: left;
+color:#fff;
+}
+
+.definition {
+  font-size: 15px;
+  text-align: left;
+}
+
+.author {
+  font-size: 15px;
+  text-align: right;
+  color: #fff;
+}
+
+button {
+  text-transform: uppercase;
+  width: 250px;
+  display: block;
+  margin: 0 auto;
+  color: #0C7DF6;
+  border-radius: 50px;
+  padding: 1em;
+  background: white;
+  border: none;
+  font-weight: bold;
+  margin-top: 4em;
+}

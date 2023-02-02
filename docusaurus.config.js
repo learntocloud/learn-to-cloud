@@ -89,8 +89,9 @@ const config = {
             },
             {
               href: 'https://github.com/learntocloud/learn-to-cloud',
-              label: 'GitHub',
               position: 'right',
+              className: "header-github-link",
+              "aria-label": "GitHub repository",
             },
           ],
         },
@@ -103,6 +104,7 @@ const config = {
           theme: lightCodeTheme,
           darkTheme: darkCodeTheme,
         },
+
         algolia: {
           // The application ID provided by Algolia
           appId: process.env.ALGOLIA_APP_ID,
@@ -114,7 +116,19 @@ const config = {
 
           // Ensures search results are relevant to the current language and version
           contextualSearch: true,
-        }
+        },
+        announcementBar: {
+          id: 'Learn Cloud',
+          content:
+          /*
+            '<b>Find #30DaysOfSWA useful? Give it a star on <a href="https://github.com/staticwebdev/30DaysOfSWA"><b>GitHub</b></a></b>',
+          */
+            '<b>Found this guide helpful? Give us a star on <a href="https://github.com/learntocloud/learn-to-cloud"><b>GitHub</b></a></b> ☁️',
+          backgroundColor: '#134D99',
+          textColor: '#ffffff',
+          isCloseable: false,
+        },
+
       }),
   plugins: [
     [
