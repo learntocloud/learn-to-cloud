@@ -61,13 +61,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/BrianCollet">
-            <img src="https://avatars.githubusercontent.com/u/50160870?v=4" width="100;" alt="BrianCollet"/>
-            <br />
-            <sub><b>Brian Collet</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/antoniolofiego">
             <img src="https://avatars.githubusercontent.com/u/33105749?v=4" width="100;" alt="antoniolofiego"/>
             <br />
@@ -87,15 +80,15 @@
             <br />
             <sub><b>Arush Mangal</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ricmmartins">
             <img src="https://avatars.githubusercontent.com/u/44813563?v=4" width="100;" alt="ricmmartins"/>
             <br />
             <sub><b>Ricardo Martins</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/erh-git">
             <img src="https://avatars.githubusercontent.com/u/8422319?v=4" width="100;" alt="erh-git"/>
@@ -130,15 +123,15 @@
             <br />
             <sub><b>Alessandro Vozza</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ashu-0453">
             <img src="https://avatars.githubusercontent.com/u/86668736?v=4" width="100;" alt="ashu-0453"/>
             <br />
             <sub><b>Astush Sharma</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ethanolivertroy">
             <img src="https://avatars.githubusercontent.com/u/63926014?v=4" width="100;" alt="ethanolivertroy"/>
@@ -173,15 +166,15 @@
             <br />
             <sub><b>Thomas Thornton</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/vazsingh">
             <img src="https://avatars.githubusercontent.com/u/74464807?v=4" width="100;" alt="vazsingh"/>
             <br />
             <sub><b>Vaz</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/allan-oliveira">
             <img src="https://avatars.githubusercontent.com/u/10514795?v=4" width="100;" alt="allan-oliveira"/>
