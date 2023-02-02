@@ -34,6 +34,9 @@ jobs:
           output_location: "build" # Built app content directory - optional
           ###### End of Repository/Build Configurations ######
           production_branch: "main"
+        env: # Add environment variables here
+           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
+           ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
