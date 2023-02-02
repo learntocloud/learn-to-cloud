@@ -138,6 +138,12 @@ const config = {
       },
     ],
     [
+      "docusaurus2-dotenv",
+      {
+        systemvars: true,
+      },
+    ],
+    [
       '@docusaurus/plugin-ideal-image',
       {
         quality: 70,
