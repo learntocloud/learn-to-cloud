@@ -3,6 +3,7 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+require('dotenv').config();
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -104,6 +105,19 @@ const config = {
           theme: lightCodeTheme,
           darkTheme: darkCodeTheme,
         },
+
+        algolia: {
+          // The application ID provided by Algolia
+          appId: process.env.ALGOLIA_APP_ID,
+
+          // Public API key
+          apiKey: process.env.ALGOLIA_API_KEY,
+
+          indexName: "learntocloud",
+
+          // Ensures search results are relevant to the current language and version
+          contextualSearch: true,
+        },
         announcementBar: {
           id: 'Learn Cloud',
           content:
@@ -115,6 +129,7 @@ const config = {
           textColor: '#ffffff',
           isCloseable: false,
         },
+
       }),
   plugins: [
     [
