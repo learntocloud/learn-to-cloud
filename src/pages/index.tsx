@@ -11,6 +11,7 @@ import styles from './index.module.css';
 
 import Image from '@theme/IdealImage';
 import bannerImg from '../../static/img/LTC-HQ1.png';
+require('dotenv').config();
 
 const appInsights = new ApplicationInsights({ config: {
   connectionString: process.env.AZURE_APP_CONNECTION_STRING
