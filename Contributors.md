@@ -54,6 +54,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/azgcloudev">
+            <img src="https://avatars.githubusercontent.com/u/72358828?v=4" width="100;" alt="azgcloudev"/>
+            <br />
+            <sub><b>Aldair</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/joseasync">
             <img src="https://avatars.githubusercontent.com/u/18737977?v=4" width="100;" alt="joseasync"/>
             <br />
@@ -80,15 +87,15 @@
             <br />
             <sub><b>EL HIMIR ABDERRAHIM</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/arushmangal">
             <img src="https://avatars.githubusercontent.com/u/83538403?v=4" width="100;" alt="arushmangal"/>
             <br />
             <sub><b>Arush Mangal</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ricmmartins">
             <img src="https://avatars.githubusercontent.com/u/44813563?v=4" width="100;" alt="ricmmartins"/>
@@ -108,13 +115,6 @@
             <img src="https://avatars.githubusercontent.com/u/66667396?v=4" width="100;" alt="sarthakregmi"/>
             <br />
             <sub><b>Sarthak Regmi</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/azgcloudev">
-            <img src="https://avatars.githubusercontent.com/u/72358828?v=4" width="100;" alt="azgcloudev"/>
-            <br />
-            <sub><b>Aldair</b></sub>
         </a>
     </td>
     <td align="center">
