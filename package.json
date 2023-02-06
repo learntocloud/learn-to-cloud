@@ -23,6 +23,7 @@
     "@microsoft/applicationinsights-web": "^2.8.9",
     "clsx": "^1.2.1",
     "docusaurus2-dotenv": "^1.4.0",
+    "path-browserify": "^1.0.1",
     "prism-react-renderer": "^1.3.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
