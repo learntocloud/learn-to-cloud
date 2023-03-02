@@ -1,58 +1,57 @@
-# Phase 0: Starting from zero
+# Етап 0: Починаємо з нуля
 
-Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
+Автор: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
 
-## How does this phase apply to Cloud?
+## Як цей етап стосується Хмарних технологій?
 
-If you feel like you have zero tech experience but you want to get into Cloud Computing. This phase is for you. If you are already in tech and switching to cloud, 
-[Go to Phase 1: Linux and Networking fundamentals](../phase1/README.md).
-
-
-Let's get started. 
-
-1. I think a good first step is understanding the fundamentals of IT and [this playlist](https://www.youtube.com/playlist?list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K) is a fantastic overview.
-
-2. The above video should give you some understanding of the following but let's dive in a little more and understand what some of the fundamentals of Cloud are.
-
-   - [What is Linux](https://youtu.be/PwugmcN1hf8)
-   - [What is Networking](https://youtu.be/3QhU9jd03a0)
-   - [What is Programming](https://youtu.be/ifo76VyrBYo)
-   - [What is Cloud Computing](https://youtu.be/eZLcyTxi8ZI)
-   - [What is DevOps](https://youtu.be/9pZ2xmsSDdo/)
-   - [What is a Cloud Engineer and how to become one](https://youtu.be/7i1WMGxyt4Q)
+Якщо ви відчуваєте що в вас нульовий технічний досвід, але ви хочете працювати із Хмарними Обчислюваннями. Цей етап для вас. Якщо ви вже працюєте в сфері технологій і переходите до праці із хмарними технологіями -
+[Перейти до Етапу 1: Основи Linux та мереж](../phase1/README.md).
 
 
-## Things you should be able familiar with at the end of this phase
+Почнемо. 
 
-- Honestly at this point, all you need to make sure of is that you want to get into tech and you're prepared to learn a lot. The learning will never stop.
+1. Я думаю, що гарним першим кроком є розуміння основ ІТ. [Цей плейлист](https://www.youtube.com/playlist?list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K) є чудовим оглядом.
 
+2. Відео вище повинно дати вам якесь розуміння, але давайте дещо глибше поринемо і зрозуміємо, які є основні складові Хмарних Обчислень.
 
-## Certifications you might want to look into 
-
-An industry standard for people getting into tech is the [CompTIA A+](https://www.comptia.org/certifications/a).
-
-Is it necessary? No. Is it helpful? Depends on your learning style. Did I take the A+? Also no. Does that mean you shouldn't take it? No. Does it help your resume? Maybe.
-
-However some people have told me that it's helped them land support roles like 
-
-- Service Desk Analyst
-- Help Desk Tech
-- Desktop Support Administrator
-- Technical Support Specialist
-- End User Computing Technician
-- Field Service Technician
-- Help Desk Technician 
-- System Support Specialist
-
-## Jobs
-
-I'm a big fan of starting in tech at a support role and moving up. They are entry level friendly and often are willing to pay for educational material and certifications. 
-
-Also almost every company has a helpdesk, so plenty of openings to get started in!
-
-Take a look at this video by KevTech on [Helpdesk interview questions](https://youtu.be/McxVgoQaCpU). Binge watch his channel because he has so much great content!
-
-## What's next
+   - [Що таке Лінукс](https://youtu.be/PwugmcN1hf8)
+   - [Що таке Мережа](https://youtu.be/3QhU9jd03a0)
+   - [Що таке Програмування](https://youtu.be/ifo76VyrBYo)
+   - [Що таке Хмарні Обчислювання](https://youtu.be/eZLcyTxi8ZI)
+   - [Що таке DevOps](https://youtu.be/9pZ2xmsSDdo/)
+   - [Хто такий Хмарний Інженер та як їм стати](https://youtu.be/7i1WMGxyt4Q)
 
 
-[Go to Phase 1: Linux and Networking fundamentals](../phase1/README.md)
+## Теми з якими ви повинні бути знайомі наприкінці цього етапу
+
+- Чесно кажучи, на даний момент, все що вам потрібно – це переконатися що ви хочете почати займатися сферою технологій. Та готові багато чому навчатися. Навчання ніколи не припиниться.
+
+## Сертифікати, на які варто звернути увагу
+
+Галузевим стандартом для людей, які починають працювати в сфері технологій, є [CompTIA A+](https://www.comptia.org/certifications/a).
+
+Це необхідно? Ні. Чи корисно? Залежить від вашого стилю навчання. Чи здала я А+? Теж ні. Це означає, що не варто його здавати? Ні. Це допоможе вашому резюме? Можливо.
+
+Однак деякі люди розповідали мені, що це допомогло їм отримати роботу у підтримці, таку як:
+
+- Аналітик служби підтримки
+- Технічний спеціаліст служби підтримки
+- Адміністратор підтримки настільних комп'ютерів
+- Спеціаліст технічної підтримки
+- Комп'ютерний технік кінцевого користувача
+- Виїзний технічний спеціаліст
+- Технік служби підтримки 
+- Спеціаліст з системної підтримки
+
+## Вакансії
+
+Я велика прихильниця того, щоб починати працювати в технічній сфері з підтримки і рухатися вгору. Компанії доброзичливо ставляться до початківців і часто готові платити за навчальні матеріали та сертифікати. 
+
+Крім того, майже в кожній компанії є служба підтримки, тож є безліч вакансій, з яких можна почати роботу!
+
+Подивіться це відео від KevTech на [Helpdesk interview questions](https://youtu.be/McxVgoQaCpU). Переглядайте його канал, тому що у нього стільки чудового контенту!
+
+## Що далі
+
+
+[Перейти до Етапу 1: Основи Лінукс та мереж](../phase1/README.md)
