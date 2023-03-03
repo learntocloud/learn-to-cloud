@@ -1,79 +1,79 @@
-# Phase 2: Programming fundamentals
+# Етап 2: Основи програмування
 
-Author: [GPS](https://twitter.com/madebygps)
+Автор: [GPS](https://twitter.com/madebygps)
 
-## How does this phase apply to Cloud?
+## Як цей етап застосовується до Хмарних технологій?
 
-You'll be using code to automate tasks and deploy infrastructure. You don't need to know how to build full applications but understanding the basics of programming will give you an upper hand. There are dedicated developer roles in cloud. For those you will need to know how to build full solutions, checkout [this video](https://youtu.be/WMUAc7bvB7M) for more info on that role.
+Ви будете використовувати код для автоматизації завдань та розгортання інфраструктури. Вам не потрібно знати, як створювати повноцінні додатки, але розуміння основ програмування дасть вам перевагу. У хмарних технологіях існують спеціальні ролі розробників. Для тих, кому потрібно знати, як створювати повноцінні рішення, перегляньте [це відео](https://youtu.be/WMUAc7bvB7M) щоб дізнатися більше про цю роль.
 
 <!--truncate -->
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/WMUAc7bvB7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-In the previous step you were introduced and wrote some Bash scripts. Bash scripting is used to automate tasks and is considered a universal language for servers, since nowadays, Bash is installed by default almost on every Linux server.
+На попередньому кроці ви познайомилися з Bash і написали кілька скриптів. Скрипти Bash використовуються для автоматизації завдань і вважаються універсальною мовою для серверів, оскільки в наш час Bash встановлений за замовчуванням майже на кожному сервері Linux.
 
-I think now it would be beneficial to learn some more programming skills.
+Я думаю, що тепер було б корисно навчитися ще деяким навичкам програмування.
 
-There are several programming languages that are popular with Cloud, like Go, Rust, .NET, JavaScript, but since you are a beginner,  I would go with [Python](https://www.python.org/). It's a very popular language and there are many quality free resources out there to learn it and it's one of the simpler languages to get started with.
+Існує кілька мов програмування, які популярні в хмарах, наприклад, Go, Rust, .NET, JavaScript, але оскільки ви початківець, я б рекомендував [Python] (https://www.python.org/). Це дуже популярна мова, і є багато якісних безкоштовних ресурсів для її вивчення, і це одна з найпростіших мов для початку.
 
-[Git](https://git-scm.com/) is the most popular version control tool and one of the DevOps practices. It is used to manage and share your code. GitHub is one of the most popular Git repository hosting services. Take some time now to create a [GitHub](https://github.com/) account if you don't already have one. It'll be your code portfolio and you should put as many projects as you'd like on there.
+[Git] (https://git-scm.com/) - найпопулярніший інструмент контролю версій та одна з практик DevOps. Він використовується для управління та обміну кодом. GitHub - один з найпопулярніших сервісів хостингу репозиторіїв Git. Витратьте трохи часу на створення облікового запису [GitHub](https://github.com/), якщо у вас його ще немає. Це буде ваше портфоліо коду, і ви можете розмістити там стільки проектів, скільки захочете.
 
-## How to break down this phase
+## Як подолати цей етап
 
-I would suggest spending time on these three topics and this timeline:
+Я б радила присвятити час цим трьом темам і цьому порядку:
 
-| Order | Topic                           |
+| Порядок | Тема                           |
 |-------|---------------------------------|
-| 1 | Introduction to Programming with Python  |
-| 2 | Introduction to Version Control with Git and GitHub  |
+| 1 | Знайомство із програмуванням мовою Python |
+| 2 | Знайомство із керуванням версіями за допомогою Git та GitHub  |
 
-Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it.
+Звичайно, не соромтеся витрачати стільки часу, скільки забажаєте, люди просили надати хронологію та розбивку, тому я додала їх.
 
-## Resources
+## Ресурси
 
-| Order | Title                                                                        | Notes                                                                                       |
+| Порядок | Назва                                                                        | Нотатки                                                                                       |
 | :---- | :--------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Optional     | [An introduction to Programming](https://docs.microsoft.com/learn/modules/web-development-101-introduction-programming/)                      | A great Microsoft Learn module on the topic.    |
-| 1     | [Python Crash Course](https://ehmatthes.github.io/pcc/)                      | A great Python book, also there is an Appendix in there on Git which is great!
-| 1     | [FreeCodeCamp Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw)     | One of the many amazing resources provided by [FreeCodeCamp](https://www.freecodecamp.org/) |
-1 | [Python for Beginners](https://youtu.be/jFCNu1-Xdsw) | A 44 part video series introducing you to Python |
-| 2     | [An introduction to Git](https://docs.microsoft.com/learn/modules/intro-to-git/)    | A great resource to learn Git by Microsoft Learn                                                                |
-| 2     | [FreeCodeCamp Git course](https://youtu.be/RGOj5yH7evk)                           | A great resource to learn Git by FreeCodeCamp                                                    |
+| За бажанням    | [An introduction to Programming](https://docs.microsoft.com/learn/modules/web-development-101-introduction-programming/)                      | Чудовий модуль Microsoft Learn на цю тему.    |
+| 1     | [Python Crash Course](https://ehmatthes.github.io/pcc/)                      | Чудова книга про Python, в ній також є додаток про Git, який просто чудовий!
+| 1     | [FreeCodeCamp Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw)     | Один з багатьох чудових ресурсів, наданих [FreeCodeCamp](https://www.freecodecamp.org/) |
+1 | [Python for Beginners](https://youtu.be/jFCNu1-Xdsw) | Серія з 44 частин, що знайомить вас з Python |
+| 2     | [An introduction to Git](https://docs.microsoft.com/learn/modules/intro-to-git/)    | Чудовий ресурс для вивчення Git'у від Microsoft Learn |.
+| 2     | [FreeCodeCamp Git course](https://youtu.be/RGOj5yH7evk)                           | Чудовий ресурс для вивчення Git від FreeCodeCamp                                                    |
 
-## Projects
+## Проекти
 
- | Title                     | Description                                                                                                                                               |
+ | Назва                     | Опис                                                                                                                                          |
  | :------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
- | [25 Python Projects for beginners](https://www.freecodecamp.org/news/python-projects-for-beginners/)| Do as many of these as you'd like. |
- [Create your GitHub profile readme](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) | Create a README to tell other people about yourself. Here's [mine](https://github.com/madebygps/madebygps) as an example. Rishab has a cool [one](https://github.com/rishabkumar7/rishabkumar7) too.
- | [Networking Python Projects](https://youtu.be/FGdiSJakIS4)| Build some Python and Networking skills
+ | [25 проектів на Python для початківців](https://www.freecodecamp.org/news/python-projects-for-beginners/)| Зробіть стільки, скільки хочете |
+ [Створіть readme вашого профілю на GitHub](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) | Створіть README щоб розповісти іншим людям про себе. Ось [мій](https://github.com/madebygps/madebygps) як приклад. В Рішаба теж дуже [крутий](https://github.com/rishabkumar7/rishabkumar7).
+ | [Networking Python Projects](https://youtu.be/FGdiSJakIS4)| Набути навичок роботи з Python та мережею
 
-## Things you should be familiar with at the end of this phase
+## Теми з якими ви повинні бути знайомі наприкінці цього етапу
 
-### Programming
+### Програмування
 
-- Variables
-- Data types
-- Comments
-- Functions
-- OOP
-- Lists
-- Modules
-- Dictionaries
-- Loops
-- Control statements
-- Exceptions
+- Змінні
+- Типи даних
+- Коментарі
+- Функції
+- ООП
+- Списки
+- Модулі
+- Словники
+- Цикли
+- Керуючі оператори
+- Виключення
 
 ### Git
 
-- How to create a Git repo locally
-- How to create a GitHub repo and clone it locally.
-- How to create a git branch
-- How too add changes to a git branch
-- How to merge Git changes
-- How to document code with a README
+- Як створити Git-репозиторій локально
+- Як створити репозиторій GitHub та клонувати його локально.
+- Як створити гілку git'а
+- Як додати зміни до гілки git'а
+- Як об'єднати зміни в Git'і
+- Як документувати код за допомогою README
 
-## Certifications you might want to look into
+## Сертифікати, на які ви можете звернути увагу
 
 - [Python Institute certifications](https://pythoninstitute.org/certification-tracks)
 
-Programming certifications aren't as in demand/popular than cloud ones. As with any certification, you can use it to reinforce your knowledge, but it isn't an obligation. There are plenty of cloud engineers with zero certifications.
+Сертифікати з програмування не такі затребувані/популярні, як хмарні. Як і будь-яка інша сертифікація, ви можете використовувати її для поглиблення своїх знань, але це не є обов'язковим. Є багато хмарних інженерів з нульовими сертифікатами.
