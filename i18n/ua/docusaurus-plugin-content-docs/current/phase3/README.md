@@ -1,88 +1,88 @@
-# Phase 3: Cloud Platform fundamentals
+# Етап 3: Основи Хмарних платформ
 
-Author: [GPS](https://twitter.com/madebygps)
+Автор: [GPS](https://twitter.com/madebygps)
 
-## How does this phase apply to Cloud?
+## Як цей етап застосовується до Хмарних технологій?
 
-Sometimes people are surprised to see that this phase isn't number 1, though it is the longest and for good reason. As a Cloud professional, you will live in a platform, or multiple. Everything you build, support, develop, etc, will be on a platform. 
+Іноді люди дивуються, коли бачать, що цей етап не стоїть на першому місці, хоча він найдовший, і на те є вагома причина. Як хмарний професіонал, ви будете жити на платформі або декількох платформах. Все, що ви будуєте, підтримуєте, розробляєте тощо, буде на платформі. 
 
-Here are some popular questions we get at this phase:
+Ось кілька популярних запитань, які ми отримуємо на цьому етапі:
 
-- [Are paid cloud learning platforms worth it?](../resources/FAQ.md)
+- [Чи варті платні хмарні навчальні платформи того?](../resources/FAQ.md)
 
-- Which cloud to learn?:
+- Яку Хмарну платформу вивчати?:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/W3_8O3doYlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## How to break down this phase
+## Як подолати цей етап
 
-I would suggest spending time on these three topics and this timeline:
+Я б радила присвятити час цим трьом темам і в цьому порядку:
 
-| Order | Topic                           |
+| Порядок | Тема                          |
 |-------|---------------------------------|
-| 1 | Cloud Certification |
+| 1 | Хмарна Сертифікація |
 | 2 | Cloud Resume Challenge |
 
-Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it.
+Звичайно, не соромтеся витрачати стільки часу, скільки забажаєте, люди просили надати хронологію та розбивку, тому я додала їх.
 
-## Resources
+## Ресурси
 
-| Cloud Platform | Title  | Notes  |
+| Хмарна Платформа| Назва  | Нотатки  |
 |:-------------- | ------ | ------ |
-AWS | [AWS training and Certification](https://aws.amazon.com/training/)| AWS official training |
-AWS | [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected) | AWS recommendations and describes best practices |
-Azure | [John Savill](https://www.youtube.com/c/NTFAQGuy) | Many Azure training videos. |
-Azure | [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) | Azure recommendations and describes best practices |
-Azure |[Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/) | Microsoft Learn has free content for many tech topics including all Azure certifications |
-GCP | [Google Cloud training](https://cloud.google.com/certification) | GCP has plenty of free certification content |
-GCP | [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) | GCP recommendations and describes best practices |
-Multi |[Cloud Computing on FreeCodeCamp](https://www.freecodecamp.org/news/tag/cloud-computing/) | Free courses on AWS, Azure, GCP, and more. |
+AWS | [AWS training and Certification](https://aws.amazon.com/training/)| AWS офіційні курси |
+AWS | [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected) | AWS рекомендації та найкращі практики |
+Azure | [John Savill](https://www.youtube.com/c/NTFAQGuy) | Azure багато практичних відео. |
+Azure | [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) | Azure рекомендації та найкращі практики |
+Azure |[Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/) | Microsoft Learn пропонує безкоштовні матеріали з багатьох технічних тем, зокрема всі сертифікати Azure |
+GCP | [Google Cloud training](https://cloud.google.com/certification) | GCP має багато безкоштовного контенту за сертифікатами |
+GCP | [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) | GCP rрекомендації та найкращі практики |
+Multi |[Cloud Computing on FreeCodeCamp](https://www.freecodecamp.org/news/tag/cloud-computing/) | Безкоштовні курси AWS, Azure, GCP, та інше. |
 
-Regardless of which learning material you choose, it'll have some sort of demo/hands-on aspect to it. Do it. Don't just watch/read. This isn't a Netflix show you're consuming, this is learning time.
+Незалежно від того, який навчальний матеріал ви оберете, він буде мати певний демонстраційний/практичний аспект. Зробіть його. Не просто дивіться/читайте. Це не шоу на Netflix, яке ви споживаєте, це час навчання.
 
-When you are first getting started with cloud, you'll be doing everything via the UI, and that is fine for getting started, however once you're in a job, you'll be using a CLI or Infrastructure as Code (you'll learn more about this in Phase 4) to manage your environments. My advice here is, for every exercise you do via the UI, look up the CLI command and do it that way too. By now you should be familiar with using a command line. (Which is a big reason Linux phase and programming comes before this one).
+Коли ви тільки починаєте працювати з хмарою, ви будете робити все через користувацький інтерфейс, і це добре для початку, однак, коли ви почнете працювати, ви будете використовувати CLI або Infrastructure as Code (ви дізнаєтесь більше про це в Етапі 4) для управління своїми середовищами. Моя порада: для кожної вправи, яку ви виконуєте за допомогою інтерфейсу користувача, шукайте команду CLI і виконуйте її також у такий спосіб. На цей момент ви вже повинні бути знайомі з використанням командного рядка. (Саме тому фаза Linux і програмування стоїть перед цим етапом).
 
-This is also a great time to introduce yourself to the official documentation, [AWS](https://docs.aws.amazon.com/index.html), [Azure](https://docs.microsoft.com/azure/?product=featured) or [GCP](https://cloud.google.com/docs)
+Це також чудовий час для ознайомлення з офіційною документацією, [AWS](https://docs.aws.amazon.com/index.html), [Azure](https://docs.microsoft.com/azure/?product=featured) або [GCP](https://cloud.google.com/docs)
 
-If there is something you don't understand about a service or command, your go to should be the documentation. After that you can look up articles, tutorials, etc.
+Якщо ви щось не розумієте про службу або команду, вам слід звернутися до документації. Після цього ви можете шукати статті, навчальні посібники тощо.
 
-## Projects
+## Проекти
 
-We recommend your first cloud project to be the Cloud Resume Challenge. Once you're done with that, visit the [Projects page](../projects/README.md) for more!
+Ми рекомендуємо розпочати із the Cloud Resume Challenge. Після того, як ви закінчите з ним, відвідайте [Сторінка проектів](../projects/README.md) щоб отримати більше!
 
-Platform | Title | Description |
+Платформа | Назва | Опис |
 ---------|-------|-------------|
-AWS | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)| Build your resume with AWS services.|
-Azure | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)| Build your resume with Azure Services   |  
-GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Build your resume with GCP services |
+AWS | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)| Створіть своє резюме за допомогою сервісів AWS.|
+Azure | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)| Створіть своє резюме за допомогою сервісів Azure   |  
+GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Створіть своє резюме за допомогою сервісів GCP |
 
-## Things you should be familiar with at the end of this phase
+## Теми з якими ви повинні бути знайомі наприкінці цього етапу
 
-- An understanding of best practices for cloud infrastructure (reliability, performance efficiency, security, cost optimization, etc.)
-- How to grant and revoke access and permissions to users and applications.
-- How to setup billing alerts/alarms, budgets, and how to use the billing tools.
-- How to use the object storage service and understanding of other storage options.
-- How to deploy scalable virtual machines and an understanding of other compute services the platform offers.
-- How to setup monitoring for virtual machines and an understanding of all monitoring services the platform offers.
-- How networking works for virtual machines (Vnets/VPCs, subnets, route tables, public and private IP addresses, VPNs, gateways, etc.)
-- How to create an API with the Functions as a Service offering your cloud platform has and an overall understanding of what the service is capable of.
-- Web application hosting services your cloud platform has to offer and hands on experience with one of the services.
-- Database services your cloud platform has to offer and hands on experience with one of them.
-- How to use the CLI to create and manage cloud resources.
+- Розуміння найкращих практик для хмарної інфраструктури (надійність, продуктивність, безпека, оптимізація витрат тощо)
+- Як надавати та відкликати доступ та дозволи користувачам та додаткам.
+- Як налаштовувати білінгові оповіщення/сигнали, бюджети та як користуватися білінговими інструментами.
+- Як використовувати службу зберігання об'єктів та розуміння інших варіантів зберігання.
+- Як розгортати масштабовані віртуальні машини та розуміння інших обчислювальних сервісів, які пропонує платформа.
+- Як налаштувати моніторинг для віртуальних машин та розуміння всіх сервісів моніторингу, які пропонує платформа.
+- Як працює мережа для віртуальних машин (Vnets/VPC, підмережі, таблиці маршрутів, публічні та приватні IP-адреси, VPN, шлюзи тощо).
+- Як створити API з функціями як послугою, які пропонує ваша хмарна платформа, та загальне розуміння того, на що здатна ця послуга.
+- Послуги хостингу веб-додатків, які може запропонувати ваша хмарна платформа, та практичний досвід роботи з одним із сервісів.
+- Сервіси баз даних, які може запропонувати ваша хмарна платформа, та практичний досвід роботи з одним із них.
+- Як використовувати CLI для створення хмарних ресурсів та керування ними.
 
-## Certifications you might want to look into
+## Сертифікати, на які ви можете звернути увагу
 
-We like cloud certifications, they give you a nice outline to follow in terms of learning. However we don't think you need to have every single certification out there. One or two, plus the Linux, networking, programming, knowledge is plenty and already quite impressive when you're starting off. As you grow and want to specialize, certifications are great for up-skilling!
+Нам подобаються хмарні сертифікації, вони дають вам гарну схему для навчання. Однак ми не вважаємо, що вам потрібно мати кожну окрему сертифікацію. Одного-двох, а також знань з Linux, мережевої роботи, програмування достатньо, і вони вже вражають, коли ви тільки починаєте. Коли ви ростете і хочете спеціалізуватися, сертифікати чудово підходять для підвищення кваліфікації!
 
-We recommended getting at least one certification and if you only get one it should be an associate level. You can of course get an entry level one as well.
+Ми рекомендуємо отримати принаймні один сертифікат, і якщо ви отримуєте лише один, то це має бути рівень Associate. Звичайно, ви можете отримати сертифікат початкового рівня.
 
-- Entry level:
+- Початковий рівень:
   - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
   - [Azure Fundamentals AZ-900](https://docs.microsoft.com/learn/certifications/exams/az-900).
   - [Study Cram for Azure Fundamentals AZ-900](https://github.com/ricmmartins/study-guide-az900)
   - [Google Cloud Digital Leader](https://cloud.google.com/certification/cloud-digital-leader)
-- Associate level:
-  - [AWS](https://aws.amazon.com/certification/): Any one.
-  - [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Stick to the admin or developer, the other associate level ones are a little more specialized and you can take them later if you want.
-  - [GCP](https://cloud.google.com/certification/cloud-engineer): There is only one.
+- Associate рівень:
+  - [AWS](https://aws.amazon.com/certification/): Будь який.
+  - [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Обирайте адміністратора або розробника, інші Associate рівня трохи більш спеціалізовані, і ви зможете пройти їх пізніше, якщо захочете.
+  - [GCP](https://cloud.google.com/certification/cloud-engineer): Існує лише один.
