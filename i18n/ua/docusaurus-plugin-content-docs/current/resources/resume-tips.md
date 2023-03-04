@@ -1,11 +1,11 @@
-# Resume Resources
+# Ресурси для резюме
 
-Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
+Автор: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
 
 
- Title    | Resource     |
+ Назва   | Ресурс    |
  :---------- | :----------- |
- [my cloud engineer resume](https://youtu.be/HiKQHDUUmTI)   | I walk you through the my resume and best practices I have |
-[My FAANGM resume Resume that got me into Google](https://youtu.be/LEbqEwhsRWE) | Rishab's resume overview |
- [20+ tech resume checklist](https://twitter.com/TiffanyJachja/status/1528081140422266887) | An amazing Twitter thread by [Tiffany Jachja](https://twitter.com/TiffanyJachja) with lots of resume best practices.  |
-[Tech resume and cover letter tips](https://youtu.be/yTfrEpeBjAs) | More tips by me |
+ [my cloud engineer resume](https://youtu.be/HiKQHDUUmTI)   | Я ознайомлю вас з моїм резюме та найкращими практиками, які я маю |
+[My FAANGM resume Resume that got me into Google](https://youtu.be/LEbqEwhsRWE) | Rishab's = огляд резюме|
+ [20+ tech resume checklist](https://twitter.com/TiffanyJachja/status/1528081140422266887) | Дивовижний допис у Твіттері від [Tiffany Jachja](https://twitter.com/TiffanyJachja) з великою кількістю найкращих практик резюме.  |
+[Tech resume and cover letter tips](https://youtu.be/yTfrEpeBjAs) | Більше порад від мене |
