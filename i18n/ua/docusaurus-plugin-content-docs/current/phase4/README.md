@@ -1,69 +1,69 @@
-# Phase 4: DevOps fundamentals
+# Етап 4: Основи DevOps
 
-Author: [GPS](https://twitter.com/madebygps)
+Автор: [GPS](https://twitter.com/madebygps)
 
-## How does this phase apply to Cloud?
+## Як цей етап застосовується до Хмарних технологій?
 
-DevOps is all about getting your solutions to run efficiently from deployment to updates.
-It's not specific to Cloud, as you can implement DevOps practices on-prem and in hybrid environments as well. DevOps is not limited to a single role. However most companies have dedicated roles to DevOps. If your aim is to become a DevOps engineer, this phase will get you started but you'll have to go deeper.
+DevOps - це забезпечення ефективної роботи ваших рішень на всіх етапах від розгортання до оновлення.
+Ці практики використовують не тільки для хмарних технологій, оскільки ви можете впроваджувати практики DevOps як в локальних, так і в гібридних середовищах. DevOps не обмежується однією роллю. Однак більшість компаній мають спеціальні ролі для DevOps. Якщо ваша мета - стати інженером DevOps, цей етап допоможе вам почати, але вам доведеться піти глибше.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/YMXwThdwTiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-DevOps is a culture, and not a specific tool or service. Read up on what DevOps is. Each cloud platform has a suite of DevOps tools, I've linked a few articles here:
+DevOps - це культура, а не конкретний інструмент чи сервіс. Дізнайтеся, що таке DevOps. Кожна хмарна платформа має набір інструментів DevOps, я дала посилання на кілька статей тут:
 
 - [Microsoft - What is DevOps](https://azure.microsoft.com/overview/what-is-devops/#overview)
 - [AWS - What is DevOps](https://aws.amazon.com/devops/what-is-devops/)
 - [IBM - A DevOps complete guide](https://www.ibm.com/cloud/learn/devops-a-complete-guide)
 
-I also think it's worth reading [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) it's a pretty fun read because it's a fictional story but it explains the importance of DevOps. But if you'd prefer something more like a textbook with similar ideas, check out [The DevOps Handbook](https://itrevolution.com/the-devops-handbook/).
+Я також вважаю, що варто прочитати [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) це досить цікава книга, тому що це вигадана історія, але вона пояснює важливість DevOps. Але якщо ви віддаєте перевагу чомусь на кшталт підручника зі схожими ідеями, перегляньте [The DevOps Handbook](https://itrevolution.com/the-devops-handbook/).
 
-You should've completed the [Cloud Resume Challenge](https://cloudresumechallenge.dev/) in the previous phase. That project introduces you to DevOps concepts, if you haven't, go back and do so.
+Ви повинні були закінчити [Cloud Resume Challenge](https://cloudresumechallenge.dev/) на попередньому етапі. Цей проект знайомить вас з концепціями DevOps, якщо ви цього не зробили, поверніться і зробіть його.
 
-## How to break down this phase
+## Як подолати цей етап
 
-| Order | Topic                 |
+| Порядок | Тема                |
 |-------|-----------------------|
-| 1 | CI/CD with GitHub Actions |
-| 2 | IaC with Terraform |
-| 3 | Containers with Docker |
-| 4 | Containers orchestration with Kubernetes |
-| 5 | Monitoring with Prometheus and Grafana |
+| 1 | CI/CD з GitHub Actions |
+| 2 | IaC з Terraform |
+| 3 | Контейнерізація з Docker |
+| 4 | Оркестрація контейнерів з Kubernetes |
+| 5 | Моніторинг з Prometheus та Grafana |
 
-Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it. Every DevOps practice matters, but these are the most used on an entry/junior level. You should already be familiar with Version Control from Phase 2.
+Звичайно, не соромтеся витрачати стільки часу, скільки забажаєте, люди просили надати хронологію та розбивку, тому я додала їх. Кожна практика DevOps має значення, але ці є найбільш використовуваними на entry/junior рівні. Ви вже повинні бути знайомі з контролем версій з Етапа 2.
 
-## Resources
+## Ресурси
 
-| Resource                                                        | Notes                                                                                       |
+| Посилання                                                      | Нотатки                                                                                    |
 | :------------------------------------------------------------------ | :----------------------------------------------------------------------------------------- |
-| [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)|Nana is the queen of DevOps and creates some of the best DevOps learning content out there. This tutorial will introduce you to GitHub actions.
-| [Complete Terraform Course - From BEGINNER to PRO!](https://www.youtube.com/watch?v=7xngnjfIlK4)| Learn how to use Terraform to automate your AWS infrastructure.
-| [Docker tutorial for Beginners](https://youtu.be/3c-iBn73dDE) | Complete Docker Hands-on course with a lot of demos and explaining the concepts behind, so that you really understand it.
-| [Kubernetes Crash Course for Absolute Beginners](https://youtu.be/s_o8dwzRlu4) | Hands-On Kubernetes Tutorial | Learn Kubernetes in 1 Hour - Kubernetes Course for Beginners
-| [Complete Prometheus Monitoring Tutorial](https://youtube.com/playlist?list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4) | Complete Prometheus Monitoring Tutorial
+| [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)|Nana - королева DevOps і створює одні з найкращих навчальних матеріалів про DevOps. Цей підручник познайомить вас з GitHub actions.
+| [Complete Terraform Course - From BEGINNER to PRO!](https://www.youtube.com/watch?v=7xngnjfIlK4)| Дізнайтеся, як використовувати Terraform для автоматизації інфраструктури AWS.
+| [Docker tutorial for Beginners](https://youtu.be/3c-iBn73dDE) | Повний практичний курс Docker з великою кількістю демонстрацій та поясненням концепцій, щоб ви дійсно зрозуміли його.
+| [Kubernetes Crash Course for Absolute Beginners](https://youtu.be/s_o8dwzRlu4) | Практичний посібник з Kubernetes | Вивчіть Kubernetes за 1 годину - курс Kubernetes для початківців
+| [Complete Prometheus Monitoring Tutorial](https://youtube.com/playlist?list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4) | Повний посібник з моніторингу Prometheus
 
-## Projects
+## Проекти
 
-| Title                                                        | Resource                                                                          |
+| Назва                                                        | Посилання                                                                          |
 | :----------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [DevOps Journey Using Azure DevOps](https://github.com/thomast1906/DevOps-Journey-Using-Azure-DevOps) | This tutorial/lab setup is going to take you through a DevOps journey using Azure DevOps. From setting up your pipeline to deploying an application to your Azure Kubernetes cluster! |
-| [DevOps the Hardway - Azure](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure) | This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to Azure. |
-| [DevOps the Hardway - AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) | This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to AWS. |
+| [DevOps Journey Using Azure DevOps](https://github.com/thomast1906/DevOps-Journey-Using-Azure-DevOps) | Цей навчальний посібник/лабораторна проведе вас через DevOps за допомогою Azure DevOps. Від налаштування конвеєра до розгортання програми на кластері Azure Kubernetes! |
+| [DevOps the Hardway - Azure](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure) | Цей посібник містить повне, реальне рішення для налаштування середовища, яке використовує технології та практики DevOps для розгортання програм і хмарних сервісів/хмарної інфраструктури в Azure. |
+| [DevOps the Hardway - AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) | Цей посібник містить повне, реальне рішення для налаштування середовища, яке використовує технології та практики DevOps для розгортання програм і хмарних сервісів/хмарної інфраструктури в AWS. |
 
-## Things you should be familiar with at the end of this phase
+## Теми з якими ви повинні бути знайомі наприкінці цього етапу
 
-- Be able to explain each DevOps practice
-  - Why each one matters.
-  - What each one accomplishes.
-  - Most popular tools for each practice.
+- Вміти пояснити кожну практику DevOps
+  - Чому кожен з них має значення.
+  - Що кожна з них досягає.
+  - Найпопулярніші інструменти для кожної практики.
 
-- Have personal projects in your GitHub. For at least 2 of your projects:
-  - Have a CI/CD pipeline.
-  - Have IaC files for each project.
-  - Have monitoring implemented for each one.
-    - Make sure you can understand the logging and metrics data.
-  - If something were to go wrong with your project, understand how to troubleshoot.
+- Мати власні проекти на GitHub. Щонайменше 2 проекти:
+  - Мати конвеєр CI/CD.
+  - Мати IaC-файли для кожного проекту.
+  - Впровадьте моніторинг для кожного проекту.
+    - Переконайтеся, що ви можете зрозуміти дані логування та метрики.
+  - Якщо щось піде не так у вашому проєкті, розуміти, як усунути несправності.
 
-## Certifications you might want to look into
+## Сертифікати, на які ви можете звернути увагу
 
 - [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
 - [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
