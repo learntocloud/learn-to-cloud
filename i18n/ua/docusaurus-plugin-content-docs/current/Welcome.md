@@ -9,33 +9,33 @@ sidebar_position: 1
 [![GitHub forks](https://img.shields.io/github/forks/learntocloud/learn-to-cloud.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/learntocloud/learn-to-cloud/network/)
 [![GitHub stars](https://img.shields.io/github/stars/learntocloud/learn-to-cloud.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/learntocloud/learn-to-cloud/stargazers/)
 
-## What is Learn to Cloud?
+## Що таке Learn to Cloud?
 
-Learn to Cloud is a GUIDE (not a book or course) that originated from [this tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en). The goal is to provide an outline of skills you need to learn to get into Cloud Computing. At the end of it you should have the technical knowledge for roles like:
+Learn to Cloud - це ПОСІБНИК (а не книга чи курс), створений на основі [цього твіту](https://twitter.com/madebygps/status/1406258053427740672?lang=en). Його мета - надати загальний огляд навичок, які вам потрібно засвоїти, щоб почати працювати у сфері хмарних обчислень. По закінченню ви повинні мати технічні знання для таких ролей, як:
 
-- System administrator.
-- Cloud Support Engineer.
-- Cloud Administrator.
+- Системний адміністратор.
+- Інженер з підтримки хмарних технологій.
+- Хмарний адміністратор.
 
-## Can I really get into Cloud by being self-taught?
+## Чи можу я потрапити в Cloud, будучи самоучкою?
 
-Yes, watch [this](https://youtu.be/kluKaLXJ2lg)
+Так, дивіться [це](https://youtu.be/kluKaLXJ2lg)
 
-## Questions? Comments? Feedback?
+## Питання? Коментарі? Відгуки?
 
-Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
+Будь ласка, відкрийте [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
 
-## Phases
+## Етапи
 
-| Order | Topic                           |
+| Порядок | Тема                           |
 |-------|---------------------------------|
-| [optional](phase0/)  | Start from zero tech experience  |
-| [1](phase1/)  | Bash and Networking fundamentals|  
-| [2](phase2/)  | Programming fundamentals |
-| [3](phase3/)  | Cloud Platform fundamentals|
-| [4](phase4/)  | DevOps fundamentals         |
-| [5](phase5/)  | Cloud Security fundamentals|
+| [optional](phase0/)  | Почніть з нульового технічного досвіду  |
+| [1](phase1/)  | Bash та Основи Мереж|  
+| [2](phase2/)  | Основи програмування |
+| [3](phase3/)  | Основи Хмарних технологій|
+| [4](phase4/)  | Основи DevOps        |
+| [5](phase5/)  | Основи безпеки у Хмарі |
 
-## Study Plan
+## План навчання
 
-[Here is a 6 month study plan you can use that follows this guide](http://bootcamp.madebygps.com/)
+[Ось 6-місячний навчальний план, який ви можете використовувати після цього посібника](http://bootcamp.madebygps.com/)
