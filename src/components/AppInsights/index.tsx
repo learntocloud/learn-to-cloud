@@ -3,7 +3,7 @@ import React from 'react';
 
 require('dotenv').config();
 
-export default function Component() {
+export default function AppInsights() {
   return (
     <>
       <Helmet>
@@ -16,7 +16,7 @@ export default function Component() {
         crossOrigin: "anonymous", // When supplied this will add the provided value as the cross origin attribute on the script tag
         // onInit: null, // Once the application insights instance has loaded and initialized this callback function will be called with 1 argument -- the sdk instance (DO NOT ADD anything to the sdk.queue -- As they won't get called)
         cfg: { // Application Insights Configuration
-          instrumentationKey: process.env.INSTRUMENTATION_KEY
+          instrumentationKey: "InstrumentationKey=5091fb74-54da-4a02-95e9-ec5f62a49db5"
         }});
       </script>
       </Helmet>

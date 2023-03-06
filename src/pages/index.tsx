@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageApi from '../components/HomepageApi';
+import AppInsights from '../components/AppInsights';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
@@ -32,6 +33,7 @@ export default function Home(): JSX.Element {
     <Layout
       description="An open-source guide to the fundamentals of Cloud Computing">
       <HomepageHeader />
+      <AppInsights />
       <p className={styles.gradientText}>Here's a random cloud definition:</p>
       <HomepageApi />
       <div className={styles.buttons}>
