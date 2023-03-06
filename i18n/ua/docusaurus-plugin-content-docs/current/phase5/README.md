@@ -37,7 +37,7 @@ Azure | [Create an Azure Vulnerable Lab](https://0xpwn.wordpress.com/2022/03/05/
 Azure | [Azure Goat](https://github.com/ine-labs/AzureGoat)| AzureGoat : До біса вразлива інфраструктура Azure |
 Azure | [Purple Cloud](https://github.com/iknowjason/PurpleCloud)| Невеликий інструмент для гри з Azure Identity - інструмент для створення лабораторної роботи з Azure Active Directory |
 GCP | [GCP GOAT](https://gcpgoat.joshuajebaraj.com/)| GCP-Goat навмисно вразливе середовище GCP для вивчення та практики безпеки GCP |
-GCP | [ThunderCTF](https://aws.amazon.com/training/)| Thunder CTF дозволяє гравцям попрактикуватися в атаках на вразливі хмарні проекти на Google Cloud Platform (GCP). На кожному рівні гравці отримують завдання експлуатувати хмарне розгортання, щоб знайти "секретне" ціле число, яке зберігається в ньому. |
+GCP | [ThunderCTF](https://thunder-ctf.cloud)| Thunder CTF дозволяє гравцям попрактикуватися в атаках на вразливі хмарні проекти на Google Cloud Platform (GCP). На кожному рівні гравці отримують завдання експлуатувати хмарне розгортання, щоб знайти "секретне" ціле число, яке зберігається в ньому. |
 Kubernetes | [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/)| Kubernetes Goat це інтерактивний навчальний майданчик з безпеки Kuberenetes |
 
 ## Проекти  
