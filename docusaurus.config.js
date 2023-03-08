@@ -26,7 +26,12 @@ const config = {
     defaultLocale: 'en',
     locales: ['en', 'fr', 'pt', 'ne']
   },
-
+  scripts: [
+    'https://static.cloudflareinsights.com/beacon.min.js',
+    {
+      'src': 'https://static.cloudflareinsights.com/beacon.min.js',
+      'data-cf-beacon':'{"token": "a3e0a23a1a6a44c290695d32eea7769a"}', 
+    }],
   presets: [
     [
       'classic',
@@ -129,7 +134,6 @@ const config = {
           textColor: '#ffffff',
           isCloseable: false,
         },
-
       }),
   plugins: [
     [
