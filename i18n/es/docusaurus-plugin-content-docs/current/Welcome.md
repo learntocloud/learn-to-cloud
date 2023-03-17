@@ -1,29 +1,41 @@
-# Bienvenidos
-
-**[Versión web aquí](https://learntocloud.guide)**
-
-Esta es una guía basada en nuestras experiencias llegando hacia Cloud y DevOps. Una vez terminado, podrás tener el conocimiento técnico necesario para roles como:
-
-- Administrador de Sistemas (System administrator).
-- Ingeniero de Soporte de Nube (Cloud Support Engineer).
-- Administrador de Nube (Cloud Administrator).
-
-Puede aprender más acerca de nuestro camino hacia cloud, aquí:
-- [Rishab's journey from help desk to DevOps engineer without a degree](https://youtu.be/LZuWZ0SBYm8) 
-- [Gwyn's journey from help desk to Cloud engineer without a degree](https://youtu.be/kluKaLXJ2lg)
-
-Hemos tratado de mantenerlo lo mas general y usando las opciones mas populares (en términos de contenido, comunidad, y trabajos). Los 6 meses de tiempo es algo que hemos puesto para ayudar a las personas a planear. Puede tomarte más o menos tiempo para cada fase y si es así, está completamente bien.
+---
+sidebar_position: 1
+---
 
 
-| Orden | Tema                           | Tiempo de compromiso |
-|-------|---------------------------------|-------------------|
-| [0](es/phase0/README.md)     | Empezar desde cero experiencia en tech  | opcional 
-| [1](es/phase1/README.md)     | Fundamentos de Linux, Redes y scripting | 4 semanas           |
-| [2](es/phase2/README.md)     | Fundamentos de Programación | 4 semanas           |
-| [3](es/phase3/README.md)    | Fundamentos de Computación de la nube | 8 semanas           |
-| [4](es/phase4/README.md)     | Fundamentos de DevOps         | 8 semanas           |
+[![GitHub license](https://img.shields.io/github/license/learntocloud/learn-to-cloud.svg)](https://github.com/learntocloud/learn-to-cloud/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+[![GitHub forks](https://img.shields.io/github/forks/learntocloud/learn-to-cloud.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/learntocloud/learn-to-cloud/network/)
+[![GitHub stars](https://img.shields.io/github/stars/learntocloud/learn-to-cloud.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/learntocloud/learn-to-cloud/stargazers/)
 
+## ¿Qué es *Learn to Cloud*?
 
+Learn to Cloud es un GUÍA (no un libro o curso) que es basado en [este tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en). La meta es dar una guía de habilidades que debes tener para aprender de Cloud. Al final debes tener un conocimiento técnico de los siguientes roles:
 
-### [Ve a la Fase 1: Fundamentos de Linux, Redes y scripting](es/phase1/README.md)
+- System administrator.
+- Cloud Support Engineer.
+- Cloud Administrator.
+
+## ¿Realmente puedo alcanzar Cloud estudiando solo?
+
+Si, mira [esto](https://youtu.be/kluKaLXJ2lg)
+
+## ¿Preguntas? ¿Comentarios? ¿Retroalimentación?
+
+Por favor abre un [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
+
+## Fases
+
+| Orden | Tema                            |
+|-------|---------------------------------|
+| [opcional](phase0/README.md)  |  Inicia desde cero            |
+| [1](phase1/README.md)  | Fundamentos de Bash y Redes          |  
+| [2](phase2/README.md)  | Fundamentos de Programación          |
+| [3](phase3/README.md)  | Fundamentos de plataformas de Cloud  |
+| [4](phase4/README.md)  | Fundamentos de DevOps                |
+| [5](phase5/README.md)  | Fundamentos de Seguridad en Cloud    |
+
+## Plan de estudio
+
+[Este es un plan de estudio de 6 meses que sigue este guía](http://bootcamp.madebygps.com/)
