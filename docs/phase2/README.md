@@ -68,7 +68,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 - How to create a Git repo locally
 - How to create a GitHub repo and clone it locally.
 - How to create a git branch
-- How too add changes to a git branch
+- How to add changes to a git branch
 - How to merge Git changes
 - How to document code with a README
 
