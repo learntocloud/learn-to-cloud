@@ -27,7 +27,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 | :------------- | ---------- | ----------- | :----------- |
 |  Bash| [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | This book made learning Linux FUN! It's pretty easy to follow and take a chapter day by day.   | You don't need to read the whole thing, the first 9 chapters cover most of what you need to know.
 | Bash  | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. | Optional, but helpful |
-Bash for Beginners | [YouTube Video Series](https://youtu.be/qALScO3E61I) | An introduction to Bash!| A 20 part YouTube series covering the fundamentals of Bash.
+Bash for Beginners | [YouTube Video Series](https://aka.ms/bashforbeginners) | An introduction to Bash!| A 20 part YouTube series covering the fundamentals of Bash.
 Test your Bash skills with OverTheWire! Bandit Game |[Bandit](https://overthewire.org/wargames/bandit/) | A game to teach you the fundamental Bash commands you'll need for cloud and even security | This will cover more than the fundamentals. Similar to Linux Basics for hackers, it has a security focus.
 | Bash Scripting   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!| This will introduce you to concepts you'll use in the next phase.
 | Networking   | [Networking basics (2020)](https://www.youtube.com/watch?v=_IOZ8_cPgu8) | This 15 minute video covers all the essential networking concepts at a high level.  | Spend a day watching this and Googling each concept. Read more on each concept on your own.
