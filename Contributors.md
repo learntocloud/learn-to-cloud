@@ -161,20 +161,27 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ronsamgeorge">
+            <img src="https://avatars.githubusercontent.com/u/77411064?v=4" width="100;" alt="ronsamgeorge"/>
+            <br />
+            <sub><b>Ronald Samuel George</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/sylvainreiter">
             <img src="https://avatars.githubusercontent.com/u/3787458?v=4" width="100;" alt="sylvainreiter"/>
             <br />
             <sub><b>Sylvain Reiter</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/thomast1906">
             <img src="https://avatars.githubusercontent.com/u/12154020?v=4" width="100;" alt="thomast1906"/>
             <br />
             <sub><b>Thomas Thornton</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/vazsingh">
             <img src="https://avatars.githubusercontent.com/u/74464807?v=4" width="100;" alt="vazsingh"/>
