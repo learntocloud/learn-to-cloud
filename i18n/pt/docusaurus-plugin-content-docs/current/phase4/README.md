@@ -6,7 +6,7 @@ Autor: [GPS](https://twitter.com/madebygps)
 
 DevOps é tudo que envolve obter a sua solução para rodar com mais eficiência desde a implementação até as atualizações.
 
-Não é específico para Cloud, você também pode implementar as práticas DevOps tanto nos modelos on-premese quanto nos híbridos. DevOps não está limitado a um único cargo. Embora muitas companhias têm cargos dedicados à DevOps. Se o seu objetivo é se tornar um(a) engenheiro(a) DevOps, nesta fase você vai obter uma introdução mas precisará se aprofundar mais depois.
+Não é específico para Cloud, você também pode implementar as práticas DevOps tanto nos modelos on-premise quanto nos híbridos. DevOps não está limitado a um único cargo, embora muitas companhias têm cargos dedicados à DevOps. Se o seu objetivo é se tornar um(a) engenheiro(a) DevOps, nesta fase você vai obter uma introdução mas precisará se aprofundar mais depois.
 
 DevOps é uma cultura, e não uma ferramenta ou serviço específicos. Leia sobre o que é DevOps. Cada plataforma de nuvem tem a sua suite de ferramentas DevOps, eu linkei alguns artigos aqui:
 
@@ -35,7 +35,7 @@ Claro, sinta-se livre para gastar o tempo que você quiser. As pessoas pediram u
 | Fonte | Notes |
 | :---- | :---- |
 | [Tutorial GitHub Actions - Conceitos básicos e pipeline CI/CD com Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)| Nana é a rainha do DevOpse criou alguns dos melhores conteúdos de aprendizado sobre o assunto que existe por aí. Este tutorial irá lhe introduzir ao GitHub Actions. |
-| [Curso completo de Terraform - Do INICIANTE ao PROFISSIONAL!](https://www.youtube.com/watch?v=7xngnjfIlK4)| Aprenda como usar o Terraform para automatizar sua infraestrutura AWS. |
+| [Curso completo de Terraform - Do INICIANTE ao PROFISSIONAL!](https://www.youtube.com/watch?v=7xngnjfIlK4)| Aprenda como usar o Terraform para automatizar sua infraestrutura na AWS. |
 | [Tutorial Docker para iniciantes](https://youtu.be/3c-iBn73dDE) | Um curso completo e "mão na massa" de Docker com muitas demonstrações e explicações de conceitos por detrás para que você realmente entenda-os. |
 | [Curso intensivo de Kubernetes para iniciantes absolutos](https://youtu.be/s_o8dwzRlu4) | Tutorial mão na massa sobre Kubernetes | Aprenda Kubernetes em 1 hora - Um intensivão de Kubernetes para iniciantes. |
 | [Tutorial completo sobre monitoramento com Prometheus](https://youtube.com/playlist?list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4) | Um Tutorial completo sobre monitoramento com Prometheus. |
