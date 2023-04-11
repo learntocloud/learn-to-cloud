@@ -4,10 +4,10 @@ Autor: [GPS](https://twitter.com/madebygps)
 
 ## Como esta fase se aplica à Nuvem?
 
-às vezes, as pessoas são surpreendidas ao ver que esta fase não é a fase número um, embora seja a mais longa e por uma boa razão. Como um professional de Cloud, você vai viver em uma plataforma, ou várias. Tudo o que você constrói, dá suporte, desenvolve, etc, será numa plataforma. Aqui estão algumas perguntas populares que responderemos nesta fase:
+Às vezes, as pessoas são surpreendidas ao ver que esta fase não é a fase número um, embora seja a mais longa e por uma boa razão. Como um professional de Cloud, você vai viver em uma plataforma, ou várias. Tudo o que você constrói, dá suporte, desenvolve, etc, será numa plataforma. Aqui estão algumas perguntas populares que responderemos nesta fase:
 
 - [Qual plataforma cloud aprender?](../more-topics/FAQ.md)
-- [As plataformas pagas de aprendizado em nuvem valem a pena?](../more-topics/FAQ.md)
+- [As plataformas pagas de aprendizado de nuvem valem a pena?](../more-topics/FAQ.md)
 
 ## Como desmembrar esta fase?
 
@@ -29,7 +29,7 @@ Claro, sinta-se livre para gastar o tempo que você quiser. As pessoas pediram u
 | AWS | [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected) | AWS recomenda e descreve as melhores práticas de arquitetura em sua plataforma |
 | Azure | [John Savill](https://www.youtube.com/c/NTFAQGuy) | Muitos vídeos de treinamento na Azure. |
 | Azure | [Framework de boas práticas da Microsoft Azure](https://docs.microsoft.com/en-us/azure/architecture/framework/) | Azure recomenda e descreve as melhores práticas de arquitetura em sua plataforma |
-| Azure |[Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/) | Microsoft Learn tem conteúdos gratuitos para muitos tópicos técnicos incluindo toda a certificação Azure |
+| Azure |[Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/) | Microsoft Learn tem conteúdos gratuitos para muitos tópicos técnicos incluindo toda as certificações de Azure |
 | GCP | [Google Cloud training](https://cloud.google.com/certification) | GCP tem muito conteúdo gratuito de certificação  |
 | GCP | [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) | GCP recomenda e descreve as melhores práticas de arquitetura em sua plataforma |
 | Multi |[Notas sobres as certificações de @rishabkumar7](https://notes.rishab.cloud/)| Notas sobre as certificações LPI Essentials, Terraform, AWS, Azure (e outras) que ele tirou. |
@@ -41,11 +41,11 @@ Quando você está começando com nuvem, você fará tudo via interface gráfica
 
 Este é também um bom momento para se apresentar para as documentações oficiais, [AWS](https://docs.aws.amazon.com/index.html), [Azure](https://docs.microsoft.com/azure/?product=featured) or [GCP](https://cloud.google.com/docs).
 
-Se tiver alguma coisa que você não entenda sobre um serviço ou comando, é para a documentação que você deve ir. Depois voce pode ir a um artigo ou tutorial, etc.
+Se tiver alguma coisa que você não entenda sobre um serviço ou comando, é para a documentação que você deve ir. Depois você pode ir a um artigo ou tutorial, etc.
 
 ## Projetos
 
-Nós recomendamos que o seu primeiro projeto cloud seja um Desafio Currículo na Nuvem (Cloud Resume Challenge). Terminado isso, visite a [página Projects](../../projects/README.md) para mais!
+Nós recomendamos que o seu primeiro projeto cloud seja o Desafio Currículo na Nuvem (Cloud Resume Challenge). Terminado isso, visite a [página Projects](../../projects/README.md) para mais!
 
 | Platforma | Título | Descrição |
 | :-------- | :----- | :-------- |
@@ -55,7 +55,7 @@ Nós recomendamos que o seu primeiro projeto cloud seja um Desafio Currículo na
 
 ## Coisas que você deveria estar familiarizado ao final desta fase
 
-- Um entendimento das boas práticas da infraestrutura nuvem (confiabilidade, eficiência de desempenho, segurança, otimização de custos, etc.)
+- Um entendimento das boas práticas da infraestrutura de nuvem (confiabilidade, eficiência de desempenho, segurança, otimização de custos, etc.)
 - Como garantir e revogar acessos e permissões para usuários e aplicações.
 - Como configurar alertas/alarmes de cobrança, orçamentos, e como usar as ferramentas de faturamento.
 - Como usar o serviço de armazenamento de objetos e entender outras opções de armazenamento.
@@ -69,16 +69,16 @@ Nós recomendamos que o seu primeiro projeto cloud seja um Desafio Currículo na
 
 ## Certificações que você pode querer dar uma olhada
 
-Nós gostamos de certificações, elas te dão um belo esquema para seguir em termos de aprendizado. No entanto, não achamos que você precisa tirar todas as certificações que exixtem por aí. Uma ou duas, mais a Linux, redes, programação,  já é bastante conhecimento e já muito impressionante quando você está começando. À medida que você crece e quer se especializar, certificações são excelentes para o aperfeiçoamento!
+Nós gostamos de certificações, elas te dão um belo esquema para seguir em termos de aprendizado. No entanto, não achamos que você precisa tirar todas as certificações que existem por aí. Uma ou duas, mais a de Linux, redes, programação, já é bastante conhecimento e já muito impressionante quando você está começando. À medida que você crece e quer se especializar, certificações são excelentes para o aperfeiçoamento!
 
-Nós recomendamos tirar ao menos uma certificação e se tirar apenas uma, esta poderia ser uma de nível de associado. We recommended getting at least one certification and if you only get one it should be an associate level. Mas é claro que você pode obter uma de nível de entrada.
+Nós recomendamos tirar ao menos uma certificação e se tirar apenas uma, esta poderia ser uma de nível de associado. Mas é claro que você pode obter uma de nível de entrada.
 
 - Nível de entrada:
   - [Certificação Cloud Practitioner da AWS](https://aws.amazon.com/certification/certified-cloud-practitioner/)
   - [Azure Fundamentals AZ-900](https://docs.microsoft.com/learn/certifications/exams/az-900).
   - [Cursinho de estudo para Azure Fundamentals AZ-900](https://github.com/ricmmartins/study-guide-az900)
   - [Certificação Líder Digital da GCP](https://cloud.google.com/certification/cloud-digital-leader)
-- Associate level:
+- Nível de associado:
   - [AWS](https://aws.amazon.com/certification/): Qualquer uma.
   - [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Atenha-se às administrador ou desenvolvedor, as outras de nível de associado são um pouco mais específicas e você pode obtê-las mais tarde se você quiser.
   - [GCP](https://cloud.google.com/certification/cloud-engineer): Só tem uma.
