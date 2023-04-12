@@ -17,7 +17,7 @@ Here are some popular questions we get at this phase:
 
 ## How to break down this phase
 
-I would suggest spending time on these three topics and this timeline:
+I would suggest spending time on these two topics and this timeline:
 
 | Order | Topic                           |
 |-------|---------------------------------|
