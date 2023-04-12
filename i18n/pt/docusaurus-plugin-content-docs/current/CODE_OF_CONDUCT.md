@@ -1,16 +1,11 @@
-# Código de Conduta do Convênio do Contribuinte
+# Pacto do Código de Conduta do Colaborador
 
 ## Nosso Compromisso
 
-Nós, como membros, colaboradores e líderes, nos comprometemos a fazer a participação em nosso
-comunidade uma experiência livre de assédio para todos, independentemente da idade, corpo
-tamanho, deficiência visível ou invisível, etnia, características sexuais, gênero
-identidade e expressão, nível de experiência, educação, status socioeconômico,
-nacionalidade, aparência pessoal, raça, casta, cor, religião ou
-identidade e orientação.
+Nós, como membros, colaboradores e líderes, nos comprometemos a fazer a participação em nossa
+comunidade uma experiência livre de assédio para todos, independentemente da idade, altura, deficiência visível ou invisível, etnia, características sexuais, identidade de gênero e expressão, nível de experiência, educação, status socioeconômico, nacionalidade, aparência pessoal, raça, casta, cor, religião ou identidade e orientação.
 
-Comprometemo-nos a agir e interagir de forma a contribuir para um ambiente aberto,
- acolhedor, com uma comunidade  diversificada, inclusiva e saudável.
+Comprometemo-nos a agir e interagir de forma a contribuir para um ambiente aberto, acolhedor, com uma comunidade  diversificada, inclusiva e saudável.
 
 ## Nossas Normas
 
@@ -27,20 +22,12 @@ mas para o geral como comunidade
 
 Exemplos de comportamentos inaceitáveis incluem:
 
-* The use of sexualized language or imagery, and sexual attention or advances of
-  any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address,
-  without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
-
-* O uso de linguagem ou imagens sexualizadas e insinuação sexual de qualquer tipo
-* Trolagens, comentários insultuosos ou depreciativos e ataques pessoais ou políticos
+* O uso de linguagem ou imagens sexualizadas, e atenção sexual ou avanços de qualquer tipo
+* Comentários provocativos, insultantes ou depreciativos, e ataques pessoais ou políticos
 * Assédio público ou privado
-* Publicar informações privadas de outras pessoas, como endereço físico ou de e-mail, sem permissão explícita
-* Outras condutas que possam ser razoavelmente consideradas inadequadas em um ambiente profissional
+* Divulgar informações privadas de terceiros, como endereço físico ou de e-mail, sem permissão explícita
+* Outros comportamentos que poderiam ser considerados inapropriados em um ambiente profissional
+
 
 ## Cumprimento de Responsabilidades
 
