@@ -21,15 +21,35 @@ You should've completed the [Cloud Resume Challenge](https://cloudresumechalleng
 
 ## How to break down this phase
 
-| Order | Topic                 |
-|-------|-----------------------|
-| 1 | CI/CD with GitHub Actions |
-| 2 | IaC with Terraform |
-| 3 | Containers with Docker |
-| 4 | Containers orchestration with Kubernetes |
-| 5 | Monitoring with Prometheus and Grafana |
+| Order | Concepts                 | Recommended tools | Other tools
+|-------|-----------------------|------------------|-------------|
+| 1 | CI/CD | GitHub Actions | Jenkins, GitLab, CircleCI
+| 2 | IaC  | Terraform | Azure Bicep, AWS CloudFormation, Pulumi
+| 3 | Containers  | Docker | 
+| 4 | Containers orchestration | Kubernetes |
+| 5 | Monitoring | Prometheus and Grafana | Datadog
 
-Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it. Every DevOps practice matters, but these are the most used on an entry/junior level. You should already be familiar with Version Control from Phase 2.
+### CI - Continuous Integration
+
+One of the core practices of DevOps is continuous integration, which has developers commit their code to a shared repository, often on a daily basis. The objective of continuous integration (CI) is to create code that works rapidly. Successful CI means the progressions to an application are constructed, tried and merged routinely.
+
+### CD - Continuous Deployment
+
+It refers to code that, when integrated/merged, is deployed automatically to the productions environment of the app after performing certain tests.
+
+### IaC - Infrastructure as Code
+
+It is the managing and provisioning of infrastructure through code instead of through manual processes. With IaC, configuration files are created that contain your infrastructure specifications, which makes it easier to edit and distribute configurations.
+
+### Containerization
+
+Containerization is the packaging of software code with just the operating system (OS) libraries and dependencies required to run the code to create a single lightweight executable—called a container, that runs consistently on any infrastructure. More portable and resource-efficient than virtual machines (VMs). They have become the de facto compute units of modern cloud-native applications.
+
+### Monitoring
+
+Monitoring allows you to keep track of the health and performance of software and systems. It involves collecting useful data about system's performance and behavior, such as CPU usage, network traffic, memory usage and response times. Monitoring tools also provide real-time alerts when something goes wrong, allowing you to quickly identify and respond to resolve issues before they become major problems.
+
+Feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it. Every DevOps practice matters, but these are the most used on an entry/junior level. You should already be familiar with Version Control from Phase 2.
 
 ## Resources
 
@@ -67,3 +87,4 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 
 - [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
 - [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
+- [GCP Professional Cloud DevOps Engineer](https://cloud.google.com/certification/cloud-devops-engineer)
