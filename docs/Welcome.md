@@ -21,9 +21,13 @@ Learn to Cloud is a GUIDE (not a book or course) that originated from [this twee
 
 Yes, watch [this](https://youtu.be/kluKaLXJ2lg)
 
+## Can this guide really help me get a Cloud job?
+
+Yes, watch [this](https://youtu.be/vqv1EhI8azs)
+
 ## How can I get a job in Cloud?
 
-Watch [this](https://youtu.be/BfaRP2stZTo)
+You have a few options, Watch [this](https://youtu.be/BfaRP2stZTo)
 
 ## Questions? Comments? Feedback?
 

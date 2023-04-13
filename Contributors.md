@@ -32,20 +32,27 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ricmmartins">
+            <img src="https://avatars.githubusercontent.com/u/44813563?v=4" width="100;" alt="ricmmartins"/>
+            <br />
+            <sub><b>Ricardo Martins</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/CarolineChiari">
             <img src="https://avatars.githubusercontent.com/u/57648401?v=4" width="100;" alt="CarolineChiari"/>
             <br />
             <sub><b>Caroline Chiari</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Abdennour0210">
             <img src="https://avatars.githubusercontent.com/u/46243233?v=4" width="100;" alt="Abdennour0210"/>
             <br />
             <sub><b>Abdennour</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/srishtipoudel">
             <img src="https://avatars.githubusercontent.com/u/66827364?v=4" width="100;" alt="srishtipoudel"/>
@@ -80,15 +87,15 @@
             <br />
             <sub><b>Antonio Lo Fiego</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/abdrrahimelh">
             <img src="https://avatars.githubusercontent.com/u/59322515?v=4" width="100;" alt="abdrrahimelh"/>
             <br />
             <sub><b>EL HIMIR ABDERRAHIM</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ronsamgeorge">
             <img src="https://avatars.githubusercontent.com/u/77411064?v=4" width="100;" alt="ronsamgeorge"/>
@@ -101,13 +108,6 @@
             <img src="https://avatars.githubusercontent.com/u/83538403?v=4" width="100;" alt="arushmangal"/>
             <br />
             <sub><b>Arush Mangal</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ricmmartins">
-            <img src="https://avatars.githubusercontent.com/u/44813563?v=4" width="100;" alt="ricmmartins"/>
-            <br />
-            <sub><b>Ricardo Martins</b></sub>
         </a>
     </td>
     <td align="center">

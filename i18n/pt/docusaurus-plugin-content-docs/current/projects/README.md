@@ -1,6 +1,6 @@
 # Projetos
 
-Cada fase tem uma lista nós recomendamos que você complete. Aqui está uma lista a mais.
+Cada fase tem uma lista que nós recomendamos que você complete. Aqui está uma lista a mais.
 
 ## Projetos AWS
 
