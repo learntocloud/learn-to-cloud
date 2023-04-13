@@ -4,7 +4,7 @@ on:
     - cron:  '0 12 * * *'
   push:
     branches:
-    - staging
+    - main
 
 jobs:
     contributors-markdown-job:
