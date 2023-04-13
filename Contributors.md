@@ -97,6 +97,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ronsamgeorge">
+            <img src="https://avatars.githubusercontent.com/u/77411064?v=4" width="100;" alt="ronsamgeorge"/>
+            <br />
+            <sub><b>Ronald Samuel George</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/arushmangal">
             <img src="https://avatars.githubusercontent.com/u/83538403?v=4" width="100;" alt="arushmangal"/>
             <br />
@@ -123,15 +130,15 @@
             <br />
             <sub><b>Yassin DAHMOUNI</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ams0">
             <img src="https://avatars.githubusercontent.com/u/1541352?v=4" width="100;" alt="ams0"/>
             <br />
             <sub><b>Alessandro Vozza</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ashu-0453">
             <img src="https://avatars.githubusercontent.com/u/86668736?v=4" width="100;" alt="ashu-0453"/>
@@ -166,15 +173,15 @@
             <br />
             <sub><b>Sylvain Reiter</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/thomast1906">
             <img src="https://avatars.githubusercontent.com/u/12154020?v=4" width="100;" alt="thomast1906"/>
             <br />
             <sub><b>Thomas Thornton</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/vazsingh">
             <img src="https://avatars.githubusercontent.com/u/74464807?v=4" width="100;" alt="vazsingh"/>

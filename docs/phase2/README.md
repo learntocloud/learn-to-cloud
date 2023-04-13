@@ -19,7 +19,7 @@ There are several programming languages that are popular with Cloud, like Go, Ru
 
 ## How to break down this phase
 
-I would suggest spending time on these three topics and this timeline:
+I would suggest spending time on these two topics and this timeline:
 
 | Order | Topic                           |
 |-------|---------------------------------|
@@ -68,7 +68,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 - How to create a Git repo locally
 - How to create a GitHub repo and clone it locally.
 - How to create a git branch
-- How too add changes to a git branch
+- How to add changes to a git branch
 - How to merge Git changes
 - How to document code with a README
 
