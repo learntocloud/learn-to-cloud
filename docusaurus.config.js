@@ -129,7 +129,7 @@ const config = {
           /*
             '<b>Find #30DaysOfSWA useful? Give it a star on <a href="https://github.com/staticwebdev/30DaysOfSWA"><b>GitHub</b></a></b>',
           */
-            '<b>Found this guide helpful? Give us a star on <a href="https://github.com/learntocloud/learn-to-cloud"><b>GitHub</b></a></b> ☁️',
+            '<b><a href="https://youtu.be/vqv1EhI8azs">Learn how Skylar used Learn to Cloud to land a cloud admin role</a></b> ☁️',
           backgroundColor: '#134D99',
           textColor: '#ffffff',
           isCloseable: false,
