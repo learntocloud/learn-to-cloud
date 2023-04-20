@@ -53,9 +53,9 @@ We recommend your first cloud project to be the Cloud Resume Challenge. Once you
 
 Platform | Title | Description |
 ---------|-------|-------------|
-AWS | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)| Build your resume with AWS services.|
-Azure | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)| Build your resume with Azure Services   |  
-GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Build your resume with GCP services |
+AWS | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)| Build your resume with AWS services. |
+Azure | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)| Build your resume with Azure services. |  
+GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Build your resume with GCP services. |
 
 ## Things you should be familiar with at the end of this phase
 
