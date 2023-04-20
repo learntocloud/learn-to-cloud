@@ -36,11 +36,11 @@ Networking | [Azure networking services overview](https://learn.microsoft.com/az
 
 ## Projects
 
-Here are some projects to reinforce what you've learned in this phase. I recomenned blogging or creating video content on your projects.
+Here are some projects to reinforce what you've learned in this phase. I recommend blogging or creating video content on your projects.
 
  Title    | Resource     | Notes
  :---------- | :----------- | :----------- |
- Install Linux on a computer   | Research a distro and install it (We like [Pop!_OS](https://pop.system76.com/)) | No bettter way to learn Linux than using it!
+ Install Linux on a computer   | Research a distro and install it (We like [Pop!_OS](https://pop.system76.com/)) | No better way to learn Linux than using it!
 Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A pretty popular Linux admin task. |
  Deploy a NAS server | Checkout [FreeNAS](https://www.freenas.org/) |
  Deploy your own cloud | Checkout [NextCloud](https://nextcloud.com/) | A fun way to create your own private cloud.
