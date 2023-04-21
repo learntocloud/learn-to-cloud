@@ -23,6 +23,7 @@ Always remember this, you can not secure what you do not understand, so make sur
 | Cloud Platform | Title  | Description  |
 |:-------------- | ------ | ------ |
 AWS, Azure & GCP | [Hacking The Cloud](https://hackingthe.cloud/)| Hacking the cloud is an encyclopedia of the attacks/tactics/techniques that are common in cloud exploitation. |
+AWS, Azure, GCP, IBM, & DO | [HackTricks Cloud](https://cloud.hacktricks.xyz/)| A resource for hacking CI/CD pipelines and cloud environments. Useful for both red and blue teams. |
 AWS | [Flaws.Cloudf](http://flaws.cloud/)| Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS). |
 AWS | [Flaws2.Cloud](http://flaws2.cloud/)| Similar to the original Flaws.Cloud Challenge this tutorial teaches you AWS security concepts but this time from both an offensive and defensive perspective |
 AWS | [Cloud Goat](https://github.com/RhinoSecurityLabs/cloudgoat)| CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool that allows you to hone your cloud cybersecurity skills by creating and completing several "capture-the-flag" style scenarios. |
