@@ -111,6 +111,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ethanolivertroy">
+            <img src="https://avatars.githubusercontent.com/u/63926014?v=4" width="100;" alt="ethanolivertroy"/>
+            <br />
+            <sub><b>Ethan Troy</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/erh-git">
             <img src="https://avatars.githubusercontent.com/u/8422319?v=4" width="100;" alt="erh-git"/>
             <br />
@@ -123,15 +130,15 @@
             <br />
             <sub><b>Sarthak Regmi</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ydamni">
             <img src="https://avatars.githubusercontent.com/u/93495053?v=4" width="100;" alt="ydamni"/>
             <br />
             <sub><b>Yassin DAHMOUNI</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ams0">
             <img src="https://avatars.githubusercontent.com/u/1541352?v=4" width="100;" alt="ams0"/>
@@ -144,13 +151,6 @@
             <img src="https://avatars.githubusercontent.com/u/86668736?v=4" width="100;" alt="ashu-0453"/>
             <br />
             <sub><b>Astush Sharma</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ethanolivertroy">
-            <img src="https://avatars.githubusercontent.com/u/63926014?v=4" width="100;" alt="ethanolivertroy"/>
-            <br />
-            <sub><b>Ethan Troy</b></sub>
         </a>
     </td>
     <td align="center">
@@ -168,13 +168,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Lagain">
+            <img src="https://avatars.githubusercontent.com/u/99564089?v=4" width="100;" alt="Lagain"/>
+            <br />
+            <sub><b>Luke Gain</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/sylvainreiter">
             <img src="https://avatars.githubusercontent.com/u/3787458?v=4" width="100;" alt="sylvainreiter"/>
             <br />
             <sub><b>Sylvain Reiter</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/thomast1906">
             <img src="https://avatars.githubusercontent.com/u/12154020?v=4" width="100;" alt="thomast1906"/>
