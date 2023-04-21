@@ -168,13 +168,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Lagain">
+            <img src="https://avatars.githubusercontent.com/u/99564089?v=4" width="100;" alt="Lagain"/>
+            <br />
+            <sub><b>Luke Gain</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/sylvainreiter">
             <img src="https://avatars.githubusercontent.com/u/3787458?v=4" width="100;" alt="sylvainreiter"/>
             <br />
             <sub><b>Sylvain Reiter</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/thomast1906">
             <img src="https://avatars.githubusercontent.com/u/12154020?v=4" width="100;" alt="thomast1906"/>
