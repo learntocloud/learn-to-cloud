@@ -168,8 +168,8 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Lagain">
-            <img src="https://avatars.githubusercontent.com/u/99564089?v=4" width="100;" alt="Lagain"/>
+        <a href="https://github.com/lagain">
+            <img src="https://avatars.githubusercontent.com/u/99564089?v=4" width="100;" alt="lagain"/>
             <br />
             <sub><b>Luke Gain</b></sub>
         </a>
