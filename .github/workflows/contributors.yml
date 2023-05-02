@@ -1,5 +1,6 @@
 name: Add contributors
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '0 12 * * *'
   push:
@@ -16,8 +17,6 @@ jobs:
               with:
                   readme_path: "Contributors.md"
                   columns_per_row: '6'
-                  committer_username: "rishabkumar7"
-                  committer_email: "rishabkumar7@gmail.com"
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     contributors-svg:
