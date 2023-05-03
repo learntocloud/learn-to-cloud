@@ -26,25 +26,19 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 | Topic      | Title    |  Notes     | Tips |
 | :------------- | ---------- | ----------- | :----------- |
 |  Bash| [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | This book made learning Linux FUN! It's pretty easy to follow and take a chapter day by day.   | You don't need to read the whole thing, the first 9 chapters cover most of what you need to know.
-| Bash  | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. | Optional, but helpful |
 Bash for Beginners | [YouTube Video Series](https://aka.ms/bashforbeginners) | An introduction to Bash!| A 20 part YouTube series covering the fundamentals of Bash.
-Test your Bash skills with OverTheWire! Bandit Game |[Bandit](https://overthewire.org/wargames/bandit/) | A game to teach you the fundamental Bash commands you'll need for cloud and even security | This will cover more than the fundamentals. Similar to Linux Basics for hackers, it has a security focus.
-| Bash Scripting   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!| This will introduce you to concepts you'll use in the next phase.
-| Networking   | [Networking basics (2020)](https://www.youtube.com/watch?v=_IOZ8_cPgu8) | This 15 minute video covers all the essential networking concepts at a high level.  | Spend a day watching this and Googling each concept. Read more on each concept on your own.
 Networking | [Fundamentals of computer networking](https://learn.microsoft.com/en-us/training/modules/network-fundamentals/) | You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths. | Read this after the previous video.
-Networking | [Azure networking services overview](https://learn.microsoft.com/azure/networking/fundamentals/networking-overview) | You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths. | Optional, but I think it's a great time to introduce yourself to cloud services in the networking category, in this case Azure.
 
 ## Projects
 
 Here are some projects to reinforce what you've learned in this phase. I recommend blogging or creating video content on your projects.
 
- Title    | Resource     | Notes
- :---------- | :----------- | :----------- |
- Install Linux on a computer   | Research a distro and install it (We like [Pop!_OS](https://pop.system76.com/)) | No better way to learn Linux than using it!
-Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A pretty popular Linux admin task. |
- Deploy a NAS server | Checkout [FreeNAS](https://www.freenas.org/) |
- Deploy your own cloud | Checkout [NextCloud](https://nextcloud.com/) | A fun way to create your own private cloud.
+ Title    | Resource     |
+ :---------- | :----------- 
+ Deploy a Linux VM using a CLI to any Cloud Platform | [Ubuntu on public clouds](https://ubuntu.com/cloud/public-cloud) 
+Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | Configure the VM deployed previous to be a LAMP server 
   Convert video files | Checkout [ffmpeg](https://ffmpeg.org/ffmpeg.html) use it to write a script that converts a .mov file to mp4 | Great way to practice scripting skills.
+  Test your Bash skills with OverTheWire!|[Bandit](https://overthewire.org/wargames/bandit/) | A game to teach you the fundamental Bash commands you'll need for cloud and even security | This will cover more than the fundamentals. Similar to Linux Basics for hackers, it has a security focus.
 
 ## Things you should be able familiar with at the end of this phase
 
@@ -95,13 +89,11 @@ Concepts you should be familiar with.
 
 ## Certifications you might want to look into
 
-There are several Linux certifications and you can chose to study for any of them really, but a lot of them cover WAY more than what you need to know for a solid foundation and are more focused on Linux administration.
+There are several Linux certifications and you can chose to study for any of them, but a lot of them cover WAY more than what you need to know for a solid foundation and are more focused on Linux administration.
 
-- [LPI essentials](https://www.lpi.org/our-certifications/linux-essentials-overview)
+- [LPI](https://www.lpi.org/our-certifications/linux-essentials-overview)
 - [RedHat](https://www.redhat.com/en/services/training-and-certification)
 - [Linux Foundation](https://training.linuxfoundation.org/certification-catalog/)
-- [Oracle](https://education.oracle.com/oracle-certification-path/pFamily_358)
-- [LPI](https://www.lpi.org/)
 - [Comptia Linux+](https://www.comptia.org/certifications/linux)
 
 There are also TONS of networking certifications out there, and similar to the Linux ones, they are more focused on giving you a lot of knowledge so you can become a networking engineer/specialist, again at an introductory level, it's a little overkill. If you did want to get one, take a look at the [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) which are pretty much industry standard and/or [Comptia Network+](https://www.comptia.org/certifications/network)
