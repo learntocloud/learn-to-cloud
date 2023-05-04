@@ -39,6 +39,7 @@ I would suggest spending time on these two topics and this timeline:
 | 2     | [Complete Git and GitHub course](https://www.youtube.com/watch?v=apGV9Kg7ics)    | A video by [Kunal Kushwaha](https://bio.link/kunalk) 
 | 3     | [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)    | A course by [deeplearning.ai](https://www.deeplearning.ai/) |
 | 3     | [A Beginner's Guide to Prompt Engineering with GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)    | An article by [Rizèl Scarlett](https://twitter.com/blackgirlbytes) on how to get the most out of GitHub Copilot.|
+| 3     | [Introduction to GitHub Copilot](https://learn.microsoft.com/training/modules/introduction-to-github-copilot/)    | An Microsoft Learn Module on how to use GitHub Copilot.|
 
 ## Projects
 
