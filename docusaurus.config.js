@@ -79,6 +79,11 @@ const config = {
               position: 'left',
             },
             {
+              href: 'https://definethecloud.guide/',
+              label: 'Cloud Dictionary',
+              position: 'left',
+            },
+            {
               href: 'https://discord.gg/nxcGpYQpw4',
               label: 'Discord',
               position: 'right',
