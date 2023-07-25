@@ -73,6 +73,6 @@ We like cloud certifications, they give you a nice outline to follow. However we
 
 We recommend you get an associate level certification.
 
-  - [AWS](https://aws.amazon.com/certification/): Any one.
+  - [AWS](https://aws.amazon.com/certification/): [AWS Certification Paths](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
   - [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Stick to the admin or developer, the other associate level ones are a little more specialized and you can take them later if you want.
   - [GCP](https://cloud.google.com/certification/cloud-engineer): There is only one.
