@@ -4,8 +4,8 @@ Author: [GPS](https://twitter.com/madebygps)
 
 ## How does this phase apply to Cloud?
 
-DevOps is all about getting your solutions to run efficiently from deployment to updates.
-It's not specific to Cloud, as you can implement DevOps practices on-prem and in hybrid environments as well. DevOps is not limited to a single role. However most companies have dedicated roles to DevOps. If your aim is to become a DevOps engineer, this phase will get you started but you'll have to go deeper.
+DevOps is all about getting your solutions to run efficiently from development to updates.
+It's not specific to Cloud, as you can implement DevOps practices on-prem and in hybrid environments as well. DevOps practices are often handled by many roles and some companies have dedicated DevOps Engineers. If your aim is to become a DevOps engineer, this phase will get you started but you'll have to go deeper on your own.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/YMXwThdwTiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -29,37 +29,19 @@ You should've completed the [Cloud Resume Challenge](https://cloudresumechalleng
 | 4 | Containers orchestration | Kubernetes |
 | 5 | Monitoring | Prometheus and Grafana | Datadog
 
-### CI - Continuous Integration
-
-One of the core practices of DevOps is continuous integration, which has developers commit their code to a shared repository, often on a daily basis. The objective of continuous integration (CI) is to create code that works rapidly. Successful CI means the progressions to an application are constructed, tried and merged routinely.
-
-### CD - Continuous Deployment
-
-It refers to code that, when integrated/merged, is deployed automatically to the productions environment of the app after performing certain tests.
-
-### IaC - Infrastructure as Code
-
-It is the managing and provisioning of infrastructure through code instead of through manual processes. With IaC, configuration files are created that contain your infrastructure specifications, which makes it easier to edit and distribute configurations.
-
-### Containerization
-
-Containerization is the packaging of software code with just the operating system (OS) libraries and dependencies required to run the code to create a single lightweight executable—called a container, that runs consistently on any infrastructure. More portable and resource-efficient than virtual machines (VMs). They have become the de facto compute units of modern cloud-native applications.
-
-### Monitoring
-
-Monitoring allows you to keep track of the health and performance of software and systems. It involves collecting useful data about system's performance and behavior, such as CPU usage, network traffic, memory usage and response times. Monitoring tools also provide real-time alerts when something goes wrong, allowing you to quickly identify and respond to resolve issues before they become major problems.
-
-Feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it. Every DevOps practice matters, but these are the most used on an entry/junior level. You should already be familiar with Version Control from Phase 2.
 
 ## Resources
 
 | Resource                                                        | Notes                                                                                       |
 | :------------------------------------------------------------------ | :----------------------------------------------------------------------------------------- |
+| [The DevOps Guide](https://thedevops.guide/) | Learn all the DevOps Concepts |
 | [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)|Nana is the queen of DevOps and creates some of the best DevOps learning content out there. This tutorial will introduce you to GitHub actions.
 | [Complete Terraform Course - From BEGINNER to PRO!](https://www.youtube.com/watch?v=7xngnjfIlK4)| Learn how to use Terraform to automate your AWS infrastructure.
 | [Docker tutorial for Beginners](https://youtu.be/3c-iBn73dDE) | Complete Docker Hands-on course with a lot of demos and explaining the concepts behind, so that you really understand it.
 | [Kubernetes Crash Course for Absolute Beginners](https://youtu.be/s_o8dwzRlu4) | Hands-On Kubernetes Tutorial | Learn Kubernetes in 1 Hour - Kubernetes Course for Beginners
 | [Complete Prometheus Monitoring Tutorial](https://youtube.com/playlist?list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4) | Complete Prometheus Monitoring Tutorial
+
+
 
 ## Projects
 

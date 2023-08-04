@@ -1,6 +1,7 @@
 # Welcome
 
 [![Azure Static Web Apps CI/CD](https://github.com/learntocloud/learn-to-cloud/actions/workflows/azure-static-web-apps-agreeable-forest-05e8c1b0f.yml/badge.svg?branch=main)](https://github.com/learntocloud/learn-to-cloud/actions/workflows/azure-static-web-apps-agreeable-forest-05e8c1b0f.yml)
+[![CodeQL Code Scanning](https://github.com/learntocloud/learn-to-cloud/actions/workflows/codeql-code-scanning.yml/badge.svg)](https://github.com/learntocloud/learn-to-cloud/actions/workflows/codeql-code-scanning.yml)
 
 ## What is Learn to Cloud?
 

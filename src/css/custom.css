@@ -50,15 +50,20 @@
 }
 
 /* navbar changes on small screens */
-@media screen and (max-width: 1120px) {
+@media screen and (max-width: 1190px) {
   .navbar__item {
-    font-size: 13px;
+    font-size: 12px;
   }
 }
 
-@media screen and (max-width: 1046px) {
+@media screen and (max-width: 1062px) {
   .navbar__item {
-    font-size: 11px;
+    font-size: 9px;
+  }
+
+  .navbar {
+    /* increase navbar height */
+    height: 60px;
   }
 }
 
