@@ -118,11 +118,10 @@ const config = {
 
         algolia: {
           // The application ID provided by Algolia
-          appId: 'supabase',
-          // appId: process.env.ALGOLIA_APP_ID,
+          appId: process.env.ALGOLIA_APP_ID,
 
           // Public API key
-          apiKey: 'supabase',
+          apiKey: process.env.ALGOLIA_API_KEY,
 
           indexName: "learntocloud",
 
