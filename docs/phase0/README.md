@@ -43,6 +43,7 @@ However some people have told me that it's helped them land support roles like
 - Field Service Technician
 - Help Desk Technician 
 - System Support Specialist
+- Data Center Technician
 
 ## Jobs
 
