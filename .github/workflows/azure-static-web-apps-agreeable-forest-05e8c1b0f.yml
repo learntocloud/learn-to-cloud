@@ -35,6 +35,7 @@ jobs:
         env: # Add environment variables here
            ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
            ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+           CLOUDFARE_ANALYTICS_TOKEN: ${{ secrets.CLOUDFARE_ANALYTICS_TOKEN }}
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
