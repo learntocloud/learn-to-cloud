@@ -27,10 +27,10 @@ const config = {
     locales: ['en', 'fr', 'pt', 'ne']
   },
   scripts: [
-    'https://static.cloudflareinsights.com/beacon.min.js',
     {
-      'src': 'https://static.cloudflareinsights.com/beacon.min.js',
-      'data-cf-beacon':'{"token": "a3e0a23a1a6a44c290695d32eea7769a"}', 
+      src: 'https://static.cloudflareinsights.com/beacon.min.js',
+      defer: true,
+      'data-cf-beacon':'{"token": "b432b85a256141158bb08320cd5344b0"}', 
     }],
   presets: [
     [
