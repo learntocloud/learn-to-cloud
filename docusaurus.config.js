@@ -30,7 +30,7 @@ const config = {
     {
       src: 'https://static.cloudflareinsights.com/beacon.min.js',
       defer: true,
-      'data-cf-beacon':'{"token": "b432b85a256141158bb08320cd5344b0"}', 
+      'data-cf-beacon':`{"token": ${process.env.CLOUDFARE_ANALYTICS_TOKEN}}`, 
     }],
   presets: [
     [
