@@ -4,7 +4,7 @@ Author: [GPS](https://twitter.com/madebygps)
 
 ## ¿Cómo aplica esta fase a la Nube?
 
-Muchas veces la gente se sorprende cuando ve que esta fase no es la número 1, aunque  es la más larga y por una buena razón. Como profesional de la Nube, viviras en una plataforma o muchas. Todo lo que construtas, des soporte, desarrolles, etc, estará en una plataforma.
+Muchas veces la gente se sorprende cuando ve que esta fase no es la número 1, aunque es la más larga y por una buena razón. Como profesional de la Nube, viviras en una plataforma o muchas. Todo lo que construtas, des soporte, desarrolles, etc, estará en una plataforma.
 
 Acá hay algunas preguntas populares para esta fase:
 
@@ -14,45 +14,44 @@ Acá hay algunas preguntas populares para esta fase:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/W3_8O3doYlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 ## Cómo dividir esta fase en partes
 
-Te sugiero dedicar tiempo a estos dos temas y a este cronograma: 
+Te sugiero dedicar tiempo a estos dos temas y a este cronograma:
 
-| Orden | Tema                           |
-|-------|---------------------------------|
-| 1 | Certificaciones en la Nube |
-| 2 | Desafío de currículum en la nube |
+| Orden | Tema                             |
+| ----- | -------------------------------- |
+| 1     | Certificaciones en la Nube       |
+| 2     | Desafío de currículum en la nube |
 
 Por supuesto, sientete libre de invertir tanto tiempo como vos quieras, la gente me ha preguntado por un cronograma desglosado, así que acá lo agregué.
 
 ## Recursos
 
-| Plataforma Nube | Título  
-|:-------------- | ------ 
-AWS | [Certificaciones y entrenamientos AWS](https://aws.amazon.com/training/)|
-Azure |[Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/) |
-GCP | [Entrenamiento en Google Cloud](https://cloud.google.com/certification) | 
+| Plataforma Nube | Título                                                                     |
+| :-------------- | -------------------------------------------------------------------------- |
+| AWS             | [Certificaciones y entrenamientos AWS](https://aws.amazon.com/training/)   |
+| Azure           | [Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/) |
+| GCP             | [Entrenamiento en Google Cloud](https://cloud.google.com/certification)    |
 
 Sin importar que material elijas, tendrá algun tipo de ejemplos o aspectos prácticos. Hacelos. No te limites a mires/leas los materiales. Esto no es un show de Netflix que estas consumiendo, esto es tiempo de aprendizaje.
 
-When you are first getting started with cloud, you'll be doing everything via the UI, and that is fine for getting started, however once you're in a job, you'll be using a CLI or Infrastructure as Code (you'll learn more about this in Phase 4) to manage your environments. My advice here is, for every exercise you do via the UI, look up the CLI command and do it that way too. By now you should be familiar with using a command line. (Which is a big reason Linux phase and programming comes before this one).
+Cuando estas comenzando con la nube, estaras haciendot do mediante la UI, y eso está bien para comenzar, sin embargo una vez que estes en un trabajo, usaras una CLI o infraestructura como código (aprenderas más acerca de esto en la fase 4) para manejar tus ambientes. Mi consejo acá, es que por cada ejercicio que hagas con la UI, busques el comando en la CLI para hacer lo mismo. En este momento ya deberias estar familiarizado con la línea de comandos. Esta es una gran razón de porque la fase de Linux y de programación vienen antes que esta.
 
-This is also a great time to introduce yourself to the official documentation, [AWS](https://docs.aws.amazon.com/index.html), [Azure](https://docs.microsoft.com/azure/?product=featured) or [GCP](https://cloud.google.com/docs)
+este es un buen momento para introducirte en la documentación oficial, [AWS](https://docs.aws.amazon.com/index.html), [Azure](https://docs.microsoft.com/azure/?product=featured) o [GCP](https://cloud.google.com/docs)
 
-If there is something you don't understand about a service or command, your **go to** should be the documentation first. 
+Si hay algo que no entiendes acerca de un servicio o comando, tu **ir a** debe ser primero la documentación.
 
-## Projects
+## Proyectos
 
-We recommend your first cloud project to be the Cloud Resume Challenge. Once you're done with that, visit the [Projects page](../projects/README.md) for more!
+Te recomendamos que tu primer proyecto sea el desafío de currículum en la nube. Una vez que lo hayas hecho, visitá la [Página de proyectos ](../projects/README.md) para más!
 
-Platform | Title | Description |
----------|-------|-------------|
-AWS | [Cloud Resume Challenge](https://youtube.com/playlist?list=PLK_LRl1CH4L_ko1-Xm04ATPTduu6gaSM8)| Build your resume with AWS services. |
-Azure | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)| Build your resume with Azure services. |  
-GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Build your resume with GCP services. |
+| Plataforma | Título                                                                                                                | Descripción                                |
+| ---------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| AWS        | [Desafío de currículum en la nube](https://youtube.com/playlist?list=PLK_LRl1CH4L_ko1-Xm04ATPTduu6gaSM8)              | Construí tu currículum con servicio AWS.   |
+| Azure      | [Azure Desafío de currículum en la nube](https://youtu.be/ieYrBWmkfno)                                                | Construí tu currículum con servicio Azure. |
+| GCP        | [GCP Desafío de currículum en la nube](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Construí tu currículum con servicio GCP.   |
 
-## Things you should be familiar with at the end of this phase
+## Cosas que deberias estar familiarizaxo an final de esta fase
 
 - An understanding of best practices for cloud infrastructure (reliability, performance efficiency, security, cost optimization, etc.)
 - How to grant and revoke access and permissions to users and applications.
@@ -68,11 +67,10 @@ GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchalle
 
 ## Certifications you might want to look into
 
-
-We like cloud certifications, they give you a nice outline to follow. However we don't think you need to have every single certification out there. We recommend 1 or 2 certifications max, plus 2 hands-on projects that showcase all the skills in the guide. 
+We like cloud certifications, they give you a nice outline to follow. However we don't think you need to have every single certification out there. We recommend 1 or 2 certifications max, plus 2 hands-on projects that showcase all the skills in the guide.
 
 We recommend you get an associate level certification.
 
-  - [AWS](https://aws.amazon.com/certification/): Any one.
-  - [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Stick to the admin or developer, the other associate level ones are a little more specialized and you can take them later if you want.
-  - [GCP](https://cloud.google.com/certification/cloud-engineer): There is only one.
+- [AWS](https://aws.amazon.com/certification/): Any one.
+- [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Stick to the admin or developer, the other associate level ones are a little more specialized and you can take them later if you want.
+- [GCP](https://cloud.google.com/certification/cloud-engineer): There is only one.
