@@ -51,26 +51,26 @@ Te recomendamos que tu primer proyecto sea el desafío de currículum en la nube
 | Azure      | [Azure Desafío de currículum en la nube](https://youtu.be/ieYrBWmkfno)                                                | Construí tu currículum con servicio Azure. |
 | GCP        | [GCP Desafío de currículum en la nube](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Construí tu currículum con servicio GCP.   |
 
-## Cosas que deberias estar familiarizaxo an final de esta fase
+## Cosas que deberias estar familiarizado al final de esta fase
 
-- An understanding of best practices for cloud infrastructure (reliability, performance efficiency, security, cost optimization, etc.)
-- How to grant and revoke access and permissions to users and applications.
-- How to setup billing alerts/alarms, budgets, and how to use the billing tools.
-- How to use the object storage service and understanding of other storage options.
-- How to deploy scalable virtual machines and an understanding of other compute services the platform offers.
-- How to setup monitoring for virtual machines and an understanding of all monitoring services the platform offers.
-- How networking works for virtual machines (Vnets/VPCs, subnets, route tables, public and private IP addresses, VPNs, gateways, etc.)
-- How to create an API with the Functions as a Service offering your cloud platform has and an overall understanding of what the service is capable of.
-- Web application hosting services your cloud platform has to offer and hands on experience with one of the services.
-- Database services your cloud platform has to offer and hands on experience with one of them.
-- How to use the CLI to create and manage cloud resources.
+- Entender las mejores prácticas para la infraestructura en la nube (confiabilidad, desempeño eficiente , seguridad, optimización de costos, etc.)
+- Cómo concender y remover accesos y permisos a los usuarios y aplicaciones.
+- Cómo configurar alertas/alarmas de facturación, presupuesto y como usar las herramientras de facturación.
+- Cómo usar el servicio de almacenamiento de objetos y comprender las otras opciones de almacenamiento.
+- Cómo desplegar máquinas virtuales que se puede escalar y comprender otros servicios de computo que ofrece la plataforma.
+- Cómo configurar el monitoreo para una máquina virtual y comprender todos los otros servicios de monitoreo que la plataforma ofrece.
+- Cómo las redes funcionan para las máquinas virtuales (Vnets/VPCs, subredes, tablas de enrutameitno, direcciones IP públicas y privadas, VPNs, puertas de enlace, etc)
+- Cómo crear una API usando los servicio de Funciones como servicios ofrecidos por la plataforma de nube tiene y una compresion general de las caracteristicas del servicio y sus posibilidades.
+- Servicio de hospedaje de aplicaciones web que tu plataforma de nubeo ofrece y experiencia con esos servicio.
+- Servicios de base de datos que tu plataforma de nube ofrece y experiencia con uno de ellos.
+- Cómo usara la CLI para crear y administrar recursos en la nube.
 
-## Certifications you might want to look into
+## Certificaciones que te puede interesar mirar
 
-We like cloud certifications, they give you a nice outline to follow. However we don't think you need to have every single certification out there. We recommend 1 or 2 certifications max, plus 2 hands-on projects that showcase all the skills in the guide.
+Nos encanta las certificaciones en la nube, ellas nos dan una linda curricula para seguir. Sinembargo, no creemos que necesiten todas las que están por ahí. Te recomendamos 1 o 2 certificaciones máximo, más 2 proyectos prácticos que muetren todas las habilidades en la guía.
 
-We recommend you get an associate level certification.
+Te recomendamos que obtengas el nivel de certificación de asociado.
 
-- [AWS](https://aws.amazon.com/certification/): Any one.
-- [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Stick to the admin or developer, the other associate level ones are a little more specialized and you can take them later if you want.
-- [GCP](https://cloud.google.com/certification/cloud-engineer): There is only one.
+- [AWS](https://aws.amazon.com/certification/): Cualquiera.
+- [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Quedate con la de administración o desarrollador, los otros niveles de asociado son un poco más especificos y puedes tomarlos más tarde si quieres.
+- [GCP](https://cloud.google.com/certification/cloud-engineer): Solo hay una.
