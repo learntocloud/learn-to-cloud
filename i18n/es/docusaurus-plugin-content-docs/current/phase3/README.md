@@ -4,37 +4,37 @@ Author: [GPS](https://twitter.com/madebygps)
 
 ## ¿Cómo aplica esta fase a la Nube?
 
-Sometimes people are surprised to see that this phase isn't number 1, though it is the longest and for good reason. As a Cloud professional, you will live in a platform, or multiple. Everything you build, support, develop, etc, will be on a platform. 
+Muchas veces la gente se sorprende cuando ve que esta fase no es la número 1, aunque  es la más larga y por una buena razón. Como profesional de la Nube, viviras en una plataforma o muchas. Todo lo que construtas, des soporte, desarrolles, etc, estará en una plataforma.
 
-Here are some popular questions we get at this phase:
+Acá hay algunas preguntas populares para esta fase:
 
-- [Are paid cloud learning platforms worth it?](../resources/FAQ.md)
+- [¿Valen la pena plataformas pagas para aprender sobre Nube?](../resources/FAQ.md)
 
-- Which cloud to learn?:
+- ¿Qué nube debo aprender?:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/W3_8O3doYlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## How to break down this phase
+## Cómo dividir esta fase en partes
 
-I would suggest spending time on these two topics and this timeline:
+Te sugiero dedicar tiempo a estos dos temas y a este cronograma: 
 
-| Order | Topic                           |
+| Orden | Tema                           |
 |-------|---------------------------------|
-| 1 | Cloud Certification |
-| 2 | Cloud Resume Challenge |
+| 1 | Certificaciones en la Nube |
+| 2 | Desafío de currículum en la nube |
 
-Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it.
+Por supuesto, sientete libre de invertir tanto tiempo como vos quieras, la gente me ha preguntado por un cronograma desglosado, así que acá lo agregué.
 
-## Resources
+## Recursos
 
-| Cloud Platform | Title  
+| Plataforma Nube | Título  
 |:-------------- | ------ 
-AWS | [AWS training and Certification](https://aws.amazon.com/training/)|
+AWS | [Certificaciones y entrenamientos AWS](https://aws.amazon.com/training/)|
 Azure |[Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/) |
-GCP | [Google Cloud training](https://cloud.google.com/certification) | 
+GCP | [Entrenamiento en Google Cloud](https://cloud.google.com/certification) | 
 
-Regardless of which learning material you choose, it'll have some sort of demo/hands-on aspect to it. Do it. Don't just watch/read. This isn't a Netflix show you're consuming, this is learning time.
+Sin importar que material elijas, tendrá algun tipo de ejemplos o aspectos prácticos. Hacelos. No te limites a mires/leas los materiales. Esto no es un show de Netflix que estas consumiendo, esto es tiempo de aprendizaje.
 
 When you are first getting started with cloud, you'll be doing everything via the UI, and that is fine for getting started, however once you're in a job, you'll be using a CLI or Infrastructure as Code (you'll learn more about this in Phase 4) to manage your environments. My advice here is, for every exercise you do via the UI, look up the CLI command and do it that way too. By now you should be familiar with using a command line. (Which is a big reason Linux phase and programming comes before this one).
 
