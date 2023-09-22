@@ -33,14 +33,14 @@ Un estandard de la industria para personas que quieren ingresar en tecnología [
 
 Sin embargo algunas personas me han comentado que es útil para obtener un puesto en roles como
 
-- Service Desk Analyst
-- Help Desk Tech
-- Desktop Support Administrator
-- Technical Support Specialist
-- End User Computing Technician
-- Field Service Technician
-- Help Desk Technician 
-- System Support Specialist
+- Analista de mesa de servicio
+- Técnico de mesa de ayuda
+- Administrador de soporte de escritorio
+- Especialista de Soporte Técnico
+- Técnico en Informática para el Usuario Final
+- Técnico de Servicio
+- Técnico de ayuda informática
+- Especialista en soporte del sistema
 
 ## Empleo
 
