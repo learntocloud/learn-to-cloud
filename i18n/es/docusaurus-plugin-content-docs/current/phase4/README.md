@@ -42,29 +42,29 @@ Debes haber completado El [Desafío del currículum de Nube](https://cloudresume
 
 ## Projectos
 
-| Título                                                                                                | Recursos                                                                                                                                                                                              |
-| :---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [DevOps Journey Using Azure DevOps](https://github.com/thomast1906/DevOps-Journey-Using-Azure-DevOps) | This tutorial/lab setup is going to take you through a DevOps journey using Azure DevOps. From setting up your pipeline to deploying an application to your Azure Kubernetes cluster!                 |
-| [DevOps the Hardway - Azure](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure)                | This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to Azure. |
-| [DevOps the Hardway - AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS)              | This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to AWS.   |
+| Título                                                                                                  | Recursos                                                                                                                                                                                            |
+| :------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [El viaje DevOps usando Azure DevOps](https://github.com/thomast1906/DevOps-Journey-Using-Azure-DevOps) | En este tutorial/laboratorio vas a hacer un viaje por DevOps usando Azure DevOps. Dese configurar tu pipeline hasta desplegar una aplicación en tu Azure Kubernetes cluster!                        |
+| [DevOps the Hardway - Azure](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure)                  | Este tutorial contiene una solución completa y real para configurar un entorno que usa las tecnologías y prácticas DevOps para desplegar aplicaciones y servicios/infraestrcutura en la nube Azure. |
+| [DevOps the Hardway - AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS)                | Este tutorial contiene una solución completa y real para configurar un entorno que usa las tecnologías y prácticas DevOps para desplegar aplicaciones y servicios/infraestrcutura en la nube AWS.   |
 
-## Things you should be familiar with at the end of this phase
+## Cosas que deberias estar familiarizado al final de esta fase
 
-- Be able to explain each DevOps practice
+- Tener la capacidad de explicar cada práctica DevOps
 
-  - Why each one matters.
-  - What each one accomplishes.
-  - Most popular tools for each practice.
+  - Por que importa cada una.
+  - Qué logra cada una.
+  - Herramientas más populares para cada práctica.
 
-- Have personal projects in your GitHub. For at least 2 of your projects:
-  - Have a CI/CD pipeline.
-  - Have IaC files for each project.
-  - Have monitoring implemented for each one.
-    - Make sure you can understand the logging and metrics data.
-  - If something were to go wrong with your project, understand how to troubleshoot.
+- Tener proyectos personales en tu GitHub con al menos 2 proyectos:
+  - Tenér un pipeline CI/CD.
+  - Tener archivos para IaC para cada proyecto.
+  - Haber implementado el monitoreo para cada uno de ellos.
+    - Estar seguro de que puedes entender los datos de las métricas y los registros.
+  - Si algo sale mal, entender como solucionarlo.
 
-## Certifications you might want to look into
+## Certificaciones que te puede interesar mirar
 
-- [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
+- [Certificación AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/?ch=sec&sec=rmg&d=1)
 - [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
 - [GCP Professional Cloud DevOps Engineer](https://cloud.google.com/certification/cloud-devops-engineer)
