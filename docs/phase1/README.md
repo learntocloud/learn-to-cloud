@@ -29,16 +29,52 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 Bash for Beginners | [YouTube Video Series](https://aka.ms/bashforbeginners) | An introduction to Bash!| A 20 part YouTube series covering the fundamentals of Bash.
 Networking | [Fundamentals of computer networking](https://learn.microsoft.com/en-us/training/modules/network-fundamentals/) | You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths. | Read this after the previous video.
 
-## Projects
+## Capstone Project: CloudUploader CLI
 
-Here are some projects to reinforce what you've learned in this phase. I recommend blogging or creating video content on your projects.
+A bash-based CLI tool that allows users to quickly upload files to a specified cloud storage solution, providing a simple and seamless upload experience similar to popular storage services.
 
- Title    | Resource     |
- :---------- | :----------- 
- Create a script that uses the CLI of your cloud of choice to create an Ubuntu VM and setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_software_bundle). | [Ubuntu on public clouds](https://ubuntu.com/cloud/public-cloud) 
-Create a script that asks a user for a folder and spell checks every file in that folder. | |
-  Create a script that you provide the name of a video file in .mov format and converts to any other extension. Convert video files | Checkout [ffmpeg](https://ffmpeg.org/ffmpeg.html) | 
-  Test your Bash skills with OverTheWire!|[Bandit](https://overthewire.org/wargames/bandit/) | A game to teach you the fundamental Bash commands you'll need for cloud and even security | This will cover more than the fundamentals. Similar to Linux Basics for hackers, it has a security focus.
+Your tool should be able to upload a file:
+```sh
+clouduploader /path/to/file.txt
+```
+
+### Steps:
+
+1.  Setup & Authentication:
+
+    -   Choose a cloud provider (e.g., AWS S3, Google Cloud Storage, Azure Blob Storage).
+    -   Setup authentication. For instance, with Azure, you'd use `az login` to set up your credentials.
+2.  CLI Argument Parsing:
+
+    -   Use bash's built-in `$1`, `$2`, etc., to parse command-line arguments.
+    -   `$1` could be the filename or path.
+    -   Optionally, allow additional arguments like target cloud directory, storage class, or any other cloud-specific attributes.
+3.  File Check:
+
+    -   Before uploading, check if the file exists using `[ -f $FILENAME ]`.
+    -   Provide feedback if the file is not found 
+4.  File Upload:
+
+    - Use cloud provider CLI to upload the file.
+
+5.  Upload Feedback:
+
+    -   On successful upload, provide a success message.
+    -   If there's an error, capture the error message and display it to the user.
+6.  Advanced Features (Optional):
+
+    -   Allow multiple file uploads at once.
+    -   Add a progress bar or percentage upload completion using tools like `pv`.
+    -   Provide an option to generate and display a shareable link post-upload.
+    -   Enable file synchronization -- if the file already exists in the cloud, prompt the user to overwrite, skip, or rename.
+    -   Integrate encryption for added security before the upload.
+7.  Documentation:
+
+    -   Write a README.md file that explains how to set up, use, and troubleshoot the tool. Include a brief overview, prerequisites, usage examples, and common issues.
+8.  Distribution:
+
+    -   Package the script for easy distribution and installation. You can even provide a simple installation script or instructions to add it to the user's `$PATH`.
+
 
 ## Things you should be able familiar with at the end of this phase
 
