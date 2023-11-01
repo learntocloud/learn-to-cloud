@@ -48,6 +48,8 @@ I would suggest spending time on these two topics and this timeline:
  [Create your GitHub profile readme](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) | Create a README to tell other people about yourself on GitHub
  [Submit a Cloud Dictionary Definition](https://definethecloud.guide/) | Get featured on the LTC homepage and contribute to open source!
  [7 Days of Python](https://7daysofpython.com/) | Build a Python Powered Blog |
+ Build a serverless API that displays your resume in JSON format and deploy it to your cloud environment.| [Here is an Azure example](https://github.com/madebygps/serverless-resume-api?ref=madebygps.com) |
+  Get hands-on with a Cloud SDK | Deploy a 2 or 3-tier architecture to a cloud with the appropriate Python SDK
 
 ## Things you should be familiar with at the end of this phase
 

@@ -35,9 +35,9 @@ Here are some projects to reinforce what you've learned in this phase. I recomme
 
  Title    | Resource     |
  :---------- | :----------- 
- Deploy a Linux VM using a CLI to any Cloud Platform | [Ubuntu on public clouds](https://ubuntu.com/cloud/public-cloud) 
-Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | Configure the VM deployed previous to be a LAMP server 
-  Convert video files | Checkout [ffmpeg](https://ffmpeg.org/ffmpeg.html) use it to write a script that converts a .mov file to mp4 | Great way to practice scripting skills.
+ Create a script that uses the CLI of your cloud of choice to create an Ubuntu VM and setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_software_bundle). | [Ubuntu on public clouds](https://ubuntu.com/cloud/public-cloud) 
+Create a script that asks a user for a folder and spell checks every file in that folder. | |
+  Create a script that you provide the name of a video file in .mov format and converts to any other extension. Convert video files | Checkout [ffmpeg](https://ffmpeg.org/ffmpeg.html) | 
   Test your Bash skills with OverTheWire!|[Bandit](https://overthewire.org/wargames/bandit/) | A game to teach you the fundamental Bash commands you'll need for cloud and even security | This will cover more than the fundamentals. Similar to Linux Basics for hackers, it has a security focus.
 
 ## Things you should be able familiar with at the end of this phase
