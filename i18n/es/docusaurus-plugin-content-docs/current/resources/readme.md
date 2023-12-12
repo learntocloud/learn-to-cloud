@@ -1,0 +1,9 @@
+# Study resources
+
+| Título                                                                                                                                        | Recursos                                                                                                               |
+| :-------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| [Aprendiendo a aprender](https://barbaraoakley.com/books/learning-how-to-learn/)                                                              | Gran libro que me ayudó a mejorar mi forma de aprender                                                                 |
+| [Céntrate Deep work](https://www.calnewport.com/books/deep-work/)                                                                             | Otro gran libro, esta vez acerca de cómo concentrarse y enfocarse y como dedicar tiempo de trabajo profundo en el día. |
+| [Cómo estudio para las certificaciones](https://youtu.be/fpPCZqfOBJs)                                                                         | Un video sobre consejos que he aprendido en el camino                                                                  |
+| [La técnica Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique)                                                                       | Un excelente método para dividir tu tiempo de estudio.                                                                 |
+| [Cómo estudio para las certificaciones](https://acloudguru.com/blog/engineering/from-student-to-engineer-how-to-study-smarter-for-cloud-cert) | Algunos consejos para estudiar sobre certificaciones en la Nube                                                        |
