@@ -31,7 +31,7 @@ export default function Home(): JSX.Element {
     <Layout
       description="An open-source guide to the fundamentals of Cloud Computing">
       <HomepageHeader />
-      <p className={styles.gradientText}>Here's a random cloud definition:</p>
+      <p className={styles.gradientText}>Definition of the day:</p>
       <HomepageApi />
       <div className={styles.buttons}>
         <Link

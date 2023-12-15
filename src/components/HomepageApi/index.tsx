@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 export default function HomepageApi() {
   const [words, setWords] = useState();
   const getData = () => {
-    fetch('https://clouddictionary.azurewebsites.net/api/GetRandomDefinition?code=JNocQdHuBHefY6S5szTVICOUrfXyavHQ9yi3Wm2zxL01AzFurEop6w=='
+    fetch('https://clouddictionary.azurewebsites.net/api/GetDefinitionOfTheDay?code=be7QaipGAxWEMBYN-rSXHcTNrOrIcwDbL3sgWvh5EG9pAzFuTW0wNg=='
       , {
         headers: {
           'Content-Type': 'application/json',
