@@ -17,7 +17,7 @@ padding-left: 2em;
   line-height: 25px;
   box-shadow: 5px 5px 10px #ccc;
   float: left;
-  background: linear-gradient(150deg, #134D99, #75D2FE 100%);
+  background: linear-gradient(150deg, #124c99, #124c99 100%);
   margin-left: auto;
   margin-right: auto;
 }
@@ -27,13 +27,14 @@ padding-left: 2em;
 }
 
 .word { 
-font-size: 30px;
+font-size: 20px;
 text-align: left;
+font-weight: bold;
 color:#fff;
 }
 
 .definition {
-  font-size: 15px;
+  font-size: 14px;
   text-align: left;
 }
 
