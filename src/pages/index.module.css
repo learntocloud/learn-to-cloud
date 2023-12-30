@@ -72,8 +72,9 @@
 /* gradient text for modern browsers */
 @supports (background-clip: text) {
   .gradientText {
+    background-image: radial-gradient(circle farthest-corner at center center, #30CFD0 0%, #1B39CF 100%);
     background-clip: text;
-    color: #134D99;
+    color: transparent;
     font-family: 'Poppins', sans-serif;
     text-align: center;
     font-size: 1rem;
