@@ -41,7 +41,53 @@ You should've completed the [Cloud Resume Challenge](https://cloudresumechalleng
 | [Kubernetes Crash Course for Absolute Beginners](https://youtu.be/s_o8dwzRlu4) | Hands-On Kubernetes Tutorial | Learn Kubernetes in 1 Hour - Kubernetes Course for Beginners
 | [Complete Prometheus Monitoring Tutorial](https://youtube.com/playlist?list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4) | Complete Prometheus Monitoring Tutorial
 
+## Capstone Project: QR Code Generator
 
+An app that converts URL to QR Code. The app has three components: Front-end, API and Storage. All there 3 components should be hosted a containers utilizing the cloud provide of your choice.
+
+- **Front-End Container**: Hosts the website where users can input URLs.
+- **API Container**: Handles the QR code generation for given URLs.
+- **Storage Container**: Stores the generated QR codes.
+
+### Details:
+
+#### 1. Application:
+
+  Front-End:
+   - Develop a web application where users can submit URLs.
+   - Implement a user-friendly interface for input and display.
+
+  API:
+   - Create an API that receives URLs and generates QR codes.
+   - Ensure the API can store the QR codes in the storage container.
+   
+  Storage:
+   - Set up a storage solution (like Azure Blob Storage, AWS S3 or Google Cloud Storage) to hold the QR codes.
+   - Ensure security and accessibility for the stored data.
+
+#### 2. Programming:
+
+  Front-end:
+  - You can use any language of your choice or JavaScript frameworks like React, Vue or NextJS to build the front-end.
+
+  API/Backend:
+  - Build an API for your QR Code generation, frameworks like [Flask](https://flask.palletsprojects.com/en/3.0.x/) or [FastAPI](https://fastapi.tiangolo.com/) will help you to create your Rest API.
+  
+  Storage:
+  - Utilize cloud SDKs/modules (e.g., `boto3` for AWS, `google-cloud` for GCP, `azure` for Azure) to interact with cloud storage service from respective cloud providers.
+
+#### 3. Deployment:
+
+ - Setup Kubernetes service within your cloud provider (Azure AKS, Amazon EKS or GCP GKE).
+ - Containerize the front-end, API, and storage using Docker.
+ - Deploy these containers to the cluster.
+ - Ensure containers are interconnected for seamless data flow.
+
+#### 4. Implementation:
+
+ 1.  Web-app: Users are able to access the front-end, make sure the web-app is publicly accessible via a URL and has an input field to enter URLs.
+ 2.  API: Once the URL is entered by a user, the web-app makes the request to the API container to convert the URL into a QR Code.
+ 3. Storage: The generated QR Code is stored and also displayed on the web-app for user.
 
 ## Projects
 
