@@ -61,6 +61,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/felipeschneider88">
+            <img src="https://avatars.githubusercontent.com/u/32371298?v=4" width="100;" alt="felipeschneider88"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Abdennour0210">
             <img src="https://avatars.githubusercontent.com/u/46243233?v=4" width="100;" alt="Abdennour0210"/>
             <br />
@@ -80,15 +87,15 @@
             <br />
             <sub><b>Jose Cruz</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/BrianCollet">
             <img src="https://avatars.githubusercontent.com/u/50160870?v=4" width="100;" alt="BrianCollet"/>
             <br />
             <sub><b>Brian Collet</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/antoniolofiego">
             <img src="https://avatars.githubusercontent.com/u/33105749?v=4" width="100;" alt="antoniolofiego"/>
@@ -123,15 +130,15 @@
             <br />
             <sub><b>Ethan Troy</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/erh-git">
             <img src="https://avatars.githubusercontent.com/u/8422319?v=4" width="100;" alt="erh-git"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sarthakregmi">
             <img src="https://avatars.githubusercontent.com/u/66667396?v=4" width="100;" alt="sarthakregmi"/>
@@ -166,15 +173,15 @@
             <br />
             <sub><b>Jacob Higbee</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/loujaybee">
             <img src="https://avatars.githubusercontent.com/u/5528307?v=4" width="100;" alt="loujaybee"/>
             <br />
             <sub><b>Lou Bichard</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/lagain">
             <img src="https://avatars.githubusercontent.com/u/99564089?v=4" width="100;" alt="lagain"/>
@@ -209,15 +216,15 @@
             <br />
             <sub><b>Vaz</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/allan-oliveira">
             <img src="https://avatars.githubusercontent.com/u/10514795?v=4" width="100;" alt="allan-oliveira"/>
             <br />
             <sub><b>Allan Oliveira</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/mpenrow">
             <img src="https://avatars.githubusercontent.com/u/106648?v=4" width="100;" alt="mpenrow"/>
