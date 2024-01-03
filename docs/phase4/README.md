@@ -43,7 +43,7 @@ You should've completed the [Cloud Resume Challenge](https://cloudresumechalleng
 
 ## Capstone Project: QR Code Generator
 
-An app that converts URL to QR Code. The app has three components: Front-end, API and Storage. All there 3 components should be hosted a containers utilizing the cloud provide of your choice.
+An app that converts URL to QR Code. The app has three components: Front-end, API and Storage. All there 3 components should be hosted a containers utilizing the cloud provide of your choice. The sample application is provided, your goals is to apply DevOps practices like containerization, CICD, observability and monitoring for the application.
 
 - **Front-End Container**: Hosts the website where users can input URLs.
 - **API Container**: Handles the QR code generation for given URLs.
@@ -54,27 +54,32 @@ An app that converts URL to QR Code. The app has three components: Front-end, AP
 #### 1. Application:
 
   Front-End:
-   - Develop a web application where users can submit URLs.
-   - Implement a user-friendly interface for input and display.
+   - A web application where users can submit URLs.
 
   API:
-   - Create an API that receives URLs and generates QR codes.
-   - Ensure the API can store the QR codes in the storage container.
+   - An API that receives URLs and generates QR codes.
+   - The API can store the QR codes in cloud storage(S3 Bucket, Azure Blob Storage, GCP Cloud Buckets).
    
   Storage:
-   - Set up a storage solution (like Azure Blob Storage, AWS S3 or Google Cloud Storage) to hold the QR codes.
+   - A storage solution (like Azure Blob Storage, AWS S3 or Google Cloud Storage) to hold the QR codes.
    - Ensure security and accessibility for the stored data.
 
 #### 2. Programming:
 
-  Front-end:
-  - You can use any language of your choice or JavaScript frameworks like React, Vue or NextJS to build the front-end.
-
-  API/Backend:
-  - Build an API for your QR Code generation, frameworks like [Flask](https://flask.palletsprojects.com/en/3.0.x/) or [FastAPI](https://fastapi.tiangolo.com/) will help you to create your Rest API.
+  A sample application is available here [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code). It has the front-end built in NextJS, uses FastAPI Python framework for the API and AWS S3 for storage.
   
-  Storage:
-  - Utilize cloud SDKs/modules (e.g., `boto3` for AWS, `google-cloud` for GCP, `azure` for Azure) to interact with cloud storage service from respective cloud providers.
+  ##### Required:
+
+    Containerization: Containerize both the front-end and API by creating a `Dockerfile`.
+    CICD: Write CICD pipeline to automate deployment of the containers, once your source code is changed.
+    Kubernetes YAML Files: Create deployment and service YAML files for both the Next.js front-end and the FastAPI backend.
+
+  ##### Optional:
+
+    Optionally you can customize the already provided app.
+    - Front-end: You can use any language of your choice or JavaScript frameworks like React, Vue or NextJS to build the front-end.
+    - API/Backend: Build an API for your QR Code generation, frameworks like [Flask](https://flask.palletsprojects.com/en/3.0.x/) or [FastAPI](https://fastapi.tiangolo.com/) will help you to create your Rest API.
+    - Storage: Sample app uses AWS S3. You can utilize cloud SDKs/modules (e.g., `boto3` for AWS, `google-cloud` for GCP, `azure` for Azure) to interact with cloud storage service from respective cloud providers.
 
 #### 3. Deployment:
 
@@ -82,20 +87,16 @@ An app that converts URL to QR Code. The app has three components: Front-end, AP
  - Containerize the front-end, API, and storage using Docker.
  - Deploy these containers to the cluster.
  - Ensure containers are interconnected for seamless data flow.
+ - Setup CICD pipeline to deploy the containers after source is changed.
 
 #### 4. Implementation:
 
- 1.  Web-app: Users are able to access the front-end, make sure the web-app is publicly accessible via a URL and has an input field to enter URLs.
- 2.  API: Once the URL is entered by a user, the web-app makes the request to the API container to convert the URL into a QR Code.
+ 1. Web-app: Users are able to access the front-end, make sure the web-app is publicly accessible via a URL and has an input field to enter URLs.
+ 2. API: Once the URL is entered by a user, the web-app makes the request to the API container to convert the URL into a QR Code.
  3. Storage: The generated QR Code is stored and also displayed on the web-app for user.
+ 4. CICD: Setup CICD pipeline to deploy the containers and application after the source is changed. You can utilize tools like [GitHub Actions](https://github.com/features/actions) or [Azure DevOps](https://azure.microsoft.com/en-ca/products/devops).
+ 5. Monitoring: Setup monitoring for containers for key metrics and insights. You have [Azure Monitor for AKS](https://learn.microsoft.com/en-us/azure/aks/monitor-aks), [Amazon CloudWatch Container Insights for EKS](https://docs.aws.amazon.com/eks/latest/userguide/eks-observe.html), or take it a step further by setting up [Grafana](https://grafana.com/).
 
-## Projects
-
-| Title                                                        | Resource                                                                          |
-| :----------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [DevOps Journey Using Azure DevOps](https://github.com/thomast1906/DevOps-Journey-Using-Azure-DevOps) | This tutorial/lab setup is going to take you through a DevOps journey using Azure DevOps. From setting up your pipeline to deploying an application to your Azure Kubernetes cluster! |
-| [DevOps the Hardway - Azure](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure) | This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to Azure. |
-| [DevOps the Hardway - AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) | This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to AWS. |
 
 ## Things you should be familiar with at the end of this phase
 
