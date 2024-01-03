@@ -43,7 +43,7 @@ You should've completed the [Cloud Resume Challenge](https://cloudresumechalleng
 
 ## Capstone Project: QR Code Generator
 
-An app that converts URL to QR Code. The app has three components: Front-end, API and Storage. All there 3 components should be hosted a containers utilizing the cloud provide of your choice. The sample application is provided, your goals is to apply DevOps practices like containerization, CICD, observability and monitoring for the application.
+An app that converts a URL to a QR Code. The app has three components: Front-end, API and Storage. All 3 components should be hosted in containers utilizing the cloud provider of your choice. The sample application code is provided, your goals is to apply DevOps practices like containerization, CI/CD, observability and monitoring for the application.
 
 - **Front-End Container**: Hosts the website where users can input URLs.
 - **API Container**: Handles the QR code generation for given URLs.
@@ -71,7 +71,7 @@ An app that converts URL to QR Code. The app has three components: Front-end, AP
   ##### Required:
 
     Containerization: Containerize both the front-end and API by creating a `Dockerfile`.
-    CICD: Write CICD pipeline to automate deployment of the containers, once your source code is changed.
+    CI/CD: Write CI/CD pipeline to automate deployment of the containers, once your source code is changed.
     Kubernetes YAML Files: Create deployment and service YAML files for both the Next.js front-end and the FastAPI backend.
 
   ##### Optional:
@@ -87,14 +87,14 @@ An app that converts URL to QR Code. The app has three components: Front-end, AP
  - Containerize the front-end, API, and storage using Docker.
  - Deploy these containers to the cluster.
  - Ensure containers are interconnected for seamless data flow.
- - Setup CICD pipeline to deploy the containers after source is changed.
+ - Setup CI/CD pipeline to deploy the containers after source is changed.
 
 #### 4. Implementation:
 
  1. Web-app: Users are able to access the front-end, make sure the web-app is publicly accessible via a URL and has an input field to enter URLs.
  2. API: Once the URL is entered by a user, the web-app makes the request to the API container to convert the URL into a QR Code.
  3. Storage: The generated QR Code is stored and also displayed on the web-app for user.
- 4. CICD: Setup CICD pipeline to deploy the containers and application after the source is changed. You can utilize tools like [GitHub Actions](https://github.com/features/actions) or [Azure DevOps](https://azure.microsoft.com/en-ca/products/devops).
+ 4. CI/CD: Setup CI/CD pipeline to deploy the containers and application after the source is changed. You can utilize tools like [GitHub Actions](https://github.com/features/actions) or [Azure DevOps](https://azure.microsoft.com/en-ca/products/devops).
  5. Monitoring: Setup monitoring for containers for key metrics and insights. You have [Azure Monitor for AKS](https://learn.microsoft.com/en-us/azure/aks/monitor-aks), [Amazon CloudWatch Container Insights for EKS](https://docs.aws.amazon.com/eks/latest/userguide/eks-observe.html), or take it a step further by setting up [Grafana](https://grafana.com/).
 
 
