@@ -1,8 +1,5 @@
 name: Add contributors
-on:
-  workflow_dispatch:
-  schedule:
-    - cron:  '0 12 * * 0'
+on: [workflow_dispatch]
 
 jobs:
     contributors-markdown-job:
