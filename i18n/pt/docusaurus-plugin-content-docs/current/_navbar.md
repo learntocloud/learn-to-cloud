@@ -5,7 +5,7 @@
 * Redes Sociais
 
   * [Twitter](https://twitter.com/learntocloud)
-  * [Discord](http://discord.learntocloud.guide)
+  * [Discord](https://discord.gg/dr2kvtA726)
   * [Instagram](https://www.instagram.com/learntocloudguide/)
 
 * [Colaboradores](../Contributors.md)
