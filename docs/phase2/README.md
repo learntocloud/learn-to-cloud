@@ -4,7 +4,7 @@ Author: [GPS](https://twitter.com/madebygps)
 
 ## How does this phase apply to Cloud?
 
-You'll be using code to automate tasks, deploy infrastructure, and work with services. You don't need to know how to build UIs but you need to know how to work with APIs. Plus, knowing how to program will make you more competitive in the hiring market. In the previous step you were introduced to programming basics and wrote your first Bash script. You can now leverage this knowledge and apply it to your choice of programming language.
+You'll be using code to automate tasks, deploy infrastructure, and work with services. You don't need to know how to build UIs but you need to know how to work with APIs. Knowing how to program will make you more competitive in the hiring market. In the previous step you were introduced to programming basics and wrote your first Bash script. You can now leverage this knowledge and apply it to your choice of programming language.
 
 <!--truncate -->
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/WMUAc7bvB7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
