@@ -11,18 +11,11 @@ sidebar_position: 1
 
 ## What is Learn to Cloud?
 
-Learn to Cloud is a GUIDE (not a book or course) that originated from [this tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en). The goal is to provide an outline of skills you need to learn to get into Cloud Computing. At the end of it you should have the technical knowledge for roles like:
-
-- System administrator
-- Cloud Support Engineer
-- Cloud Administrator
+Learn to Cloud is a GUIDE (not a book or course) that originated from [this tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en). The goal is to provide an outline of skills you need to learn Cloud Computing.
 
 ## Is Cloud Still Worth Learning with the rise of AI?
 
-Yes. Cloud is 100% still worth learning. As AI advances, cloud infrastructure demand rises. Learn cloud but embrace tools like [GitHub Copilot](https://youtube.com/playlist?list=PLlrxD0HtieHgr23PS05FIncnih4dH9Na5) and [ChatGPT](https://openai.com/blog/chatgpt) ASAP to make you more productive and competitive.
-
-Incorporate ChatGPT into your learning process as if it were a search engine. This will develop your prompt engineering skillset. If you don't know what prompt engineering is, ask ChatGPT.
-
+As AI advances, cloud infrastructure demand rises. Learn cloud and embrace tools like [GitHub Copilot](https://youtube.com/playlist?list=PLlrxD0HtieHgr23PS05FIncnih4dH9Na5) and [ChatGPT](https://openai.com/blog/chatgpt) ASAP to make you more productive and competitive.
 
 ## We Recommend You Watch These First
 - [How I became a Cloud Engineer with no college degree](https://youtu.be/kluKaLXJ2lg)
@@ -31,4 +24,4 @@ Incorporate ChatGPT into your learning process as if it were a search engine. Th
 
 ## How Long Will It Take To Complete?
 
-The guide has no set timeline, it's at your pace. If you want a study plan, [here is a 6 month study plan you can use that follows this guide](http://bootcamp.madebygps.com/)
+The guide has no set timeline, it's at your pace.
