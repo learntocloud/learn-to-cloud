@@ -90,16 +90,6 @@ const config = {
               position: 'right',
             },
             {
-              href: 'https://youtube.com/@learntocloud',
-              label: 'Podcast',
-              position: 'right',
-            },
-            {
-              href: 'https://github.com/orgs/learntocloud/projects/2/views/1',
-              label: 'LTC Roadmap',
-              position: 'left',
-            },
-            {
               href: 'https://github.com/learntocloud/learn-to-cloud',
               position: 'right',
               className: "header-github-link",
@@ -109,7 +99,72 @@ const config = {
         },
         footer: {
           style: 'dark',
-
+          links: [
+            {
+              title: 'Socials',
+              items: [
+                {
+                  label: 'Discord',
+                  href: 'https://discord.gg/dr2kvtA726',
+                },
+                {
+                  label: 'Instagram',
+                  href: 'https://www.instagram.com/learntocloudguide/',
+                },
+                {
+                  label: 'Twitter',
+                  href: 'https://twitter.com/learntocloud',
+                },
+                {
+                  label: 'Podcast',
+                  href: 'https://youtube.com/@learntocloud'
+                },
+              ],
+            },
+            {
+              title: 'Guide Help',
+              items: [
+                {
+                  label: 'Report Issue',
+                  href: 'https://github.com/learntocloud/learn-to-cloud/issues',
+                },
+                {
+                  label:'GitHub Repo',
+                  href:'https://github.com/learntocloud/learn-to-cloud/',
+                },
+              ],
+            },
+            {
+              title: 'Community',
+              items: [
+                {
+                  label: 'Contributors',
+                  href: '/Contributors',
+                },
+                {
+                  label:'Code of Conduct',
+                  href:'https://github.com/learntocloud/learn-to-cloud/blob/main/CODE_OF_CONDUCT.md',
+                },
+                {
+                    label: 'License',
+                    href: 'https://github.com/learntocloud/learn-to-cloud/tree/main?tab=MIT-1-ov-file',
+                },
+              ],
+            },
+            {
+              title: 'Want to contribute',
+              items: [
+                {
+                    label: 'LTC Roadmap',
+                    href: 'https://github.com/orgs/learntocloud/projects/2/views/1',
+                },
+                {
+                  label: 'DTC Roadmap',
+                  href: 'https://github.com/orgs/learntocloud/projects/3'
+                }
+              ],
+            },
+          ],
           copyright: `Copyright © ${new Date().getFullYear()} Learn To Cloud`,
         },
         prism: {
