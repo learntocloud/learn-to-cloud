@@ -104,12 +104,12 @@ const config = {
               title: 'Socials',
               items: [
                 {
-                  label: 'Instagram',
-                  href: 'https://www.instagram.com/learntocloudguide/',
-                },
-                {
                   label: 'Discord',
                   href: 'https://discord.gg/dr2kvtA726',
+                },
+                {
+                  label: 'Instagram',
+                  href: 'https://www.instagram.com/learntocloudguide/',
                 },
                 {
                   label: 'Twitter',
@@ -122,7 +122,20 @@ const config = {
               ],
             },
             {
-              title: 'Community & Contributors',
+              title: 'Guide Help',
+              items: [
+                {
+                  label: 'Report Issue',
+                  href: 'https://github.com/learntocloud/learn-to-cloud/issues',
+                },
+                {
+                  label:'GitHub Repo',
+                  href:'https://github.com/learntocloud/learn-to-cloud/',
+                },
+              ],
+            },
+            {
+              title: 'Community',
               items: [
                 {
                   label: 'Contributors',
@@ -139,20 +152,16 @@ const config = {
               ],
             },
             {
-              title: 'Guide Help',
+              title: 'Want to contribute',
               items: [
-                {
-                  label: 'Report Issue',
-                  href: 'https://github.com/learntocloud/learn-to-cloud/issues',
-                },
-                {
-                  label:'GitHub Repo',
-                  href:'https://github.com/learntocloud/learn-to-cloud/',
-                },
                 {
                     label: 'LTC Roadmap',
                     href: 'https://github.com/orgs/learntocloud/projects/2/views/1',
                 },
+                {
+                  label: 'DTC Roadmap',
+                  href: 'https://github.com/orgs/learntocloud/projects/3'
+                }
               ],
             },
           ],
