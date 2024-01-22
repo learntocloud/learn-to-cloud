@@ -1,4 +1,4 @@
-# Phase 1: Linux Bash and Networking fundamentals
+# Phase 1: Linux Bash and Networking
 
 Author: [GPS](https://twitter.com/madebygps)
 
@@ -19,9 +19,8 @@ I would suggest spending time on these three topics and this timeline:
 
 | Order | Topic
 |-------|---------------------------------
-| 1 | Introduction to Bash Commands |
-| 2 | Introduction to Bash Scripting  |         |
-| 3 | Introduction to Networking|          |
+| 1 | Introduction to Bash |
+| 2 | Introduction to Networking|          |
 
 Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it.
 
@@ -31,7 +30,7 @@ Of course feel free to spend as much time as you'd like, people have asked for a
 | :------------- | ---------- | ----------- | :----------- |
 |  Bash| [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | This book made learning Linux FUN! It's pretty easy to follow and take a chapter day by day.   | You don't need to read the whole thing, the first 9 chapters cover most of what you need to know.
 Bash for Beginners | [YouTube Video Series](https://aka.ms/bashforbeginners) | An introduction to Bash!| A 20 part YouTube series covering the fundamentals of Bash.
-Networking | [Fundamentals of computer networking](https://learn.microsoft.com/en-us/training/modules/network-fundamentals/) | You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths. | Read this after the previous video.
+Networking | [Computer Networking Course - Network Engineering](https://youtu.be/qiQR5rTSshw?si=hFf17ew05aSmq6q4) | You'll learn the fundamental principles of computer networking to prepare you for cloud. | 
 
 ## Capstone Project: CloudUploader CLI
 
