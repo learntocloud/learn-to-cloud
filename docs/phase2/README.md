@@ -4,10 +4,10 @@ Author: [GPS](https://twitter.com/madebygps)
 
 ## How does this phase apply to Cloud?
 
-You'll be using code to automate tasks, deploy infrastructure, and work with services. You don't need to know how to build UIs but you need to know how to work with APIs. Knowing how to program will make you more competitive in the hiring market. In the previous step you were introduced to programming basics and wrote your first Bash script. You can now leverage this knowledge and apply it to your choice of programming language.
+You'll be using code to automate tasks, deploy infrastructure, and work with services. You don't need to know how to build UIs but you need to know how to work with APIs and other cloud services like storage, databases, etc. Knowing how to program will make you more competitive in the hiring market. In the previous step you were introduced to programming basics and wrote your first Bash script. You can now leverage this knowledge and apply it to your choice of programming language.
 
 <!--truncate -->
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/WMUAc7bvB7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/AZhINW89kbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## What You Need To Learn
 
@@ -33,6 +33,7 @@ I would suggest spending time on these two topics and this timeline:
 | :---- | :--------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | 1     | [Python Crash Course](https://ehmatthes.github.io/pcc/)                      | A great Python book, also there is an Appendix in there on Git which is great!
 1 | [Python for Beginners](https://youtu.be/jFCNu1-Xdsw) | A 44 part video series introducing you to Python |
+1 | [7 Days of Python](https://7daysofpython.com/) | A 7 day guide to Python
 | 2     | [A Beginner's Guide to Prompt Engineering with GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)    | An article by [Rizèl Scarlett](https://twitter.com/blackgirlbytes) on how to get the most out of GitHub Copilot.|
 
 
