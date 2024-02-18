@@ -139,7 +139,7 @@ const config = {
               items: [
                 {
                   label: 'Contributors',
-                  href: '/Contributors',
+                  href: '/contributors',
                 },
                 {
                   label:'Code of Conduct',
