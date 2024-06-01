@@ -32,7 +32,7 @@ I would suggest spending time on these two topics and this timeline:
 | Order | Title                                                                        | Notes                                                                                       |
 | :---- | :--------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | 1     | [Python Crash Course](https://ehmatthes.github.io/pcc/)                      | A great Python book, also there is an Appendix in there on Git which is great!
-1 | [Python for Beginners](https://youtu.be/jFCNu1-Xdsw) | A 44 part video series introducing you to Python |
+1 | [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) | A 44 part video series introducing you to Python |
 1 | [7 Days of Python](https://7daysofpython.com/) | A 7 day guide to Python
 | 2     | [A Beginner's Guide to Prompt Engineering with GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)    | An article by [Rizèl Scarlett](https://twitter.com/blackgirlbytes) on how to get the most out of GitHub Copilot.|
 
