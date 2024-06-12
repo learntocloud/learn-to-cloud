@@ -4,18 +4,17 @@ Author: [GPS](https://twitter.com/madebygps)
 
 ## How does this phase apply to Cloud?
 
-DevOps is all about getting your solutions to run efficiently from development to updates.
-It's not specific to Cloud, as you can implement DevOps practices on-prem and in hybrid environments as well. DevOps practices are often handled by many roles and some companies have dedicated DevOps Engineers. If your aim is to become a DevOps engineer, this phase will get you started but you'll have to go deeper on your own.
+DevOps is all about ensuring your solutions run efficiently from development to updates. While not specific to the cloud, DevOps practices can be implemented on-premises and in hybrid environments as well. DevOps roles may vary, with some companies having dedicated DevOps Engineers. This phase will introduce you to DevOps fundamentals, but if you aim to become a DevOps engineer, you'll need to dive deeper on your own.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/YMXwThdwTiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-DevOps is a culture, and not a specific tool or service. Read up on what DevOps is. Each cloud platform has a suite of DevOps tools, I've linked a few articles here:
+DevOps is a culture, not a specific tool or service. Read up on what DevOps is through these articles:
 
 - [Microsoft - What is DevOps](https://azure.microsoft.com/overview/what-is-devops/#overview)
 - [AWS - What is DevOps](https://aws.amazon.com/devops/what-is-devops/)
 - [IBM - A DevOps complete guide](https://www.ibm.com/cloud/learn/devops-a-complete-guide)
 
-I also think it's worth reading [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) it's a pretty fun read because it's a fictional story but it explains the importance of DevOps. But if you'd prefer something more like a textbook with similar ideas, check out [The DevOps Handbook](https://itrevolution.com/the-devops-handbook/).
+For a fun and insightful read, consider [The Phoenix Project](https://itrevolution.com/the-phoenix-project/) which explains the importance of DevOps through a fictional story. If you prefer a textbook approach, [The DevOps Handbook](https://itrevolution.com/the-devops-handbook/). is a great alternative.
 
 You should've completed the [Cloud Resume Challenge](https://cloudresumechallenge.dev/) in the previous phase. That project introduces you to DevOps concepts, if you haven't, go back and do so.
 
@@ -43,74 +42,38 @@ You should've completed the [Cloud Resume Challenge](https://cloudresumechalleng
 
 ## Capstone Project: QR Code Generator
 
-An app that converts a URL to a QR Code. The app has three components: Front-end, API and Storage. All 3 components should be hosted in containers utilizing the cloud provider of your choice. The sample application code is provided, your goals is to apply DevOps practices like containerization, CI/CD, observability and monitoring for the application.
+A sample application is available at [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code). It includes the front-end built in NextJS, uses the FastAPI Python framework for the API, and AWS S3 for storage. Your goal is to apply DevOps practices like containerization, CI/CD, observability, and monitoring.
 
-- **Front-End Container**: Hosts the website where users can input URLs.
-- **API Container**: Handles the QR code generation for given URLs.
-- **Storage Container**: Stores the generated QR codes.
+### Project Components
 
-### Details:
+1.  **Front-End Container**: Hosts the website where users can input URLs.
+2.  **API Container**: Handles QR code generation for given URLs.
+3.  **Storage Container**: Stores the generated QR codes.
 
-#### 1. Application:
+### Steps
 
-  Front-End:
-   - A web application where users can submit URLs.
-
-  API:
-   - An API that receives URLs and generates QR codes.
-   - The API can store the QR codes in cloud storage(S3 Bucket, Azure Blob Storage, GCP Cloud Buckets).
-   
-  Storage:
-   - A storage solution (like Azure Blob Storage, AWS S3 or Google Cloud Storage) to hold the QR codes.
-   - Ensure security and accessibility for the stored data.
-
-#### 2. Programming:
-
-  A sample application is available here [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code). It has the front-end built in NextJS, uses FastAPI Python framework for the API and AWS S3 for storage.
-  
-  ##### Required:
-
-    Containerization: Containerize both the front-end and API by creating a `Dockerfile`.
-    CI/CD: Write CI/CD pipeline to automate deployment of the containers, once your source code is changed.
-    Kubernetes YAML Files: Create deployment and service YAML files for both the Next.js front-end and the FastAPI backend.
-
-  ##### Optional:
-
-    Optionally you can customize the already provided app.
-    - Front-end: You can use any language of your choice or JavaScript frameworks like React, Vue or NextJS to build the front-end.
-    - API/Backend: Build an API for your QR Code generation, frameworks like [Flask](https://flask.palletsprojects.com/en/3.0.x/) or [FastAPI](https://fastapi.tiangolo.com/) will help you to create your Rest API.
-    - Storage: Sample app uses AWS S3. You can utilize cloud SDKs/modules (e.g., `boto3` for AWS, `google-cloud` for GCP, `azure` for Azure) to interact with cloud storage service from respective cloud providers.
-
-#### 3. Deployment:
-
- - Setup Kubernetes service within your cloud provider (Azure AKS, Amazon EKS or GCP GKE).
- - Containerize the front-end, API, and storage using Docker.
- - Deploy these containers to the cluster.
- - Ensure containers are interconnected for seamless data flow.
- - Setup CI/CD pipeline to deploy the containers after source is changed.
-
-#### 4. Implementation:
-
- 1. Web-app: Users are able to access the front-end, make sure the web-app is publicly accessible via a URL and has an input field to enter URLs.
- 2. API: Once the URL is entered by a user, the web-app makes the request to the API container to convert the URL into a QR Code.
- 3. Storage: The generated QR Code is stored and also displayed on the web-app for user.
- 4. CI/CD: Setup CI/CD pipeline to deploy the containers and application after the source is changed. You can utilize tools like [GitHub Actions](https://github.com/features/actions) or [Azure DevOps](https://azure.microsoft.com/en-ca/products/devops).
- 5. Monitoring: Setup monitoring for containers for key metrics and insights. You have [Azure Monitor for AKS](https://learn.microsoft.com/en-us/azure/aks/monitor-aks), [Amazon CloudWatch Container Insights for EKS](https://docs.aws.amazon.com/eks/latest/userguide/eks-observe.html), or take it a step further by setting up [Grafana](https://grafana.com/).
+1.  **Containerization**: Containerize both the front-end and API by creating Dockerfiles.
+2.  **CI/CD**: Write a CI/CD pipeline to automate the deployment of the containers once your source code is changed.
+3.  **Kubernetes YAML Files**: Create deployment and service YAML files for both the Next.js front-end and the FastAPI backend.
+4.  **Kubernetes Setup**: Set up a Kubernetes service within your cloud provider (Azure AKS, Amazon EKS, or GCP GKE).
+5.  **Container Deployment**: Deploy the front-end, API, and storage containers to the Kubernetes cluster.
+6.  **Interconnectivity**: Ensure the containers are interconnected for seamless data flow.
+7.  **CI/CD Implementation**: Set up a CI/CD pipeline to deploy the containers and application after the source code changes. Use tools like GitHub Actions or Azure DevOps.
+8.  **Monitoring**: Set up monitoring for containers to track key metrics and insights. Use Azure Monitor for AKS, Amazon CloudWatch Container Insights for EKS, or Grafana for advanced monitoring.
 
 
 ## Things you should be familiar with at the end of this phase
 
-- Be able to explain each DevOps practice
-  - Why each one matters.
-  - What each one accomplishes.
-  - Most popular tools for each practice.
-
-- Have personal projects in your GitHub. For at least 2 of your projects:
-  - Have a CI/CD pipeline.
-  - Have IaC files for each project.
-  - Have monitoring implemented for each one.
-    - Make sure you can understand the logging and metrics data.
-  - If something were to go wrong with your project, understand how to troubleshoot.
+-   Explain each DevOps practice:
+    -   Why each one matters.
+    -   What each one accomplishes.
+    -   Most popular tools for each practice.
+    
+  -   For all your GitHub Projects:
+      -   Have a CI/CD pipeline.
+      -   Have IaC files.
+      -   Have monitoring implemented.
+      -   Understand logging and metrics data.
 
 ## Certifications you might want to look into
 

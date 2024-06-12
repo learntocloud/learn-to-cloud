@@ -76,6 +76,7 @@ Your movie data model could look like:
 
 - **GetMovies** could look like this:
 `yourapi.com/getmovies`
+
     ```json
     [
         {
@@ -101,6 +102,7 @@ Your movie data model could look like:
 
 - **GetMoviesByYear** could look like: 
 `yourapi.com/getmoviesbyyear/2010`
+
     ```json
     [
         {
@@ -114,6 +116,7 @@ Your movie data model could look like:
 
 - **GetMovieSummary** could look like: 
 `yourapi.com/getmoviesummary/inception`
+
     ```json
     {
             "title": "Inception",
