@@ -4,7 +4,7 @@ Author: [GPS](https://twitter.com/madebygps)
 
 ## How does this phase apply to Cloud?
 
-Sometimes people are surprised to see that this phase isn't number 1, though it is the longest and for good reason. As a Cloud professional, you will live in a platform, or multiple. Everything you build, support, develop, etc, will be on a platform. 
+As a cloud professional, you will spend most of your time working within a cloud platform, or multiple platforms. Everything you build, support, and develop will be on a platform, making this phase essential for your cloud career.
 
 Here are some popular questions we get at this phase:
 
@@ -17,14 +17,11 @@ Here are some popular questions we get at this phase:
 
 ## How to break down this phase
 
-I would suggest spending time on these two topics and this timeline:
-
 | Order | Topic                           |
 |-------|---------------------------------|
 | 1 | Cloud Certification |
 | 2 | Cloud Resume Challenge |
 
-Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it.
 
 ## Resources
 
@@ -34,9 +31,11 @@ AWS | [AWS training and Certification](https://aws.amazon.com/training/)|
 Azure |[Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/) |
 GCP | [Google Cloud training](https://cloud.google.com/certification) | 
 
-Regardless of which learning material you choose, it'll have some sort of demo/hands-on aspect to it. Do it. Don't just watch/read. This isn't a Netflix show you're consuming, this is learning time.
+Regardless of which learning material you choose, it will have some sort of demo/hands-on aspect to it. Do it. Don't just watch or read. This isn't a Netflix show—this is learning time.
 
-When you are first getting started with cloud, you'll be doing everything via the UI, and that is fine for getting started, however once you're in a job, you'll be using a CLI or Infrastructure as Code (you'll learn more about this in Phase 4) to manage your environments. My advice here is, for every exercise you do via the UI, look up the CLI command and do it that way too. By now you should be familiar with using a command line. (Which is a big reason Linux phase and programming comes before this one).
+### Learning advice
+
+When starting with the cloud, you'll do everything via the UI, which is fine initially. However, once you're in a job, you'll use a CLI or Infrastructure as Code (covered in Phase 4) to manage your environments. For every exercise you do via the UI, look up the CLI command and do it that way too. By now, you should be familiar with using a command line, which is why the Linux and programming phases come before this one.
 
 This is also a great time to introduce yourself to the official documentation, [AWS](https://docs.aws.amazon.com/index.html), [Azure](https://docs.microsoft.com/azure/?product=featured) or [GCP](https://cloud.google.com/docs)
 
@@ -69,7 +68,7 @@ GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchalle
 ## Certifications you might want to look into
 
 
-We like cloud certifications, they give you a nice outline to follow. However we don't think you need to have every single certification out there. We recommend 1 or 2 certifications max, plus 2 hands-on projects that showcase all the skills in the guide. 
+We recommend cloud certifications as they provide a structured learning path. However, you don't need every certification available. Aim for 1 or 2 certifications plus 2 hands-on projects that showcase all the skills in this guide.
 
 We recommend you get an associate level certification.
 
