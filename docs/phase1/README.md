@@ -4,25 +4,23 @@ Author: [GPS](https://twitter.com/madebygps)
 
 ## How does this phase apply to Cloud?
 
-The cloud is a bunch of Linux Servers networked together. Learning the fundamentals of how networking works, and how to interact with these servers via commands, and automating those commands via a script, is what this phase is about. If you're already a Linux admin or network engineer, you can apply your skills to the cloud.
+The cloud is essentially a collection of networked Linux servers. Understanding networking fundamentals and how to interact with these servers via commands and automate those commands with scripts is crucial. If you're already a Linux admin or network engineer, you can apply your skills to the cloud directly.
 
 <!--truncate -->
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/mxVq2DlPDWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Along side learning to code (Bash is code), you'll need leverage [Git](https://git-scm.com/). It's the most popular version control tool and one of the DevOps practices. It is used to manage and share your code. GitHub is one of the most popular repository hosting service. 
+### Prerequisites
 
-Take some time now to create a [GitHub](https://github.com/) account if you don't already have one. It'll be your code portfolio and this is how you showcase projects on your resume.
+- **[Create a GitHub account](https://docs.github.com/get-started/start-your-journey/creating-an-account-on-github):** Along side learning to script and later on to to code (though scripting is code), you'll need leverage [Git](https://git-scm.com/), the most popular version control tool and a core DevOps practice. Git is used to manage and share your code, and GitHub is a leading repository hosting service.
+
 
 ## How to break down this phase
-
-I would suggest spending time on these three topics and this timeline:
 
 | Order | Topic
 |-------|---------------------------------
 | 1 | Introduction to Bash |
 | 2 | Introduction to Networking|          |
 
-Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it.
 
 ## Resources
 
@@ -34,7 +32,7 @@ Networking | [Computer Networking Course - Network Engineering](https://youtu.be
 
 ## Capstone Project: CloudUploader CLI
 
-A bash-based CLI tool that allows users to quickly upload files to a specified cloud storage solution, providing a simple and seamless upload experience similar to popular storage services.
+Create a bash-based CLI tool that allows users to quickly upload files to a specified cloud storage solution, providing a seamless upload experience similar to popular storage services.
 
 Your tool should be able to upload a file:
 ```sh
@@ -43,40 +41,59 @@ clouduploader /path/to/file.txt
 
 ### Steps:
 
-1. Create a GitHub repo for your project, make sure to leverage branches and commit your code often.
+1. **Create a GitHub Repo:**
 
-2..  Setup & Authentication:
+    - Set up a repository for your project.
+    - Use branches and commit your code often.
+    - Utilize git commands (git init, git add, git commit, git branch, git push, etc.).
 
-    -   Choose a cloud provider (e.g., AWS S3, Google Cloud Storage, Azure Blob Storage).
-    -   Setup authentication. For instance, with Azure, you'd use `az login` to set up your credentials.
-3.  CLI Argument Parsing:
+2.  **Setup & Authentication:**
+
+    - Choose a cloud provider (e.g., AWS S3, Google Cloud Storage, Azure Blob Storage).
+    - Set up authentication (e.g., az login for Azure).
+    - Use secure methods for handling credentials.
+        - Avoid hardcoding credentials directly into the script.
+        - Store credentials in environment variables or configuration files with restricted access.
+        - Utilize cloud provider's secure authentication methods (e.g., IAM roles for AWS, service principals for Azure).
+
+3.  **CLI Argument Parsing:**
 
     -   Use bash's built-in `$1`, `$2`, etc., to parse command-line arguments.
     -   `$1` could be the filename or path.
     -   Optionally, allow additional arguments like target cloud directory, storage class, or any other cloud-specific attributes.
-4.  File Check:
+    - Validate and handle different types of input.\
+        - Check if the provided file path is valid and accessible.
+        - Ensure that additional arguments meet expected formats and values.
+        - Provide meaningful error messages for incorrect or missing inputs
+    
+4.  **File Check:**
 
     -   Before uploading, check if the file exists using `[ -f $FILENAME ]`.
-    -   Provide feedback if the file is not found 
-5.  File Upload:
+    -   Provide feedback if the file is not found.
 
-    - Use cloud provider CLI to upload the file.
+5.  **File Upload:**
 
-6.  Upload Feedback:
+    - Use the cloud provider's CLI to upload the file.
+    - Implement error handling to manage potential issues during upload.
+
+6.  **Upload Feedback:**
 
     -   On successful upload, provide a success message.
     -   If there's an error, capture the error message and display it to the user.
-7.  Advanced Features (Optional):
 
-    -   Allow multiple file uploads at once.
+7.  **Advanced Features (Optional but recommended):**
+
     -   Add a progress bar or percentage upload completion using tools like `pv`.
     -   Provide an option to generate and display a shareable link post-upload.
     -   Enable file synchronization -- if the file already exists in the cloud, prompt the user to overwrite, skip, or rename.
     -   Integrate encryption for added security before the upload.
-8.  Documentation:
 
-    -   Write a README.md file that explains how to set up, use, and troubleshoot the tool. Include a brief overview, prerequisites, usage examples, and common issues.
-9.  Distribution:
+8.  **Documentation:**
+
+    - Write a README.md file explaining how to set up, use, and troubleshoot the tool.
+    - Include a brief overview, prerequisites, usage examples, and common issues.
+
+9.  **Distribution:**
 
     -   Package the script for easy distribution and installation. You can even provide a simple installation script or instructions to add it to the user's `$PATH`.
 
@@ -130,13 +147,16 @@ Concepts you should be familiar with.
 
 ## Certifications you might want to look into
 
-There are several Linux certifications and you can chose to study for any of them, but a lot of them cover WAY more than what you need to know for a solid foundation and are more focused on Linux administration.
+These certifications provide a comprehensive foundation but are not mandatory for entry-level cloud roles.
+
+### Linux
 
 - [LPI](https://www.lpi.org/our-certifications/linux-essentials-overview)
 - [RedHat](https://www.redhat.com/en/services/training-and-certification)
 - [Linux Foundation](https://training.linuxfoundation.org/certification-catalog/)
 - [Comptia Linux+](https://www.comptia.org/certifications/linux)
 
-There are also TONS of networking certifications out there, and similar to the Linux ones, they are more focused on giving you a lot of knowledge so you can become a networking engineer/specialist, again at an introductory level, it's a little overkill. If you did want to get one, take a look at the [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) which are pretty much industry standard and/or [Comptia Network+](https://www.comptia.org/certifications/network)
+### Networking
 
-At the end of the day, if you want to take them, go for it :)
+- [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) 
+- [Comptia Network+](https://www.comptia.org/certifications/network)
