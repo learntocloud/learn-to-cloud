@@ -74,58 +74,55 @@ Your movie data model could look like:
 
 #### Example API Endpoints
 
-- **GetMovies** could look like this:
-`yourapi.com/getmovies`
+- **GetMovies** `yourapi.com/getmovies`
 
-    ```json
-    [
-        {
-            "title": "Inception",
-            "releaseYear": "2010",
-            "genre": "Science Fiction, Action",
-            "coverUrl": "https://example.com/inception.jpg"
-        },
-        {
-            "title": "The Shawshank Redemption",
-            "releaseYear": "1994",
-            "genre": "Drama, Crime",
-            "coverUrl": "https://example.com/shawshank-redemption.jpg"
-        },
-        {
-            "title": "The Dark Knight",
-            "releaseYear": "2008",
-            "genre": "Action, Crime, Drama",
-            "coverUrl": "https://example.com/dark-knight.jpg"
-        }
-    ]
-    ```
-
-- **GetMoviesByYear** could look like: 
-`yourapi.com/getmoviesbyyear/2010`
-
-    ```json
-    [
-        {
-            "title": "Inception",
-            "releaseYear": "2010",
-            "genre": "Science Fiction, Action",
-            "coverUrl": "https://example.com/inception.jpg"
-        }
-    ]
-    ```
-
-- **GetMovieSummary** could look like: 
-`yourapi.com/getmoviesummary/inception`
-
-    ```json
+```json
+[
     {
-            "title": "Inception",
-            "releaseYear": "2010",
-            "genre": "Science Fiction, Action",
-            "coverUrl": "https://example.com/inception.jpg",
-            "generatedSummary": "A mind-bending sci-fi thriller about dream theft and manipulation."
+        "title": "Inception",
+        "releaseYear": "2010",
+        "genre": "Science Fiction, Action",
+        "coverUrl": "https://example.com/inception.jpg"
+     },
+    {
+        "title": "The Shawshank Redemption",
+        "releaseYear": "1994",
+        "genre": "Drama, Crime",
+        "coverUrl": "https://example.com/shawshank-redemption.jpg"
+    },
+    {
+        "title": "The Dark Knight",
+        "releaseYear": "2008",
+        "genre": "Action, Crime, Drama",
+        "coverUrl": "https://example.com/dark-knight.jpg"
     }
-    ```
+]
+```
+
+- **GetMoviesByYear** `yourapi.com/getmoviesbyyear/2010`
+
+```json
+[
+    {
+        "title": "Inception",
+        "releaseYear": "2010",
+        "genre": "Science Fiction, Action",
+        "coverUrl": "https://example.com/inception.jpg"
+    }
+]
+```
+
+- **GetMovieSummary** `yourapi.com/getmoviesummary/inception`
+
+```json
+{
+    "title": "Inception",
+    "releaseYear": "2010",
+    "genre": "Science Fiction, Action",
+    "coverUrl": "https://example.com/inception.jpg",
+    "generatedSummary": "A mind-bending sci-fi thriller about dream theft and manipulation."
+}
+```
 
 ## Things you should be familiar with at the end of this phase
 
