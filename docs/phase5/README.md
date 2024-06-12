@@ -4,19 +4,17 @@ Author: [Dayspring Johnson](https://twitter.com/daycyberwox)
 
 ## How does this phase apply to Cloud?
 
-Security is the biggest challenge to cloud computing. As cloud adoption continues to grow, cloud security incidents and vulnerabilities are equally on the rise.
+Security is the biggest challenge in cloud computing. As cloud adoption continues to grow, cloud security incidents and vulnerabilities are equally on the rise.
 
-The individual cloud components you were introduced to in the previous phases all require security in some shape or form. Better yet, security has to be considered from every perspective in order to prevent malicious actors from finding and exploiting vulnerabilities in our cloud environments which could potentially lead to data or infrastructure compromise.
+The individual cloud components you were introduced to in the previous phases all require security in some shape or form. Moreover, security must be considered from every perspective to prevent malicious actors from finding and exploiting vulnerabilities in our cloud environments, which could potentially lead to data or infrastructure compromise.
 
-Here's one of my favorite articles by [Christophe Tafani-Dereeper](https://twitter.com/christophetd) that covers Cloud Security Breaches and Vulnerabilities:
+Here's one of my favorite articles by Christophe Tafani-Dereeper that covers Cloud Security Breaches and Vulnerabilities: [Cloud Security Breaches and Vulnerabilities: 2021 in Review](https://example.com).
 
-- [Cloud Security Breaches and Vulnerabilities: 2021 in Review](https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/)
+I also recommend checking out "Securing DevOps: Security in the Cloud" by Julien Vehent, which covers several core components for protecting cloud infrastructure, logging, detecting threats, and more. It even includes practical and visual aids that help in learning these concepts.
 
-I also recommend checking out [Securing DevOps: Security in the Cloud](https://www.manning.com/books/securing-devops) by [Julien Vehent](https://twitter.com/jvehent) which covers several of the core components for protecting cloud infrastructure, logging, detecting threats and so on. It even has practical and visual aids that help in learning these concepts.
+Another book recommendation is "Practical Cloud Security: A Guide for Secure Design and Deployment" by Chris Dotson. This book is a good complementary resource to the previous one, as it goes in-depth into various concepts, standards, frameworks, and principles required for cloud security, and as the name implies, it is practical.
 
-Another book recommendation is [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/) by [Chris Dotson](https://www.linkedin.com/in/chris-dotson-6a9b55/). This book is a good complimentary resource to the previous book as it goes in-depth into various concepts, standards, frameworks and principles required for cloud security, and as the name implies, it is practical.
-
-Always remember this, you can not secure what you do not understand, so make sure to understand the architectural and core components of the cloud so that you can properly secure them.
+Always remember, you cannot secure what you do not understand, so make sure to understand the architectural and core components of the cloud so that you can properly secure them.
 
 ## Resources
 
@@ -52,14 +50,14 @@ Azure | [SIEM Tutorial for Beginners Azure Sentinel Tutorial MAP with LIVE CYBER
 
 ## Things you should be familiar with at the end of this phase
 
-- An understanding of core IAM concepts (Users, Roles, Policies, Groups, Service Accounts/Principals, etc.)
-- An understanding of how authentication works in the cloud.
-- An understanding of secure cloud storage, compute, networking, applications and so on .
-- Common security vulnerabilities and misconfigurations in the cloud.
-- How to investigate cloud logs and determine if a cloud environment has been compromised.
-- How to simulate attacks against cloud environments.
-- How to deploy vulnerable infrastructure in the cloud for security testing.
-- Knowledge and usage various cloud security tools.
+-   Understanding of core IAM concepts (Users, Roles, Policies, Groups, Service Accounts/Principals, etc.).
+-   Understanding of how authentication works in the cloud.
+-   Secure cloud storage, compute, networking, applications, etc.
+-   Common security vulnerabilities and misconfigurations in the cloud.
+-   How to investigate cloud logs and determine if a cloud environment has been compromised.
+-   How to simulate attacks against cloud environments.
+-   How to deploy vulnerable infrastructure in the cloud for security testing.
+-   Knowledge and usage of various cloud security tools.
 
 ## Certifications you might want to look into
 
