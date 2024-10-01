@@ -40,27 +40,25 @@ You should've completed the [Cloud Resume Challenge](https://cloudresumechalleng
 | [Kubernetes Crash Course for Absolute Beginners](https://youtu.be/s_o8dwzRlu4) | Hands-On Kubernetes Tutorial | Learn Kubernetes in 1 Hour - Kubernetes Course for Beginners
 | [Complete Prometheus Monitoring Tutorial](https://youtube.com/playlist?list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4) | Complete Prometheus Monitoring Tutorial
 
-## Capstone Project: QR Code Generator
+## Capstone Project: Expanding on the Movies/Shows API
 
-A sample application is available at [rishabkumar7/devops-qr-code](https://github.com/rishabkumar7/devops-qr-code). It includes the front-end built in NextJS, uses the FastAPI Python framework for the API, and AWS S3 for storage. Your goal is to apply DevOps practices like containerization, CI/CD, observability, and monitoring.
+A sample application is available at [rishabkumar7/ltc-devops-project](https://github.com/rishabkumar7/ltc-devops-project). It builds on the [Phase 2 Capstone Project - Serverless Movies API](https://learntocloud.guide/phase2/), shows your favorite TV Shows or movies. It includes the front-end built with React, uses the FastAPI Python framework for the API, and NoSQL for database. Your goal is to apply DevOps practices like containerization, CI/CD, observability, and monitoring.
 
 ### Project Components
 
-1.  **Front-End Container**: Hosts the website where users can input URLs.
-2.  **API Container**: Handles QR code generation for given URLs.
-3.  **Storage Container**: Stores the generated QR codes.
+1. **Front-End Container**: Hosts the website where users can view your movies/shows.
+2. **API Container**: Handles fetching of the data from the database.
+3. **NoSQL Database**: Stores the movies/shows data.
 
 ### Steps
 
-1.  **Containerization**: Containerize both the front-end and API by creating Dockerfiles.
-2.  **CI/CD**: Write a CI/CD pipeline to automate the deployment of the containers once your source code is changed.
-3.  **Kubernetes YAML Files**: Create deployment and service YAML files for both the Next.js front-end and the FastAPI backend.
-4.  **Kubernetes Setup**: Set up a Kubernetes service within your cloud provider (Azure AKS, Amazon EKS, or GCP GKE).
-5.  **Container Deployment**: Deploy the front-end, API, and storage containers to the Kubernetes cluster.
-6.  **Interconnectivity**: Ensure the containers are interconnected for seamless data flow.
-7.  **CI/CD Implementation**: Set up a CI/CD pipeline to deploy the containers and application after the source code changes. Use tools like GitHub Actions or Azure DevOps.
-8.  **Monitoring**: Set up monitoring for containers to track key metrics and insights. Use Azure Monitor for AKS, Amazon CloudWatch Container Insights for EKS, or Grafana for advanced monitoring.
-
+1. **Containerization**: Containerize both the frontend and API by creating Dockerfiles.
+2. **CI/CD**: Write a CI/CD pipeline to push the container images to dockerhub or other container registries like ACR or ECR, once your source code is changed. Use tools like GitHub Actions or Azure DevOps.
+3. **Kubernetes Infra with IaC**: Set up a Kubernetes service within your cloud provider (Azure AKS, Amazon EKS, or GCP GKE). Use Terraform to provision your infrastructure.
+4. **Kubernetes YAML Files**: Create deployment and service YAML files for both the React front-end and the FastAPI backend.
+5. **Container Deployment**: Deploy the frontend and API containers to the Kubernetes cluster.
+6. **Inter-connectivity**: Ensure the containers are interconnected for seamless data flow.
+7. **Monitoring**: Set up monitoring for containers to track key metrics and insights. Use Azure Monitor for AKS, Amazon CloudWatch Container Insights for EKS, or Grafana for advanced monitoring.
 
 ## Things you should be familiar with at the end of this phase
 
