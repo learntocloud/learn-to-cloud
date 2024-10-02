@@ -148,3 +148,27 @@ Your movie data model could look like:
 -   **Add Changes to a Git Branch**: Stage and commit changes.
 -   **Merge Git Changes**: Merge changes from different branches.
 -   **Document Code with a README**: Write clear and informative README files.
+
+
+## Optional Capstone Project: Serverless Movies API - Infrastructure as Code
+
+Having completed the Serverless Movies API, this optional project is to do the same thing but via Infrastructure as Code. This should be easier due to having the structure and Movies API as a reference point.
+
+### Capstone Steps
+
+The same steps are required as the original Capstone project, but are to be done using Infrastructure as code. (Terraform is recommended).
+
+1. **Create Your Cloud Infrastructure:**
+
+   - Use IaC to set up your cloud infrastructure.
+   - You will need a NoSQL database, cloud storage, and serverless functions.
+   - Depending on the cloud provider (AWS, Azure, Google Cloud), additional setup steps may be required.
+
+2. **Follow The Steps from The First Capstone Project**
+
+### Things you should be familiar with at the end of this optional project
+
+- **Understanding IaC Principles**: Grasp the core concepts of IaC, including automation of infrastructure provisioning, version control of infrastructure configurations, and the ability to replicate environments consistently.
+- **Declarative Configuration**: Learn how to define the desired state of your infrastructure in code, allowing tools to manage the creation and updates automatically.
+
+
