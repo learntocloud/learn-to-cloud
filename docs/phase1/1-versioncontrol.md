@@ -50,4 +50,4 @@ Here is a [great guide](https://www.freecodecamp.org/news/how-to-use-markdown-in
 - The lab repo should be cloned locally on your computer
 - Your README repo should be cloned locally on your computer
 
-Great, when you're ready, move on to [Cloud CLI](3-cli).
+Great, when you're ready, move on to [Cloud CLI](2-cli.md).
