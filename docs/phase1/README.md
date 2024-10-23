@@ -21,15 +21,15 @@ By the end of this phase, you will have:
 
 | No. | Topic                        | Recommended Week | Recommended Day |
 |-----|------------------------------|------------------|-----------------|
-| 1   | [Version Control](1-versioncontrol)              | Week 1           | Day 1            |
-| 2   | [Cloud CLI](2-cli)                    | Week 1           | Day 2            |
-| 3   | [Infrastructure as Code](3-iac)       | Week 1           | Day 3            |
-| 4   | [Build and access the lab](4-buildthelab)     | Week 1           | Day 4            |
-| 5   | [Extra Reading](5-reading)                | Week 1           | Day 5            |
-| 6   | [Challenge 1: The hidden file](ctf1) | Week 2           | Day 1            |
-| 7   | [Challenge 2: The secret file](ctf2)        | Week 2           | Day 3            |
-| 8   | [Challenge 3: The largest log](ctf3)        | Week 2           | Day 5            |
-| 9   | [Challenge 4: The user detective](ctf4)     | Week 3           | Day 1            |
-| 10  | [Challenge 5: The permissive file](ctf5)    | Week 3           | Day 3            |
-| 11  | [Challenge 6: The hidden service](ctf6)     | Week 3           | Day 5           |
-| 12  | [Challenge 7: The encoded secret](ctf7)     | Week 4           | Day 1            |
+| 1   | [Version Control](1-versioncontrol.md)              | Week 1           | Day 1            |
+| 2   | [Cloud CLI](2-cli.md)                    | Week 1           | Day 2            |
+| 3   | [Infrastructure as Code](3-iac.md)       | Week 1           | Day 3            |
+| 4   | [Build and access the lab](4-buildthelab.md)     | Week 1           | Day 4            |
+| 5   | [Extra Reading](5-reading.md)                | Week 1           | Day 5            |
+| 6   | [Challenge 1: The hidden file](6-ctf.md) | Week 2           | Day 1            |
+| 7   | [Challenge 2: The secret file](6-ctf.md)        | Week 2           | Day 3            |
+| 8   | [Challenge 3: The largest log](6-ctf.md)        | Week 2           | Day 5            |
+| 9   | [Challenge 4: The user detective](6-ctf.md)     | Week 3           | Day 1            |
+| 10  | [Challenge 5: The permissive file](6-ctf.md)    | Week 3           | Day 3            |
+| 11  | [Challenge 6: The hidden service](6-ctf.md)     | Week 3           | Day 5           |
+| 12  | [Challenge 7: The encoded secret](6-ctf.md)     | Week 4           | Day 1            |
