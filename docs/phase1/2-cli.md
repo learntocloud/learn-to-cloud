@@ -21,4 +21,4 @@ You should be a little familiar with your cloud console now. You can of course d
 - You installed a cloud cli.
 - You configured the cloud cli with your account.
 
-Great, when you're ready, move on to [Infrastructure as Code](4-iac).
+Great, when you're ready, move on to [Infrastructure as Code](3-iac.md).
