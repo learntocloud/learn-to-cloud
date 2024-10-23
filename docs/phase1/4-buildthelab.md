@@ -26,4 +26,4 @@ You're going to be using SSH a lot, take some time now to learn about it.
 3. Once logged in, you'll see a welcome message with instructions for your first challenge.
 ![ssh into the instance](/phase1/labs/aws/images/ssh-screenshot.png)
 
-Great job! You've successfully built your first lab. When you're ready, move on to [Extra reading](5-reading)
+Great job! You've successfully built your first lab. When you're ready, move on to [Extra reading](5-reading.md)
