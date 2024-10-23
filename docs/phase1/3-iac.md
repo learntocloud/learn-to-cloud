@@ -25,4 +25,4 @@ Finally we need to make sure Terraform is installed
 - What does terraform init do?
 - What does terraform apply do?
 
-Great, when you're ready, move on to [Build and access the lab](4-buildthelab)
+Great, when you're ready, move on to [Build and access the lab](4-buildthelab.md)
