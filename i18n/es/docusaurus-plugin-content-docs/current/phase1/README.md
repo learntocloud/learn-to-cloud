@@ -1,101 +1,101 @@
-# Phase 1: Linux Bash and Networking fundamentals
+# Fase 1: Linux Bash y fundamentos de redes
 
 Author: [GPS](https://twitter.com/madebygps)
 
-## How does this phase apply to Cloud?
+## ¿En que aplica esta fase a la Nube?
 
-The cloud is a bunch of Linux Servers networked together. Learning the fundamentals of how networking works, and how to interact with these servers via commands, and automating those commands via a script, is what this phase is about. If you're already a Linux admin or network engineer, you can apply your skills to the cloud.
+La nube es un conjunto de servidores linux conectados en red. Aprender los fundamentos de como funcionan las redes y como interactuar con estos servidores mediante comandos, automatizando esos comandos en scripts es el objetivo de esta fase. Si ya sos un ingeniero de red o un administrador Linux, entonces podes aplicar tus conocimientos y habilidades en la nube.
 
 <!--truncate -->
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/mxVq2DlPDWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## How to break down this phase
+## Cómo dividir esta fase
 
-I would suggest spending time on these three topics and this timeline:
+Te sugiero dedicar tiempo a estos dos temas y a este cronograma:
 
-| Order | Topic
-|-------|---------------------------------
-| 1 | Introduction to Bash Commands |
-| 2 | Introduction to Bash Scripting  |         |
-| 3 | Introduction to Networking|          |
+| Orden | Tema                              |
+| ----- | --------------------------------- | --- |
+| 1     | Introducción a los comandos Bash  |
+| 2     | Introducción a los script en Bash |     |
+| 3     | Introducción a las redes          |     |
 
-Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it.
+Por supuesto, sientete libre de invertir tanto tiempo como vos quieras, la gente me ha preguntado por un cronograma desglosado, así que acá lo agregué.
 
-## Resources
+## Recursos
 
-| Topic      | Title    |  Notes     | Tips |
-| :------------- | ---------- | ----------- | :----------- |
-|  Linux Bash| [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | This book made learning Linux FUN! It's pretty easy to follow and take a chapter day by day.   | You don't need to read the whole thing, the first 9 chapters cover most of what you need to know.
-| Linux Bash  | [The Linux Command Line](https://nostarch.com/tlcl2) | I used this more as a reference to reinforce topics from the first book. | Optional, but helpful |
-Introduction to Bash  | [Linux Bash Course by GPS](https://youtu.be/qALScO3E61I) | An introduction to Bash!| Here I introduce you to some useful Bash commands. Watch it and then do them on your own.
-Test your Bash skills with OverTheWire! Bandit Game |[Bandit](https://overthewire.org/wargames/bandit/) | A game to teach you the fundamental Bash commands you'll need for cloud and even security | This will cover more than the fundamentals. Similar to Linux Basics for hackers, it has a security focus.
-| Bash Scripting   | [Introduction to Bash scripting](https://youtu.be/_n5ZegzieSQ) | Fantastic intro to bash scripting, Joe Collins voice is soothing!| This will introduce you to concepts you'll use in the next phase.
-| Networking   | [Networking basics (2020)](https://www.youtube.com/watch?v=_IOZ8_cPgu8) | This 15 minute video covers all the essential networking concepts at a high level.  | Spend a day watching this and Googling each concept. Read more on each concept on your own.
-Networking | [Fundamentals of computer networking](https://learn.microsoft.com/en-us/training/modules/network-fundamentals/) | You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths. | Read this after the previous video.
-Networking | [Azure networking services overview](https://learn.microsoft.com/azure/networking/fundamentals/networking-overview) | You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths. | Optional, but I think it's a great time to introduce yourself to cloud services in the networking category, in this case Azure.
+| Tema                                                                     | título                                                                                                                                | Notas                                                                                                                                                              | Consejos                                                                                                                                |
+| :----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| Linux Bash                                                               | [Linux Basics para Hackers](https://nostarch.com/linuxbasicsforhackers)                                                               | Este libre hace que aprender Linux sea DIVERTIDO! Es facil de seguir y terminar un capítulo día a día.                                                             | No es necesario que lo leas todo, los primeros 9 capítulos cubren la mayoría de los que necesitas saber.                                |
+| Linux Bash                                                               | [La línea de comandos de Linux](https://nostarch.com/tlcl2)                                                                           | Yo usé esto más como una referencia para reforzar algunos temas del primer libro.                                                                                  | Opcional, pero de mucha ayuda                                                                                                           |
+| Introducción a Bash                                                      | [Curso de Linux Bash por GPS](https://youtu.be/qALScO3E61I)                                                                           | Una introducción a !                                                                                                                                               | Aquí les presento algunos comandos Bash útiles. Miralo y después hacelos por tu cuenta.                                                 |
+| ¡Pon a prueba tus habilidades de Bash con OverTheWire! Juego de bandidos | [Bandit](https://overthewire.org/wargames/bandit/)                                                                                    | Un juego que te eseña los fundamentos de los comandos Bash que vas a necesitar en la nube e incluso algo de seguridad.                                             | Esto va a cubrir más que los fundamentos. Similar a Linux Basics para hackers, está enfocado en la seguridad.                           |
+| Bash Scripting                                                           | [Introducción aBash scripting](https://youtu.be/_n5ZegzieSQ)                                                                          | Fantastica intro a bash scripting, La voz de Joe Collins es relajante!                                                                                             | Esto te va a introducir conceptos que usaras en la siguiente fase.                                                                      |
+| Redes                                                                    | [Conceptos básicos de redes (2020)](https://www.youtube.com/watch?v=_IOZ8_cPgu8)                                                      | Este video de 15 minutos cubrirá lo conceptos básico de las redes a alto nivel.                                                                                    | Invetrí un día mirando esto y buscando en internet cada concepto. Lee más de cada tema por tu cuenta.                                   |
+| Redes                                                                    | [Fundamentos de las redes de computadoras](https://learn.microsoft.com/es-es/training/modules/network-fundamentals/)                  | Aprenderas los principios fundamentales de las redes de computadoras para prepararse para las rutas de aprendizaje de administradores y desarrolladores de Azure.. | Lee esto después de ver el video anterior.                                                                                              |
+| Redes                                                                    | [Descripción de los servicios de redes de Azure](https://learn.microsoft.com/es-es/azure/networking/fundamentals/networking-overview) | Aprenderas los principios fundamentales de las redes de computadoras para prepararse para las rutas de aprendizaje de administradores y desarrolladores de Azure.  | Opcional, pero creo que es un buen momento para introducirte en los servicios en la nube en la categoría de redes, en este caso Azure.. |
 
-## Projects
+## Proyectos
 
-Here are some projects to reinforce what you've learned in this phase. I recomenned blogging or creating video content on your projects.
+Acá hay algunos proyectos para reforzar lo que aprendiste en esta fase. Te recomiendo crear videos o un blog con el contenido de tus proyectos.
 
- Title    | Resource     | Notes
- :---------- | :----------- | :----------- |
- Install Linux on a computer   | Research a distro and install it (We like [Pop!_OS](https://pop.system76.com/)) | No bettter way to learn Linux than using it!
-Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A pretty popular Linux admin task. |
- Deploy a NAS server | Checkout [FreeNAS](https://www.freenas.org/) |
- Deploy your own cloud | Checkout [NextCloud](https://nextcloud.com/) | A fun way to create your own private cloud.
-  Convert video files | Checkout [ffmpeg](https://ffmpeg.org/ffmpeg.html) use it to write a script that converts a .mov file to mp4 | Great way to practice scripting skills.
+| Título                                                                               | Recruso                                                                                                           | Notas                                                |
+| :----------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------- |
+| Instalar Linux en una computadora                                                    | Investigar una distro e instalarla (Nos gusta [Pop!\_OS](https://pop.system76.com/))                              | No hay mejor forma de aprender Linux que usandolo!   |
+| Configurar un[Servidor LAMP](<https://en.wikipedia.org/wiki/LAMP_(software_bundle)>) | Una tarea bastante popular de un administrador Linux.                                                             |
+| Desplegar un servidor NAS                                                            | Mira [FreeNAS](https://www.freenas.org/)                                                                          |
+| Desplegar tu propia nube                                                             | Mira [NextCloud](https://nextcloud.com/)                                                                          | Una forma divertida de crear tu propia nube privada. |
+| Converir archivos de video                                                           | Mira [ffmpeg](https://ffmpeg.org/ffmpeg.html) Usalo para escribir un script que convierta de archivos .mov a .mp4 | Excelente forma de practicar tus habilidades.        |
 
-## Things you should be able familiar with at the end of this phase
+## Conceptos que te deberían ser familiar al final de esta fase
 
-### Commands
+### Comandos
 
-- Navigate with the `cd` command.
-- How to list the contents of a directory and using the `ls` command.
-- Create, copy, move, rename, directories and files with `mkdir`, `cp`, `rm`, and `touch` commands.
-- Find things with `locate`, `whereis`, `which`, and `find` commands.
-- Understand how to learn more about commands with the `which`, `man`, and `--help` commands.
-- Familiar with finding logs details in `/var/log`
-- How to display the contents of a file with `cat`, `less`, `more`, `tail`, `head`.
-- Filtering with `grep` and `sed`.
-- Redirection of standard input, output and error with `>` operator and `tee` command.
-- How to use pipelines with the `|` operator.
-- Manipulate files with `nano` or `vim`.
-- Install and uninstall packages. Depends on distro, debian based use `apt`.
-- Control permissions with `chown`, `chgrp`, `chmod` commands.
-- Creating users and the `sudo` command.
-- Process management with `ps`, `top`, `nice`, `kill`
-- Manage environment aud user defined variables with `env`, `set`, `export` commands.
-- Add directories to your `PATH`.
-- Compression and archiving with `tar`, `gzip`, `gunzip`.
-- How to access a Linux server with `ssh`.
+- Navegar usando el comando `cd` .
+- Cómo listar el contenido de un directorio usando el comando`ls`.
+- Crear, copiar, mover y renombrar directorios y archivos usando los comandos `mkdir`, `cp`, `rm`, y `touch`.
+- Buscar cosas con los comandos `locate`, `whereis`, `which`, y `find`.
+- Comprender como aprender más de los comandos usando `which`, `man`, y `--help`.
+- Familiarizarte con encontrar detalles de los registros en `/var/log`.
+- Cómo mostrar el contendo de un archivo usando los comandos `cat`, `less`, `more`, `tail`, `head`.
+- Filtrar con `grep` y `sed`.
+- Redirigir la salida estandar, la entrada y los errores con los operadores `>` y el comando `tee`.
+- Cómo usar el pipeline con el operador `|`.
+- Manipular archivos con `nano` o `vim`.
+- Instalar y desinstalar paquetes. Dpendiendo de la distro, debian se basa en el gestor de paquetes `apt`.
+- Controlar los permisos con los comandos `chown`, `chgrp`, `chmod`.
+- Crear usuarios con el comando `sudo`.
+- Gestion de procesos con `ps`, `top`, `nice`, `kill`.
+- Administrar variables de usuarios y de ambiente con los comandos `env`, `set`, `export`.
+- Agregar directorios al `PATH`.
+- Comprimir y archivar con `tar`, `gzip`, `gunzip`.
+- Cómo accedar a un servidor Linux usando `ssh`.
 
-### Networking
+### Redes
 
 Concepts you should be familiar with.
 
-- OSI Model
-- IP Addresses
-- MAC Addresses
-- Routing and Switching
+- Modelo OSI
+- Dirección IP
+- Dirección MAC
+- Enrutamiento y conmutación
 - TCP/IP
-- TCP and UDP
+- TCP y UDP
 - DNS
-- VPN tunneling
-- TLS and SSL
+- Túneles VPN
+- TLS y SSL
 
 ### Bash Scripting
 
-- What is a shell?
-- What is Bash?
-- Why does a script have to start with #!?
-- What is a variable and how to use them
-- How to accept user input
-- How to execute a script
+- ¿Qué es una shell?
+- ¿Qué es Bash?
+- ¿Por que mi script tiene que empezar con #!?
+- Qué es una variable y como usarla.
+- ¿Cómo permitir el ingereso de datos por parte de un usuario?
+- ¿Cómo ejecutar un script?
 
-## Certifications you might want to look into
+## Certificaciones que te puede interesar mirar
 
-There are several Linux certifications and you can chose to study for any of them really, but a lot of them cover WAY more than what you need to know for a solid foundation and are more focused on Linux administration.
+Hay varias certificaciones de Linux y realmente puedes elegir estudiar para cualquiera de ellas, pero muchas de ellas cubren MUCHO más de lo que necesitas saber para tener una base sólida y están más enfocadas en la administración de Linux.
 
 - [LPI essentials](https://www.lpi.org/our-certifications/linux-essentials-overview)
 - [RedHat](https://www.redhat.com/en/services/training-and-certification)
@@ -104,6 +104,8 @@ There are several Linux certifications and you can chose to study for any of the
 - [LPI](https://www.lpi.org/)
 - [Comptia Linux+](https://www.comptia.org/certifications/linux)
 
-There are also TONS of networking certifications out there, and similar to the Linux ones, they are more focused on giving you a lot of knowledge so you can become a networking engineer/specialist, again at an introductory level, it's a little overkill. If you did want to get one, take a look at the [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) which are pretty much industry standard and/or [Comptia Network+](https://www.comptia.org/certifications/network)
+También hay TONELADAS de certificaciones de redes y, al igual que las de Linux, están más enfocadas en brindarte una gran cantidad de conocimientos para que puedas convertirte en un ingeniero/especialista en redes; nuevamente, en un nivel introductorio, es un poco excesivo.
 
-At the end of the day, if you want to take them, go for it :)
+. If you did want to get one, take a look at the [Certificaciones Cisco ](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) que son prácticamente estándar de la industria y/o [Comptia Network+](https://www.comptia.org/certifications/network)
+
+Al final del día, si los queres tomar, ve por ellos :)

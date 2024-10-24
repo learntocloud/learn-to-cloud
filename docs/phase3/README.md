@@ -4,7 +4,7 @@ Author: [GPS](https://twitter.com/madebygps)
 
 ## How does this phase apply to Cloud?
 
-Sometimes people are surprised to see that this phase isn't number 1, though it is the longest and for good reason. As a Cloud professional, you will live in a platform, or multiple. Everything you build, support, develop, etc, will be on a platform. 
+As a cloud professional, you will spend most of your time working within a cloud platform, or multiple platforms. Everything you build, support, and develop will be on a platform, making this phase essential for your cloud career.
 
 Here are some popular questions we get at this phase:
 
@@ -17,35 +17,29 @@ Here are some popular questions we get at this phase:
 
 ## How to break down this phase
 
-I would suggest spending time on these two topics and this timeline:
-
 | Order | Topic                           |
 |-------|---------------------------------|
 | 1 | Cloud Certification |
 | 2 | Cloud Resume Challenge |
 
-Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it.
 
 ## Resources
 
-| Cloud Platform | Title  | Notes  |
-|:-------------- | ------ | ------ |
-AWS | [AWS training and Certification](https://aws.amazon.com/training/)| AWS official training |
-AWS | [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected) | AWS recommendations and describes best practices |
-Azure | [John Savill](https://www.youtube.com/c/NTFAQGuy) | Many Azure training videos. |
-Azure | [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/) | Azure recommendations and describes best practices |
-Azure |[Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/) | Microsoft Learn has free content for many tech topics including all Azure certifications |
-GCP | [Google Cloud training](https://cloud.google.com/certification) | GCP has plenty of free certification content |
-GCP | [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) | GCP recommendations and describes best practices |
-Multi |[Cloud Computing on FreeCodeCamp](https://www.freecodecamp.org/news/tag/cloud-computing/) | Free courses on AWS, Azure, GCP, and more. |
+| Cloud Platform | Title  
+|:-------------- | ------ 
+AWS | [AWS training and Certification](https://aws.amazon.com/training/)|
+Azure |[Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/) |
+GCP | [Google Cloud training](https://cloud.google.com/certification) | 
 
-Regardless of which learning material you choose, it'll have some sort of demo/hands-on aspect to it. Do it. Don't just watch/read. This isn't a Netflix show you're consuming, this is learning time.
+Regardless of which learning material you choose, it will have some sort of demo/hands-on aspect to it. Do it. Don't just watch or read. This isn't a Netflix show—this is learning time.
 
-When you are first getting started with cloud, you'll be doing everything via the UI, and that is fine for getting started, however once you're in a job, you'll be using a CLI or Infrastructure as Code (you'll learn more about this in Phase 4) to manage your environments. My advice here is, for every exercise you do via the UI, look up the CLI command and do it that way too. By now you should be familiar with using a command line. (Which is a big reason Linux phase and programming comes before this one).
+### Learning advice
+
+When starting with the cloud, you'll do everything via the UI, which is fine initially. However, once you're in a job, you'll use a CLI or Infrastructure as Code (covered in Phase 4) to manage your environments. For every exercise you do via the UI, look up the CLI command and do it that way too. By now, you should be familiar with using a command line, which is why the Linux and programming phases come before this one.
 
 This is also a great time to introduce yourself to the official documentation, [AWS](https://docs.aws.amazon.com/index.html), [Azure](https://docs.microsoft.com/azure/?product=featured) or [GCP](https://cloud.google.com/docs)
 
-If there is something you don't understand about a service or command, your go to should be the documentation. After that you can look up articles, tutorials, etc.
+If there is something you don't understand about a service or command, your **go to** should be the documentation first. 
 
 ## Projects
 
@@ -53,9 +47,9 @@ We recommend your first cloud project to be the Cloud Resume Challenge. Once you
 
 Platform | Title | Description |
 ---------|-------|-------------|
-AWS | [Cloud Resume Challenge](https://cloudresumechallenge.dev/)| Build your resume with AWS services.|
-Azure | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)| Build your resume with Azure Services   |  
-GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Build your resume with GCP services |
+AWS | [Cloud Resume Challenge](https://youtube.com/playlist?list=PLK_LRl1CH4L_ko1-Xm04ATPTduu6gaSM8)| Build your resume with AWS services. |
+Azure | [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)| Build your resume with Azure services. |  
+GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Build your resume with GCP services. |
 
 ## Things you should be familiar with at the end of this phase
 
@@ -73,16 +67,11 @@ GCP | [GCP Cloud Resume](https://acloudguru.com/blog/engineering/cloudguruchalle
 
 ## Certifications you might want to look into
 
-We like cloud certifications, they give you a nice outline to follow in terms of learning. However we don't think you need to have every single certification out there. One or two, plus the Linux, networking, programming, knowledge is plenty and already quite impressive when you're starting off. As you grow and want to specialize, certifications are great for up-skilling!
 
-We recommended getting at least one certification and if you only get one it should be an associate level. You can of course get an entry level one as well.
+We recommend cloud certifications as they provide a structured learning path. However, you don't need every certification available. Aim for 1 or 2 certifications plus 2 hands-on projects that showcase all the skills in this guide.
 
-- Entry level:
-  - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-  - [Azure Fundamentals AZ-900](https://docs.microsoft.com/learn/certifications/exams/az-900).
-  - [Study Cram for Azure Fundamentals AZ-900](https://github.com/ricmmartins/study-guide-az900)
-  - [Google Cloud Digital Leader](https://cloud.google.com/certification/cloud-digital-leader)
-- Associate level:
+We recommend you get an associate level certification.
+
   - [AWS](https://aws.amazon.com/certification/): Any one.
   - [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Stick to the admin or developer, the other associate level ones are a little more specialized and you can take them later if you want.
   - [GCP](https://cloud.google.com/certification/cloud-engineer): There is only one.

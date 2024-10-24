@@ -2,9 +2,9 @@
 
 Autor: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
 
-## Como aplica esta fase para en CLoud
+## Como aplicar esta fase para en CLoud
 
-Si sientes no tienes experiencia en *tech* pero quieres aprender de *Cloud Computing*. Esta fase es para ti. Si ya tienes experiencia en *tech* y quieres cambiar a cloud, [Ve a la fase 1: Fundamentos de Linux y Networking](../phase1/README.md) 
+Si sentís que no tenes experiencia en *tech* pero quieres aprender de *Cloud Computing*. Esta fase es para ti. Si ya tienes experiencia en *tech* y quieres cambiar a cloud, [Ve a la fase 1: Fundamentos de Linux y Networking](../phase1/README.md) 
 
 Empecemos.
 
@@ -12,17 +12,17 @@ Empecemos.
 
 2. El video anterior te dará cierto entendimiento de lo siguiente, pero vamos a adentrarnos un poco mas y entender que son ciertos fundamentos de Cloud.
 
-   - [Que es Linux](https://youtu.be/PwugmcN1hf8)
-   - [Que son Redes](https://youtu.be/3QhU9jd03a0)
-   - [Que es Programación](https://youtu.be/ifo76VyrBYo)
-   - [Que es Cloud Computing](https://youtu.be/eZLcyTxi8ZI)
-   - [Que es DevOps](https://youtu.be/9pZ2xmsSDdo/)
-   - [Que es un Ingeniero de Cloud y como convertirse en uno](https://youtu.be/7i1WMGxyt4Q)
+   - [Qué es Linux](https://youtu.be/PwugmcN1hf8)
+   - [Qué son las Redes](https://youtu.be/3QhU9jd03a0)
+   - [Qué es la Programación](https://youtu.be/ifo76VyrBYo)
+   - [Qué es Computación en la Nube](https://youtu.be/eZLcyTxi8ZI)
+   - [Qué es DevOps](https://youtu.be/9pZ2xmsSDdo/)
+   - [Qué es un Ingeniero de Nube y como convertirse en uno](https://youtu.be/7i1WMGxyt4Q)
 
 
 ## Cosas que debes de estar familiarizado/a al final de esta fase
 
-Honestamente a este punto, todo lo que necesitas es que quieres adentrarte en el mundo de la tecnología y que estás preparado/a para aprender bastante. El estudio nunca se detendrá.
+Honestamente en este punto, todo lo que necesitas es que quieres adentrarte en el mundo de la tecnología y que estás preparado/a para aprender bastante. El estudio nunca se detendrá.
 
 
 Certificaciones que puedes mirar
@@ -33,14 +33,14 @@ Un estandard de la industria para personas que quieren ingresar en tecnología [
 
 Sin embargo algunas personas me han comentado que es útil para obtener un puesto en roles como
 
-- Service Desk Analyst
-- Help Desk Tech
-- Desktop Support Administrator
-- Technical Support Specialist
-- End User Computing Technician
-- Field Service Technician
-- Help Desk Technician 
-- System Support Specialist
+- Analista de mesa de servicio
+- Técnico de mesa de ayuda
+- Administrador de soporte de escritorio
+- Especialista de Soporte Técnico
+- Técnico en Informática para el Usuario Final
+- Técnico de Servicio
+- Técnico de ayuda informática
+- Especialista en soporte del sistema
 
 ## Empleo
 

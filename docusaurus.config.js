@@ -24,13 +24,13 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'fr', 'pt', 'ne']
+    locales: ['en', 'es', 'fr', 'pt', 'ne']
   },
   scripts: [
-    'https://static.cloudflareinsights.com/beacon.min.js',
     {
-      'src': 'https://static.cloudflareinsights.com/beacon.min.js',
-      'data-cf-beacon':'{"token": "a3e0a23a1a6a44c290695d32eea7769a"}', 
+      src: 'https://static.cloudflareinsights.com/beacon.min.js',
+      defer: true,
+      'data-cf-beacon':`{"token": ${process.env.CLOUDFARE_ANALYTICS_TOKEN}}`, 
     }],
   presets: [
     [
@@ -38,6 +38,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: require.resolve('./sidebars.js'),
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -79,19 +80,14 @@ const config = {
               position: 'left',
             },
             {
-              href: 'https://discord.gg/nxcGpYQpw4',
+              href: 'https://definethecloud.guide/',
+              label: 'Cloud Dictionary',
+              position: 'left',
+            },
+            {
+              href: 'https://discord.gg/dr2kvtA726',
               label: 'Discord',
               position: 'right',
-            },
-            {
-              href: 'https://youtube.com/@learntocloud',
-              label: 'Podcast',
-              position: 'right',
-            },
-            {
-              href: 'https://github.com/orgs/learntocloud/projects/2/views/1',
-              label: 'LTC Roadmap',
-              position: 'left',
             },
             {
               href: 'https://github.com/learntocloud/learn-to-cloud',
@@ -103,7 +99,72 @@ const config = {
         },
         footer: {
           style: 'dark',
-
+          links: [
+            {
+              title: 'Socials',
+              items: [
+                {
+                  label: 'Discord',
+                  href: 'https://discord.gg/dr2kvtA726',
+                },
+                {
+                  label: 'Instagram',
+                  href: 'https://www.instagram.com/learntocloudguide/',
+                },
+                {
+                  label: 'Twitter',
+                  href: 'https://twitter.com/learntocloud',
+                },
+                {
+                  label: 'Podcast',
+                  href: 'https://youtube.com/@learntocloud'
+                },
+              ],
+            },
+            {
+              title: 'Guide Help',
+              items: [
+                {
+                  label: 'Report Issue',
+                  href: 'https://github.com/learntocloud/learn-to-cloud/issues',
+                },
+                {
+                  label:'GitHub Repo',
+                  href:'https://github.com/learntocloud/learn-to-cloud/',
+                },
+              ],
+            },
+            {
+              title: 'Community',
+              items: [
+                {
+                  label: 'Contributors',
+                  href: '/contributors',
+                },
+                {
+                  label:'Code of Conduct',
+                  href:'https://github.com/learntocloud/learn-to-cloud/blob/main/CODE_OF_CONDUCT.md',
+                },
+                {
+                    label: 'License',
+                    href: 'https://github.com/learntocloud/learn-to-cloud/tree/main?tab=MIT-1-ov-file',
+                },
+              ],
+            },
+            {
+              title: 'Want to contribute',
+              items: [
+                {
+                    label: 'LTC Roadmap',
+                    href: 'https://github.com/orgs/learntocloud/projects/2/views/1',
+                },
+                {
+                  label: 'DTC Roadmap',
+                  href: 'https://github.com/orgs/learntocloud/projects/3'
+                }
+              ],
+            },
+          ],
           copyright: `Copyright © ${new Date().getFullYear()} Learn To Cloud`,
         },
         prism: {
@@ -129,7 +190,7 @@ const config = {
           /*
             '<b>Find #30DaysOfSWA useful? Give it a star on <a href="https://github.com/staticwebdev/30DaysOfSWA"><b>GitHub</b></a></b>',
           */
-            '<b>Found this guide helpful? Give us a star on <a href="https://github.com/learntocloud/learn-to-cloud"><b>GitHub</b></a></b> ☁️',
+            '<b><a href="https://youtu.be/vqv1EhI8azs">Learn how Skylar used Learn to Cloud to land a cloud admin role</a></b> ☁️',
           backgroundColor: '#134D99',
           textColor: '#ffffff',
           isCloseable: false,

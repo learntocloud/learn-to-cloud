@@ -25,7 +25,8 @@ Title | Description | Author | Area of Focus |Difficulty
 [AWS Hands On Tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all) |  Get started with step-by-step tutorials to launch your first application | AWS | Various | Various |
 [AWS Architecture Center](https://aws.amazon.com/architecture/) | The AWS Architecture Center provides reference architecture diagrams, vetted architecture solutions, Well-Architected best practices, patterns, icons, and more. | AWS | Various | Various
 [Cloud Is Free](https://cloudisfree.com) | Set up practical projects through an interactive and detailed documentation, while taking advantage of the Free Tier from AWS. | [Yassin Dahmouni](https://github.com/ydamni) | Developer Associate | Fundamental
-     
+[Serverless QR Code Generator](https://github.com/rishabkumar7/aws-qr-code) | Serverless QR Code Generator that generates QR Code for a given URL, utilizing services like AWS Lambda and S3. | [Rishab Kumar](https://github.com/rishabkumar7) | Developer Associate | Associate
+[Cloud Resume API](https://cloudresumeapi.dev) | Create a resume API endpoint utilizing Serverless technologies. | [Rishab Kumar](https://github.com/rishabkumar7) | Developer Associate | Associate
 
 ## Azure Projects
 
@@ -55,5 +56,5 @@ Title | Description | Author | Area of Focus | Difficulty
 Title | Description | Author | Area of Focus | Difficulty
 ------|-------------|--------| --------| --------|
 [Deploy an App to Azure with ARM](https://github.com/SoniaConti/ContosoFinance-Demo) | ARM is an IaC tool used with Azure | [Sonia Conti](https://github.com/SoniaConti/ContosoFinance-Demo) | DevOps | Associate |
-[Crypto-dot-net Ticket Dockerized](https://github.com/rishabkumar7/crypto-ticker-dotnet) | We Dockerize [this .NET project](https://github.com/madebygps/signalr-crypto-tickers-workshop) | [Rishab Kumar](http://twitter.com/rishabk7) | DevOps | Associate |
+[Crypto-dot-net Ticket Dockerized](https://github.com/rishabkumar7/crypto-ticker-dotnet) | We Dockerize [this .NET project](https://github.com/madebygps/signalr-crypto-tickers-workshop) | [Rishab Kumar](https://github.com/rishabkumar7) | DevOps | Associate |
 [DevOps-Exercises](https://github.com/bregman-arie/devops-exercises) | This repo [devops-exercises](https://github.com/bregman-arie/devops-exercises) contains questions and exercises on various technical topics related to DevOps and SRE | [Arie Bregman](https://github.com/bregman-arie) | DevOps | Associate |

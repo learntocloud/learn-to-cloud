@@ -1,79 +1,150 @@
-# Phase 2: Programming fundamentals
+# Phase 2: Programming
 
 Author: [GPS](https://twitter.com/madebygps)
 
 ## How does this phase apply to Cloud?
 
-You'll be using code to automate tasks and deploy infrastructure. You don't need to know how to build full applications but understanding the basics of programming will give you an upper hand. There are dedicated developer roles in cloud. For those you will need to know how to build full solutions, checkout [this video](https://youtu.be/WMUAc7bvB7M) for more info on that role.
+
+Programming is a fundamental skill for cloud engineering, enabling you to create, manage, and optimize cloud resources efficiently. 
+
+You don't need to know how to build UIs but you need to know how to work with APIs and other cloud services like storage, databases, etc. Knowing how to program will make you more competitive in the hiring market. Additionally, understanding prompt engineering with tools like GitHub Copilot can enhance your coding productivity and capabilities.
+
+In the previous step you were introduced to programming basics and wrote your first Bash script. You can now leverage this knowledge and apply it to your choice of programming language.
 
 <!--truncate -->
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/WMUAc7bvB7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/AZhINW89kbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-In the previous step you were introduced and wrote some Bash scripts. Bash scripting is used to automate tasks and is considered a universal language for servers, since nowadays, Bash is installed by default almost on every Linux server.
-
-I think now it would be beneficial to learn some more programming skills.
-
-There are several programming languages that are popular with Cloud, like Go, Rust, .NET, JavaScript, but since you are a beginner,  I would go with [Python](https://www.python.org/). It's a very popular language and there are many quality free resources out there to learn it and it's one of the simpler languages to get started with.
-
-[Git](https://git-scm.com/) is the most popular version control tool and one of the DevOps practices. It is used to manage and share your code. GitHub is one of the most popular Git repository hosting services. Take some time now to create a [GitHub](https://github.com/) account if you don't already have one. It'll be your code portfolio and you should put as many projects as you'd like on there.
 
 ## How to break down this phase
+
+There are several programming languages that are popular with Cloud: Python, Go, Rust, .NET, JavaScript. If you know any of these, you can continue using them, if not, I would go with [Python](https://www.python.org/). It's a very popular language and there are many quality free resources out there to learn it.
+
+Continue adding your projects to your GitHub profile that you created in the past phase.  
 
 I would suggest spending time on these two topics and this timeline:
 
 | Order | Topic                           |
 |-------|---------------------------------|
-| 1 | Introduction to Programming with Python  |
-| 2 | Introduction to Version Control with Git and GitHub  |
+| 1 | Learn to Code |
+| 2 | Learn Prompt Engineering |
 
-Of course feel free to spend as much time as you'd like, people have asked for a timeline and breakdown so I've added it.
 
 ## Resources
 
 | Order | Title                                                                        | Notes                                                                                       |
 | :---- | :--------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Optional     | [An introduction to Programming](https://docs.microsoft.com/learn/modules/web-development-101-introduction-programming/)                      | A great Microsoft Learn module on the topic.    |
 | 1     | [Python Crash Course](https://ehmatthes.github.io/pcc/)                      | A great Python book, also there is an Appendix in there on Git which is great!
-| 1     | [FreeCodeCamp Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw)     | One of the many amazing resources provided by [FreeCodeCamp](https://www.freecodecamp.org/) |
-1 | [Python for Beginners](https://youtu.be/jFCNu1-Xdsw) | A 44 part video series introducing you to Python |
-| 2     | [An introduction to Git](https://docs.microsoft.com/learn/modules/intro-to-git/)    | A great resource to learn Git by Microsoft Learn                                                                |
-| 2     | [FreeCodeCamp Git course](https://youtu.be/RGOj5yH7evk)                           | A great resource to learn Git by FreeCodeCamp                                                    |
+1 | [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) | A 44 part video series introducing you to Python |
+1 | [7 Days of Python](https://7daysofpython.com/) | A 7 day guide to Python
+| 2     | [A Beginner's Guide to Prompt Engineering with GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)    | An article by [Rizèl Scarlett](https://twitter.com/blackgirlbytes) on how to get the most out of GitHub Copilot.|
 
-## Projects
 
- | Title                     | Description                                                                                                                                               |
- | :------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
- | [25 Python Projects for beginners](https://www.freecodecamp.org/news/python-projects-for-beginners/)| Do as many of these as you'd like. |
- [Create your GitHub profile readme](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) | Create a README to tell other people about yourself. Here's [mine](https://github.com/madebygps/madebygps) as an example. Rishab has a cool [one](https://github.com/rishabkumar7/rishabkumar7) too.
- | [Networking Python Projects](https://youtu.be/FGdiSJakIS4)| Build some Python and Networking skills
+## Capstone Project: Serverless Movies API.
+
+Create an API with serverless functions that display movie information. Don't forget to create a GitHub repo and document in your README.md
+
+### Capstone Steps
+
+1. **Create Your Cloud Infrastructure:**
+
+    - Use an SDK to set up your cloud infrastructure.
+    - You will need a NoSQL database, cloud storage, and serverless functions.
+    - Depending on the cloud provider (AWS, Azure, Google Cloud), additional setup steps may be required.
+
+2. **Prepare Your Data:**
+    - Find movie data or create it and store it in your cloud NoSQL db.
+    - Store movie cover images of each movie in cloud storage.
+
+3. **Create Serverless Functions:**
+    1. **GetMovies:** Returns a JSON list of all movies in your database. Ensure the response includes a URL for the movie cover.
+    2. **GetMoviesByYear:** Returns a list of movies released in a specified year. The year is provided by the client.
+    3. **EXTRA CREDIT - GetMovieSummary:** Returns a summary generated by AI for a specified movie.
+
+#### Example Data Model
+
+Your movie data model could look like:
+```json
+{
+    "title":"title of the movie",
+    "releaseYear":"when the movie was released",
+    "genre":"genre of the movie",
+    "coverUrl":"url-to-image-in-cloud-storage"
+}
+```
+
+#### Example API Endpoints
+
+- **GetMovies** `yourapi.com/getmovies`
+
+```json
+[
+    {
+        "title": "Inception",
+        "releaseYear": "2010",
+        "genre": "Science Fiction, Action",
+        "coverUrl": "https://example.com/inception.jpg"
+     },
+    {
+        "title": "The Shawshank Redemption",
+        "releaseYear": "1994",
+        "genre": "Drama, Crime",
+        "coverUrl": "https://example.com/shawshank-redemption.jpg"
+    },
+    {
+        "title": "The Dark Knight",
+        "releaseYear": "2008",
+        "genre": "Action, Crime, Drama",
+        "coverUrl": "https://example.com/dark-knight.jpg"
+    }
+]
+```
+
+- **GetMoviesByYear** `yourapi.com/getmoviesbyyear/2010`
+
+```json
+[
+    {
+        "title": "Inception",
+        "releaseYear": "2010",
+        "genre": "Science Fiction, Action",
+        "coverUrl": "https://example.com/inception.jpg"
+    }
+]
+```
+
+- **GetMovieSummary** `yourapi.com/getmoviesummary/inception`
+
+```json
+{
+    "title": "Inception",
+    "releaseYear": "2010",
+    "genre": "Science Fiction, Action",
+    "coverUrl": "https://example.com/inception.jpg",
+    "generatedSummary": "A mind-bending sci-fi thriller about dream theft and manipulation."
+}
+```
 
 ## Things you should be familiar with at the end of this phase
 
 ### Programming
 
-- Variables
-- Data types
-- Comments
-- Functions
-- OOP
-- Lists
-- Modules
-- Dictionaries
-- Loops
-- Control statements
-- Exceptions
+-   **Variables**: Understand how to declare and use variables.
+-   **Data Types**: Familiarize yourself with different data types (e.g., strings, integers, lists, dictionaries).
+-   **Comments**: Learn to write comments to document your code.
+-   **Functions**: Learn to define and call functions.
+-   **Object-Oriented Programming (OOP)**: Understand the basics of OOP (classes, objects, inheritance).
+-   **Lists**: Learn how to create and manipulate lists.
+-   **Modules**: Understand how to use and import modules.
+-   **Dictionaries**: Learn to use dictionaries for key-value data storage.
+-   **Loops**: Master loops (for, while) to iterate over data.
+-   **Control Statements**: Understand conditional statements (if, else, elif).
+-   **Exceptions**: Learn to handle exceptions and errors in your code.
 
 ### Git
 
-- How to create a Git repo locally
-- How to create a GitHub repo and clone it locally.
-- How to create a git branch
-- How to add changes to a git branch
-- How to merge Git changes
-- How to document code with a README
-
-## Certifications you might want to look into
-
-- [Python Institute certifications](https://pythoninstitute.org/certification-tracks)
-
-Programming certifications aren't as in demand/popular than cloud ones. As with any certification, you can use it to reinforce your knowledge, but it isn't an obligation. There are plenty of cloud engineers with zero certifications.
+-   **Create a Git Repo Locally**: Initialize a repository and add files.
+-   **Create a GitHub Repo and Clone It Locally**: Understand the process of creating a remote repository and cloning it.
+-   **Create a Git Branch**: Learn to work with branches.
+-   **Add Changes to a Git Branch**: Stage and commit changes.
+-   **Merge Git Changes**: Merge changes from different branches.
+-   **Document Code with a README**: Write clear and informative README files.
