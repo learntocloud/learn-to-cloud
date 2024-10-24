@@ -1,4 +1,27 @@
-# Contributors
+# Team
+
+## Core Team
+
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/madebygps">
+            <img src="https://avatars.githubusercontent.com/u/6733686?v=4" width="100;" alt="madebygps"/>
+            <br />
+            <sub><b>Gwyneth Peña-Siguenza</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/rishabkumar7">
+            <img src="https://avatars.githubusercontent.com/u/45825464?v=4" width="100;" alt="rishabkumar7"/>
+            <br />
+            <sub><b>Rishab Kumar</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
+
+## Contributors
 
 <!-- readme: contributors -start -->
 <table>
