@@ -17,6 +17,18 @@ Then follow the appropriate guide to deploy the environment.
 - [Azure](https://github.com/learntocloud/ltc-linux-challenge/tree/main/azure)
 - [GCP](https://github.com/learntocloud/ltc-linux-challenge/tree/main/gcp)
 
+## Finding help
+
+If you are stuck, leverage [man pages](https://itsfoss.com/linux-man-page-guide/)
+
+## Recommended Reading
+
+Optional but highly recommended books that you can use to learn more Linux and help you with this lab. Get the books, look up the command your stuck on in the appendix, read. These books are also great to go through entirely.
+
+- Linux Basics for Hackers by OccupyTheWeb
+- The Linux Command Line by William Shotts
+- How Linux Works by Brian Ward
+
 ## Challenge 1: The Hidden File
 
 **Objective:** Find a hidden file in the `ctf_challenges` directory and read its contents.
