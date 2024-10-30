@@ -10,7 +10,7 @@ Once you have an account, you need to get familiar with the cloud console of you
 
 You should be a little familiar with your cloud console now. You can of course deploy things by clicking but we would rather you use the CLI.
 
-- Study: [Why use a CLI](https://www.redhat.com/sysadmin/why-use-cli)
+- Study: [Why use a CLI](https://www.freecodecamp.org/news/command-line-for-beginners/)
 - Action: Install the [AWS CLI](https://aws.amazon.com/cli/) or [Azure CLI](https://docs.microsoft.com/cli/azure/install-azure-cli) or [GCP CLI](https://cloud.google.com/sdk/docs/install)
 
 ## CLI concepts you should know
