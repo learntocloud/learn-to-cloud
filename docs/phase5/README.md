@@ -71,6 +71,11 @@ Azure | [SIEM Tutorial for Beginners Azure Sentinel Tutorial MAP with LIVE CYBER
 
 These are lesser know certifications but they are focused on giving you the training needed as well as hands-on certifications where you put the skills you've learned to use, rather than clicking through multiple choice questions.
 
-- [Certified Az Red Team Professional](https://bootcamps.pentesteracademy.com/course/ad-azure-may-21)
-- [Certified Azure Web Application Security Professional](https://bootcamps.pentesteracademy.com/course/azure-appsec-beginner-jul-22)
-- [Offensive Azure Security Professional](https://cloudbreach.io/labs/)
+- [Certified Azure Red Team Professional](https://www.alteredsecurity.com/azureadlab)
+- [Certified Azure Web Application Security Professional](https://www.alteredsecurity.com/azureappsec)
+- [Offensive Azure Security Professional](https://cloudbreach.io/breachingazure/)
+- [Offensive AWS Security Professional](https://cloudbreach.io/breachingaws/)
+- [GCP Red Team Apprentice](https://training.hacktricks.xyz/courses/grta)
+- [AWS Red Team Apprentice](https://training.hacktricks.xyz/courses/arta)
+- [Amazon Cloud Red Team Professional](https://bootcamps.pwnedlabs.io/acrtp-bootcamp)
+- [Microsoft Cloud Red Team Professional](https://bootcamps.pwnedlabs.io/mcrtp-bootcamp)
