@@ -9,7 +9,7 @@ Se você acha que não tem experiência em tecnologia, mas deseja entrar na comp
 
 Vamos começar.
 
-1. Acho que um bom primeiro passo é entender os fundamentos de TI e [este vídeo](https://youtu.be/awLnur5Yt9o) é um fantástico overview.
+1. Acho que um bom primeiro passo é entender os fundamentos de TI e [este playlist](https://youtube.com/playlist?list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K&feature=shared) é um fantástico overview.
 
 2. O vídeo acima deve lhe dar alguma compreensão do conteúdo, mas vamos mergulhar um pouco mais e entender quais são alguns dos fundamentos da Nuvem.
 

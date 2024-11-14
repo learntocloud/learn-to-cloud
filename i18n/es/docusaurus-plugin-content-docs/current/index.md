@@ -35,7 +35,3 @@ Por favor abre un [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
 | [3](phase3/README.md)  | Fundamentos de plataformas de Cloud  |
 | [4](phase4/README.md)  | Fundamentos de DevOps                |
 | [5](phase5/README.md)  | Fundamentos de Seguridad en Cloud    |
-
-## Plan de estudio
-
-[Este es un plan de estudio de 6 meses que sigue este guía](http://bootcamp.madebygps.com/)

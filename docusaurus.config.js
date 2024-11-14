@@ -74,12 +74,7 @@ const config = {
               position: 'left',
               label: 'Guide',
             },
-            {
-              href: 'https://madebygps.com/cloudcamp',
-              label: 'Study Plan',
-              position: 'left',
-            },
-            {
+      {
               href: 'https://definethecloud.guide/',
               label: 'Cloud Dictionary',
               position: 'left',
