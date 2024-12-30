@@ -8,7 +8,7 @@ Security is the biggest challenge in cloud computing. As cloud adoption continue
 
 The individual cloud components you were introduced to in the previous phases all require security in some shape or form. Moreover, security must be considered from every perspective to prevent malicious actors from finding and exploiting vulnerabilities in our cloud environments, which could potentially lead to data or infrastructure compromise.
 
-Here's one of my favorite articles by Christophe Tafani-Dereeper that covers Cloud Security Breaches and Vulnerabilities: [Cloud Security Breaches and Vulnerabilities: 2021 in Review](https://example.com).
+Here's one of my favorite articles by Christophe Tafani-Dereeper that covers Cloud Security Breaches and Vulnerabilities: [Cloud Security Breaches and Vulnerabilities: 2021 in Review](https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/).
 
 I also recommend checking out "Securing DevOps: Security in the Cloud" by Julien Vehent, which covers several core components for protecting cloud infrastructure, logging, detecting threats, and more. It even includes practical and visual aids that help in learning these concepts.
 
