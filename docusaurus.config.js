@@ -133,8 +133,8 @@ const config = {
               title: 'Community',
               items: [
                 {
-                  label: 'Contributors',
-                  href: '/contributors',
+                  label: 'Team',
+                  href: '/team',
                 },
                 {
                   label:'Code of Conduct',
