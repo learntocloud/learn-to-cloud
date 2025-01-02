@@ -20,7 +20,7 @@ The video playlist above will introduce you to several key concepts, but let's d
    - **[What is a Cloud Engineer and how to become one](https://youtu.be/7i1WMGxyt4Q):** What does a cloud engineer do, and what are the steps to become one?
 
 
-## Things you should be able familiar with at the end of this phase
+## Things you should be familiar with at the end of this phase
 
 1. Have a clear understanding of the basics of IT and cloud computing.
 2. Be prepared for continuous learning, as the tech field is ever-evolving.
@@ -31,10 +31,14 @@ The video playlist above will introduce you to several key concepts, but let's d
 
 **An industry standard for people getting into tech is the [CompTIA A+](https://www.comptia.org/certifications/a).**
 
-- Is it necessary? No.
-- Is it helpful? It depends on your learning style.
-- Did I take it? No.
-- Should you take it? It can be beneficial for your resume and may help you land support roles.
+- Is it necessary? 
+   - No.
+- Is it helpful? 
+   - It depends on your learning style.
+- Did I take it? 
+   - No.
+- Should you take it? 
+   - It can be beneficial for your resume and may help you land support roles. Look up roles in your area and if they ask for it, get it.
 
 ## Entry-Level Jobs
 

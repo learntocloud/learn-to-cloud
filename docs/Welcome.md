@@ -13,11 +13,11 @@ slug: /
 
 ## What is Learn to Cloud?
 
-Learn to Cloud is a program (not a book or course) that originated from [this tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en). The goal is to provide an outline of skills you need to learn Cloud Computing.
+Learn to Cloud is a program (not a book or course) that originated from [this tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en). The goal is to provide an outline of skills you need to learn Cloud Engineering.
 
 ## Is Cloud Still Worth Learning with the rise of AI?
 
-As AI advances, cloud infrastructure demand rises. Learn cloud and embrace tools like [GitHub Copilot](https://youtube.com/playlist?list=PLlrxD0HtieHgr23PS05FIncnih4dH9Na5) and [ChatGPT](https://openai.com/blog/chatgpt) ASAP to make you more productive and competitive.
+As AI advances, cloud infrastructure demand rises. Learn cloud and embrace tools like [GitHub Copilot](https://youtube.com/playlist?list=PLlrxD0HtieHgr23PS05FIncnih4dH9Na5) and [ChatGPT](https://openai.com/blog/chatgpt) ASAP in your learning journey.
 
 ## We Recommend You Watch These First
 

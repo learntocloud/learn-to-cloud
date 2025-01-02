@@ -7,9 +7,8 @@ Author: [GPS](https://twitter.com/madebygps)
 
 Programming is a fundamental skill for cloud engineering, enabling you to create, manage, and optimize cloud resources efficiently. 
 
-You don't need to know how to build UIs but you need to know how to work with APIs and other cloud services like storage, databases, etc. Knowing how to program will make you more competitive in the hiring market. Additionally, understanding prompt engineering with tools like GitHub Copilot can enhance your coding productivity and capabilities.
+You don't need to know how to build UIs but you need to know how to work with APIs and other cloud services like storage, databases, etc. Knowing how to program will make you more competitive in the hiring market.
 
-In the previous step you were introduced to programming basics and wrote your first Bash script. You can now leverage this knowledge and apply it to your choice of programming language.
 
 <!--truncate -->
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/AZhINW89kbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
