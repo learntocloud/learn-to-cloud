@@ -2,6 +2,11 @@
 
 Welcome, CTF participants! This guide will walk you through the seven challenges you'll face in this Linux Command Line Capture The Flag. Each challenge is designed to test a different aspect of your Linux skills. Remember, all flags are in the format CTF{some_text_here}.
 
+## IMPORTANT NOTE
+
+As you complete each challenge, we encourage you to take note of any concepts or commands you find challenging and to revisit them later for further study. Additionally, we kindly ask that you **DO NOT SHARE SOLUTIONS** in social media posts. We aim to discourage copying and pasting and request your support in this effort. Instead, share your reflections and unique perspectives along with the announcement that you’ve completed the labs.
+
+
 ## Environment Setup
 
 This CTF challenge requires you to deploy a lab environment in your preferred cloud provider, everything is automated, please refer to individual guides to setup the environment. And then proceed with the CTF Challenges.
@@ -17,10 +22,11 @@ Then follow the appropriate guide to deploy the environment.
 - [Azure](https://github.com/learntocloud/ltc-linux-challenge/tree/main/azure)
 - [GCP](https://github.com/learntocloud/ltc-linux-challenge/tree/main/gcp)
 
-## Finding help
+## Finding help and answers
 
 If you are stuck, leverage [man pages](https://itsfoss.com/linux-man-page-guide/)
 
+Compare your results with our [answer key](https://github.com/learntocloud/ltc-linux-challenge/blob/main/answer-key.md)
 ## Recommended Reading
 
 Optional but highly recommended books that you can use to learn more Linux and help you with this lab. Get the books, look up the command your stuck on in the appendix, read. These books are also great to go through entirely.
