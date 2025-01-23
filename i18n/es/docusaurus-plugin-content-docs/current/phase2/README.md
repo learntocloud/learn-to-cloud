@@ -45,7 +45,7 @@ Te sugerimos invertir tiempo en estos 3 temás con este cronograma::
 | Título                                                                                                                                                           | Descripción                                                                        |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [Crear tu perfil de GitHub](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) | Crear tun README para contrar a otros acerca de vos en GitHub                      |
-| [Enviar una Definición al Diccionario de Nube](https://definethecloud.guide/)                                                                                    | Aparece en la página de inicio de LTC y contribuí a un proyecto de código abierto! |
+| [Enviar una Definición al Diccionario de Nube](https://dictionary.learntocloud.guide/)                                                                                    | Aparece en la página de inicio de LTC y contribuí a un proyecto de código abierto! |
 | [7 Días de Python](https://7daysofpython.com/)                                                                                                                   | Crea un Blog impulsado por Python                                                  |
 
 ## Conceptos que te deberían ser familiar al final de esta fase
