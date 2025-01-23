@@ -75,7 +75,7 @@ const config = {
               label: 'Guide',
             },
       {
-              href: 'https://definethecloud.guide/',
+              href: 'https://dictionary.learntocloud.guide/',
               label: 'Cloud Dictionary',
               position: 'left',
             },
