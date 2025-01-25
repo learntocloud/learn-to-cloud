@@ -27,7 +27,7 @@ Use the `mkdir` and `cd` commands for this.
 - Action: Inside your `l2c` folder, clone the lab repository
 
   ``` sh
-  git clone https://github.com/rishabkumar7/ltc-labs 
+  git clone https://github.com/learntocloud/linux-ctfs
   ```
 
 We use markdown for our documentation, it's important you know how to work with it.
@@ -50,4 +50,4 @@ Here is a [great guide](https://www.freecodecamp.org/news/how-to-use-markdown-in
 - The lab repo should be cloned locally on your computer
 - Your README repo should be cloned locally on your computer
 
-Great, when you're ready, move on to [Cloud CLI](2-cli.md).
+Great, when you're ready, move on.

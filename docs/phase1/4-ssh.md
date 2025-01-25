@@ -6,4 +6,11 @@ Now you need to learn how to access a virtual machine via SSH.
 
 - Action: [Work through this exercise to practice your skills](https://learn.microsoft.com/training/modules/develop-on-remote-machine/)
 
-Great job! When you're ready, move on to [the CTFs](5-ctf.md)
+## SSH concepts you should know
+
+- What is SSH?
+- How to SSH into a VM from my local terminal
+- How to SSH using SSH keys (not passwords)
+
+
+Great job! When you're ready, move on
