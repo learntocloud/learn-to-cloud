@@ -7,122 +7,70 @@ Welcome, CTF participants! This guide will walk you through the seven challenges
 As you complete each challenge, we encourage you to take note of any concepts or commands you find challenging and to revisit them later for further study. Additionally, we kindly ask that you **DO NOT SHARE SOLUTIONS** in social media posts. We aim to discourage copying and pasting and request your support in this effort. Instead, share your reflections and unique perspectives along with the announcement that you’ve completed the labs.
 
 
-## Environment Setup
+## How to access
 
-This CTF challenge requires you to deploy a lab environment in your preferred cloud provider, everything is automated, please refer to individual guides to setup the environment. And then proceed with the CTF Challenges.
-Start by cloning [ltc-linux-challenge](https://github.com/learntocloud/ltc-linux-challenge) repo.
+This CTF challenge requires you to deploy a lab environment from your local machine to your preferred cloud provider, everything is automated via files we provide. We opted for this instead of hosted labs because it will give you the closest to real world experience. 
 
-```sh
-git clone https://github.com/learntocloud/ltc-linux-challenge
-```
+Start by going to the [repo](https://github.com/learntocloud/ltc-linux-challenge) as further instructions there.
 
-Then follow the appropriate guide to deploy the environment.
+## Linux concepts you should know
 
-- [AWS](https://github.com/learntocloud/ltc-linux-challenge/tree/main/aws)
-- [Azure](https://github.com/learntocloud/ltc-linux-challenge/tree/main/azure)
-- [GCP](https://github.com/learntocloud/ltc-linux-challenge/tree/main/gcp)
+### 1\. **File Listing and Navigation**
 
-## Finding help and answers
+### 1\. **File Listing and Navigation**
 
-If you are stuck, leverage [man pages](https://itsfoss.com/linux-man-page-guide/)
+-   **`ls`**: List files in a directory. Know how to use options like `-la` to show hidden files and detailed information.
+-   **`cd`**: Change directories.
+-   **`cat`**: Concatenate and display file contents.
 
-Compare your results with our [answer key](https://github.com/learntocloud/ltc-linux-challenge/blob/main/answer-key.md)
-## Recommended Reading
+### 2\. **Finding Files and Directories**
 
-Optional but highly recommended books that you can use to learn more Linux and help you with this lab. Get the books, look up the command your stuck on in the appendix, read. These books are also great to go through entirely.
+-   **`find`**: Search for files and directories by name, type, size, etc.
+-   **`du`**: Estimate file space usage. Often used with `sort` to find large files.
+-   **`grep`**: Search inside files for specific text patterns (often used with regular expressions).
 
-- Linux Basics for Hackers by OccupyTheWeb
-- The Linux Command Line by William Shotts
-- How Linux Works by Brian Ward
+### 3\. **Viewing and Manipulating File Content**
 
-## Challenge 1: The Hidden File
+-   **`cat`**: View file contents.
+-   **`tail`**: View the last few lines of a file, commonly used with logs.
+-   **`base64`**: Encode/decode data in base64 format.
 
-**Objective:** Find a hidden file in the `ctf_challenges` directory and read its contents.
+### 4\. **File Permissions and Ownership**
 
-**Skills tested:**
+-   **`find` with `-perm`**: Find files with specific permissions.
+-   **`chmod`**: Change file permissions.
+-   **`chown`**: Change file ownership.
 
-- Understanding of hidden files in Linux
-- Using `ls` with appropriate flags
-- Reading file contents
+### 5\. **Network and Services**
 
-**Hint:** In Linux, files that start with a dot (.) are considered hidden. How can you list all files, including hidden ones?
+-   **`netstat`**: Display active network connections, listening ports, and routing tables.
+-   **`curl`**: Transfer data from or to a server. Useful for interacting with web services.
+-   **`nc` (Netcat)**: A networking utility used for reading and writing data across network connections.
 
-## Challenge 2: The Secret File
+### 6\. **System Process and Job Control**
 
-**Objective:** Locate a file with the word "secret" in its name anywhere in the /home/ctf_user directory.
+-   **`ps`**: Display currently running processes.
+-   **`kill`**: Terminate a process by PID.
+-   **`top`**: Monitor system resources and processes in real-time.
+-   **`bg`, `fg`, `jobs`**: Manage background and foreground processes.
 
-**Skills tested:**
+### 7\. **Working with SSH and Remote Access**
 
-- Recursive file searching
-- Using grep or find commands
+-   **`find ~/.ssh`**: Find SSH keys or configurations.
+-   **`cat`**: Read SSH keys or authorized key files.
 
-**Hint:** The find command can search for files based on their names. How can you use it to search for a file containing "secret" in its name?
+### 8\. **Redirecting Output and Error Handling**
 
-## Challenge 3: The Largest Log
+-   **`2>/dev/null`**: Redirect error messages to null (useful to suppress unnecessary output).
 
-**Objective:** Find the largest file in the /var/log directory and retrieve the flag from it.
+### 9\. **File Management and Cleanup**
 
-**Skills tested:**
+-   **`rm`**: Remove files or directories.
+-   **`sort`**: Sort lines of text files.
 
-- Navigating directory structures
-- Sorting and filtering files based on size
-- Reading file contents
+### 10\. **Environment Variables and Shell Commands**
 
-**Hint:** The du command can help you find file sizes. How can you combine it with sort to find the largest file?
+-   **`export`**: Set environment variables.
+-   **`echo`**: Print text or the value of an environment variable.
 
-## Challenge 4: The User Detective
-
-**Objective:** Identify the user with UID 1001 and find the flag in their home directory.
-
-**Skills tested:**
-
-- Understanding user management in Linux
-- Reading the /etc/passwd file or using id command
-- Navigating to other users' home directories
-
-**Hint:** The /etc/passwd file contains information about user accounts. How can you search for a specific UID in this file?
-
-## Challenge 5: The Permissive File
-
-**Objective:** Locate the file owned by root with permissions 777 and read its contents.
-
-**Skills tested:**
-
-- Understanding Linux file permissions
-- Using find command with permission parameters
-- Reading file contents as a non-root user
-
-**Hint:** The find command can also search for files based on their permissions. What does 777 mean in terms of file permissions?
-
-## Challenge 6: The Hidden Service
-
-**Objective:** Find the process running on port 8080 and retrieve the flag from its command.
-
-**Skills tested:**
-
-- Using network-related commands (netstat, ss, or lsof)
-- Understanding process information
-- Reading process details
-
-**Hint:** The `netstat` or `ss` command can show you which processes are listening on which ports. How can you use these to find a process on a specific port?
-
-## Challenge 7: The Encoded Secret
-
-**Objective:** Decode the base64 encoded flag in the 'encoded_flag.txt' file.
-
-**Skills tested:**
-
-- Understanding of base64 encoding
-- Using command-line decoding tools
-
-**Hint:** Linux has a built-in command for base64 decoding. How can you use it to decode the contents of a file?
-
-## General Tips:
-
-1. Make use of man pages (e.g., man ls) to learn more about command options.
-2. The pipe operator (|) can be very useful for combining commands.
-3. Don't forget about command history! Use the up arrow or Ctrl+R to search for previously used commands.
-4. If you're stuck, try to break down the problem into smaller steps.
-5. Remember, Google is your friend! Looking up commands and their usage is a valuable skill in itself.
-
-Good luck, and happy hunting! Remember, the journey of learning is just as important as capturing the flags. Enjoy exploring the power of the Linux command line!
+Great job! When you're ready, move on
