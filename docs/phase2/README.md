@@ -31,5 +31,5 @@ By the end of this phase, you will have:
 | 1   | [Python](1-python.md)                    |
 | 2   | [APIs](2-api.md)                             |
 | 3   | [Rest API](3-fastapi.md)                  |
-| 4   | [Fast API](4-database.md)                       |
+| 4   | [Fast API](4-databases.md)                       |
 | 5   | [Build the app](5-build-app.md)                  |
