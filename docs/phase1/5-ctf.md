@@ -17,8 +17,6 @@ Start by going to the [repo](https://github.com/learntocloud/ltc-linux-challenge
 
 ### 1\. **File Listing and Navigation**
 
-### 1\. **File Listing and Navigation**
-
 -   **`ls`**: List files in a directory. Know how to use options like `-la` to show hidden files and detailed information.
 -   **`cd`**: Change directories.
 -   **`cat`**: Concatenate and display file contents.
