@@ -5,7 +5,7 @@ Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
 ## Como essa fase se aplica à Nuvem?
 
 Se você acha que não tem experiência em tecnologia, mas deseja entrar na computação em nuvem essa fase é para você. Se você já trabalha com tecnologia e está migrando para a nuvem,
-[Vá para a Fase 1: Fundamentos de Linux, Redes, e Scripts](../pt/phase1/README.md).
+[Vá para a Fase 1: Fundamentos de Linux, Redes, e Scripts](../phase1/README.md).
 
 Vamos começar.
 

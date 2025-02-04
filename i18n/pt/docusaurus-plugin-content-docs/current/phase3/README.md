@@ -45,7 +45,7 @@ Se tiver alguma coisa que você não entenda sobre um serviço ou comando, é pa
 
 ## Projetos
 
-Nós recomendamos que o seu primeiro projeto cloud seja o Desafio Currículo na Nuvem (Cloud Resume Challenge). Terminado isso, visite a [página Projects](../../projects/README.md) para mais!
+Nós recomendamos que o seu primeiro projeto cloud seja o Desafio Currículo na Nuvem (Cloud Resume Challenge). Terminado isso, visite a [página Projects](../projects/README.md) para mais!
 
 | Platforma | Título | Descrição |
 | :-------- | :----- | :-------- |
