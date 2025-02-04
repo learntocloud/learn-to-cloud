@@ -8,7 +8,7 @@ You don't need to know how to build UIs but you need to know how to work with AP
 
 As learners finish this phase, many will share their code. We recommend you do not copy and paste anybody's solution. You are only doing a disservice to yourself and will not make it in this field if that is the mentality you have.
 
-Additionally, we recommend you turn off any AI assistants you might have for code completion, though using AI to ask for explanations and clarification is highly recommended. We will continue to suggest prompts throughtout the guide.
+Additionally, we recommend you turn off any AI assistants you might have for code completion, though using AI to ask for explanations and clarification is highly recommended. We will continue to suggest prompts throughout the guide.
 
 ## Objectives
 

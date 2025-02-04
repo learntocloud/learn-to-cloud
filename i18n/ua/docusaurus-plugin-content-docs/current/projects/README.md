@@ -32,7 +32,7 @@
 Назва | Опис | Автор | Напрямок роботи |Складність
 ------|-------------|--------| --------| --------|
 [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)  | Створіть своє резюме за допомогою сервісів Azure  |  [GPS](https://twitter.com/madebygps) | AZ-204 | Associate
-[Serverless Resume API](https://youtu.be/kvjnUzyrXCU) | Подібно до попереднього проекту, за винятком того, що цей включав інтеграцію Blob Storage, IaC, CI/CD та підтримку devcontainer | [GPS](twitter.com/madebygps) | AZ-204 | Associate
+[Serverless Resume API](https://youtu.be/kvjnUzyrXCU) | Подібно до попереднього проекту, за винятком того, що цей включав інтеграцію Blob Storage, IaC, CI/CD та підтримку devcontainer | [GPS](https://twitter.com/madebygps) | AZ-204 | Associate
 [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/browse/) |   Архітектурні схеми та описи технологій для еталонних архітектур, реальні приклади хмарних архітектур та ідеї рішень для поширених робочих навантажень в Azure.   | Microsoft |Різний | Різна
 [Azure networking labs by Binal Shah](https://github.com/binals/azurenetworking)|  Цей набір лабораторних робіт з Azure Networking спрощено, щоб продемонструвати одну концепцію в кожній лабі за допомогою порталу Azure або інтерфейсу Azure CLI. | [Binal Shah](https://github.com/binals) | AZ-104 | Associate
 [Azure Pet Store by Chris Tremblay](https://chtrembl.github.io/azure-cloud/petstore/)|  Azure Pet Store складається з гіпотетичних програм з відкритим вихідним кодом, розроблених, щоб допомогти вам дізнатися про чудове програмне забезпечення та створювати його в Azure.| [Chris Tremblay](https://github.com/chtrembl) | AZ-204 | Associate

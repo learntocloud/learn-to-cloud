@@ -4,8 +4,8 @@
 
 Les gens sont parfois surpris de voir que cette phase n'est pas la première, alors qu'elle est la plus longue, et pour une bonne raison. En tant que professionnel du cloud, vous vivrez dans une ou plusieurs plateformes. Tout ce que vous construisez, soutenez, développez, etc, sera sur une plateforme. Voici quelques-unes des questions les plus fréquentes que nous recevons dans cette phase :
 
-- [Quel cloud apprendre?](../more-topics/FAQ.md)
-- [Les plateformes d'apprentissage du cloud payantes en valent-elles la peine ?](../more-topics/FAQ.md)
+- [Quel cloud apprendre?](../../../../../docs/resources/FAQ.md)
+- [Les plateformes d'apprentissage du cloud payantes en valent-elles la peine ?](../../../../../docs/resources/FAQ.md)
 
 ## Resources
 

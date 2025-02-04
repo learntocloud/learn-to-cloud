@@ -33,7 +33,7 @@ Title | Description | Author | Area of Focus |Difficulty
 Title | Description | Author | Area of Focus | Difficulty
 ------|-------------|--------| --------| --------|
 [Azure Cloud Resume Challenge](https://youtu.be/ieYrBWmkfno)  | Build your resume with Azure Services   |  [GPS](https://twitter.com/madebygps) | AZ-204 | Associate
-[Serverless Resume API](https://youtu.be/kvjnUzyrXCU) | Similar to the previous project except this one included Blob Storage integration, IaC, CI/CD, and devcontainer support | [GPS](twitter.com/madebygps) | AZ-204 | Associate
+[Serverless Resume API](https://youtu.be/kvjnUzyrXCU) | Similar to the previous project except this one included Blob Storage integration, IaC, CI/CD, and devcontainer support | [GPS](https://twitter.com/madebygps) | AZ-204 | Associate
 [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/browse/) |   Architecture diagrams and technology descriptions for reference architectures, real world examples of cloud architectures, and solution ideas for common workloads on Azure.   | Microsoft | Various | Various
 [Azure networking labs by Binal Shah](https://github.com/binals/azurenetworking)|  This set of Azure Networking labs are simplified to demonstrate a single concept in each lab, using Azure portal or Azure CLI. | [Binal Shah](https://github.com/binals) | AZ-104 | Associate
 [Azure Pet Store by Chris Tremblay](https://chtrembl.github.io/azure-cloud/petstore/)|  The Azure Pet Store is comprised of hypothetical open source applications developed to help you learn about and build awesome software on Azure| [Chris Tremblay](https://github.com/chtrembl) | AZ-204 | Associate

@@ -1,6 +1,6 @@
 # Topic 2: Rest API
 
-In the previous topic, the reccomended book introduced you to Django, so you should have some context and knowledge about how REST APIs work. In this step we want to further improve your knowledge on REST APIs.
+In the previous topic, the recommended book introduced you to Django, so you should have some context and knowledge about how REST APIs work. In this step we want to further improve your knowledge on REST APIs.
 
 - Study: [What Is REST API?](https://www.youtube.com/watch?v=-mN3VyJuCjM/) by Byte Byte Go
 - Study: [REST API Concepts and Examples](https://www.youtube.com/watch?v=7YcW25PHnAA) by WebConcepts

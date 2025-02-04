@@ -7,13 +7,13 @@ Si vous avez l’impression de n’avoir aucune expérience technologique, mais 
 
 On va s’y mettre.
 
-1. Je pense qu’une bonne première étape consiste à comprendre les fondements de la TI et [cette vidéo] (<https://youtu.be/awLnur5Yt9o>) est un aperçu fantastique.
+1. Je pense qu’une bonne première étape consiste à comprendre les fondements de la TI et [cette vidéo](https://youtu.be/awLnur5Yt9o) est un aperçu fantastique.
 
 2. La vidéo ci-dessus devrait vous aider à comprendre ce qui suit, mais examinons un peu plus en détail certains des principes fondamentaux du nuage.
 
    - [Qu’est-ce que Linux](https://youtu.be/PwugmcN1hf8)
    - [What is Networking](https://youtu.be/3QhU9jd03a0)
-   - [What is Programming] (<https://youtu.be/ifo76VyrBYo>)
+   - [What is Programming](https://youtu.be/ifo76VyrBYo)
    - [What is Cloud Computing](https://youtu.be/eZLcyTxi8ZI)
    - [Qu’est-ce que DevOps](https://youtu.be/9pZ2xmsSDdo/)
    - [Qu’est-ce qu’un ingénieur cloud et comment le devenir](https://youtu.be/7i1WMGxyt4Q)

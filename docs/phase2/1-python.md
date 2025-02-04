@@ -1,9 +1,12 @@
 # Topic 1: Python Basics
 
-In the previous topic, you were introduced to programming and Python. In this step we want to further improve your Python skills. 
+Python is a very popular programming language with many uses in cloud engineering and a great community, which is why we've selected it as the language to learn in this guide.
 
-- Study: [Python Crash Course](https://nostarch.com/pythoncrashcourse2e) by Eric Matthes
-We reccomend you work through every chapter and projects.
+- Study: 
+    - [Python Crash Course](https://nostarch.com/pythoncrashcourse2e) by Eric Matthes
+
+    - Go through the entire book, take it a chapter a day and you should be able to get it done in a month with a couple of hours of study per day.
+
 
 This book is a great resource for beginners to learn Python programming. It covers the basics of Python syntax, data structures, functions, and modules. The book also includes hands-on projects to help you practice your skills and build real-world applications. 
 
