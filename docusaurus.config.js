@@ -10,8 +10,8 @@ const config = {
   title: 'Learn to Cloud',
   url: 'https://learntocloud.guide',
   baseUrl: '/',
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
