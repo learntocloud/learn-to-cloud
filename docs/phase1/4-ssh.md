@@ -4,7 +4,10 @@ Now you need to learn how to access a virtual machine via SSH.
 
 - Study: [What is SSH](https://www.cloudflare.com/learning/access-management/what-is-ssh/)
 
-- Action: [Work through this exercise to practice your skills](https://learn.microsoft.com/training/modules/develop-on-remote-machine/)
+- Action: 
+    - [Azure: Work through this exercise to practice your skills](https://learn.microsoft.com/training/modules/develop-on-remote-machine/)
+    - [AWS: Work through this exercise to practice your skills](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connect-linux-inst-ssh.html)
+
 
 ## SSH concepts you should know
 
