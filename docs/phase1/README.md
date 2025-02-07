@@ -25,6 +25,6 @@ By the end of this phase, you will have:
 | 2   | [Cloud CLI](2-cli.md)               
 | 3   | [Infrastructure as Code](3-iac.md)     
 | 4   | [SSH](4-ssh.md)     | 
-| 5   | [CTFs](5-ctf.md) |
-| 7   | [Recommended Reading](6-read.md)       
+| 5   | [CLI basics](5-clibasics.md) |
+| 7   | [CTF Lab](6-ctf.md)       
 
