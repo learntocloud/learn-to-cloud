@@ -5,9 +5,12 @@ slug: /
 
 # Welcome
 
-
+## ☁️ What is Learn to Cloud
 
 Learn to Cloud (L2C) is a junior cloud engineering courseware built on the belief that anyone can learn foundational cloud engineering skills with the right guide and discipline. 
+
+## 💻 Why should I use it?
+
 Our platform is intentionally:
 
 - **designed to guide, not handhold**
@@ -16,24 +19,24 @@ Our platform is intentionally:
 
 - **focused on practice with purpose**
 
-    L2C balances hands-on learning with carefully integrated theory to promote intentional learning rather than passive progression.
+    We balance hands-on learning with carefully integrated theory to promote intentional learning rather than passive progression.
 
 - **constantly evolving**
 
-    As technology changes, so does our guide. Expect updates that keep it relevant and aligned with industry standards.
+    Built and updated by professionals who actively work in the field. Expect updates that keep it relevant and aligned with industry standards.
 
-## Cost?
+## 🤑 Cost?
 
 No cost, no account needed, nothing. You have no excuses. L2C is open source and free, and the resources we recommend are either free or very affordable.
 
-## I have questions
+## ⁉️ I have questions
 
 Ask questions in [Discord](https://discord.learntocloud.guide)
 
 For updates follow [GPS](https://x.com/madebygps), [Rishab](https://x.com/rishabincloud), and [L2C](https://x.com/learntocloud) on X.
 
 
-## What do you need to know before starting?
+## 💪🏽 What do you need to know before starting?
 
 The only requirements are motivation and discipline - these are aspects we cannot provide for you.
 
