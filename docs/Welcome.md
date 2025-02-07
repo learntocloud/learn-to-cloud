@@ -8,16 +8,15 @@ Learn to Cloud (L2C) is a comprehensive courseware that maps out the journey to 
 
 - Curated learning resources
 - Theoretical foundations
-- Hands-on laboratory exercises
-- Progressive skill development phases
+- Hands-on labs
 
-What makes L2C unique is its intentional design philosophy. While providing structured content and practical exercises, it deliberately incorporates learning gaps that encourage:
+One thing that makes L2C different is how we designed it. Yes, we give you content and exercises, but we also leave some gaps on purpose. Why? Because we want you to:
 
-- Self-sufficiency in problem-solving
-- Independent research skills
-- Real-world troubleshooting abilities
+- Learn to solve problems on your own
+- Get good at finding answers
+- Figure out real-world issues like you would on the job
 
-Each phase builds upon the previous ones, ensuring learners develop a well-rounded foundation in cloud engineering. This combination of structured content and strategic knowledge gaps helps prepare learners for the realities of working in cloud engineering, where both technical knowledge and problem-solving abilities are essential.
+You'll need to complete each phase before moving to the next one. This way, you'll build a solid foundation in cloud engineering. By combining what we teach you with the stuff you figure out on your own, you'll be better prepared for an actual cloud engineering job.
 
 ## What do you need to know before starting?
 
