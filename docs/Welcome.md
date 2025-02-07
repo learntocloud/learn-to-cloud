@@ -3,24 +3,29 @@ sidebar_position: 1
 slug: /
 ---
 
-[![GitHub license](https://img.shields.io/github/license/learntocloud/learn-to-cloud.svg)](https://github.com/learntocloud/learn-to-cloud/blob/master/LICENSE)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+Learn to Cloud (L2C) is a comprehensive courseware that maps out the journey to becoming a junior cloud engineer. [Originating from a viral tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en), it has evolved into a robust learning platform that provides:
 
-[![GitHub forks](https://img.shields.io/github/forks/learntocloud/learn-to-cloud.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/learntocloud/learn-to-cloud/network/)
+- Curated learning resources
+- Theoretical foundations
+- Hands-on laboratory exercises
+- Progressive skill development phases
 
-[![GitHub stars](https://img.shields.io/github/stars/learntocloud/learn-to-cloud.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/learntocloud/learn-to-cloud/stargazers/)
+What makes L2C unique is its intentional design philosophy. While providing structured content and practical exercises, it deliberately incorporates learning gaps that encourage:
 
-## What is Learn to Cloud?
+- Self-sufficiency in problem-solving
+- Independent research skills
+- Real-world troubleshooting abilities
 
-Learn to Cloud is a program (not a book or course) that originated from [this tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en). The goal is to provide an outline of skills you need to learn Cloud Engineering.
+Each phase builds upon the previous ones, ensuring learners develop a well-rounded foundation in cloud engineering. This combination of structured content and strategic knowledge gaps helps prepare learners for the realities of working in cloud engineering, where both technical knowledge and problem-solving abilities are essential.
 
-## Is Cloud Still Worth Learning with the rise of AI?
+## What do you need to know before starting?
 
-As AI advances, cloud infrastructure demand rises. Learn cloud and embrace tools like [GitHub Copilot](https://youtube.com/playlist?list=PLlrxD0HtieHgr23PS05FIncnih4dH9Na5) and [ChatGPT](https://openai.com/blog/chatgpt) ASAP in your learning journey.
+L2C is open source and free, and the resources we recommend are either free or very affordable.
+The only requirements are motivation and discipline - these are aspects we cannot provide for you.
 
-## We Recommend You Watch These First
+Our guide is constantly updated to meet market demands and is maintained by professionals who actively work in the cloud engineering space. For updates please follow [GPS](https://x.com/madebygps), [Rishab](https://x.com/rishabincloud), and [L2C](https://x.com/learntocloud) on X
 
-- [How I became a Cloud Engineer with no college degree](https://youtu.be/kluKaLXJ2lg)
-- [From Help Desk to Cloud Admin: How Skylar Succeeded with Learn to Cloud](https://www.youtube.com/watch?v=vqv1EhI8azs)
-- [How to Get Your First Job in Cloud (roadmap for bootcamp grads, beginners, no experience)](https://youtu.be/BfaRP2stZTo)
+Breaking into tech has never been easy, despite what some content creators might suggest. This journey will be challenging, but if you have a genuine interest in cloud engineering, it will be worth your effort.
+
+Good luck on your journey!
