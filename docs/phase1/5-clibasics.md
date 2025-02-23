@@ -1,137 +1,140 @@
-# Topic 5: Linux Bash basics
+# Topic 5: Linux Bash Basics
 
-You need to have CLI skills to work with cloud. We recommend you read [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers#content). You could also go through the list of commands below and research them individually, though we recommend the book. 
+You need to have linux cli skills to work with cloud. We recommend you read [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers#content). You could also go through the list of commands below and research them individually, though we recommend the book.
 
-
-Foundational Commands
----------------------
+## Foundational Commands
 
 Before starting the challenges, familiarize yourself with these essential commands:
 
--   `pwd`: Print working directory - shows your current location
--   `cd`: Change directory - navigate between folders
--   `ls`: List directory contents
--   `cat`: Display file contents
+- `pwd`: Print working directory – shows your current location.
+- `cd`: Change directory – navigate between folders.
+- `ls`: List directory contents.
+- `cat`: Display file contents.
 
-Challenge 1: Hidden Files
--------------------------
+## Challenge 1: Hidden Files
 
 Learn these commands to find hidden files:
 
--   `ls -a`: List all files, including hidden ones
--   `ls -la`: Detailed listing including hidden files
--   `find . -name ".*"`: Search for hidden files
+- `ls -a`: List all files, including hidden ones.
+- `ls -la`: Detailed listing including hidden files.
+- `find . -name ".*"`: Search for hidden files.
 
-Key concepts:
+**Key concepts:**
 
--   In Linux, hidden files start with a dot (.)
--   Hidden files are not shown by default
--   Use `-a` flag with `ls` to show hidden files
+- In Linux, hidden files start with a dot (`.`).
+- Hidden files are not shown by default.
+- Use the `-a` flag with `ls` to show hidden files.
 
-Challenge 2: File Searching
----------------------------
+## Challenge 2: File Searching
 
 Master these file search commands:
 
--   `find /path -name "pattern"`: Search for files by name
--   `find /path -type f`: Search for regular files
--   `locate filename`: Quick file search using database
--   `grep -r "text" /path`: Search file contents recursively
+- `find /path -name "pattern"`: Search for files by name.
+- `find /path -type f`: Search for regular files.
+- `locate filename`: Quick file search using a database.
+- `grep -r "text" /path`: Recursively search file contents.
 
-
-Challenge 3: File Size Analysis
--------------------------------
+## Challenge 3: File Size Analysis
 
 Commands for analyzing file sizes:
 
--   `ls -lh`: List files with human-readable sizes
--   `du -h`: Display disk usage
--   `sort -h`: Sort by human-readable sizes
--   `find /path -type f -size +1M`: Find files larger than 1MB
+- `ls -lh`: List files with human-readable sizes.
+- `du -h`: Display disk usage.
+- `sort -h`: Sort by human-readable sizes.
+- `find /path -type f -size +1M`: Find files larger than 1MB.
 
-Challenge 4: User Investigation
--------------------------------
+## Challenge 4: User Investigation
 
 Commands for user management:
 
--   `id username`: Display user ID and groups
--   `cat /etc/passwd`: View user accounts
--   `getent passwd uid`: Get user by UID
--   `ls -l /home/`: List home directories
+- `id username`: Display user ID and groups.
+- `cat /etc/passwd`: View user accounts.
+- `getent passwd uid`: Get user by UID.
+- `ls -l /home/`: List home directories.
 
-Understanding user files:
+**Understanding user files:**
 
--   `/etc/passwd`: User account information
--   `~/.profile`: User's shell profile
--   `~/.bashrc`: Shell configuration
+- `/etc/passwd`: User account information.
+- `~/.profile` and `~/.bashrc`: Shell configuration files.
 
-Challenge 5: Permission Analysis
---------------------------------
+## Challenge 5: Permission Analysis
 
 Commands for working with permissions:
 
--   `ls -l`: View file permissions
--   `stat filename`: Detailed file information
--   `find / -perm 777`: Find files with specific permissions
--   `chmod`: Change file permissions
+- `ls -l`: View file permissions.
+- `stat filename`: Detailed file information.
+- `find / -perm 777`: Find files with specific permissions.
+- `chmod`: Change file permissions.
 
-
-Challenge 6: Network Services
------------------------------
+## Challenge 6: Network Services
 
 Network investigation commands:
 
--   `netstat -tuln`: List listening ports
--   `ss -tuln`: Modern alternative to netstat
--   `lsof -i`: List open network files
--   `curl localhost:port`: Test HTTP service
--   `nc -zv host port`: Test TCP connection
+- `netstat -tuln`: List listening ports.
+- `ss -tuln`: Modern alternative to netstat.
+- `lsof -i`: List open network files.
+- `curl localhost:port`: Test HTTP service connectivity.
+- `nc -zv host port`: Test TCP connection.
 
-
-Challenge 7: Encoding/Decoding
-------------------------------
+## Challenge 7: Encoding/Decoding
 
 Text processing commands:
 
--   `base64`: Encode/decode base64
--   `echo -n "text"`: Echo without newline
--   `|`: Pipe operator for command chaining
+- `base64`: Encode or decode text.
+- `echo -n "text"`: Echo without a newline.
+- The pipe operator (`|`) for chaining commands.
 
+## Challenge 8: SSH Configuration
 
+SSH-related commands and best practices:
 
-Challenge 8: SSH Configuration
-------------------------------
+- `ls -la ~/.ssh/`: List SSH directory contents.
+- `find ~/.ssh -type f`: Find SSH-related files.
+- `chmod 600`: Set secure file permissions for keys.
+- `ssh-keygen`: Generate SSH keys.
 
-SSH-related commands:
+**Best practices:**
 
--   `ls -la ~/.ssh/`: List SSH directory contents
--   `find ~/.ssh -type f`: Find SSH-related files
--   `chmod 600`: Set correct SSH key permissions
--   `ssh-keygen`: Generate SSH keys
+- Keep your private keys secure.
+- Ensure correct file permissions (e.g., 600 for keys).
+- Review your `authorized_keys` file.
 
-SSH security best practices:
+## Challenge 9: DNS Troubleshooting
 
--   Keep private keys secure
--   Set correct permissions (600 for keys)
--   Check hidden directories
--   Review authorized_keys files
+Now that the challenges include DNS configuration issues, learn to compare and edit configuration files:
 
-General Tips
-------------
+- Familiarize yourself with `/etc/resolv.conf` and its backup.
+- Practice using file comparison tools to spot differences.
+- Review editing commands to modify files safely.
 
-1.  Use command combinations 
+## Challenge 10: Remote Upload
 
+In this challenge, you'll trigger a flag by uploading a file:
 
-1.  Navigate efficiently:
+- Understand common methods to transfer files (such as using secure copy or similar utilities).
+- Learn how to work with remote directories to detect new files.
+- Experiment with different file transfer approaches.
 
-    -   Use tab completion
-    -   Use `cd -` to go to previous directory
-    -   Use `cd ..` to go up one level
+## Challenge 11: Web Configuration
 
-1.  Debug your commands:
+This challenge involves identifying a web server's non-standard port:
 
-    -   Add `-v` or `--verbose` for more information
-    -   Check command syntax with `man`
-    -   Use `which command` to verify command location
+- Learn how to locate and review configuration files (for example, those for `nginx`).
+- Familiarize yourself with the basics of service management to restart or reload services.
+- Understand how configuration settings affect the behavior of web servers.
 
-Remember: The goal is to learn the commands and understand how they work. Take time to experiment with each command and understand its options and behavior.
+## Challenge 12: Network Traffic Analysis
+
+In the latest challenge, you will analyze network traffic to discover hidden messages:
+
+- Get familiar with network traffic capture methods.
+- Learn to inspect packet contents for hidden data.
+- Experiment with network analysis tools without relying on exact command recipes.
+
+## General Tips
+
+1. Use `man` pages to understand command options.
+2. Experiment with various command combinations and piping techniques.
+3. Work through each challenge to build your understanding incrementally.
+
+Remember: The goal is to learn the commands and understand how they work. Take time to experiment with each command and explore its options and behaviors.
