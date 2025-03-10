@@ -7,7 +7,6 @@ Python is a very popular programming language with many uses in cloud engineerin
 
     - Go through the entire book, take it a chapter a day and you should be able to get it done in a month with a couple of hours of study per day.
 
-
 This book is a great resource for beginners to learn Python programming. It covers the basics of Python syntax, data structures, functions, and modules. The book also includes hands-on projects to help you practice your skills and build real-world applications. 
 
 ## Test your knowledge
