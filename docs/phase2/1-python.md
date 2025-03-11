@@ -24,3 +24,4 @@ Test your knowledge with an AI assistant, here are some example prompts to test 
 8. Can you quiz me on how to read and write files in Python?
 9. Can you ask me about generators in Python and how they differ from regular functions?
 10. Can you quiz me on how to use the `map`, `filter`, and `reduce` functions in Python?
+
