@@ -1,13 +1,15 @@
 # Topic 2: Security and Identity Management
+
 This section focuses on identity and access management (IAM) to control permissions and protect cloud resources, as well as securing cloud instances using security groups and firewall rules.
 
-
 - Study
-    - IAM concepts: Users, Groups, Roles, Policies across [AWS](https://medium.com/%40MadhavPrajapati/getting-started-with-aws-iam-users-groups-policies-and-role-fee140ed1e93), [Azure](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal), and [GCP](https://cloud.google.com/iam/docs/overview)
-   
-    - [AWS Security Groups](https://www.youtube.com/watch?v=uYDT2SsHImQ) vs. [Azure Network Security Groups](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview) vs. [GCP Firewall Rules](https://cloud.google.com/firewall/docs/firewalls)
-    
+
+  - IAM concepts: Users, Groups, Roles, Policies across [AWS](https://medium.com/%40MadhavPrajapati/getting-started-with-aws-iam-users-groups-policies-and-role-fee140ed1e93), [Azure](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal), and [GCP](https://cloud.google.com/iam/docs/overview)
+
+  - [AWS Security Groups](https://www.youtube.com/watch?v=uYDT2SsHImQ) vs. [Azure Network Security Groups](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview) vs. [GCP Firewall Rules](https://cloud.google.com/firewall/docs/firewalls)
+
 ## Test your Knowledge
+
 After studying, test your knowledge with these AI prompts:
 
 1. What is the difference between IAM Users, Groups, and Roles?
@@ -19,8 +21,8 @@ After studying, test your knowledge with these AI prompts:
 7. How do security groups differ from network ACLs in cloud networking?
 8. What is the significance of stateful vs. stateless rules in cloud security?
 
-
 ## Hands-on Task
+
 - Create IAM users and groups with specific permissions in cloud platform.
 - Implement IAM roles for secure access management
 - Define and apply IAM policies to restrict access to sensitive resources
@@ -29,6 +31,3 @@ After studying, test your knowledge with these AI prompts:
 - Define outbound rules to control external communication.
 - Apply security group rules to a VM and verify access restrictions.
 - Test traffic flow by attempting to connect from an allowed and a restricted IP address.
-
-
-
