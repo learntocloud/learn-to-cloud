@@ -18,8 +18,8 @@ Now that you've got some Python skills under your belt, we've got an old codebas
 Implement missing endpoints in `journal_router.py`:
 
 - [ ] GET /entries - List all entries
-- [ ] GET /entries/{id} - Get single entry
-- [ ] DELETE /entries/{id} - Delete entry
+- [ ] GET /entries/\{id\} - Get single entry
+- [ ] DELETE /entries/\{id\} - Delete entry
 - [ ] Add request/response validation
 - [ ] Add error handling
 
