@@ -1,6 +1,6 @@
 # Topic 7: Capstone
 
-Deploy a FastAPI application and a PostgreSQL database on a VM within a Cloud network. Configure networking, security groups, and access controls to allow secure communication between the servers while restricting unauthorized access.
+Now with all those cloud skills you have gained, it is time to deploy the API you built in Phase 2 Capstone. You are going to deploy a FastAPI application and a PostgreSQL database on a VM within a Cloud network. Configure networking, security groups, and access controls to allow secure communication between the servers while restricting unauthorized access.
 
 ## Capstone Steps
 
@@ -38,20 +38,12 @@ Deploy a FastAPI application and a PostgreSQL database on a VM within a Cloud ne
     - Create the database and user needed for FastAPI to connect.
     - Create the ```entries``` table within the database.
 
-    your entries table could look like this:
-
-    | Column       | Type                     | Description              |
-    |-------------|--------------------------|--------------------------|
-    | `id`        | UUID                      | Unique identifier       |
-    | `data`      | JSONB                     | Stores entry data       |
-    | `created_at` | TIMESTAMP WITH TIME ZONE | Entry creation time     |
-    | `updated_at` | TIMESTAMP WITH TIME ZONE | Last update timestamp   |
-
-
 4. **Test API-Database Communication:**
     - Ensure the API is correctly interacting with the PostgreSQL database by testing read and write operations.
-    - Test the different Endpoints using this format 
-        ```http://<elastic-ip>:<port-number>/<api-endpoint>```
+    - Test the different Endpoints using this format
+
+        ```sh
+        http://<elastic-ip>:<port-number>/<api-endpoint>```
 
         ```eg
         http://52.32.59.145:8000/entries
