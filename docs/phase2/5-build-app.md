@@ -54,10 +54,10 @@ curl -X POST http://localhost:8000/entries \
 curl http://localhost:8000/entries
 
 # Get single entry (replace {id} with actual UUID)
-curl http://localhost:8000/entries/{id}
+curl http://localhost:8000/entries/\{id\}
 
 # Update an entry
-curl -X PUT http://localhost:8000/entries/{id} \
+curl -X PUT http://localhost:8000/entries/\{id\} \
   -H "Content-Type: application/json" \
   -d '{
     "work": "Updated work entry",
@@ -66,7 +66,7 @@ curl -X PUT http://localhost:8000/entries/{id} \
   }'
 
 # Delete an entry
-curl -X DELETE http://localhost:8000/entries/{id}
+curl -X DELETE http://localhost:8000/entries/\{id\}
 
 # Delete all entries
 curl -X DELETE http://localhost:8000/entries
