@@ -167,18 +167,18 @@ const config = {
           darkTheme: darkCodeTheme,
         },
 
-        algolia: {
-          // The application ID provided by Algolia
-          appId: process.env.ALGOLIA_APP_ID,
+        // algolia: {
+        //   The application ID provided by Algolia
+        //   appId: process.env.ALGOLIA_APP_ID,
 
-          // Public API key
-          apiKey: process.env.ALGOLIA_API_KEY,
+        //   Public API key
+        //   apiKey: process.env.ALGOLIA_API_KEY,
 
-          indexName: "learntocloud",
+        //   indexName: "learntocloud",
 
-          // Ensures search results are relevant to the current language and version
-          contextualSearch: true,
-        },
+        //   Ensures search results are relevant to the current language and version
+        //   contextualSearch: true,
+        // },
         announcementBar: {
           id: 'Learn Cloud',
           content:
