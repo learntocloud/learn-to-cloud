@@ -1,6 +1,15 @@
 ## Cloud Security Fundamentals Resources
 
-### General
+### Beginner Resources for Junior Engineers
+
+| Resource Type | Title | Description | Link |
+| ------------- | ----- | ----------- | ---- |
+| Videos | Cloud Security Concepts | Free YouTube playlist covering cloud security basics | [YouTube - Cloud Security Concepts](https://www.youtube.com/playlist?list=PLhr1KZpdzukf_Dfg4AaXdQkC_JJX9-Gk8) |
+| Reading | Cloud Security Best Practices | Free eBook covering security fundamentals | [Snyk - Cloud Security 101](https://snyk.io/learn/cloud-security/) |
+| Interactive | TryHackMe | Cloud security rooms with step-by-step learning | [TryHackMe - Cloud Security](https://tryhackme.com/module/cloud-security) |
+| Reference | Cloud Security Alliance | Fundamentals and reference documentation | [CSA - Guidance](https://cloudsecurityalliance.org/research/guidance/) |
+
+### General Resources
 
 | Cloud Platform             | Title                                                                                                                                  | Description                                                                                                                                                                         |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -18,6 +27,14 @@
 | Azure                      | [Azure Goat](https://github.com/ine-labs/AzureGoat)                                                                                    | AzureGoat: A Damn Vulnerable Azure Infrastructure.                                                                                                                                  |
 | Azure                      | [Purple Cloud](https://github.com/iknowjason/PurpleCloud)                                                                              | A tool to experiment with Azure Identity and create an Azure Active Directory lab environment.                                                                                      |
 
+## Guided Learning Paths
+
+| Provider | Title | Description | Link |
+| -------- | ----- | ----------- | ---- |
+| AWS | Security Learning Path | Free official security learning path | [AWS Skill Builder - Security](https://explore.skillbuilder.aws/learn/public/learning_plan/view/96/security-learning-plan) |
+| Azure | Microsoft Learn - Security | Free structured learning modules | [Microsoft Learn - Security](https://learn.microsoft.com/en-us/training/browse/?products=azure&subject=security) |
+| GCP | Google Cloud Security | Free security path by Google | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/16) |
+
 
 ## Online CTFs & Labs
 
@@ -33,8 +50,6 @@
 | Cloud Platform | Title                                                             | Description                                            |
 | -------------- | ----------------------------------------------------------------- | ------------------------------------------------------ |
 | GCP            | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) | The official cloud training resource from Google Cloud |
-
-
 
 
 ## Self-Hosted CTFs & Labs
