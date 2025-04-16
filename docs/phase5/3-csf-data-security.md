@@ -1,6 +1,12 @@
-# III. Data Security
+# Topic 3: Data Security
 
 Data is the crown jewel of your cloud environment, and without solid security measures in place, even the best infrastructure can fall apart. In this section, we'll break down the essential components of data protection—from how you encrypt your data to the processes that prevent accidental leakage.
+
+## Study
+- Understanding [Data Classification](https://csrc.nist.gov/glossary/term/data_classification) and sensitivity levels
+- Learning about [Encryption methods](https://cloud.google.com/security/encryption) for cloud data (at rest, in transit)
+- Exploring [Key Management Services](https://aws.amazon.com/kms/features/) in cloud environments
+- Understanding [Data Loss Prevention](https://learn.microsoft.com/en-us/azure/information-protection/what-is-information-protection) techniques
 
 ## Getting Started with Data Security for Junior Engineers
 
@@ -20,6 +26,16 @@ Data security in the cloud can initially seem abstract compared to physical stor
 2. **Learn encryption fundamentals** - Understand symmetric vs. asymmetric encryption
 3. **Master access controls** - Configure proper permissions before focusing on advanced techniques
 4. **Use managed services** - Start with provider KMS services instead of building custom solutions
+
+## Test Your Knowledge
+
+Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of cloud data security:
+
+1. Explain the different encryption options available for data at rest and data in transit.
+2. How would you implement a data classification system in a cloud environment?
+3. What strategies would you use to prevent data leakage in a multi-cloud environment?
+4. Compare and contrast client-side encryption vs. server-side encryption for cloud storage.
+5. How do key management services work in cloud environments and why are they important?
 
 ## Data Protection Strategies
 

@@ -1,8 +1,16 @@
-# IV. Network Security in Cloud Environments
+# Topic 4: Network Security in Cloud Environments
 
 Network security in the cloud is all about building secure connections, creating logical separations between resources, and defending against both internal and external threats. Here's how to approach it:
 
+## Study
+- Understanding [Virtual Private Clouds (VPC)](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html) and network isolation
+- Learning about [Security Groups and NACLs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html) for access control
+- Exploring [Cloud Load Balancing](https://cloud.google.com/load-balancing/docs/load-balancing-overview) and traffic management
+- Understanding [Virtual Private Networks (VPN)](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways) in cloud environments
+
 ## Getting Started with Cloud Network Security for Junior Engineers
+
+![Network security|480x270](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWExMHE4d2IxamNtd2cxODZzeTQxMXpmMXNuMGpmN2podDk2MXp5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KdrSWXS2JovQjS17fq/giphy.gif)
 
 Network security in the cloud can feel particularly abstract because the physical devices (routers, switches, firewalls) are replaced with software-defined equivalents. Let's bridge this gap:
 
@@ -21,6 +29,16 @@ Network security in the cloud can feel particularly abstract because the physica
 2. **Learn subnet principles** - Practice dividing networks into logical segments
 3. **Understand stateful vs. stateless filtering** - See how Security Groups differ from Network ACLs
 4. **Draw your network design** - Visualize your architecture before implementing
+
+## Test Your Knowledge
+
+Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of cloud network security:
+
+1. What's the difference between Security Groups and Network ACLs in cloud environments?
+2. How would you design a secure VPC architecture with public and private subnets?
+3. Explain how traffic flows between subnets in a cloud environment and where security controls can be applied.
+4. What are the best practices for securing API gateways in the cloud?
+5. How would you implement network segmentation in a multi-tier application?
 
 ## Virtual Network Architecture
 

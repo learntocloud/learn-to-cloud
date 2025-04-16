@@ -1,6 +1,12 @@
-# V. Compliance, Governance, and Risk Management
+# Topic 5: Compliance, Governance, and Risk Management
 
 Compliance, governance, and risk management might sound like bureaucratic hurdles, but they're essential for ensuring your cloud operations are secure, compliant, and trusted. This section covers the regulatory frameworks, cloud-specific standards, and best practices you need to know.
+
+## Study
+- Understanding core [Compliance frameworks](https://aws.amazon.com/compliance/programs/) for cloud (GDPR, HIPAA, PCI-DSS)
+- Learning about [Cloud Security Governance](https://cloud.google.com/security/compliance/governance) fundamentals
+- Exploring [Risk Assessment](https://csrc.nist.gov/Projects/risk-management/risk-assessment-methods) methodologies for cloud environments
+- Understanding [Automated Compliance](https://learn.microsoft.com/en-us/azure/governance/policy/overview) tools in cloud platforms
 
 ## Getting Started with GRC for Junior Engineers
 
@@ -20,6 +26,16 @@ Governance, Risk, and Compliance (GRC) can be one of the more abstract areas for
 2. **Focus on technical controls first** - Learn the actual cloud configurations that satisfy compliance requirements
 3. **Use provider compliance tools** - AWS Config, Azure Policy, and GCP Security Command Center can automate compliance checks
 4. **Document as you build** - Get in the habit of documenting compliance evidence as you implement controls
+
+## Test Your Knowledge
+
+Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of compliance, governance, and risk management:
+
+1. How would you implement controls to meet GDPR requirements in a cloud environment?
+2. What's the difference between SOC 2 Type 1 and Type 2 compliance, and how does cloud architecture impact this?
+3. Explain how you would assess and mitigate risks when migrating sensitive data to the cloud.
+4. What cloud-native tools can help automate compliance monitoring and reporting?
+5. How would you handle compliance in a multi-cloud environment with different regulatory requirements?
 
 ## Regulatory Requirements
 

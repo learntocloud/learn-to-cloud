@@ -1,10 +1,13 @@
 # Phase 5: Cloud Security Fundamentals
 
+Welcome to Phase 5 of Learn to Cloud! This phase is dedicated to cloud security fundamentals - the essential concepts, strategies, and practices to protect cloud environments. You'll learn about identity management, data protection, network security, and more. With hands-on labs and real-world examples, you'll develop the security mindset needed to build and maintain secure cloud systems.
+
 Author: [Ethan Troy](https://hackidle.com) | Last Updated: April 2025
 
 <details>
 <summary>Table of Contents</summary>
 
+- [Objectives](#objectives)
 - [How Cloud Security Applies to Your Journey](#how-cloud-security-applies-to-your-journey) 
 - [Welcome to Cloud Security!](#welcome-to-cloud-security)
   - [The Double-Edged Sword of Cloud Abstraction](#the-double-edged-sword-of-cloud-abstraction)
@@ -12,12 +15,25 @@ Author: [Ethan Troy](https://hackidle.com) | Last Updated: April 2025
 - [How to Use This Section](#how-to-use-this-section)
   - [The Power of Problem-Based Learning](#the-power-of-problem-based-learning)
   - [Embracing Your Own Learning Path](#embracing-your-own-learning-path)
-- [Learning Path](#learning-path)
+- [Prerequisites](#prerequisites)
+- [Topics](#topics)
 - [Additional Resources](#additional-resources)
-- [Quick Start Resources](#quick-start-resources)
 - [What's Next?](#whats-next)
 
 </details>
+
+## Objectives
+
+By the end of this phase, you will:
+
+- Understand core cloud security principles and frameworks
+- Implement identity and access management best practices
+- Apply data protection and encryption strategies
+- Configure secure network environments
+- Establish monitoring and incident response processes
+- Identify common threats and vulnerabilities in cloud systems
+- Navigate compliance and governance requirements
+- Complete hands-on security labs and exercises
 
 ## How Cloud Security Applies to Your Journey
 
@@ -51,13 +67,11 @@ Cloud technologies create powerful abstractions that make deployment and scaling
 - **Hidden complexity**: The underlying network, hardware, and protocols are less visible
 - **Knowledge gaps**: Without understanding what's "under the hood," security blind spots emerge
 
-**Building foundational skills with physical hardware** like a home network or NAS (Network Attached Storage) can significantly improve your cloud security understanding. Working directly with:
+**Building foundational skills with physical hardware** (like a home network or NAS - Network Attached Storage) can significantly improve your cloud security understanding. Working directly with:
 - Network ports and protocols
 - Firewall configurations 
 - Storage security
 - Authentication mechanisms
-
-...creates tangible knowledge that transfers directly to cloud environments, giving you more confidence and context when securing abstract cloud resources.
 
 ### Why This Matters for Your Career
 
@@ -101,18 +115,25 @@ Don't get caught up in how others say you "must" learn cloud security. The commo
 
 Your unique learning style, past experiences, and specific goals should shape your journey. Use this guide as a flexible resource rather than a strict roadmap.
 
-## Learning Path
+## Prerequisites
 
-| Order | Topic                                        | What You'll Learn                                                               |
-| ----- | -------------------------------------------- | ------------------------------------------------------------------------------- |
-| 1     | [Core Principles of Cloud Security](1-csf-core.md)            | The CIA triad, shared responsibility, and defense-in-depth strategies            |
-| 2     | [Identity and Access Management (IAM)](2-csf-iam.md)         | User authentication, authorization, and implementing least privilege             |
-| 3     | [Data Security](3-csf-data-security.md)                                | Encryption, key management, and preventing data leaks                           |
-| 4     | [Network Security in Cloud Environments](4-csf-network-security.md)       | VPCs, security groups, NACLs, and secure connectivity                           |
-| 5     | [Compliance, Governance, and Risk Management](5-csf-grc.md)  | Regulatory requirements, audit controls, and cloud compliance frameworks         |
-| 6     | [Threats and Vulnerabilities in the Cloud](6-csf-threats-n-vulns.md)     | Common attack vectors, threat modeling, and vulnerability management            |
-| 7     | [Monitoring, Incident Response, and Forensics](7-csf-monitoring.md) | Detection systems, alert management, and responding to security events          |
-| 8     | [Best Practices and Emerging Trends](8-csf-best-practices-n-trends.md)           | Industry standards and future directions in cloud security                       |
+- Basic understanding of cloud concepts (Phases 1-3)
+- Knowledge of Linux and command line operations
+- A cloud platform account (AWS, Azure, or GCP)
+
+## Topics
+
+| No. | Topic                                        | What You'll Learn                                                               | Study Resources  |
+| ----- | -------------------------------------------- | ------------------------------------------------------------------------------- | ---------------- |
+| 1     | [Core Principles of Cloud Security](1-csf-core.md)            | The CIA triad, shared responsibility, and defense-in-depth strategies            | [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) |
+| 2     | [Identity and Access Management (IAM)](2-csf-iam.md)         | User authentication, authorization, and implementing least privilege             | [AWS IAM Introduction](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html) |
+| 3     | [Data Security](3-csf-data-security.md)                                | Encryption, key management, and preventing data leaks                           | [Cloud Data Security Basics](https://cloud.google.com/security/encryption-in-transit) |
+| 4     | [Network Security in Cloud Environments](4-csf-network-security.md)       | VPCs, security groups, NACLs, and secure connectivity                           | [Cloud Networking Fundamentals](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html) |
+| 5     | [Compliance, Governance, and Risk Management](5-csf-grc.md)  | Regulatory requirements, audit controls, and cloud compliance frameworks         | [Cloud Compliance Programs](https://aws.amazon.com/compliance/programs/) |
+| 6     | [Threats and Vulnerabilities in the Cloud](6-csf-threats-n-vulns.md)     | Common attack vectors, threat modeling, and vulnerability management            | [OWASP Cloud Security](https://owasp.org/www-project-cloud-security/) |
+| 7     | [Monitoring, Incident Response, and Forensics](7-csf-monitoring.md) | Detection systems, alert management, and responding to security events          | [Cloud Incident Response](https://cloud.google.com/security/incident-response) |
+| 8     | [Best Practices and Emerging Trends](8-csf-best-practices-n-trends.md)           | Industry standards and future directions in cloud security                       | [Zero Trust Architecture](https://www.nist.gov/publications/zero-trust-architecture) |
+| 9     | [AI and Cloud Security](9-csf-ai-security.md)                | Securing AI/ML models, preventing prompt injection, and data privacy considerations | [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) |
 
 ## Additional Resources
 
@@ -122,12 +143,6 @@ Your unique learning style, past experiences, and specific goals should shape yo
 | [Certifications](csf-certifications.md) | Cloud security certs guide | Plan your certification path |
 | [Projects](csf-projects.md) | Real-world security projects | Build portfolio-worthy demonstrations |
 
-## Quick Start Resources
-
-- [Hacking The Cloud](https://hackingthe.cloud/) - Encyclopedia of cloud attack techniques and defenses
-- [AWS Well-Architected Security Workshop](https://catalog.workshops.aws/well-architected-security/) - Practical security guidance from AWS
-- [Azure Security Lab](https://github.com/azurecitadel/azure-security-lab) - Hands-on Azure security workshop
-- [A Guide to Cloud](https://www.aguidetocloud.com/study-guides/azurestudyguide) - Study guides for cloud platforms
 
 ## What's Next?
 

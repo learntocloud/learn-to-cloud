@@ -1,6 +1,12 @@
-# VI. Threats and Vulnerabilities in the Cloud
+# Topic 6: Threats and Vulnerabilities in the Cloud
 
 The cloud isn't a magic bullet—it comes with its own set of challenges. Understanding these threats and vulnerabilities is key to building a resilient cloud environment that can adapt and respond to both known and emerging risks.
+
+## Study
+- Understanding [Common Cloud Attack Vectors](https://owasp.org/www-project-top-10-for-large-language-model-applications/) and threat modeling
+- Learning about [Cloud Security Misconfigurations](https://www.cisecurity.org/benchmark/amazon_web_services) and their impact
+- Exploring [Vulnerability Management](https://cloud.google.com/security-command-center/docs/concepts-vulnerability-scanner-overview) in cloud environments
+- Understanding [MITRE ATT&CK for Cloud](https://attack.mitre.org/matrices/enterprise/cloud/) techniques and mitigations
 
 ## Getting Started with Cloud Threats for Junior Engineers
 
@@ -21,6 +27,16 @@ Understanding cloud security threats can be challenging when you're new to cloud
 2. **Focus on misconfigurations first** - The most common cloud security issues are simple misconfigurations
 3. **Learn about the shared responsibility model** - Know which threats you're responsible for vs. your provider
 4. **Practice with vulnerable-by-design environments** - Use services like CloudGoat to safely learn about threats
+
+## Test Your Knowledge
+
+Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of cloud threats and vulnerabilities:
+
+1. What are the most common misconfigurations in cloud environments and how would you prevent them?
+2. How does the threat landscape differ between on-premises and cloud environments?
+3. Explain the concept of the blast radius in cloud security and how to minimize it.
+4. What strategies would you use to detect and respond to an account compromise in a cloud environment?
+5. How would you approach threat modeling for a new cloud-based application?
 
 ## Common Cloud Security Threats
 

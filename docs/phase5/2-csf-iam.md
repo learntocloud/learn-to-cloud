@@ -1,6 +1,12 @@
-# II. Identity and Access Management (IAM)
+# Topic 2: Identity and Access Management (IAM)
 
 IAM is your frontline defense when it comes to controlling who can access your cloud environment and what they can do once they're in. It's all about ensuring that only the right people have the right access, and doing it in a way that's both secure and streamlined.
+
+## Study
+- Understanding [IAM basics and concepts](https://csrc.nist.gov/projects/access-control-policy-and-implementation-guides)
+- Learning about [Authentication vs. Authorization](https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization)
+- Exploring [Multi-Factor Authentication](https://cloud.google.com/identity/solutions/implement-mfa) implementation
+- Understanding [Role-Based Access Control](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview) (RBAC)
 
 ## Getting Started with IAM for Junior Engineers
 
@@ -49,6 +55,16 @@ As a junior engineer, be aware of these frequent mistakes:
 - **Attribute-Based Access Control (ABAC):**  
     ABAC takes things a step further by considering various attributes—like department, time of access, location, and even the sensitivity of the requested data—to make more granular access decisions. This flexible approach can adapt to complex, dynamic environments.
     
+## Test Your Knowledge
+
+Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of Identity and Access Management:
+
+1. What's the difference between authentication and authorization in cloud IAM?
+2. How would you implement the principle of least privilege using IAM roles and policies?
+3. Explain the concept of Role-Based Access Control (RBAC) and how it's used in cloud environments.
+4. What are service accounts and why are they important for cloud security?
+5. How would you handle temporary elevated access for emergency situations in a cloud environment?
+
 ## Practical Exercise: Setting Up Basic IAM Controls
 
 ### AWS:

@@ -1,8 +1,16 @@
-# I. Core Principles of Cloud Security
+# Topic 1: Core Principles of Cloud Security
 
 When diving into cloud security, the core principles are what set the foundation for a robust and resilient system. This section isn't about fancy buzzwords—it's about the fundamental concepts that protect your cloud environment day in and day out. And everyone should know these whether you are the cloud security engineer or a developer somewhere else on the team. Security is everyone's responsibility.
 
+## Study
+- Understanding the [CIA Triad](https://csrc.nist.gov/glossary/term/cia) in cloud environments
+- Learning the [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/) for different cloud providers
+- Exploring [Defense in Depth](https://csrc.nist.gov/glossary/term/defense_in_depth) strategies for cloud
+- Implementing [Principle of Least Privilege](https://csrc.nist.gov/glossary/term/least_privilege) in cloud systems
+
 ## Getting Started as a Junior Engineer
+
+![Secure all the things|480x270](https://media2.giphy.com/media/eCqFYAVjjDksg/giphy.gif?cid=ecf05e47wkzpikj8eadimthbp1rpp7r4g4z0opkzl81dxk50&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 As you begin your cloud security journey, remember these key points:
 
@@ -13,7 +21,7 @@ As you begin your cloud security journey, remember these key points:
 
 ## Security Foundations
 
-### Confidentiality, Integrity, and Availability (CIA Triad):
+### Confidentiality, Integrity, and Availability (CIA Triad)
 
 At the heart of any security strategy is the CIA Triad.
 
@@ -42,7 +50,7 @@ This model defines what security tasks you handle versus what your cloud provide
 
 ![Shared Responsibility Model](https://d1.awsstatic.com/security-center/Shared_Responsibility_Model_V2.59d1eccec334b366627e9295b304202faf7b899b.jpg)
 
-### Principle of Least Privilege:
+### Principle of Least Privilege
 This principle is straightforward: give users and systems only the permissions they absolutely need. By limiting access, you reduce the potential avenues for an attacker to exploit, keeping your environment lean and secure.
 
 **Implementation tips:**
@@ -51,17 +59,17 @@ This principle is straightforward: give users and systems only the permissions t
 - Regularly review and audit permissions
 - Remove unnecessary access immediately when no longer needed
 
-### Defense in Depth:
+### Defense in Depth
 Relying on a single security measure is a recipe for disaster. Instead, defense in depth means layering multiple security controls across your environment. If one layer is breached, the next one steps in to protect your assets. This multi-layered approach significantly increases your overall security posture.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jq_LZ1RFPfU?si=bXFTQVpdaF4ehs6H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Differences from Traditional Security
 
-### Dynamic Scaling and Elasticity:
+### Dynamic Scaling and Elasticity
 Cloud environments are built for scale—resources can be spun up or down on-demand. This fluidity means that your security measures need to be as agile as your infrastructure. Traditional static security models fall short when the underlying resources are constantly changing.
 
-### On-Demand Resource Provisioning and Its Security Implications:
+### On-Demand Resource Provisioning and Its Security Implications
 In the cloud, resources are provisioned on the fly. While this offers tremendous flexibility and cost benefits, it also introduces new challenges. Security controls must be automated, consistently applied, and adaptable to a rapidly evolving environment. Manual security checks simply can't keep up with the pace of change in a cloud setup.
 
 ### Balancing Abstraction with Fundamental Knowledge
@@ -76,9 +84,19 @@ Cloud services abstract away many technical details, which can be both helpful a
 
 **Practical tip**: For each cloud service you use, try to understand its physical counterpart. For example, when using an AWS Security Group, understand how it relates to traditional firewall rules you might set up in a home network.
 
+## Test Your Knowledge
+
+Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of cloud security fundamentals:
+
+1. Can you explain the CIA triad and why it's important in cloud security?
+2. How does the shared responsibility model work in AWS, Azure, and GCP? What are the key differences?
+3. Why is defense in depth particularly important in cloud environments?
+4. How would you implement the principle of least privilege in a cloud environment?
+5. What are the key differences between traditional security and cloud security approaches?
+
 ## Practical Exercise for Beginners
 
-### Set Up Basic Security Controls:
+### Set Up Basic Security Controls
 
 1. **AWS**: Enable CloudTrail, configure S3 bucket policies, and set up Security Groups
 2. **Azure**: Configure Azure Security Center, set up Network Security Groups, and enable Azure Monitor
@@ -90,7 +108,11 @@ Cloud services abstract away many technical details, which can be both helpful a
 | ------ | -------------------------------------- | -------------------------------------------------------- |
 | AWS    | AWS Well-Architected Security Workshop | https://catalog.workshops.aws/well-architected-security/ |
 | AWS    | Introduction to AWS Security           | https://www.youtube.com/watch?v=QMBkq6MrT2w              |
+| AWS    | AWS Security Primer                    | https://exploraws.com/courses/aws-security-primer        |
 | Azure  | Microsoft Security Best Practices      | https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns |
+| GCP    | Security Blueprint                     | https://cloud.google.com/architecture/security-foundations |
+| GCP    | GCP Security Best Practices            | https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations/security |
+| GCP    | Cloud Security Command Center Walkthrough | https://cloud.google.com/security-command-center/docs/quickstart-security-command-center |
 
 ## Additional Resources
 

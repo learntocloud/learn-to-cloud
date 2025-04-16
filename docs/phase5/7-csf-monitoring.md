@@ -1,6 +1,12 @@
-# VII. Monitoring, Incident Response, and Forensics
+# Topic 7: Monitoring, Incident Response, and Forensics
 
 When it comes to cloud security, you can't just set up defenses and hope nothing ever happens. You need to monitor your environment constantly, be prepared to respond at a moment's notice, and know how to dig into incidents to learn from them.
+
+## Study
+- Understanding [Cloud Logging and Monitoring](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html) fundamentals
+- Learning about [Security Information and Event Management](https://learn.microsoft.com/en-us/azure/sentinel/overview) (SIEM) in cloud
+- Exploring [Incident Response](https://cloud.google.com/security/incident-response) procedures for cloud environments
+- Understanding [Digital Forensics](https://aws.amazon.com/blogs/security/how-to-perform-forensic-investigation-in-aws-cloud/) for cloud-based incidents
 
 ## Getting Started with Cloud Monitoring for Junior Engineers
 
@@ -21,6 +27,16 @@ Security monitoring in the cloud can be particularly challenging for junior engi
 2. **Learn to search and filter logs** - Practice finding specific events in large log datasets
 3. **Set up basic alerts** - Configure simple alerts for key security events
 4. **Visualize security data** - Create dashboards to make monitoring more intuitive
+
+## Test Your Knowledge
+
+Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of cloud monitoring and incident response:
+
+1. What key metrics and logs should you monitor for security incidents in cloud environments?
+2. How would you set up an effective alert system that minimizes false positives while catching critical issues?
+3. Explain the incident response lifecycle and how it applies to cloud security events.
+4. What forensic data should be collected during a cloud security incident?
+5. How would you design a security monitoring strategy for a multi-cloud environment?
 
 ## Security Monitoring Tools and Practices
 

@@ -8,6 +8,9 @@
 | Reading | Cloud Security Best Practices | Free eBook covering security fundamentals | [Snyk - Cloud Security 101](https://snyk.io/learn/cloud-security/) |
 | Interactive | TryHackMe | Cloud security rooms with step-by-step learning | [TryHackMe - Cloud Security](https://tryhackme.com/module/cloud-security) |
 | Reference | Cloud Security Alliance | Fundamentals and reference documentation | [CSA - Guidance](https://cloudsecurityalliance.org/research/guidance/) |
+| Workshop | AWS Well-Architected Security | Practical security guidance from AWS | [AWS Well-Architected Security Workshop](https://catalog.workshops.aws/well-architected-security/) |
+| Workshop | Azure Security Lab | Hands-on Azure security workshop | [Azure Security Lab](https://github.com/azurecitadel/azure-security-lab) |
+| Guide | A Guide to Cloud | Study guides for cloud platforms | [A Guide to Cloud](https://www.aguidetocloud.com/study-guides/azurestudyguide) |
 
 ### General Resources
 
@@ -44,12 +47,33 @@
 | -------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | AWS            | [Flaws.Cloud](http://flaws.cloud/)   | Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).                                  |
 | AWS            | [Flaws2.Cloud](http://flaws2.cloud/) | Similar to the original Flaws.Cloud Challenge, this tutorial teaches you AWS security concepts from both an offensive and defensive perspective. |
-###  Azure
+| AWS            | [Identify AWS Account ID from Public S3 Bucket](https://pwnedlabs.io/labs/identify-the-aws-account-id-from-a-public-s3-bucket) | Learn how to find the AWS account ID from any public S3 bucket - essential for understanding S3 security. |
+| AWS            | [Loot Public EBS Snapshots](https://pwnedlabs.io/labs/loot-public-ebs-snapshots) | Identify sensitive resources that a company has accidentally shared publicly - demonstrates EBS security issues. |
+| AWS            | [AWS IAM Enumeration Intro](https://pwnedlabs.io/labs/intro-to-aws-iam-enumeration) | Learn to enumerate permissions in AWS IAM - fundamental skill for cloud security assessment. |
+| AWS            | [AWS S3 Enumeration Basics](https://pwnedlabs.io/labs/aws-s3-enumeration-basics) | Explore misconfigurations and overly permissive settings in S3 - common source of cloud breaches. |
+| AWS            | [SSRF to Pwned (EC2 Metadata)](https://pwnedlabs.io/labs/ssrf-to-pwned) | Replicate a real-world breach involving EC2 instance metadata - critical for understanding IMDS vulnerabilities. |
+| AWS            | [Identify IAM Breaches with CloudTrail and Athena](https://pwnedlabs.io/labs/identify-iam-breaches-with-cloudtrail-and-athena) | Detect malicious behavior and potential IAM breaches - essential for cloud security monitoring. |
+| AWS            | [Pillage Exposed RDS Instances](https://pwnedlabs.io/labs/pillage-exposed-rds-instances) | Highlight risks of leaving an RDS database exposed to the internet - demonstrates database security best practices. |
+### Azure
+| Cloud Platform | Title                                                             | Description                                            |
+| -------------- | ----------------------------------------------------------------- | ------------------------------------------------------ |
+| Azure          | [Microsoft Security Best Practices](https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns) | Comprehensive guide for securing Azure workloads |
+| Azure          | [Microsoft Learn: Security Module](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-identity-access-security/) | Free learning path for Azure security fundamentals |
+| Azure          | [Microsoft Azure Security Engineer Learning Path](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/) | Free resources for learning Azure security engineering |
+| Azure          | [Azure Security Documentation](https://learn.microsoft.com/en-us/azure/security/) | Official documentation with security guidance |
+| Azure          | [Microsoft Security Response Center Blog](https://msrc-blog.microsoft.com/) | Security updates and guidance from Microsoft |
+| Azure          | [Microsoft Azure Security Benchmark](https://learn.microsoft.com/en-us/security/benchmark/azure/) | Framework for Azure security best practices |
 
 ### GCP
 | Cloud Platform | Title                                                             | Description                                            |
 | -------------- | ----------------------------------------------------------------- | ------------------------------------------------------ |
 | GCP            | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) | The official cloud training resource from Google Cloud |
+| GCP            | [GCP Security Best Practices](https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations/security) | Free documentation on enterprise security best practices |
+| GCP            | [Security Blueprint](https://cloud.google.com/architecture/security-foundations) | Comprehensive guide for GCP security architecture |
+| GCP            | [Google Cloud Security Podcast](https://cloud.withgoogle.com/cloudsecurity/podcast/) | Regular episodes on cloud security topics |
+| GCP            | [Google Cloud Security Documentation](https://cloud.google.com/security/) | Official security documentation with walkthroughs |
+| GCP            | [Google Cloud Security Whitepaper](https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf) | Free detailed whitepaper on security foundations |
+| GCP            | [Cloud Security Command Center Tutorials](https://cloud.google.com/security-command-center/docs/quickstart-security-command-center) | Self-guided setup for GCP security monitoring |
 
 
 ## Self-Hosted CTFs & Labs

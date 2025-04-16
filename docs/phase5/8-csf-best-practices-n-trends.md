@@ -1,6 +1,12 @@
-# VIII. Best Practices and Emerging Trends
+# Topic 8: Best Practices and Emerging Trends
 
 When it comes to staying ahead in cloud security, it's not enough to simply set up defenses—you need to evolve and adapt. This section highlights some of the best practices you should adopt and the emerging trends shaping the future of cloud security.
+
+## Study
+- Understanding [Zero Trust Architecture](https://www.nist.gov/publications/implementing-zero-trust-architecture) principles for cloud
+- Learning about [DevSecOps](https://cloud.google.com/architecture/devops/devops-tech-shifting-left-on-security) and security automation
+- Exploring [Cloud Security Posture Management](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction) (CSPM)
+- Understanding [Emerging threats](https://aws.amazon.com/blogs/security/top-10-security-items-to-improve-in-your-aws-account/) and countermeasures in cloud security
 
 ## Getting Started with Best Practices for Junior Engineers
 
@@ -21,6 +27,16 @@ As a junior engineer, the vast landscape of cloud security best practices can be
 2. **Learn Infrastructure as Code security** - Practice securing Terraform/CloudFormation templates
 3. **Implement automated scanning** - Set up basic vulnerability scanning for code and infrastructure
 4. **Document as you build** - Create simple security architecture diagrams for your projects
+
+## Test Your Knowledge
+
+Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of cloud security best practices and trends:
+
+1. How would you implement a Zero Trust architecture in a cloud environment?
+2. What are the key components of a DevSecOps approach and how do they improve cloud security?
+3. Explain how machine learning can be used to enhance cloud security monitoring and threat detection.
+4. What emerging technologies do you think will have the biggest impact on cloud security in the next few years?
+5. How would you balance security and usability when implementing cloud security controls?
 
 ## Adopting a Zero Trust Model
 
