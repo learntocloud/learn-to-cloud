@@ -46,8 +46,6 @@ Security is not a separate phase of cloud but rather a continuous consideration 
 
 Cloud security isn't just for security specialists—it's a foundational skill that enhances every cloud role. The security knowledge you gain in this phase will inform your approach to infrastructure, development, operations, and architecture throughout your career.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/cBiXNkhDzVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 For an excellent foundation, read these cloud provider security overviews:
 - [AWS Security Pillar - Well Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)  
 - [Microsoft Azure - Secure](https://learn.microsoft.com/en-us/azure/architecture/framework/security/overview)
