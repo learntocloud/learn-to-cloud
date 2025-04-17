@@ -121,17 +121,17 @@ Your unique learning style, past experiences, and specific goals should shape yo
 
 ## Topics
 
-| No. | Topic                                        | What You'll Learn                                                               | Study Resources  |
-| ----- | -------------------------------------------- | ------------------------------------------------------------------------------- | ---------------- |
-| 1     | [Core Principles of Cloud Security](1-csf-core.md)            | The CIA triad, shared responsibility, and defense-in-depth strategies            | [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) |
-| 2     | [Identity and Access Management (IAM)](2-csf-iam.md)         | User authentication, authorization, and implementing least privilege             | [AWS IAM Introduction](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html) |
-| 3     | [Data Security](3-csf-data-security.md)                                | Encryption, key management, and preventing data leaks                           | [Cloud Data Security Basics](https://cloud.google.com/security/encryption-in-transit) |
-| 4     | [Network Security in Cloud Environments](4-csf-network-security.md)       | VPCs, security groups, NACLs, and secure connectivity                           | [Cloud Networking Fundamentals](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html) |
-| 5     | [Compliance, Governance, and Risk Management](5-csf-grc.md)  | Regulatory requirements, audit controls, and cloud compliance frameworks         | [Cloud Compliance Programs](https://aws.amazon.com/compliance/programs/) |
-| 6     | [Threats and Vulnerabilities in the Cloud](6-csf-threats-n-vulns.md)     | Common attack vectors, threat modeling, and vulnerability management            | [OWASP Cloud Security](https://owasp.org/www-project-cloud-security/) |
-| 7     | [Monitoring, Incident Response, and Forensics](7-csf-monitoring.md) | Detection systems, alert management, and responding to security events          | [Cloud Incident Response](https://cloud.google.com/security/incident-response) |
-| 8     | [Best Practices and Emerging Trends](8-csf-best-practices-n-trends.md)           | Industry standards and future directions in cloud security                       | [Zero Trust Architecture](https://www.nist.gov/publications/zero-trust-architecture) |
-| 9     | [AI and Cloud Security](9-csf-ai-security.md)                | Securing AI/ML models, preventing prompt injection, and data privacy considerations | [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) |
+| No. | Topic                                        | What You'll Learn                                                               |
+| ----- | -------------------------------------------- | ------------------------------------------------------------------------------- |
+| 1     | [Core Principles of Cloud Security](1-csf-core.md)            | The CIA triad, shared responsibility, and defense-in-depth strategies            |
+| 2     | [Identity and Access Management (IAM)](2-csf-iam.md)         | User authentication, authorization, and implementing least privilege             |
+| 3     | [Data Security](3-csf-data-security.md)                                | Encryption, key management, and preventing data leaks                           |
+| 4     | [Network Security in Cloud Environments](4-csf-network-security.md)       | VPCs, security groups, NACLs, and secure connectivity                           |
+| 5     | [Compliance, Governance, and Risk Management](5-csf-grc.md)  | Regulatory requirements, audit controls, and cloud compliance frameworks         |
+| 6     | [Threats and Vulnerabilities in the Cloud](6-csf-threats-n-vulns.md)     | Common attack vectors, threat modeling, and vulnerability management            |
+| 7     | [Monitoring, Incident Response, and Forensics](7-csf-monitoring.md) | Detection systems, alert management, and responding to security events          |
+| 8     | [Best Practices and Emerging Trends](8-csf-best-practices-n-trends.md)           | Industry standards and future directions in cloud security                       |
+| 9     | [AI and Cloud Security](9-csf-ai-security.md)                | Securing AI/ML models, preventing prompt injection, and data privacy considerations |
 
 ## Additional Resources
 

@@ -1,5 +1,22 @@
 # Topic 9: AI and Cloud Security
 
+<details>
+<summary>Table of Contents</summary>
+
+- [Study](#study)
+- [Getting Started with AI Security for Junior Engineers](#getting-started-with-ai-security-for-junior-engineers)
+- [AI-Specific Security Challenges](#ai-specific-security-challenges)
+  - [Prompt Injection and Model Security](#prompt-injection-and-model-security)
+  - [AI Model Supply Chain Security](#ai-model-supply-chain-security)
+  - [Data Privacy and Training Security](#data-privacy-and-training-security)
+- [Cloud Provider AI Security Features](#cloud-provider-ai-security-features)
+- [Test Your Knowledge](#test-your-knowledge)
+- [Practical Exercise: Securing an AI Deployment](#practical-exercise-securing-an-ai-deployment)
+- [AI Security Labs and Resources](#ai-security-labs-and-resources)
+- [Best Practices for Junior Engineers](#best-practices-for-junior-engineers)
+
+</details>
+
 As AI and machine learning technologies become increasingly integrated into cloud solutions, understanding their unique security implications is crucial for junior cloud engineers. This section covers the essential security considerations when deploying, using, and architecting AI/ML models in cloud environments.
 
 ## Study

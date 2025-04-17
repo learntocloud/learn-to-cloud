@@ -1,5 +1,21 @@
 # Topic 3: Data Security
 
+<details>
+<summary>Table of Contents</summary>
+
+- [Study](#study)
+- [Getting Started with Data Security for Junior Engineers](#getting-started-with-data-security-for-junior-engineers)
+- [Test Your Knowledge](#test-your-knowledge)
+- [Data Protection Strategies](#data-protection-strategies)
+- [Key Management](#key-management)
+- [Common Data Security Mistakes for Junior Engineers to Avoid](#common-data-security-mistakes-for-junior-engineers-to-avoid)
+- [Breaking Through the Abstraction: Making Data Security Tangible](#breaking-through-the-abstraction-making-data-security-tangible)
+- [Data Loss Prevention (DLP)](#data-loss-prevention-dlp)
+- [Practical Exercise: Secure Your First Cloud Data Store](#practical-exercise-secure-your-first-cloud-data-store)
+- [Labs (Free)](#labs-free)
+
+</details>
+
 Data is the crown jewel of your cloud environment, and without solid security measures in place, even the best infrastructure can fall apart. In this section, we'll break down the essential components of data protection—from how you encrypt your data to the processes that prevent accidental leakage.
 
 ## Study

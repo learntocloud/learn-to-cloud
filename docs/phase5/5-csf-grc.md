@@ -1,5 +1,22 @@
 # Topic 5: Compliance, Governance, and Risk Management
 
+<details>
+<summary>Table of Contents</summary>
+
+- [Study](#study)
+- [Getting Started with GRC for Junior Engineers](#getting-started-with-grc-for-junior-engineers)
+- [Test Your Knowledge](#test-your-knowledge)
+- [Regulatory Requirements](#regulatory-requirements)
+- [Security Standards and Cloud-Specific Frameworks](#security-standards-and-cloud-specific-frameworks)
+- [Common GRC Challenges for Junior Engineers](#common-grc-challenges-for-junior-engineers)
+- [Risk Assessment and Management](#risk-assessment-and-management)
+- [Breaking Through the Abstraction: Making GRC Tangible](#breaking-through-the-abstraction-making-grc-tangible)
+- [Cloud Governance](#cloud-governance)
+- [Practical Exercise: Implement Basic GRC Controls](#practical-exercise-implement-basic-grc-controls)
+- [Labs (Free)](#labs-free)
+
+</details>
+
 Compliance, governance, and risk management might sound like bureaucratic hurdles, but they're essential for ensuring your cloud operations are secure, compliant, and trusted. This section covers the regulatory frameworks, cloud-specific standards, and best practices you need to know.
 
 ## Study

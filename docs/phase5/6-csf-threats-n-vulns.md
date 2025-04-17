@@ -1,5 +1,22 @@
 # Topic 6: Threats and Vulnerabilities in the Cloud
 
+<details>
+<summary>Table of Contents</summary>
+
+- [Study](#study)
+- [Getting Started with Cloud Threats for Junior Engineers](#getting-started-with-cloud-threats-for-junior-engineers)
+- [Test Your Knowledge](#test-your-knowledge)
+- [Common Cloud Security Threats](#common-cloud-security-threats)
+- [Breaking Through the Abstraction: Making Cloud Threats Tangible](#breaking-through-the-abstraction-making-cloud-threats-tangible)
+- [Emerging Threats](#emerging-threats)
+- [Common Cloud Threat Mistakes for Junior Engineers](#common-cloud-threat-mistakes-for-junior-engineers)
+- [Mitigation Strategies](#mitigation-strategies)
+- [Practical Exercise: Cloud Threat Detection and Response](#practical-exercise-cloud-threat-detection-and-response)
+- [Labs and Practice Environments (Free)](#labs-and-practice-environments-free)
+- [Further Reading and Resources](#further-reading-and-resources)
+
+</details>
+
 The cloud isn't a magic bullet—it comes with its own set of challenges. Understanding these threats and vulnerabilities is key to building a resilient cloud environment that can adapt and respond to both known and emerging risks.
 
 ## Study

@@ -1,5 +1,23 @@
 # Topic 1: Core Principles of Cloud Security
 
+<details>
+<summary>Table of Contents</summary>
+
+- [Study](#study)
+- [Getting Started as a Junior Engineer](#getting-started-as-a-junior-engineer)
+- [Security Foundations](#security-foundations)
+  - [CIA Triad](#confidentiality-integrity-and-availability-cia-triad)
+  - [Shared Responsibility Model](#shared-responsibility-model)
+  - [Principle of Least Privilege](#principle-of-least-privilege)
+  - [Defense in Depth](#defense-in-depth)
+- [Differences from Traditional Security](#differences-from-traditional-security)
+- [Test Your Knowledge](#test-your-knowledge)
+- [Practical Exercise for Beginners](#practical-exercise-for-beginners)
+- [Labs](#labs)
+- [Additional Resources](#additional-resources)
+
+</details>
+
 When diving into cloud security, the core principles are what set the foundation for a robust and resilient system. This section isn't about fancy buzzwords—it's about the fundamental concepts that protect your cloud environment day in and day out. And everyone should know these whether you are the cloud security engineer or a developer somewhere else on the team. Security is everyone's responsibility.
 
 ## Study
@@ -9,8 +27,6 @@ When diving into cloud security, the core principles are what set the foundation
 - Implementing [Principle of Least Privilege](https://csrc.nist.gov/glossary/term/least_privilege) in cloud systems
 
 ## Getting Started as a Junior Engineer
-
-![Secure all the things|480x270](https://media2.giphy.com/media/eCqFYAVjjDksg/giphy.gif?cid=ecf05e47wkzpikj8eadimthbp1rpp7r4g4z0opkzl81dxk50&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 As you begin your cloud security journey, remember these key points:
 
@@ -47,6 +63,8 @@ This model defines what security tasks you handle versus what your cloud provide
   - Network traffic protection
   - Operating system security
   - Application security
+
+#### Shared Responsibility Model for AWS (Example)
 
 ![Shared Responsibility Model](https://d1.awsstatic.com/security-center/Shared_Responsibility_Model_V2.59d1eccec334b366627e9295b304202faf7b899b.jpg)
 

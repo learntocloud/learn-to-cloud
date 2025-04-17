@@ -1,5 +1,22 @@
 # Topic 7: Monitoring, Incident Response, and Forensics
 
+<details>
+<summary>Table of Contents</summary>
+
+- [Study](#study)
+- [Getting Started with Cloud Monitoring for Junior Engineers](#getting-started-with-cloud-monitoring-for-junior-engineers)
+- [Test Your Knowledge](#test-your-knowledge)
+- [Security Monitoring Tools and Practices](#security-monitoring-tools-and-practices)
+- [Breaking Through the Abstraction: Making Cloud Monitoring Tangible](#breaking-through-the-abstraction-making-cloud-monitoring-tangible)
+- [Common Monitoring Mistakes for Junior Engineers](#common-monitoring-mistakes-for-junior-engineers)
+- [Incident Response Planning](#incident-response-planning)
+- [Cloud Forensics](#cloud-forensics)
+- [Practical Exercise: Building a Basic Cloud Monitoring System](#practical-exercise-building-a-basic-cloud-monitoring-system)
+- [Labs and Resources (Free)](#labs-and-resources-free)
+- [Additional Resources](#additional-resources)
+
+</details>
+
 When it comes to cloud security, you can't just set up defenses and hope nothing ever happens. You need to monitor your environment constantly, be prepared to respond at a moment's notice, and know how to dig into incidents to learn from them.
 
 ## Study

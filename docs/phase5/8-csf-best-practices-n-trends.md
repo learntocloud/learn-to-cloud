@@ -1,5 +1,22 @@
 # Topic 8: Best Practices and Emerging Trends
 
+<details>
+<summary>Table of Contents</summary>
+
+- [Study](#study)
+- [Getting Started with Best Practices for Junior Engineers](#getting-started-with-best-practices-for-junior-engineers)
+- [Test Your Knowledge](#test-your-knowledge)
+- [Adopting a Zero Trust Model](#adopting-a-zero-trust-model)
+- [Security Automation and Orchestration](#security-automation-and-orchestration)
+- [Breaking Through the Abstraction: Hands-On Security Projects](#breaking-through-the-abstraction-hands-on-security-projects)
+- [Common Mistakes in Implementing Best Practices](#common-mistakes-in-implementing-best-practices)
+- [Emerging Trends](#emerging-trends)
+- [Practical Exercise: Implementing Cloud Security Best Practices](#practical-exercise-implementing-cloud-security-best-practices)
+- [Labs and Resources (Free)](#labs-and-resources-free)
+- [Additional Resources](#additional-resources)
+
+</details>
+
 When it comes to staying ahead in cloud security, it's not enough to simply set up defenses—you need to evolve and adapt. This section highlights some of the best practices you should adopt and the emerging trends shaping the future of cloud security.
 
 ## Study

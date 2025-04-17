@@ -1,5 +1,22 @@
 # Topic 4: Network Security in Cloud Environments
 
+<details>
+<summary>Table of Contents</summary>
+
+- [Study](#study)
+- [Getting Started with Cloud Network Security for Junior Engineers](#getting-started-with-cloud-network-security-for-junior-engineers)
+- [Test Your Knowledge](#test-your-knowledge)
+- [Virtual Network Architecture](#virtual-network-architecture)
+- [Security Controls](#security-controls)
+- [Common Networking Mistakes for Junior Engineers](#common-networking-mistakes-for-junior-engineers)
+- [Intrusion Detection and Prevention Systems (IDPS)](#intrusion-detection-and-prevention-systems-idps)
+- [DDoS Protection](#ddos-protection)
+- [Practical Exercise: Design a Secure Network Architecture](#practical-exercise-design-a-secure-network-architecture)
+- [Labs (Free)](#labs-free)
+- [Learn By Building: Home Network Lab for Cloud Skills](#learn-by-building-home-network-lab-for-cloud-skills)
+
+</details>
+
 Network security in the cloud is all about building secure connections, creating logical separations between resources, and defending against both internal and external threats. Here's how to approach it:
 
 ## Study

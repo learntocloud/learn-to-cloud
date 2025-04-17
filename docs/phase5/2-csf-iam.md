@@ -1,5 +1,20 @@
 # Topic 2: Identity and Access Management (IAM)
 
+<details>
+<summary>Table of Contents</summary>
+
+- [Study](#study)
+- [Getting Started with IAM for Junior Engineers](#getting-started-with-iam-for-junior-engineers)
+- [IAM Concepts](#iam-concepts)
+- [Common IAM Security Issues to Avoid](#common-iam-security-issues-to-avoid)
+- [Access Control Mechanisms](#access-control-mechanisms)
+- [Test Your Knowledge](#test-your-knowledge)
+- [Practical Exercise: Setting Up Basic IAM Controls](#practical-exercise-setting-up-basic-iam-controls)
+- [Best Practices](#best-practices)
+- [Labs (Free)](#labs-free)
+
+</details>
+
 IAM is your frontline defense when it comes to controlling who can access your cloud environment and what they can do once they're in. It's all about ensuring that only the right people have the right access, and doing it in a way that's both secure and streamlined.
 
 ## Study
@@ -105,7 +120,7 @@ By keeping these IAM fundamentals in mind and implementing robust controls, you 
 
 | Vendor       | Topic                                            | Link                                                                       |
 | ------------ | ------------------------------------------------ | -------------------------------------------------------------------------- |
-| AWS          | IAM Workshop                                     | https://catalog.workshops.aws/general-immersionday/en-US/basic-modules/10-iam |
+| AWS          | IAM Workshop                                     | https://catalog.workshops.aws/general-immersionday/en-US/basic-modules/30-iam |
 | pwnedlabs.io | Intro to AWS IAM Enumeration                     | https://pwnedlabs.io/labs/intro-to-aws-iam-enumeration                     |
 | pwnedlabs.io | Identify IAM Breaches with CloudTrail and Athena | https://pwnedlabs.io/labs/identify-iam-breaches-with-cloudtrail-and-athena |
 | Microsoft    | Azure IAM Tutorials                              | https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal |
