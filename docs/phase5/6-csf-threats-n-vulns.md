@@ -3,27 +3,32 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Study](#study)
+- [Overview](#overview)
+- [Learning Objectives](#learning-objectives)
 - [Getting Started with Cloud Threats for Junior Engineers](#getting-started-with-cloud-threats-for-junior-engineers)
-- [Test Your Knowledge](#test-your-knowledge)
 - [Common Cloud Security Threats](#common-cloud-security-threats)
 - [Breaking Through the Abstraction: Making Cloud Threats Tangible](#breaking-through-the-abstraction-making-cloud-threats-tangible)
 - [Emerging Threats](#emerging-threats)
 - [Common Cloud Threat Mistakes for Junior Engineers](#common-cloud-threat-mistakes-for-junior-engineers)
 - [Mitigation Strategies](#mitigation-strategies)
-- [Practical Exercise: Cloud Threat Detection and Response](#practical-exercise-cloud-threat-detection-and-response)
-- [Labs and Practice Environments (Free)](#labs-and-practice-environments-free)
-- [Further Reading and Resources](#further-reading-and-resources)
+- [Hands-on Practice](#hands-on-practice)
+  - [Test Your Knowledge](#test-your-knowledge)
+  - [Practical Exercise: Cloud Threat Detection and Response](#practical-exercise-cloud-threat-detection-and-response)
+- [Labs and Resources](#labs-and-resources)
+  - [Practice Environments](#practice-environments)
+  - [Further Reading](#further-reading)
 
 </details>
 
+## Overview
+
 The cloud isn't a magic bullet—it comes with its own set of challenges. Understanding these threats and vulnerabilities is key to building a resilient cloud environment that can adapt and respond to both known and emerging risks.
 
-## Study
-- Understanding [Common Cloud Attack Vectors](https://owasp.org/www-project-top-10-for-large-language-model-applications/) and threat modeling
-- Learning about [Cloud Security Misconfigurations](https://www.cisecurity.org/benchmark/amazon_web_services) and their impact
-- Exploring [Vulnerability Management](https://cloud.google.com/security-command-center/docs/concepts-vulnerability-scanner-overview) in cloud environments
-- Understanding [MITRE ATT&CK for Cloud](https://attack.mitre.org/matrices/enterprise/cloud/) techniques and mitigations
+## Learning Objectives
+- Identify [Common Cloud Attack Vectors](https://owasp.org/www-project-top-10-for-large-language-model-applications/) and perform threat modeling
+- Detect and remediate [Cloud Security Misconfigurations](https://www.cisecurity.org/benchmark/amazon_web_services) in cloud environments
+- Implement [Vulnerability Management](https://cloud.google.com/security-command-center/docs/concepts-vulnerability-scanner-overview) practices for cloud resources
+- Apply [MITRE ATT&CK for Cloud](https://attack.mitre.org/matrices/enterprise/cloud/) techniques and mitigations
 
 ## Getting Started with Cloud Threats for Junior Engineers
 
@@ -45,7 +50,9 @@ Understanding cloud security threats can be challenging when you're new to cloud
 3. **Learn about the shared responsibility model** - Know which threats you're responsible for vs. your provider
 4. **Practice with vulnerable-by-design environments** - Use services like CloudGoat to safely learn about threats
 
-## Test Your Knowledge
+## Hands-on Practice
+
+### Test Your Knowledge
 
 Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of cloud threats and vulnerabilities:
 
@@ -115,23 +122,23 @@ To better understand cloud threats:
 - **Robust Monitoring and Incident Response:**  
     Set up continuous monitoring to detect suspicious activity in real time. An effective incident response plan is essential—when a threat is identified, having predefined procedures can help you contain and remediate the issue quickly.
 
-## Practical Exercise: Cloud Threat Detection and Response
+### Practical Exercise: Cloud Threat Detection and Response
 
-### For AWS:
+#### For AWS:
 1. Set up AWS GuardDuty for threat detection
 2. Configure CloudWatch Alarms for security events
 3. Create AWS Security Hub for a unified view of security findings
 4. Implement VPC Flow Logs for network monitoring
 5. Design a basic incident response playbook
 
-### For Azure:
+#### For Azure:
 1. Configure Azure Security Center
 2. Implement Azure Sentinel for SIEM capabilities
 3. Set up Azure Advanced Threat Protection
 4. Configure diagnostic settings for security monitoring
 5. Create a basic incident response procedure
 
-### For GCP:
+#### For GCP:
 1. Enable Security Command Center
 2. Configure Cloud Logging for security events
 3. Implement Cloud Monitoring alerts
@@ -140,7 +147,9 @@ To better understand cloud threats:
 
 By staying alert to these threats and proactively addressing vulnerabilities, you can build a cloud environment that not only meets today's security challenges but is also prepared to evolve with the ever-changing threat landscape.
 
-## Labs and Practice Environments (Free)
+## Labs and Resources
+
+### Practice Environments
 
 | Vendor | Topic | Link |
 |--------|-------|------|
@@ -150,7 +159,7 @@ By staying alert to these threats and proactively addressing vulnerabilities, yo
 | Azure | CONVEX | [Cloud Open-source Network Vulnerability Exploitation eXperience](https://github.com/Azure/CONVEX) |
 | GCP | GCP Goat | [GCP Goat - Vulnerable GCP Environment](https://gcpgoat.joshuajebaraj.com/) |
 
-## Further Reading and Resources
+### Further Reading
 
 - [OWASP Top 10 for Cloud](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 - [Cloud Security Alliance Threat Matrix](https://cloudsecurityalliance.org/artifacts/enterprise-architecture-reference-guide/)

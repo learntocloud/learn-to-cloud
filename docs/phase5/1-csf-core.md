@@ -3,7 +3,8 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Study](#study)
+- [Overview](#overview)
+- [Learning Objectives](#learning-objectives)
 - [Getting Started as a Junior Engineer](#getting-started-as-a-junior-engineer)
 - [Security Foundations](#security-foundations)
   - [CIA Triad](#confidentiality-integrity-and-availability-cia-triad)
@@ -11,20 +12,24 @@
   - [Principle of Least Privilege](#principle-of-least-privilege)
   - [Defense in Depth](#defense-in-depth)
 - [Differences from Traditional Security](#differences-from-traditional-security)
-- [Test Your Knowledge](#test-your-knowledge)
-- [Practical Exercise for Beginners](#practical-exercise-for-beginners)
-- [Labs](#labs)
-- [Additional Resources](#additional-resources)
+- [Hands-on Practice](#hands-on-practice)
+  - [Test Your Knowledge](#test-your-knowledge)
+  - [Practical Exercise for Beginners](#practical-exercise-for-beginners)
+- [Labs and Resources](#labs-and-resources)
+  - [Labs](#labs)
+  - [Additional Resources](#additional-resources)
 
 </details>
 
+## Overview
+
 When diving into cloud security, the core principles are what set the foundation for a robust and resilient system. This section isn't about fancy buzzwords—it's about the fundamental concepts that protect your cloud environment day in and day out. And everyone should know these whether you are the cloud security engineer or a developer somewhere else on the team. Security is everyone's responsibility.
 
-## Study
-- Understanding the [CIA Triad](https://csrc.nist.gov/glossary/term/cia) in cloud environments
-- Learning the [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/) for different cloud providers
-- Exploring [Defense in Depth](https://csrc.nist.gov/glossary/term/defense_in_depth) strategies for cloud
-- Implementing [Principle of Least Privilege](https://csrc.nist.gov/glossary/term/least_privilege) in cloud systems
+## Learning Objectives
+- Understand the [CIA Triad](https://csrc.nist.gov/glossary/term/cia) and its application in cloud environments
+- Master the [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/) across different cloud providers
+- Apply [Defense in Depth](https://csrc.nist.gov/glossary/term/defense_in_depth) strategies to cloud resources
+- Implement the [Principle of Least Privilege](https://csrc.nist.gov/glossary/term/least_privilege) in cloud systems
 
 ## Getting Started as a Junior Engineer
 
@@ -102,7 +107,9 @@ Cloud services abstract away many technical details, which can be both helpful a
 
 **Practical tip**: For each cloud service you use, try to understand its physical counterpart. For example, when using an AWS Security Group, understand how it relates to traditional firewall rules you might set up in a home network.
 
-## Test Your Knowledge
+## Hands-on Practice
+
+### Test Your Knowledge
 
 Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of cloud security fundamentals:
 
@@ -112,15 +119,17 @@ Test your knowledge with an AI assistant. Here are some example prompts to test 
 4. How would you implement the principle of least privilege in a cloud environment?
 5. What are the key differences between traditional security and cloud security approaches?
 
-## Practical Exercise for Beginners
+### Practical Exercise for Beginners
 
-### Set Up Basic Security Controls
+#### Set Up Basic Security Controls
 
 1. **AWS**: Enable CloudTrail, configure S3 bucket policies, and set up Security Groups
 2. **Azure**: Configure Azure Security Center, set up Network Security Groups, and enable Azure Monitor
 3. **GCP**: Enable Cloud Audit Logs, set up firewall rules, and configure VPC Service Controls
 
-## Labs
+## Labs and Resources
+
+### Labs
 
 | Vendor | Topic                                  | Link                                                     |
 | ------ | -------------------------------------- | -------------------------------------------------------- |
@@ -132,7 +141,7 @@ Test your knowledge with an AI assistant. Here are some example prompts to test 
 | GCP    | GCP Security Best Practices            | https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations/security |
 | GCP    | Cloud Security Command Center Walkthrough | https://cloud.google.com/security-command-center/docs/quickstart-security-command-center |
 
-## Additional Resources
+### Additional Resources
 
 - [AWS Security Documentation](https://docs.aws.amazon.com/security/)
 - [Azure Security Documentation](https://learn.microsoft.com/en-us/azure/security/)

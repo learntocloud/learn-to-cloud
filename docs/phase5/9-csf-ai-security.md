@@ -3,27 +3,32 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Study](#study)
+- [Overview](#overview)
+- [Learning Objectives](#learning-objectives)
 - [Getting Started with AI Security for Junior Engineers](#getting-started-with-ai-security-for-junior-engineers)
 - [AI-Specific Security Challenges](#ai-specific-security-challenges)
   - [Prompt Injection and Model Security](#prompt-injection-and-model-security)
   - [AI Model Supply Chain Security](#ai-model-supply-chain-security)
   - [Data Privacy and Training Security](#data-privacy-and-training-security)
 - [Cloud Provider AI Security Features](#cloud-provider-ai-security-features)
-- [Test Your Knowledge](#test-your-knowledge)
-- [Practical Exercise: Securing an AI Deployment](#practical-exercise-securing-an-ai-deployment)
-- [AI Security Labs and Resources](#ai-security-labs-and-resources)
-- [Best Practices for Junior Engineers](#best-practices-for-junior-engineers)
+- [Hands-on Practice](#hands-on-practice)
+  - [Test Your Knowledge](#test-your-knowledge)
+  - [Practical Exercise: Securing an AI Deployment](#practical-exercise-securing-an-ai-deployment)
+- [Resources and Best Practices](#resources-and-best-practices)
+  - [AI Security Labs and Resources](#ai-security-labs-and-resources)
+  - [Best Practices for Junior Engineers](#best-practices-for-junior-engineers)
 
 </details>
 
+## Overview
+
 As AI and machine learning technologies become increasingly integrated into cloud solutions, understanding their unique security implications is crucial for junior cloud engineers. This section covers the essential security considerations when deploying, using, and architecting AI/ML models in cloud environments.
 
-## Study
-- Understanding [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) and common vulnerabilities
-- Learning about [AI Model Security](https://www.microsoft.com/en-us/security/blog/2020/04/08/protecting-ai-machine-learning-systems-from-attacks/) and protection approaches
-- Exploring [Privacy-Preserving ML](https://cloud.google.com/blog/products/ai-machine-learning/privacy-preserving-ai-using-confidential-computing) techniques in cloud environments 
-- Understanding [Responsible AI Principles](https://aws.amazon.com/machine-learning/responsible-machine-learning/) and implementation
+## Learning Objectives
+- Identify [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) vulnerabilities and mitigation strategies
+- Implement [AI Model Security](https://www.microsoft.com/en-us/security/blog/2020/04/08/protecting-ai-machine-learning-systems-from-attacks/) protections for cloud-deployed models
+- Apply [Privacy-Preserving ML](https://cloud.google.com/blog/products/ai-machine-learning/privacy-preserving-ai-using-confidential-computing) techniques in cloud environments
+- Establish [Responsible AI Principles](https://aws.amazon.com/machine-learning/responsible-machine-learning/) in cloud AI/ML deployments
 
 ## Getting Started with AI Security for Junior Engineers
 
@@ -99,7 +104,9 @@ AI models can inadvertently memorize sensitive training data, leading to potenti
 - **Secure Multi-party Computation**: Privacy-preserving ML techniques
 - **Model Cards**: Standardized model documentation including safety considerations
 
-## Test Your Knowledge
+## Hands-on Practice
+
+### Test Your Knowledge
 
 Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of AI and cloud security:
 
@@ -109,15 +116,17 @@ Test your knowledge with an AI assistant. Here are some example prompts to test 
 4. Explain how you would set up proper access controls for an AI model deployed in a cloud environment.
 5. What monitoring would you implement for AI systems to detect potential security issues?
 
-## Practical Exercise: Securing an AI Deployment
+### Practical Exercise: Securing an AI Deployment
 
-### Set Up Basic AI Security Controls
+#### Set Up Basic AI Security Controls
 
 1. **AWS**: Implement SageMaker security configurations, role-based access control, and model monitoring
 2. **Azure**: Configure Azure OpenAI content filters, network isolation, and responsible AI tooling
 3. **GCP**: Set up Vertex AI safety features, private endpoints, and data governance controls
 
-## AI Security Labs and Resources
+## Resources and Best Practices
+
+### AI Security Labs and Resources
 
 | Provider | Resource | Description |
 |----------|----------|-------------|
@@ -126,7 +135,7 @@ Test your knowledge with an AI assistant. Here are some example prompts to test 
 | Microsoft | [Securing Azure OpenAI](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/security) | OpenAI-specific security guidance |
 | AWS | [Responsible AI Implementation Guide](https://aws.amazon.com/blogs/machine-learning/responsible-ai-documentation-and-assessment-tools/) | Tools and frameworks for deploying AI responsibly |
 
-## Best Practices for Junior Engineers
+### Best Practices for Junior Engineers
 
 1. **Start with standard cloud security** - Apply core security principles like least privilege to AI deployments
 2. **Implement content filtering** - Use cloud provider tools to filter harmful inputs and outputs

@@ -3,27 +3,31 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Study](#study)
+- [Overview](#overview)
+- [Learning Objectives](#learning-objectives)
 - [Getting Started with Cloud Network Security for Junior Engineers](#getting-started-with-cloud-network-security-for-junior-engineers)
-- [Test Your Knowledge](#test-your-knowledge)
 - [Virtual Network Architecture](#virtual-network-architecture)
 - [Security Controls](#security-controls)
 - [Common Networking Mistakes for Junior Engineers](#common-networking-mistakes-for-junior-engineers)
 - [Intrusion Detection and Prevention Systems (IDPS)](#intrusion-detection-and-prevention-systems-idps)
 - [DDoS Protection](#ddos-protection)
-- [Practical Exercise: Design a Secure Network Architecture](#practical-exercise-design-a-secure-network-architecture)
-- [Labs (Free)](#labs-free)
+- [Hands-on Practice](#hands-on-practice)
+  - [Test Your Knowledge](#test-your-knowledge)
+  - [Practical Exercise: Design a Secure Network Architecture](#practical-exercise-design-a-secure-network-architecture)
+- [Labs and Resources](#labs-and-resources)
 - [Learn By Building: Home Network Lab for Cloud Skills](#learn-by-building-home-network-lab-for-cloud-skills)
 
 </details>
 
+## Overview
+
 Network security in the cloud is all about building secure connections, creating logical separations between resources, and defending against both internal and external threats. Here's how to approach it:
 
-## Study
-- Understanding [Virtual Private Clouds (VPC)](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html) and network isolation
-- Learning about [Security Groups and NACLs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html) for access control
-- Exploring [Cloud Load Balancing](https://cloud.google.com/load-balancing/docs/load-balancing-overview) and traffic management
-- Understanding [Virtual Private Networks (VPN)](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways) in cloud environments
+## Learning Objectives
+- Configure [Virtual Private Clouds (VPC)](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html) and implement network isolation
+- Implement [Security Groups and NACLs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html) for cloud traffic control
+- Deploy [Cloud Load Balancing](https://cloud.google.com/load-balancing/docs/load-balancing-overview) for secure traffic management
+- Set up [Virtual Private Networks (VPN)](https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways) for secure cloud connections
 
 ## Getting Started with Cloud Network Security for Junior Engineers
 
@@ -47,7 +51,9 @@ Network security in the cloud can feel particularly abstract because the physica
 3. **Understand stateful vs. stateless filtering** - See how Security Groups differ from Network ACLs
 4. **Draw your network design** - Visualize your architecture before implementing
 
-## Test Your Knowledge
+## Hands-on Practice
+
+### Test Your Knowledge
 
 Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of cloud network security:
 
@@ -96,23 +102,23 @@ DDoS attacks can flood your cloud resources, causing downtime and service disrup
 - **Built-In Cloud Services:** Many cloud providers offer DDoS mitigation tools that detect and respond to abnormal traffic patterns automatically.
 - **Content Delivery Networks (CDNs):** By distributing traffic across multiple servers, CDNs help absorb large influxes of traffic, ensuring that no single node is overwhelmed.
 
-## Practical Exercise: Design a Secure Network Architecture
+### Practical Exercise: Design a Secure Network Architecture
 
-### For AWS:
+#### For AWS:
 1. Create a VPC with public and private subnets
 2. Configure network ACLs to filter traffic at the subnet level
 3. Set up Security Groups for EC2 instances with least privilege
 4. Implement VPC Flow Logs to monitor traffic
 5. Configure AWS Shield for DDoS protection
 
-### For Azure:
+#### For Azure:
 1. Set up a Virtual Network with proper subnets
 2. Configure Network Security Groups
 3. Implement Azure Firewall or Application Gateway
 4. Set up Azure DDoS Protection
 5. Enable Network Watcher flow logs
 
-### For GCP:
+#### For GCP:
 1. Create a VPC with appropriate subnets
 2. Configure firewall rules for least privilege
 3. Set up Cloud Armor for WAF and DDoS protection
@@ -121,7 +127,7 @@ DDoS attacks can flood your cloud resources, causing downtime and service disrup
 
 By designing your network architecture with these principles in mind and layering in robust security controls, you're not just protecting your data—you're ensuring that your services remain available and resilient, even under heavy attack. This proactive, layered approach is essential in today's dynamic cloud environments.
 
-## Labs (Free)
+## Labs and Resources
 
 | Vendor | Topic | Link |
 |--------|-------|------|

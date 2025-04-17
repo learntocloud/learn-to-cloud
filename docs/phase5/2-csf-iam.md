@@ -3,25 +3,29 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Study](#study)
+- [Overview](#overview)
+- [Learning Objectives](#learning-objectives)
 - [Getting Started with IAM for Junior Engineers](#getting-started-with-iam-for-junior-engineers)
 - [IAM Concepts](#iam-concepts)
 - [Common IAM Security Issues to Avoid](#common-iam-security-issues-to-avoid)
 - [Access Control Mechanisms](#access-control-mechanisms)
-- [Test Your Knowledge](#test-your-knowledge)
-- [Practical Exercise: Setting Up Basic IAM Controls](#practical-exercise-setting-up-basic-iam-controls)
+- [Hands-on Practice](#hands-on-practice)
+  - [Test Your Knowledge](#test-your-knowledge)
+  - [Practical Exercise: Setting Up Basic IAM Controls](#practical-exercise-setting-up-basic-iam-controls)
 - [Best Practices](#best-practices)
-- [Labs (Free)](#labs-free)
+- [Labs and Resources](#labs-and-resources)
 
 </details>
 
+## Overview
+
 IAM is your frontline defense when it comes to controlling who can access your cloud environment and what they can do once they're in. It's all about ensuring that only the right people have the right access, and doing it in a way that's both secure and streamlined.
 
-## Study
-- Understanding [IAM basics and concepts](https://csrc.nist.gov/projects/access-control-policy-and-implementation-guides)
-- Learning about [Authentication vs. Authorization](https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization)
-- Exploring [Multi-Factor Authentication](https://cloud.google.com/identity/solutions/implement-mfa) implementation
-- Understanding [Role-Based Access Control](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview) (RBAC)
+## Learning Objectives
+- Understand [IAM basics and concepts](https://csrc.nist.gov/projects/access-control-policy-and-implementation-guides) for cloud environments
+- Differentiate between [Authentication vs. Authorization](https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization) in cloud security
+- Implement [Multi-Factor Authentication](https://cloud.google.com/identity/solutions/implement-mfa) for cloud resources
+- Apply [Role-Based Access Control](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview) (RBAC) principles
 
 ## Getting Started with IAM for Junior Engineers
 
@@ -70,7 +74,9 @@ As a junior engineer, be aware of these frequent mistakes:
 - **Attribute-Based Access Control (ABAC):**  
     ABAC takes things a step further by considering various attributes—like department, time of access, location, and even the sensitivity of the requested data—to make more granular access decisions. This flexible approach can adapt to complex, dynamic environments.
     
-## Test Your Knowledge
+## Hands-on Practice
+
+### Test Your Knowledge
 
 Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of Identity and Access Management:
 
@@ -80,21 +86,21 @@ Test your knowledge with an AI assistant. Here are some example prompts to test 
 4. What are service accounts and why are they important for cloud security?
 5. How would you handle temporary elevated access for emergency situations in a cloud environment?
 
-## Practical Exercise: Setting Up Basic IAM Controls
+### Practical Exercise: Setting Up Basic IAM Controls
 
-### AWS:
+#### AWS:
 1. Create an IAM group for developers with appropriate permissions
 2. Add users to the group
 3. Enable MFA for all users
 4. Create a custom policy that follows least privilege
 
-### Azure:
+#### Azure:
 1. Create Azure AD groups for different departments
 2. Assign built-in roles to these groups
 3. Configure Conditional Access policies
 4. Enable Azure AD Privileged Identity Management
 
-### GCP:
+#### GCP:
 1. Set up basic role bindings using predefined roles
 2. Create custom roles for specific use cases
 3. Configure service accounts with limited permissions
@@ -116,7 +122,7 @@ Test your knowledge with an AI assistant. Here are some example prompts to test 
 
 By keeping these IAM fundamentals in mind and implementing robust controls, you ensure that your cloud environment remains secure and that access is granted only where it's truly needed.
 
-## Labs (Free)
+## Labs and Resources
 
 | Vendor       | Topic                                            | Link                                                                       |
 | ------------ | ------------------------------------------------ | -------------------------------------------------------------------------- |

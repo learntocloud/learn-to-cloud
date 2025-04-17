@@ -3,26 +3,30 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Study](#study)
+- [Overview](#overview)
+- [Learning Objectives](#learning-objectives)
 - [Getting Started with Data Security for Junior Engineers](#getting-started-with-data-security-for-junior-engineers)
-- [Test Your Knowledge](#test-your-knowledge)
 - [Data Protection Strategies](#data-protection-strategies)
 - [Key Management](#key-management)
 - [Common Data Security Mistakes for Junior Engineers to Avoid](#common-data-security-mistakes-for-junior-engineers-to-avoid)
 - [Breaking Through the Abstraction: Making Data Security Tangible](#breaking-through-the-abstraction-making-data-security-tangible)
 - [Data Loss Prevention (DLP)](#data-loss-prevention-dlp)
-- [Practical Exercise: Secure Your First Cloud Data Store](#practical-exercise-secure-your-first-cloud-data-store)
-- [Labs (Free)](#labs-free)
+- [Hands-on Practice](#hands-on-practice)
+  - [Test Your Knowledge](#test-your-knowledge)
+  - [Practical Exercise: Secure Your First Cloud Data Store](#practical-exercise-secure-your-first-cloud-data-store)
+- [Labs and Resources](#labs-and-resources)
 
 </details>
 
+## Overview
+
 Data is the crown jewel of your cloud environment, and without solid security measures in place, even the best infrastructure can fall apart. In this section, we'll break down the essential components of data protection—from how you encrypt your data to the processes that prevent accidental leakage.
 
-## Study
-- Understanding [Data Classification](https://csrc.nist.gov/glossary/term/data_classification) and sensitivity levels
-- Learning about [Encryption methods](https://cloud.google.com/security/encryption) for cloud data (at rest, in transit)
-- Exploring [Key Management Services](https://aws.amazon.com/kms/features/) in cloud environments
-- Understanding [Data Loss Prevention](https://learn.microsoft.com/en-us/azure/information-protection/what-is-information-protection) techniques
+## Learning Objectives
+- Master [Data Classification](https://csrc.nist.gov/glossary/term/data_classification) and sensitivity levels for cloud resources
+- Implement [Encryption methods](https://cloud.google.com/security/encryption) for cloud data (at rest, in transit)
+- Configure [Key Management Services](https://aws.amazon.com/kms/features/) in cloud environments
+- Deploy [Data Loss Prevention](https://learn.microsoft.com/en-us/azure/information-protection/what-is-information-protection) techniques
 
 ## Getting Started with Data Security for Junior Engineers
 
@@ -43,7 +47,9 @@ Data security in the cloud can initially seem abstract compared to physical stor
 3. **Master access controls** - Configure proper permissions before focusing on advanced techniques
 4. **Use managed services** - Start with provider KMS services instead of building custom solutions
 
-## Test Your Knowledge
+## Hands-on Practice
+
+### Test Your Knowledge
 
 Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of cloud data security:
 
@@ -101,23 +107,23 @@ Data leaks often occur not because of a breach, but due to human error. DLP stra
 **Monitoring and Alerting Mechanisms:**  
 No matter how robust your data security strategies are, you need to be able to spot potential issues fast. Continuous monitoring and real-time alerts are essential—they allow you to detect unusual activity early and respond before a minor oversight turns into a major problem.
 
-## Practical Exercise: Secure Your First Cloud Data Store
+### Practical Exercise: Secure Your First Cloud Data Store
 
-### For AWS:
+#### For AWS:
 1. Create an S3 bucket with proper access policies
 2. Enable default encryption with AWS KMS
 3. Set up CloudTrail for object-level logging
 4. Configure lifecycle policies for data retention
 5. Test permissions with different IAM roles
 
-### For Azure:
+#### For Azure:
 1. Create a Storage Account with proper network controls
 2. Configure Azure Storage encryption
 3. Set up diagnostic logging
 4. Implement Shared Access Signatures (SAS) properly
 5. Test access with different accounts
 
-### For GCP:
+#### For GCP:
 1. Create a Cloud Storage bucket with appropriate permissions
 2. Configure Cloud KMS encryption
 3. Set up audit logging
@@ -126,7 +132,7 @@ No matter how robust your data security strategies are, you need to be able to s
 
 By implementing these data security practices, you're not only defending against external threats but also building a resilient framework that mitigates risks from internal mishandling. Each layer—from encryption to DLP—works together to ensure that your data remains secure, no matter what challenges come your way.
 
-## Labs (Free)
+## Labs and Resources
 
 | Vendor | Topic | Link |
 |--------|-------|------|

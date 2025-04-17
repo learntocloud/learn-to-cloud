@@ -3,27 +3,31 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Study](#study)
+- [Overview](#overview)
+- [Learning Objectives](#learning-objectives)
 - [Getting Started with GRC for Junior Engineers](#getting-started-with-grc-for-junior-engineers)
-- [Test Your Knowledge](#test-your-knowledge)
 - [Regulatory Requirements](#regulatory-requirements)
 - [Security Standards and Cloud-Specific Frameworks](#security-standards-and-cloud-specific-frameworks)
 - [Common GRC Challenges for Junior Engineers](#common-grc-challenges-for-junior-engineers)
 - [Risk Assessment and Management](#risk-assessment-and-management)
 - [Breaking Through the Abstraction: Making GRC Tangible](#breaking-through-the-abstraction-making-grc-tangible)
 - [Cloud Governance](#cloud-governance)
-- [Practical Exercise: Implement Basic GRC Controls](#practical-exercise-implement-basic-grc-controls)
-- [Labs (Free)](#labs-free)
+- [Hands-on Practice](#hands-on-practice)
+  - [Test Your Knowledge](#test-your-knowledge)
+  - [Practical Exercise: Implement Basic GRC Controls](#practical-exercise-implement-basic-grc-controls)
+- [Labs and Resources](#labs-and-resources)
 
 </details>
 
+## Overview
+
 Compliance, governance, and risk management might sound like bureaucratic hurdles, but they're essential for ensuring your cloud operations are secure, compliant, and trusted. This section covers the regulatory frameworks, cloud-specific standards, and best practices you need to know.
 
-## Study
-- Understanding core [Compliance frameworks](https://aws.amazon.com/compliance/programs/) for cloud (GDPR, HIPAA, PCI-DSS)
-- Learning about [Cloud Security Governance](https://cloud.google.com/security/compliance/governance) fundamentals
-- Exploring [Risk Assessment](https://csrc.nist.gov/Projects/risk-management/risk-assessment-methods) methodologies for cloud environments
-- Understanding [Automated Compliance](https://learn.microsoft.com/en-us/azure/governance/policy/overview) tools in cloud platforms
+## Learning Objectives
+- Understand core [Compliance frameworks](https://aws.amazon.com/compliance/programs/) for cloud (GDPR, HIPAA, PCI-DSS)
+- Apply [Cloud Security Governance](https://cloud.google.com/security/compliance/governance) fundamentals to cloud environments
+- Conduct [Risk Assessment](https://csrc.nist.gov/Projects/risk-management/risk-assessment-methods) for cloud-based systems
+- Implement [Automated Compliance](https://learn.microsoft.com/en-us/azure/governance/policy/overview) tools in cloud platforms
 
 ## Getting Started with GRC for Junior Engineers
 
@@ -44,7 +48,9 @@ Governance, Risk, and Compliance (GRC) can be one of the more abstract areas for
 3. **Use provider compliance tools** - AWS Config, Azure Policy, and GCP Security Command Center can automate compliance checks
 4. **Document as you build** - Get in the habit of documenting compliance evidence as you implement controls
 
-## Test Your Knowledge
+## Hands-on Practice
+
+### Test Your Knowledge
 
 Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of compliance, governance, and risk management:
 
@@ -113,23 +119,23 @@ Cloud governance is about setting the policies and procedures that ensure your s
 - **Policies and Procedures:** Document clear roles, responsibilities, and guidelines so everyone in your organization knows the rules.
 - **Auditing Practices:** Regular audits confirm that your security controls are operating as intended, allowing you to identify gaps and course-correct before they escalate into serious issues.
 
-## Practical Exercise: Implement Basic GRC Controls
+### Practical Exercise: Implement Basic GRC Controls
 
-### For AWS:
+#### For AWS:
 1. Set up AWS Config to monitor resource compliance
 2. Create a basic set of AWS Config Rules aligned to CIS Benchmarks
 3. Implement AWS CloudTrail for comprehensive audit logging
 4. Configure AWS Security Hub to aggregate compliance findings
 5. Create a simple compliance dashboard
 
-### For Azure:
+#### For Azure:
 1. Configure Azure Policy with built-in compliance policies
 2. Set up Azure Security Center and review secure score
 3. Implement Azure Monitor for audit logging
 4. Create a basic compliance dashboard with Azure dashboards
 5. Test remediation capabilities for non-compliant resources
 
-### For GCP:
+#### For GCP:
 1. Implement Security Command Center
 2. Configure Cloud Asset Inventory
 3. Set up audit logging with Cloud Audit Logs
@@ -138,7 +144,7 @@ Cloud governance is about setting the policies and procedures that ensure your s
 
 By integrating these compliance, governance, and risk management practices into your cloud security strategy, you not only protect your systems from threats but also build a foundation of trust with your customers and stakeholders.
 
-## Labs (Free)
+## Labs and Resources
 
 | Vendor | Topic | Link |
 |--------|-------|------|

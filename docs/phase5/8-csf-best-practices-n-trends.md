@@ -3,27 +3,32 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Study](#study)
+- [Overview](#overview)
+- [Learning Objectives](#learning-objectives)
 - [Getting Started with Best Practices for Junior Engineers](#getting-started-with-best-practices-for-junior-engineers)
-- [Test Your Knowledge](#test-your-knowledge)
 - [Adopting a Zero Trust Model](#adopting-a-zero-trust-model)
 - [Security Automation and Orchestration](#security-automation-and-orchestration)
 - [Breaking Through the Abstraction: Hands-On Security Projects](#breaking-through-the-abstraction-hands-on-security-projects)
 - [Common Mistakes in Implementing Best Practices](#common-mistakes-in-implementing-best-practices)
 - [Emerging Trends](#emerging-trends)
-- [Practical Exercise: Implementing Cloud Security Best Practices](#practical-exercise-implementing-cloud-security-best-practices)
-- [Labs and Resources (Free)](#labs-and-resources-free)
-- [Additional Resources](#additional-resources)
+- [Hands-on Practice](#hands-on-practice)
+  - [Test Your Knowledge](#test-your-knowledge)
+  - [Practical Exercise: Implementing Cloud Security Best Practices](#practical-exercise-implementing-cloud-security-best-practices)
+- [Labs and Resources](#labs-and-resources)
+  - [Labs and Workshops](#labs-and-workshops)
+  - [Additional Resources](#additional-resources)
 
 </details>
 
+## Overview
+
 When it comes to staying ahead in cloud security, it's not enough to simply set up defenses—you need to evolve and adapt. This section highlights some of the best practices you should adopt and the emerging trends shaping the future of cloud security.
 
-## Study
-- Understanding [Zero Trust Architecture](https://www.nist.gov/publications/implementing-zero-trust-architecture) principles for cloud
-- Learning about [DevSecOps](https://cloud.google.com/architecture/devops/devops-tech-shifting-left-on-security) and security automation
-- Exploring [Cloud Security Posture Management](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction) (CSPM)
-- Understanding [Emerging threats](https://aws.amazon.com/blogs/security/top-10-security-items-to-improve-in-your-aws-account/) and countermeasures in cloud security
+## Learning Objectives
+- Implement [Zero Trust Architecture](https://www.nist.gov/publications/implementing-zero-trust-architecture) principles for cloud environments
+- Apply [DevSecOps](https://cloud.google.com/architecture/devops/devops-tech-shifting-left-on-security) and security automation to cloud workflows
+- Configure [Cloud Security Posture Management](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction) (CSPM) for cloud resources
+- Mitigate [Emerging threats](https://aws.amazon.com/blogs/security/top-10-security-items-to-improve-in-your-aws-account/) in cloud environments
 
 ## Getting Started with Best Practices for Junior Engineers
 
@@ -45,7 +50,9 @@ As a junior engineer, the vast landscape of cloud security best practices can be
 3. **Implement automated scanning** - Set up basic vulnerability scanning for code and infrastructure
 4. **Document as you build** - Create simple security architecture diagrams for your projects
 
-## Test Your Knowledge
+## Hands-on Practice
+
+### Test Your Knowledge
 
 Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of cloud security best practices and trends:
 
@@ -103,23 +110,23 @@ The cloud security landscape is constantly evolving, and a few trends are starti
 - **Shift-Left Security:** Security is moving earlier in the development lifecycle, with tools that integrate directly into the development process.
 - **FinOps and SecOps Convergence:** Security and cost optimization are increasingly interrelated in cloud environments.
 
-## Practical Exercise: Implementing Cloud Security Best Practices
+### Practical Exercise: Implementing Cloud Security Best Practices
 
-### For AWS:
+#### For AWS:
 1. Set up AWS Organizations with Security Control Policies
 2. Implement Infrastructure as Code security scanning
 3. Configure AWS Config for continuous compliance monitoring
 4. Enable automated remediation for common issues
 5. Implement a security baseline template for new accounts
 
-### For Azure:
+#### For Azure:
 1. Configure Azure Policy for security guardrails
 2. Implement Azure Blueprints for secure baselines
 3. Set up automated compliance reporting
 4. Implement Just-In-Time access for admin accounts
 5. Configure secure DevOps pipelines with security scanning
 
-### For GCP:
+#### For GCP:
 1. Implement Organization Policy Constraints
 2. Set up VPC Service Controls
 3. Configure Binary Authorization for GKE
@@ -128,7 +135,9 @@ The cloud security landscape is constantly evolving, and a few trends are starti
 
 By embracing these best practices and keeping a close eye on emerging trends, you can build a resilient, forward-thinking cloud security strategy that's prepared for whatever challenges come next.
 
-## Labs and Resources (Free)
+## Labs and Resources
+
+### Labs and Workshops
 
 | Vendor | Topic | Link |
 |--------|-------|------|
@@ -137,7 +146,7 @@ By embracing these best practices and keeping a close eye on emerging trends, yo
 | Azure | Azure Well-Architected | [Azure Security Best Practices](https://learn.microsoft.com/en-us/azure/well-architected/security/security-principles) |
 | GCP | Google Cloud Security Foundations | [GCP Security Blueprint](https://cloud.google.com/architecture/security-foundations) |
 
-## Additional Resources
+### Additional Resources
 
 - [OWASP Cloud Security Project](https://owasp.org/www-project-cloud-security/)
 - [Cloud Security Alliance Best Practices](https://cloudsecurityalliance.org/research/guidance/)

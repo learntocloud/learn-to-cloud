@@ -3,27 +3,32 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Study](#study)
+- [Overview](#overview)
+- [Learning Objectives](#learning-objectives)
 - [Getting Started with Cloud Monitoring for Junior Engineers](#getting-started-with-cloud-monitoring-for-junior-engineers)
-- [Test Your Knowledge](#test-your-knowledge)
 - [Security Monitoring Tools and Practices](#security-monitoring-tools-and-practices)
 - [Breaking Through the Abstraction: Making Cloud Monitoring Tangible](#breaking-through-the-abstraction-making-cloud-monitoring-tangible)
 - [Common Monitoring Mistakes for Junior Engineers](#common-monitoring-mistakes-for-junior-engineers)
 - [Incident Response Planning](#incident-response-planning)
 - [Cloud Forensics](#cloud-forensics)
-- [Practical Exercise: Building a Basic Cloud Monitoring System](#practical-exercise-building-a-basic-cloud-monitoring-system)
-- [Labs and Resources (Free)](#labs-and-resources-free)
-- [Additional Resources](#additional-resources)
+- [Hands-on Practice](#hands-on-practice)
+  - [Test Your Knowledge](#test-your-knowledge)
+  - [Practical Exercise: Building a Basic Cloud Monitoring System](#practical-exercise-building-a-basic-cloud-monitoring-system)
+- [Labs and Resources](#labs-and-resources)
+  - [Labs and Tools](#labs-and-tools)
+  - [Additional Resources](#additional-resources)
 
 </details>
 
+## Overview
+
 When it comes to cloud security, you can't just set up defenses and hope nothing ever happens. You need to monitor your environment constantly, be prepared to respond at a moment's notice, and know how to dig into incidents to learn from them.
 
-## Study
-- Understanding [Cloud Logging and Monitoring](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html) fundamentals
-- Learning about [Security Information and Event Management](https://learn.microsoft.com/en-us/azure/sentinel/overview) (SIEM) in cloud
-- Exploring [Incident Response](https://cloud.google.com/security/incident-response) procedures for cloud environments
-- Understanding [Digital Forensics](https://aws.amazon.com/blogs/security/how-to-perform-forensic-investigation-in-aws-cloud/) for cloud-based incidents
+## Learning Objectives
+- Implement [Cloud Logging and Monitoring](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html) for cloud resources
+- Configure [Security Information and Event Management](https://learn.microsoft.com/en-us/azure/sentinel/overview) (SIEM) in cloud environments
+- Develop [Incident Response](https://cloud.google.com/security/incident-response) procedures for cloud security events
+- Apply [Digital Forensics](https://aws.amazon.com/blogs/security/how-to-perform-forensic-investigation-in-aws-cloud/) techniques for cloud-based incidents
 
 ## Getting Started with Cloud Monitoring for Junior Engineers
 
@@ -45,7 +50,9 @@ Security monitoring in the cloud can be particularly challenging for junior engi
 3. **Set up basic alerts** - Configure simple alerts for key security events
 4. **Visualize security data** - Create dashboards to make monitoring more intuitive
 
-## Test Your Knowledge
+## Hands-on Practice
+
+### Test Your Knowledge
 
 Test your knowledge with an AI assistant. Here are some example prompts to test your understanding of cloud monitoring and incident response:
 
@@ -102,23 +109,23 @@ Forensics in cloud environments can be trickier than in traditional settings. Th
 - **Chain-of-Custody:** Maintain detailed records of how evidence is collected, stored, and analyzed. This is crucial if you ever need to take legal action or conduct a detailed post-mortem analysis.
 - **Post-Incident Analysis:** After resolving the incident, review what happened. Learn from the event to strengthen your defenses and update your incident response plans accordingly.
 
-## Practical Exercise: Building a Basic Cloud Monitoring System
+### Practical Exercise: Building a Basic Cloud Monitoring System
 
-### For AWS:
+#### For AWS:
 1. Enable CloudTrail for all regions
 2. Set up CloudWatch Logs for key services
 3. Configure CloudWatch Alarms for critical security events
 4. Create a Security Hub dashboard
 5. Implement a basic incident response runbook
 
-### For Azure:
+#### For Azure:
 1. Configure Azure Monitor for key resources
 2. Set up Azure Activity Logs
 3. Implement Azure Sentinel for SIEM capabilities
 4. Create custom queries for security events
 5. Design a basic incident response workflow
 
-### For GCP:
+#### For GCP:
 1. Enable Cloud Audit Logs
 2. Configure Cloud Monitoring alerts
 3. Set up Cloud Logging with appropriate sinks
@@ -127,7 +134,9 @@ Forensics in cloud environments can be trickier than in traditional settings. Th
 
 By integrating comprehensive monitoring, a well-oiled incident response plan, and rigorous forensic practices, you ensure that your cloud environment not only detects threats quickly but also recovers effectively while continuously learning and evolving.
 
-## Labs and Resources (Free)
+## Labs and Resources
+
+### Labs and Tools
 
 | Vendor | Topic | Link |
 |--------|-------|------|
@@ -136,7 +145,7 @@ By integrating comprehensive monitoring, a well-oiled incident response plan, an
 | Azure | Sentinel Lab | [Azure Sentinel Lab](https://github.com/Azure/Azure-Sentinel) |
 | GCP | Security Monitoring | [GCP Security Monitoring Tutorials](https://cloud.google.com/security-command-center/docs/tutorials) |
 
-## Additional Resources
+### Additional Resources
 
 - [SANS Incident Response Framework](https://www.sans.org/white-papers/incident-handlers-handbook/)
 - [Cloud Security Alliance Cloud Incident Response Framework](https://cloudsecurityalliance.org/artifacts/cloud-incident-response-framework/)
