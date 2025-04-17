@@ -31,7 +31,13 @@ const config = {
       src: 'https://static.cloudflareinsights.com/beacon.min.js',
       defer: true,
       'data-cf-beacon':`{"token": ${process.env.CLOUDFARE_ANALYTICS_TOKEN}}`, 
-    }],
+    },
+    {
+      src:"https://plausible.rishab.cloud/js/script.js",
+      defer: true,
+      'data-domain': 'learntocloud.guide'
+    }
+  ],
   presets: [
     [
       'classic',
