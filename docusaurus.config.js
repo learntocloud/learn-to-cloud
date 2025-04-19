@@ -74,17 +74,8 @@ const config = {
               position: 'right',
 
             },
-            {
-              type: 'doc',
-              docId: 'Welcome',
-              position: 'left',
-              label: 'Guide',
-            },
-      {
-              href: 'https://dictionary.learntocloud.guide/',
-              label: 'Cloud Dictionary',
-              position: 'left',
-            },
+        
+            
             {
               href: 'https://discord.gg/dr2kvtA726',
               label: 'Discord',
@@ -158,10 +149,6 @@ const config = {
                 {
                     label: 'LTC Roadmap',
                     href: 'https://github.com/orgs/learntocloud/projects/2/views/1',
-                },
-                {
-                  label: 'DTC Roadmap',
-                  href: 'https://github.com/orgs/learntocloud/projects/3'
                 }
               ],
             },
