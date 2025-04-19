@@ -1,81 +1,154 @@
 # Phase 5: Cloud Security Fundamentals
 
-Author: [Dayspring Johnson](https://twitter.com/daycyberwox)
+Welcome to Phase 5 of Learn to Cloud! This phase is dedicated to cloud security fundamentals - the essential concepts, strategies, and practices to protect cloud environments. You'll learn about identity management, data protection, network security, and more. With hands-on labs and real-world examples, you'll develop the security mindset needed to build and maintain secure cloud systems.
 
-## How does this phase apply to Cloud?
+Author: [Ethan Troy](https://hackidle.com) | Last Updated: April 2025
 
-Security is the biggest challenge in cloud computing. As cloud adoption continues to grow, cloud security incidents and vulnerabilities are equally on the rise.
+<details>
+<summary>Table of Contents</summary>
 
-The individual cloud components you were introduced to in the previous phases all require security in some shape or form. Moreover, security must be considered from every perspective to prevent malicious actors from finding and exploiting vulnerabilities in our cloud environments, which could potentially lead to data or infrastructure compromise.
+- [Objectives](#objectives)
+- [How Cloud Security Applies to Your Journey](#how-cloud-security-applies-to-your-journey) 
+- [Welcome to Cloud Security!](#welcome-to-cloud-security)
+  - [The Double-Edged Sword of Cloud Abstraction](#the-double-edged-sword-of-cloud-abstraction)
+  - [Why This Matters for Your Career](#why-this-matters-for-your-career)
+- [How to Use This Section](#how-to-use-this-section)
+  - [The Power of Problem-Based Learning](#the-power-of-problem-based-learning)
+  - [Embracing Your Own Learning Path](#embracing-your-own-learning-path)
+- [Prerequisites](#prerequisites)
+- [Topics](#topics)
+- [Additional Resources](#additional-resources)
+- [What's Next?](#whats-next)
 
-Here's one of my favorite articles by Christophe Tafani-Dereeper that covers Cloud Security Breaches and Vulnerabilities: [Cloud Security Breaches and Vulnerabilities: 2021 in Review](https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/).
+</details>
 
-I also recommend checking out "Securing DevOps: Security in the Cloud" by Julien Vehent, which covers several core components for protecting cloud infrastructure, logging, detecting threats, and more. It even includes practical and visual aids that help in learning these concepts.
+## Objectives
 
-Another book recommendation is "Practical Cloud Security: A Guide for Secure Design and Deployment" by Chris Dotson. This book is a good complementary resource to the previous one, as it goes in-depth into various concepts, standards, frameworks, and principles required for cloud security, and as the name implies, it is practical.
+By the end of this phase, you will:
 
-Always remember, you cannot secure what you do not understand, so make sure to understand the architectural and core components of the cloud so that you can properly secure them.
+- Understand core cloud security principles and frameworks
+- Implement identity and access management best practices
+- Apply data protection and encryption strategies
+- Configure secure network environments
+- Establish monitoring and incident response processes
+- Identify common threats and vulnerabilities in cloud systems
+- Navigate compliance and governance requirements
+- Complete hands-on security labs and exercises
 
-## Resources
+## How Cloud Security Applies to Your Journey
 
-| Cloud Platform | Title  | Description  |
-|:-------------- | ------ | ------ |
-AWS, Azure & GCP | [Hacking The Cloud](https://hackingthe.cloud/)| Hacking the cloud is an encyclopedia of the attacks/tactics/techniques that are common in cloud exploitation. |
-AWS, Azure, GCP, IBM, & DO | [HackTricks Cloud](https://cloud.hacktricks.xyz/)| A resource for hacking CI/CD pipelines and cloud environments. Useful for both red and blue teams. |
-AWS | [Flaws.Cloudf](http://flaws.cloud/)| Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS). |
-AWS | [Flaws2.Cloud](http://flaws2.cloud/)| Similar to the original Flaws.Cloud Challenge this tutorial teaches you AWS security concepts but this time from both an offensive and defensive perspective |
-AWS | [Cloud Goat](https://github.com/RhinoSecurityLabs/cloudgoat)| CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool that allows you to hone your cloud cybersecurity skills by creating and completing several "capture-the-flag" style scenarios. |
-AWS | [Sadcloud](https://github.com/nccgroup/sadcloud)| Sadcloud is a tool for spinning up insecure AWS infrastructure with Terraform. You can test your AWS security knowledge against these infrastructure. |
-AWS | [AWS Well-Architected Labs: Security](https://www.wellarchitectedlabs.com/security/)| The security labs are documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices. |
-AWS | [Attack Detection Fundamentals](https://labs.withsecure.com/publications/attack-detection-fundamentals-2021-aws-lab-1)| This three-part series explores an end-to-end kill chain in AWS and log entries for detection & analysis. |
-Azure | [Attack Detection Fundamentals](https://labs.withsecure.com/publications/attack-detection-fundamentals-2021-azure-lab-1)| This three-part series explores an end-to-end kill chain in Azure and log entries for detection & analysis. |
-Azure | [CONVEX](https://github.com/Azure/CONVEX)| Cloud Open-source Network Vulnerability Exploitation eXperience (CONVEX) spins up Capture The Flag environments in your Azure tenant for you to play through.  |
-Azure | [Securing Azure Infrastructure - Hands on Lab Guide](https://github.com/azurecitadel/azure-security-lab)| A hands on guide to securing azure infrastructure using various azure security controls. |
-Azure | [Azure Security Technologies](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/)| Various labs scenarios covering azure security. |
-Azure | [Create an Azure Vulnerable Lab](https://0xpwn.wordpress.com/2022/03/05/setting-up-an-azure-pentest-lab-part-1-anonymous-blob-access/)| A four-part series explaining azure vulnerabilities. |
-Azure | [Azure Goat](https://github.com/ine-labs/AzureGoat)| AzureGoat : A Damn Vulnerable Azure Infrastructure |
-Azure | [Purple Cloud](https://github.com/iknowjason/PurpleCloud)| A little tool to play with Azure Identity - Azure Active Directory lab creation tool |
-GCP | [GCP GOAT](https://gcpgoat.joshuajebaraj.com/)| GCP-Goat is intentionally vulnerable GCP environment to learn and practice GCP Security |
-GCP | [ThunderCTF](https://thunder-ctf.cloud)| Thunder CTF allows players to practice attacking vulnerable cloud projects on Google Cloud Platform (GCP). In each level, players are tasked with exploiting a cloud deployment to find a "secret" integer stored within it. |
-Kubernetes | [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/)| Kubernetes Goat is an interactive Kuberenetes Security Learning Playground |
+Security is not a separate phase of cloud but rather a continuous consideration that should be integrated into everything you do. As a cloud professional, regardless of your specific role, you'll need to understand security principles to:
 
-## Projects
+- Design resilient architectures that protect data and services
+- Implement secure coding practices and infrastructure configurations 
+- Ensure compliance with regulations and internal policies
+- Respond effectively to security incidents when they occur
 
-| Cloud Platform | Title  | Description  |
-|:-------------- | ------ | ------ |
-AWS | [Threat Detection With AWS GuardDuty](https://www.youtube.com/watch?v=lLgqP4cbdWg&t=127s)| A tutorial showing how to use AWS GuardDuty to detect threats. |
-AWS | [AWS Threat Simulation & Detection](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection/blob/main/aws.credential-access.ec2-get-password-data.md)| This doc shows the use of Stratus Red Team & SumoLogic for attack & detection/analysis. This can replicated using any other SIEM. |
-Azure | [Azure Cloud Detection Lab(Blog)](https://cyberwoxacademy.com/azure-cloud-detection-lab-project/), [Azure Cloud Detection Lab(Videos)](https://youtube.com/playlist?list=PLBNtagSCmDWw27ccfeWeiaMcpNIxpGHy4)| A hands-on project showing how to detect threats in an azure environment using Azure Sentinal. |
-Azure | [SIEM Tutorial for Beginners Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!](https://youtu.be/RoZeVbbZ0o0)| A hands-on project showing how to set up a honey pot and analyzing malicious traffic using Azure Sentinel. |
+Cloud security isn't just for security specialists—it's a foundational skill that enhances every cloud role. The security knowledge you gain in this phase will inform your approach to infrastructure, development, operations, and architecture throughout your career.
 
-## Things you should be familiar with at the end of this phase
+For an excellent foundation, read these cloud provider security overviews:
+- [AWS Security Pillar - Well Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)  
+- [Microsoft Azure - Secure](https://learn.microsoft.com/en-us/azure/architecture/framework/security/overview)
+- [Google Cloud - Security Foundations](https://cloud.google.com/architecture/security-foundations)
 
--   Understanding of core IAM concepts (Users, Roles, Policies, Groups, Service Accounts/Principals, etc.).
--   Understanding of how authentication works in the cloud.
--   Secure cloud storage, compute, networking, applications, etc.
--   Common security vulnerabilities and misconfigurations in the cloud.
--   How to investigate cloud logs and determine if a cloud environment has been compromised.
--   How to simulate attacks against cloud environments.
--   How to deploy vulnerable infrastructure in the cloud for security testing.
--   Knowledge and usage of various cloud security tools.
+## Welcome to Cloud Security!
 
-## Certifications you might want to look into
+As a junior cloud engineer, diving into cloud security might feel overwhelming at first. You're not alone in this journey!
 
-- [Certified Cloud Security Professional](https://www.isc2.org/Certifications/CCSP)
-- [Microsoft Certified: Security Operations Analyst Associate](https://docs.microsoft.com/en-us/learn/certifications/security-operations-analyst/)
-- [Microsoft Certified: Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer/)
-- [AWS Certified Security - Specialty](https://aws.amazon.com/certification/certified-security-specialty/)
-- [Google Professional Cloud Security Engineer](https://cloud.google.com/certification/cloud-security-engineer)
+![gif|289x289](https://media0.giphy.com/media/XKolXg1SsuApJ6Noui/giphy.gif?cid=480477437kuq3n7wiafrss95z0e1znuizlvr0x4m4qixkbhd&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-### Practical Certifications (training included)
+### The Double-Edged Sword of Cloud Abstraction
 
-These are lesser know certifications but they are focused on giving you the training needed as well as hands-on certifications where you put the skills you've learned to use, rather than clicking through multiple choice questions.
+Cloud technologies create powerful abstractions that make deployment and scaling easier. However, this abstraction is a double-edged sword:
 
-- [Certified Azure Red Team Professional](https://www.alteredsecurity.com/azureadlab)
-- [Certified Azure Web Application Security Professional](https://www.alteredsecurity.com/azureappsec)
-- [Offensive Azure Security Professional](https://cloudbreach.io/breachingazure/)
-- [Offensive AWS Security Professional](https://cloudbreach.io/breachingaws/)
-- [GCP Red Team Apprentice](https://training.hacktricks.xyz/courses/grta)
-- [AWS Red Team Apprentice](https://training.hacktricks.xyz/courses/arta)
-- [Amazon Cloud Red Team Professional](https://bootcamps.pwnedlabs.io/acrtp-bootcamp)
-- [Microsoft Cloud Red Team Professional](https://bootcamps.pwnedlabs.io/mcrtp-bootcamp)
+- **Easier deployment**: Launch resources with a few clicks or API calls
+- **Hidden complexity**: The underlying network, hardware, and protocols are less visible
+- **Knowledge gaps**: Without understanding what's "under the hood," security blind spots emerge
+
+**Building foundational skills with physical hardware** (like a home network or NAS - Network Attached Storage) can significantly improve your cloud security understanding. Working directly with:
+- Network ports and protocols
+- Firewall configurations 
+- Storage security
+- Authentication mechanisms
+
+### Why This Matters for Your Career
+
+Cloud security is a **foundational skill** that will set you apart as a junior engineer:
+- It makes you more valuable to employers
+- It helps you build more reliable systems
+- It prevents costly mistakes before they happen
+- It's increasingly required knowledge for all cloud roles
+
+Remember: Cloud security is everyone's responsibility, not just the security team's job. The best approach is to "bake security in" from the start rather than trying to "bolt it on" later.
+
+![gif|480x360](https://media3.giphy.com/media/3o6nV13mJfFfMkfgfm/giphy.gif?cid=48047743zyg4o1v6snzv8wpusm2ow63bjcr77id7wb79hokl&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+## How to Use This Section
+
+1. **Start with the fundamentals** - Core principles and IAM are the building blocks
+2. **Take it step-by-step** - You don't need to learn everything at once
+3. **Practice with hands-on labs** - Each section includes practical exercises
+4. **Build sample projects** - Apply what you learn with real-world scenarios
+5. **Solve real problems** - The best security projects address actual needs
+
+### The Power of Problem-Based Learning
+
+Cloud security becomes much more engaging and valuable when you focus on solving real problems:
+
+- **For yourself**: Automate a repetitive security task in your personal projects
+- **For your team**: Create a tool that addresses a security pain point at work
+- **For the community**: Contribute to open-source security tools or documentation
+
+The most effective way to learn cloud security is to find problems that matter to you or others, then build solutions that add actual value. This approach creates natural motivation, teaches practical skills, and builds a portfolio that resonates with employers.
+
+### Embracing Your Own Learning Path
+
+While we've provided a structured learning path below, remember that **your learning journey is uniquely yours**. There's no one "correct" way to learn cloud security:
+
+- **Project-driven learning is valid** - Having a specific project in mind and working backward to learn the necessary skills is often more effective than following a rigid curriculum
+- **Non-linear progress is normal** - Jumping between topics based on interest or need is perfectly fine
+- **Learn by doing** - Hands-on experience, even without complete theoretical knowledge, can be incredibly valuable
+
+Don't get caught up in how others say you "must" learn cloud security. The common advice that "you have to learn X before learning Y" often doesn't reflect the reality of how people actually build skills. The best approach is to dive in, start building, and follow your curiosity while solving real problems.
+
+Your unique learning style, past experiences, and specific goals should shape your journey. Use this guide as a flexible resource rather than a strict roadmap.
+
+## Prerequisites
+
+- Basic understanding of cloud concepts (Phases 1-3)
+- Knowledge of Linux and command line operations
+- A cloud platform account (AWS, Azure, or GCP)
+
+## Topics
+
+| No. | Topic                                        | What You'll Learn                                                               |
+| ----- | -------------------------------------------- | ------------------------------------------------------------------------------- |
+| 1     | [Core Principles of Cloud Security](1-csf-core.md)            | The CIA triad, shared responsibility, and defense-in-depth strategies            |
+| 2     | [Identity and Access Management (IAM)](2-csf-iam.md)         | User authentication, authorization, and implementing least privilege             |
+| 3     | [Data Security](3-csf-data-security.md)                                | Encryption, key management, and preventing data leaks                           |
+| 4     | [Network Security in Cloud Environments](4-csf-network-security.md)       | VPCs, security groups, NACLs, and secure connectivity                           |
+| 5     | [Compliance, Governance, and Risk Management](5-csf-grc.md)  | Regulatory requirements, audit controls, and cloud compliance frameworks         |
+| 6     | [Threats and Vulnerabilities in the Cloud](6-csf-threats-n-vulns.md)     | Common attack vectors, threat modeling, and vulnerability management            |
+| 7     | [Monitoring, Incident Response, and Forensics](7-csf-monitoring.md) | Detection systems, alert management, and responding to security events          |
+| 8     | [Best Practices and Emerging Trends](8-csf-best-practices-n-trends.md)           | Industry standards and future directions in cloud security                       |
+| 9     | [AI and Cloud Security](9-csf-ai-security.md)                | Securing AI/ML models, preventing prompt injection, and data privacy considerations |
+
+## Additional Resources
+
+| Resource Type | Link | Description |
+| ------------- | ---- | ----------- |
+| [Resources](csf-resources.md) | Free tutorials, labs, and CTFs | Practice your skills with hands-on exercises |
+| [Certifications](csf-certifications.md) | Cloud security certs guide | Plan your certification path |
+| [Projects](csf-projects.md) | Real-world security projects | Build portfolio-worthy demonstrations |
+
+
+## What's Next?
+
+Now that you've explored cloud security fundamentals, you can:
+
+1. **Apply security to all your cloud projects** - Take the knowledge from this phase and integrate it into everything you build
+2. **Specialize further in cloud security** - Consider pursuing security certifications or roles 
+3. **Build a portfolio of security projects** - Use the project ideas from this phase to demonstrate your security skills
+4. **Join cloud security communities** - Connect with others through forums like [/r/cloudsecurity](https://www.reddit.com/r/cloudsecurity/), [Cloud Security Alliance](https://cloudsecurityalliance.org/), or [OWASP Cloud Security](https://owasp.org/www-project-cloud-security/)
+
+Remember that cloud security is an ongoing journey. The landscape continuously evolves, and the best cloud professionals make security a permanent part of their learning process and technical approach.
