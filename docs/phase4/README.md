@@ -1,6 +1,6 @@
 # Phase 4: DevOps fundamentals
 
-Author: [GPS](https://twitter.com/madebygps)
+Last Updated: October 2024
 
 ## How does this phase apply to Cloud?
 

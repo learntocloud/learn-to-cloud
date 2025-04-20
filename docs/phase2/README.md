@@ -1,5 +1,7 @@
 # Phase 2: Programming
 
+Last Updated: April 2025
+
 Welcome to Phase 2, this one is all about programming, specifically with Python. 
 
 Programming is a fundamental skill for cloud engineering, enabling you to create, manage, and optimize cloud resources efficiently. 

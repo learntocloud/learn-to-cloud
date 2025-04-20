@@ -1,8 +1,8 @@
 # Phase 5: Cloud Security Fundamentals
 
-Welcome to Phase 5 of Learn to Cloud! This phase is dedicated to cloud security fundamentals - the essential concepts, strategies, and practices to protect cloud environments. You'll learn about identity management, data protection, network security, and more. With hands-on labs and real-world examples, you'll develop the security mindset needed to build and maintain secure cloud systems.
-
 Author: [Ethan Troy](https://hackidle.com) | Last Updated: April 2025
+
+Welcome to Phase 5 of Learn to Cloud! This phase is dedicated to cloud security fundamentals - the essential concepts, strategies, and practices to protect cloud environments. You'll learn about identity management, data protection, network security, and more. With hands-on labs and real-world examples, you'll develop the security mindset needed to build and maintain secure cloud systems.
 
 <details>
 <summary>Table of Contents</summary>
