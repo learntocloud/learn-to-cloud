@@ -22,7 +22,7 @@ These projects include detailed instructions for junior engineers:
 | Secure S3 Bucket Configuration | Learn to properly secure S3 buckets and prevent common misconfigurations | [AWS S3 Security Workshop](https://catalog.workshops.aws/s3security/en-US) |
 | Create a Security Monitoring Dashboard | Set up CloudWatch dashboards to monitor security events | [CloudWatch Dashboard Tutorial](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch_Dashboards.html) |
 | AWS Organization Security | Configure multi-account security controls | [AWS Organization Security](https://docs.aws.amazon.com/prescriptive-guidance/latest/aws-multiaccount-security-strategy/welcome.html) |
-| AWS DevSecOps Pipeline | Build a real-world DevSecOps pipeline in AWS using Terraform, EKS, and CodePipeline to gain hands-on experience with secure CI/CD, container orchestration, and security automation. | [DevSecOps Pipeline - AWS Tutorial](https://www.devsecblueprint.com/projects/devsecops-pipeline-aws/) |
+| AWS DevSecOps Pipeline | Build a real-world DevSecOps pipeline in AWS using Terraform, EKS, and CodePipeline to gain hands-on experience with secure CI/CD, container orchestration, and security automation. | [AWS DevSecOps Pipeline Tutorial](https://www.devsecblueprint.com/projects/devsecops-pipeline-aws/) |
 
 ### AWS
 
