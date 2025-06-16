@@ -26,6 +26,7 @@ By the end of this phase, you will:
 |-------|-------
 | 1 | [Containers](1-containers.md)
 | 2 | [CI/CD](2-cicd.md)
-| 3 | [Infrastructure as Code](../)
-| 5 | [Monitoring](../)
+| 3 | [Infrastructure as Code](3-infrastructure-as-code.md)
+| 4 | [Container Orchestration](4-container-orchestration.md)
+| 5 | [Monitoring & Observability](5-monitoring.md)
 | 6 | Capstone Project
