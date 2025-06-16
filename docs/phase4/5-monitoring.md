@@ -20,7 +20,7 @@ Without effective monitoring and observability, it becomes difficult to maintain
 
 ## Study
 
-- What is [Monitoring](https://www.sumologic.com/glossary/monitoring/) and [Observability](https://www.sumologic.com/glossary/observability/) in DevOps?
+- What is [Monitoring](https://www.ibm.com/think/topics/observability-vs-monitoring) and [Observability](https://www.ibm.com/think/topics/observability-vs-monitoring) in DevOps?
 - [Prometheus Overview](https://prometheus.io/docs/introduction/overview/)
 - [Grafana Overview](https://grafana.com/docs/grafana/latest/getting-started/what-is-grafana/)
 - [Prometheus + Grafana Integration](https://grafana.com/docs/grafana/latest/datasources/prometheus/)
