@@ -1,6 +1,6 @@
 # Phase 0: Starting from zero
 
-Author: [Gwyneth Pena-Siguenza](https://twitter.com/madebygps)
+Last Updated: April 2025
 
 If you have zero tech experience and want to get into Cloud Engineering. This phase is for you. 
 
