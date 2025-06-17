@@ -1,6 +1,6 @@
 # Phase 4: DevOps fundamentals
 
-Welcome to Phase 4 of Learn to Cloud! This phase focuses on DevOps fundamentals - the essential practices and tools that streamline software development and operations. You'll learn everything from CI/CD pipelines and infrastructure as code to containers and monitoring. Through hands-on experience with industry-standard tools, you'll develop the skills needed to implement DevOps practices in cloud environments.
+Last Updated: May 2025
 
 ## Objectives
 

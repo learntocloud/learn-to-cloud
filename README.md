@@ -15,7 +15,6 @@ Learn to Cloud is a GUIDE (not a book or course) that originated from [this twee
 
 Our website is live [here](https://learntocloud.guide)
 
-
 ## Questions? Comments? Feedback?
 
 Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
@@ -40,7 +39,7 @@ If you have ideas for updating the guide content, please open a PR and we would 
 
 You can pull the public image from docker hub [rishabkumar7/ltc-website](https://hub.docker.com/r/rishabkumar7/ltc-website) or build it locally.
 
-### Building the Docker Image:
+### Building the Docker Image
 
 To build the docker image you will need to run the following command:
 
@@ -49,7 +48,7 @@ docker build --target <target> -t <tag> .
 ```
 
 - `--target <target>` - This is the target to build. The target is the name of the stage in the dockerfile. Valid targets are `dev`, `serve` and `caddy`
-- `-t <tag>` - This is the name and tag of the image that will be built. The format is <name>:<tag>. The name can be anything you want. The tag is optional. If you do not specify a tag, latest will be used.
+- `-t <tag>` - This is the name and tag of the image that will be built. The format is `name:tag`. The name can be anything you want. The tag is optional. If you do not specify a tag, latest will be used.
 
 - `.` - This is the path to the build context. In this case we are using the current directory (root directory of this project) as the build context.
 
