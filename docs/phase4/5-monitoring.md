@@ -40,13 +40,6 @@ Without effective monitoring and observability, it becomes difficult to maintain
 
 ### 1. Set Up Prometheus
 
-- Install Prometheus using Docker:
-  ```sh
-    docker run \
-    -p 9090:9090 \
-    -v /path/to/prometheus.yml:/etc/prometheus/prometheus.yml \
-    prom/prometheus
-  ```
 - Create a minimal `prometheus.yml` config:
   ```yaml
   global:
@@ -57,6 +50,15 @@ Without effective monitoring and observability, it becomes difficult to maintain
       static_configs:
         - targets: ['localhost:9090']
   ```
+  
+- Install Prometheus using Docker:
+  ```sh
+    docker run \
+    -p 9090:9090 \
+    -v /path/to/prometheus.yml:/etc/prometheus/prometheus.yml \
+    prom/prometheus
+  ```
+
 - Add your application's metrics endpoint to `static_configs` as needed.
 
 ### 2. Set Up Grafana
