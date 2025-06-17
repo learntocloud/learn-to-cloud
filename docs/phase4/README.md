@@ -29,4 +29,4 @@ By the end of this phase, you will:
 | 3 | [Infrastructure as Code](3-infrastructure-as-code.md)
 | 4 | [Container Orchestration](4-container-orchestration.md)
 | 5 | [Monitoring & Observability](5-monitoring.md)
-| 6 | Capstone Project
+| 6 | [Capstone Project](6-build-app.md)
