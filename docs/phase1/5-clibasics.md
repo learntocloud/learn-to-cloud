@@ -1,6 +1,6 @@
 # Topic 5: Linux CLI Basics
 
-You need to have linux cli skills to work with cloud. We recommend you read [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers#content). You could also go through the list of commands below and research them individually, though we recommend the book.
+You need to have Linux CLI skills to work with cloud. We recommend you read [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers#content). You could also go through the list of commands below and research them individually, though we recommend the book.
 
 ## Foundational Commands
 

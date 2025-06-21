@@ -17,16 +17,16 @@ By the end of this phase, you will have:
 
 ## Prerequisites
 
+- Join the [Learn to Cloud Discord](https://discord.learntocloud.guide) and introduce yourself in the #intros-and-socials channel.
 - Mac OS or a Ubuntu based computer. If you're on Windows, you'll use WSL.
 
-## Topics 
+## Topics
 
-| No. | Topic                        
-|-----|------------------------------|
-| 1   | [Version Control](1-versioncontrol.md)             
-| 2   | [Cloud CLI](2-cli.md)               
-| 3   | [Infrastructure as Code](3-iac.md)     
-| 4   | [SSH](4-ssh.md)     | 
-| 5   | [CLI basics](5-clibasics.md) |
-| 7   | [CTF Lab](6-ctf.md)       
-
+| No. | Topic
+|-----|------------------------------
+| 1   | [Version Control](1-versioncontrol.md)
+| 2   | [Cloud CLI](2-cli.md)
+| 3   | [Infrastructure as Code](3-iac.md)
+| 4   | [SSH](4-ssh.md)
+| 5   | [CLI basics](5-clibasics.md)
+| 6   | [CTF Lab](6-ctf.md)
