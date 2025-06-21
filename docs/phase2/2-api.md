@@ -2,9 +2,9 @@
 
 In the previous topic, the recommended book introduced you to Django, so you should have some context and knowledge about how REST APIs work. In this step we want to further improve your knowledge on REST APIs.
 
-- Study: [What Is REST API?](https://www.youtube.com/watch?v=-mN3VyJuCjM/) by Byte Byte Go
-- Study: [REST API Concepts and Examples](https://www.youtube.com/watch?v=7YcW25PHnAA) by WebConcepts
-- Watch [RESTful APIs in 100 Seconds](https://youtu.be/-MTSQjw5DrM?feature=shared)
+1. Study: [What Is REST API?](https://www.youtube.com/watch?v=-mN3VyJuCjM/) by Byte Byte Go
+1. Study: [REST API Concepts and Examples](https://www.youtube.com/watch?v=7YcW25PHnAA) by WebConcepts
+1. Watch [RESTful APIs in 100 Seconds](https://youtu.be/-MTSQjw5DrM?feature=shared)
 
 ## Test your knowledge
 

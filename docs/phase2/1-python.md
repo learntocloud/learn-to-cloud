@@ -2,11 +2,9 @@
 
 Python is a very popular programming language with many uses in cloud engineering and a great community, which is why we've selected it as the language to learn in this guide.
 
-- Study: 
-    - [Python Crash Course](https://nostarch.com/pythoncrashcourse2e) by Eric Matthes
+Go through [Python Crash Course](https://nostarch.com/pythoncrashcourse2e) by Eric Matthes. The entire book, take it a chapter a day and you should be able to get it done in a month with a couple of hours of study per day.
 
-    - Go through the entire book, take it a chapter a day and you should be able to get it done in a month with a couple of hours of study per day.
-This book is a great resource for beginners to learn Python programming. It covers the basics of Python syntax, data structures, functions, and modules. The book also includes hands-on projects to help you practice your skills and build real-world applications. 
+This book is a great resource for beginners to learn Python programming. It covers the basics of Python syntax, data structures, functions, and modules. The book also includes hands-on projects to help you practice your skills and build real-world applications.
 
 ## Test your knowledge
 
@@ -24,4 +22,3 @@ Test your knowledge with an AI assistant, here are some example prompts to test 
 8. Can you quiz me on how to read and write files in Python?
 9. Can you ask me about generators in Python and how they differ from regular functions?
 10. Can you quiz me on how to use the `map`, `filter`, and `reduce` functions in Python?
-

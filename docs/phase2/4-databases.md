@@ -14,7 +14,6 @@ Then do the Python quickstart for the database you chose.
 
 - Action: [AWS DynamoDB Python Quickstart](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/example_dynamodb_Scenario_GettingStartedMovies_section.html)
 
-
 - Action: [Azure Cosmos DB Python Quickstart](https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/quickstart-python)
 
 ## Test your knowledge
