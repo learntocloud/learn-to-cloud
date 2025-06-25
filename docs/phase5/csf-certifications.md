@@ -77,4 +77,5 @@ Depending on who you ask, these are lesser-known certifications focused on provi
 
 
 - [Amazon Cloud Red Team Professional](https://bootcamps.pwnedlabs.io/acrtp-bootcamp)
+- [Google Cloud Red Team Professional](https://bootcamps.pwnedlabs.io/gcrtp-bootcamp)
 - [Microsoft Cloud Red Team Professional](https://bootcamps.pwnedlabs.io/mcrtp-bootcamp)
