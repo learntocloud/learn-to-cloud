@@ -3,7 +3,7 @@
 We will spend a lot more time on Infrastructure as Code and other DevOps practices later as all of our labs use them. For now I need you to familiarize yourself with a few Terraform (an infrastructure as code tool) concepts:
 
 1. Study: [What is IaC](https://www.hashicorp.com/resources/what-is-infrastructure-as-code)
-2. Study: [What is Infrastructure as Code with Terraform?](https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code)
+2. Study: [What is Infrastructure as Code with Terraform?](https://developer.hashicorp.com/terraform/intro)
 3. Study: [Terraform init](https://developer.hashicorp.com/terraform/cli/commands/init)
 4. Study: [Terraform apply](https://developer.hashicorp.com/terraform/cli/commands/apply)
 5. Action: Use an AI assistant to test your understanding of the concepts. You can use this prompt as a template:
