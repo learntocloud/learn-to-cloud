@@ -29,6 +29,7 @@ These projects include detailed instructions for junior engineers:
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | AWS            | [Threat Detection With AWS GuardDuty](https://www.youtube.com/watch?v=lLgqP4cbdWg&t=127s)                                                                      | A tutorial showing how to use AWS GuardDuty to detect threats.                                                                    |
 | AWS            | [AWS Threat Simulation & Detection](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection/blob/main/aws.credential-access.ec2-get-password-data.md) | This doc shows the use of Stratus Red Team & SumoLogic for attack & detection/analysis. This can replicated using any other SIEM. |
+| AWS            | [AWS DevSecOps Pipeline Tutorial](https://www.devsecblueprint.com/projects/devsecops-pipeline-aws/)                                                             | Build a real-world DevSecOps pipeline in AWS using Terraform, EKS, and CodePipeline                                               |
 
 ### Azure Security Projects
 
@@ -58,6 +59,7 @@ These projects include detailed instructions for junior engineers:
 | Cloud Platform | Title | Description |
 | -------------- | ----- | ----------- |
 | GCP            | [GCP Security Logging Project](https://github.com/GoogleCloudPlatform/security-analytics) | Implementing security logging and monitoring in GCP |
+| GCP            | [GCP DevSecOps Pipeline Tutorial](https://www.devsecblueprint.com/projects/devsecops-pipeline-gcp/) | Build a real-world DevSecOps pipeline in GCP using Terraform, Cloud Build, and Cloud Run |
 
 ## Portfolio-Building Project Ideas
 
