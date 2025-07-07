@@ -132,6 +132,7 @@ Your unique learning style, past experiences, and specific goals should shape yo
 | 7     | [Monitoring, Incident Response, and Forensics](7-csf-monitoring.md) | Detection systems, alert management, and responding to security events          |
 | 8     | [Best Practices and Emerging Trends](8-csf-best-practices-n-trends.md)           | Industry standards and future directions in cloud security                       |
 | 9     | [AI and Cloud Security](9-csf-ai-security.md)                | Securing AI/ML models, preventing prompt injection, and data privacy considerations |
+| 10    | [Capstone](10-capstone.md)                                   | Apply all security concepts in a comprehensive hands-on project                     |
 
 ## Additional Resources
 
@@ -139,7 +140,7 @@ Your unique learning style, past experiences, and specific goals should shape yo
 | ------------- | ---- | ----------- |
 | [Resources](csf-resources.md) | Free tutorials, labs, and CTFs | Practice your skills with hands-on exercises |
 | [Certifications](csf-certifications.md) | Cloud security certs guide | Plan your certification path |
-| [Projects](csf-projects.md) | Real-world security projects | Build portfolio-worthy demonstrations |
+| [Capstone Project](10-capstone.md) | Cloud security capstone | Comprehensive security implementation project |
 
 
 ## What's Next?
