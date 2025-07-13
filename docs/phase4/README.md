@@ -15,6 +15,8 @@ By the end of this phase, you will:
 
 ## Prerequisites
 
+- [Subscribe for free Cloud and Career advice, tips, and resources](http://youtube.com/madebygps).
+- Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6) and introduce yourself in the #intros-and-socials channel.
 - Cloud platform fundamentals (Phase 3)
 - Programming and scripting knowledge (Phase 2)
 - Git and version control proficiency (Phase 2)

@@ -22,6 +22,7 @@
 IAM is your frontline defense when it comes to controlling who can access your cloud environment and what they can do once they're in. It's all about ensuring that only the right people have the right access, and doing it in a way that's both secure and streamlined.
 
 ## Learning Objectives
+
 - Understand [IAM basics and concepts](https://csrc.nist.gov/projects/access-control-policy-and-implementation-guides) for cloud environments
 - Differentiate between [Authentication vs. Authorization](https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization) in cloud security
 - Implement [Multi-Factor Authentication](https://cloud.google.com/identity/solutions/implement-mfa) for cloud resources

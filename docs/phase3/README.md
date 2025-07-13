@@ -17,6 +17,8 @@ By the end of this phase, you will:
 
 ## Prerequisites
 
+- [Subscribe for free Cloud and Career advice, tips, and resources](http://youtube.com/madebygps).
+- Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6) and introduce yourself in the #intros-and-socials channel.
 - Linux and command line proficiency (Phase 1)
 - Basic programming knowledge (Phase 2)
 - Git and version control fundamentals
@@ -33,4 +35,3 @@ By the end of this phase, you will:
 | 5 | [Database Deployment](5-database-deployment-configuration.md) | Deploy and manage databases |
 | 6 | [FastAPI Deployment](6-fastapi-deployment-hosting.md) | Host web applications |
 | 7 | [Capstone Project](7-build-app.md) | Build complete cloud app |
-

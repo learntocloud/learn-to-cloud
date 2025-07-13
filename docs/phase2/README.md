@@ -2,9 +2,9 @@
 
 Last Updated: April 2025
 
-Welcome to Phase 2, this one is all about programming, specifically with Python. 
+Welcome to Phase 2, this one is all about programming, specifically with Python.
 
-Programming is a fundamental skill for cloud engineering, enabling you to create, manage, and optimize cloud resources efficiently. 
+Programming is a fundamental skill for cloud engineering, enabling you to create, manage, and optimize cloud resources efficiently.
 
 You don't need to know how to build UIs but you need to know how to work with APIs and other cloud services like storage, databases, etc. Knowing how to program will make you more competitive in the hiring market.
 
@@ -24,6 +24,8 @@ By the end of this phase, you will have:
 
 ## Prerequisites
 
+- [Subscribe for free Cloud and Career advice, tips, and resources](http://youtube.com/madebygps).
+- Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6) and introduce yourself in the #intros-and-socials channel.
 - Mac OS or a Ubuntu based computer. If you're on Windows, you'll use WSL.
 
 ## Topics

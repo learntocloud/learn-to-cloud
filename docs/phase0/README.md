@@ -6,6 +6,11 @@ If you have zero tech experience and want to get into Cloud Engineering, this ph
 
 If you are already in tech and switching to cloud, go to [Phase 1: Linux and Networking fundamentals](../phase1/README.md).
 
+## Prerequisites
+
+- [Subscribe for free Cloud and Career advice, tips, and resources](http://youtube.com/madebygps).
+- Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6) and introduce yourself in the #intros-and-socials channel.
+
 ## How does this phase apply to Cloud?
 
 Before diving into cloud-specific topics, it's crucial to grasp the basics of IT. [This playlist](https://www.youtube.com/playlist?list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K) is a fantastic overview.
