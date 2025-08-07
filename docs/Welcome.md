@@ -31,7 +31,7 @@ No cost, no account needed, nothing. You have no excuses. L2C is open source and
 
 ## ⌚️ Time?
 
-Self paced. However, you could realistically cover eveything in 6 months with about 2 hours per day and more on weekends.
+Self paced. However, you could realistically cover everything in 6 months with about 2 hours per day and more on weekends.
 
 ## Prerequisites
 
