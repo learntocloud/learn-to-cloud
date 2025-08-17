@@ -3,67 +3,49 @@
 [![Azure Static Web Apps CI/CD](https://github.com/learntocloud/learn-to-cloud/actions/workflows/azure-static-web-apps-agreeable-forest-05e8c1b0f.yml/badge.svg?branch=main)](https://github.com/learntocloud/learn-to-cloud/actions/workflows/azure-static-web-apps-agreeable-forest-05e8c1b0f.yml)
 [![CodeQL Code Scanning](https://github.com/learntocloud/learn-to-cloud/actions/workflows/codeql-code-scanning.yml/badge.svg)](https://github.com/learntocloud/learn-to-cloud/actions/workflows/codeql-code-scanning.yml)
 
-## What is Learn to Cloud?
+Learn to Cloud (L2C) is a courseware built on the belief that anyone can learn foundational cloud engineering skills with the right guide and discipline.
 
-Learn to Cloud is a GUIDE (not a book or course) that originated from [this tweet](https://twitter.com/madebygps/status/1406258053427740672?lang=en). The goal is to provide an outline of skills you need to learn to get into Cloud Computing. At the end of it you should have the technical knowledge for roles like:
+This guide is focused on helping you learn the skillset of a junior cloud engineer, not ANY other role.
 
-- System administrator.
-- Cloud Support Engineer.
-- Cloud Administrator.
+## 💻 Why should I use it?
 
-## How to get started?
+Our platform is intentionally:
 
-Our website is live [here](https://learntocloud.guide)
+- **designed to guide, not handhold**
 
-## Questions? Comments? Feedback?
+    We provide essential details while leaving intentional gaps to foster critical thinking, problem-solving, and self-sufficiency.
 
-Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
+- **focused on practice with purpose**
 
-## Roadmap
+    We balance hands-on learning with carefully integrated theory to promote intentional learning rather than passive progression.
 
-Take a look at our [backlog](https://github.com/orgs/learntocloud/projects/2) for a full list of proposed features (and known issues).
+- **constantly evolving**
 
-## Contributing
+    Built and updated by professionals who actively work in the field. Expect updates that keep it relevant and aligned with industry standards.
 
-We have 2 areas for contribution:
+## 🤑 Cost?
 
-### Engineering
+No cost, no account needed, nothing. You have no excuses. L2C is open source and free, and the resources we recommend are either free or very affordable.
 
-We would love to be your first PR! or any PR for that matter. Take a look at our [backlog](https://github.com/orgs/learntocloud/projects/2) and comment on an issue you'd like to work on and we can get you started.
+## ⌚️ Time?
 
-### Content
+Self paced. However, you could realistically cover everything in 6 months with about 2 hours per day and more on weekends.
 
-If you have ideas for updating the guide content, please open a PR and we would take a look at it.
+## Prerequisites
 
-## Docker Support
+- [Star the GitHub repository to Stay informed on updates](https://github.com/learntocloud/learntocloud).
+- [Subscribe for free Cloud tutorials and Career advice, tips, and resources](http://youtube.com/madebygps).
+- Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6) and introduce yourself in the #intros-and-socials channel.
 
-You can pull the public image from docker hub [rishabkumar7/ltc-website](https://hub.docker.com/r/rishabkumar7/ltc-website) or build it locally.
+- For guide content and resource updates follow [GPS](https://x.com/madebygps), [Rishab](https://x.com/rishabincloud), and [L2C](https://x.com/learntocloud) on X.
 
-### Building the Docker Image
+## 💪🏽 What do you need to know before starting?
 
-To build the docker image you will need to run the following command:
+The only requirements are motivation and discipline - these are aspects we cannot provide for you.
 
-``` bash
-docker build --target <target> -t <tag> .
-```
+Breaking into tech has never been easy, despite what some content creators might suggest. This journey will be challenging, but if you have a genuine interest in cloud engineering, it will be worth your effort.
 
-- `--target <target>` - This is the target to build. The target is the name of the stage in the dockerfile. Valid targets are `dev`, `serve` and `caddy`
-- `-t <tag>` - This is the name and tag of the image that will be built. The format is `name:tag`. The name can be anything you want. The tag is optional. If you do not specify a tag, latest will be used.
-
-- `.` - This is the path to the build context. In this case we are using the current directory (root directory of this project) as the build context.
-
-### Running the Docker Image
-
-To run the serve target you will need to run the following command:
-
-``` bash
-docker run --rm -d -p 3000:3000 <tag>
-```
-
-- `--rm` - This is an optional flag that will remove the container when it exits.
-- `-d` - This is an optional flag that will run the container in detached mode.
-- `-p 3000:3000` - This is an optional flag that will map port 3000 on the host to port 3000 in the container.
-- `<tag>` - This is the name and tag of the image that will be run. Make sure to use the same tag that you used when building the image.
+Good luck on your journey!
 
 ## License
 

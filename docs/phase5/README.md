@@ -68,7 +68,7 @@ While we've provided a structured learning path below, remember that **your lear
 
 ## Prerequisites
 
-- [Star the GitHub repository to Stay informed on updates](https://github.com/learntocloud/learntocloud).
+- [Star the GitHub repository to Stay informed on updates](https://github.com/learn-to-cloud/learntocloud).
 - [Subscribe for free Cloud and Career advice, tips, and resources](http://youtube.com/madebygps).
 - Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6) and introduce yourself in the #intros-and-socials channel.
 - Basic understanding of cloud concepts (Phases 1-3)
