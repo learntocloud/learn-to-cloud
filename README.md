@@ -33,7 +33,7 @@ Self paced. However, you could realistically cover everything in 6 months with a
 
 ## Prerequisites
 
-- [Star the GitHub repository to Stay informed on updates](https://github.com/learntocloud/learntocloud).
+- [Star the GitHub repository to Stay informed on updates](https://github.com/learntocloud/learn-to-cloud).
 - [Subscribe for free Cloud tutorials and Career advice, tips, and resources](http://youtube.com/madebygps).
 - Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6) and introduce yourself in the #intros-and-socials channel.
 
