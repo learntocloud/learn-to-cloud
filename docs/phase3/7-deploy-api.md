@@ -111,7 +111,7 @@ Optionally set up a reverse proxy (nginx) for production best practices
 
 #### Application Testing:
 
-Use the API documentation interface (http://<your-elastic-ip>:8000/docs)
+Use the API documentation interface (http://your-elastic-ip:8000/docs)
 
 Test all CRUD operations:
 
