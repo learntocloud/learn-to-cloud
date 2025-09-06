@@ -17,10 +17,9 @@ By the end of this phase, you will have:
 
 ## Prerequisites
 
-- [Star the GitHub repository to Stay informed on updates](https://github.com/learntocloud/learn-to-cloud).
-- [Subscribe for free Cloud and Career advice, tips, and resources](http://youtube.com/madebygps).
-- Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6) and introduce yourself in the #intros-and-socials channel.
-- Mac OS or a Ubuntu based computer. If you're on Windows, you'll use WSL.
+- Mac OS or an Ubuntu based computer. If you're on Windows, you'll use WSL.
+- Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6)
+    - Here you can ask questions, just make sure to ask in the right phase channel.
 
 ## Topics
 

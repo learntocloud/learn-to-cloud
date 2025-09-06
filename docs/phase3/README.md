@@ -17,9 +17,9 @@ By the end of this phase, you will:
 
 ## Prerequisites
 
-- [Star the GitHub repository to Stay informed on updates](https://github.com/learntocloud/learn-to-cloud).
-- [Subscribe for free Cloud and Career advice, tips, and resources](http://youtube.com/madebygps).
-- Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6) and introduce yourself in the #intros-and-socials channel.
+- [Star the GitHub repository to support the project](https://github.com/learntocloud/learn-to-cloud).
+- Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6)
+    - Here you can ask questions, just make sure to ask in the right phase channel.
 - Linux and command line proficiency (Phase 1)
 - Basic programming knowledge (Phase 2)
 - Git and version control fundamentals
@@ -35,4 +35,4 @@ By the end of this phase, you will:
 | 4 | [Secure Remote Access](4-secure-remote-access.md) | Set up secure resource access |
 | 5 | [Database Deployment](5-database-deployment-configuration.md) | Deploy and manage databases |
 | 6 | [FastAPI Deployment](6-fastapi-deployment-hosting.md) | Host web applications |
-| 7 | [Capstone Project](7-build-app.md) | Build complete cloud app |
+| 7 | [Capstone Project](7-deploy-api.md) | Build complete cloud app |

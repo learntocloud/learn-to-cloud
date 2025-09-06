@@ -15,13 +15,10 @@ By the end of this phase, you will:
 
 ## Prerequisites
 
-- [Star the GitHub repository to Stay informed on updates](https://github.com/learntocloud/learn-to-cloud).
-- [Subscribe for free Cloud and Career advice, tips, and resources](http://youtube.com/madebygps).
-- Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6) and introduce yourself in the #intros-and-socials channel.
-- Cloud platform fundamentals (Phase 3)
-- Programming and scripting knowledge (Phase 2)
-- Git and version control proficiency (Phase 2)
-- Experience with cloud services deployment (Phase 3)
+- [Star the GitHub repository to support the project](https://github.com/learntocloud/learn-to-cloud).
+- Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6)
+    - Here you can ask questions, just make sure to ask in the right phase channel.
+- You must have completed Phase 2 and Phase 3 Capstones as this one builds on that project.
 
 ## Topics
 
