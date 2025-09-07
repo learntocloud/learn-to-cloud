@@ -1,102 +1,117 @@
-# Phase 5: Cloud Security Fundamentals
+# Phase 5: Securing Your Cloud Applications
 
-Author: [Ethan Troy](https://hackidle.com) | Last Updated: April 2025
+Author: [Ethan Troy](https://hackidle.com) | Last Updated: September 2025
 
-Welcome to Phase 5 of Learn to Cloud! This phase is dedicated to cloud security fundamentals - the essential concepts, strategies, and practices to protect cloud environments. You'll learn about identity management, data protection, network security, and more. With hands-on labs and real-world examples, you'll develop the security mindset needed to build and maintain secure cloud systems.
+Welcome to Phase 5 of Learn to Cloud! This phase focuses on securing the cloud applications and infrastructure you've built throughout your journey. You'll take the Journal API application from previous phases and implement enterprise-grade security controls, monitoring, and incident response capabilities.
 
 ## Objectives
 
 By the end of this phase, you will:
 
-- Understand core cloud security principles and frameworks
-- Implement identity and access management best practices
-- Apply data protection and encryption strategies
-- Configure secure network environments
-- Establish monitoring and incident response processes
-- Identify common threats and vulnerabilities in cloud systems
-- Navigate compliance and governance requirements
-- Complete hands-on security labs and exercises
+- Secure the Journal API application with proper IAM controls
+- Implement data protection and secrets management
+- Configure network security and secure connectivity
+- Set up security monitoring and alerting systems
+- Build automated threat detection and incident response
+- Complete a comprehensive security implementation project
 
-## How Cloud Security Applies to Your Journey
+## How This Phase Builds on Your Journey
 
-Security is not a separate phase of cloud but rather a continuous consideration that should be integrated into everything you do. As a cloud professional, regardless of your specific role, you'll need to understand security principles to:
+This phase takes the practical foundation you've built in Phases 1-4 and adds the security layer that makes your applications production-ready. You'll learn security skills that every cloud engineer needs, regardless of their specific role:
 
-- Design resilient architectures that protect data and services
-- Implement secure coding practices and infrastructure configurations
-- Ensure compliance with regulations and internal policies
-- Respond effectively to security incidents when they occur
+- **Phase 1-2 Foundation**: Use your Linux and programming skills to configure security tools
+- **Phase 3 Infrastructure**: Secure the cloud resources and networking you deployed
+- **Phase 4 DevOps**: Add security scanning and monitoring to your CI/CD pipelines
+- **Phase 5 Security**: Make everything production-ready with enterprise security controls
 
-Cloud security isn't just for security specialists—it's a foundational skill that enhances every cloud role. The security knowledge you gain in this phase will inform your approach to infrastructure, development, operations, and architecture throughout your career.
+Security isn't a separate discipline—it's an essential skill that enhances every aspect of cloud engineering.
 
-For an excellent foundation, read these cloud provider security overviews:
+For an excellent foundation in cloud security thinking, read these provider security overviews:
 
 - [AWS Security Pillar - Well Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)  
 - [Microsoft Azure - Secure](https://learn.microsoft.com/en-us/azure/architecture/framework/security/overview)
 - [Google Cloud - Security Foundations](https://cloud.google.com/architecture/security-foundations)
 
-## Welcome to Cloud Security
+## Welcome to Applied Cloud Security
 
 ![gif|289x289](https://media0.giphy.com/media/XKolXg1SsuApJ6Noui/giphy.gif?cid=480477437kuq3n7wiafrss95z0e1znuizlvr0x4m4qixkbhd&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-### The Double-Edged Sword of Cloud Abstraction
+### Building on What You've Created
 
-Cloud technologies create powerful abstractions that make deployment and scaling easier. However, this abstraction is a double-edged sword:
+Throughout this course, you've built a Journal API application and supporting infrastructure. Now it's time to secure it for production use. This hands-on approach helps you understand:
 
-- **Easier deployment**: Launch resources with a few clicks or API calls
-- **Hidden complexity**: The underlying network, hardware, and protocols are less visible
-- **Knowledge gaps**: Without understanding what's "under the hood," security blind spots emerge
+- **Real-world application**: Security isn't theoretical—you'll secure actual running applications
+- **Practical constraints**: Learn to balance security with usability and performance
+- **Incremental improvement**: Add security layers without breaking existing functionality
+- **Career readiness**: Gain experience with security tools and practices used in production environments
 
-**Building foundational skills with physical hardware** (like a home network or NAS - Network Attached Storage) can significantly improve your cloud security understanding.
+**You'll work with the same infrastructure** you've been building, making this phase immediately practical and relevant.
 
 ## How to Use This Section
 
-1. **Start with the fundamentals** - Core principles and IAM are the building blocks
-2. **Take it step-by-step** - You don't need to learn everything at once
-3. **Practice with hands-on labs** - Each section includes practical exercises
-4. **Build sample projects** - Apply what you learn with real-world scenarios
-5. **Solve real problems** - The best security projects address actual needs
+1. **Start with your existing infrastructure** - Use the Journal API and infrastructure from previous phases
+2. **Build security incrementally** - Add one security layer at a time without breaking functionality
+3. **Practice with real scenarios** - Each topic includes hands-on exercises with your actual application
+4. **Test your security controls** - Learn to validate that your security measures actually work
+5. **Document your security posture** - Build security documentation as you implement controls
 
 ![gif|480x360](https://media3.giphy.com/media/3o6nV13mJfFfMkfgfm/giphy.gif?cid=48047743zyg4o1v6snzv8wpusm2ow63bjcr77id7wb79hokl&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-### The Power of Problem-Based Learning
+### Learning Through Real Implementation
 
-The most effective way to learn cloud security is to find problems that matter to you or others, then build solutions that add actual value. This approach creates natural motivation, teaches practical skills, and builds a portfolio that resonates with employers.
+The most effective way to learn cloud security is to secure applications you actually care about. By working with the Journal API you've built, you'll:
 
-### Embracing Your Own Learning Path
-
-While we've provided a structured learning path below, remember that **your learning journey is uniquely yours**. The best approach is to dive in, start building, and follow your curiosity while solving real problems.
+- **See immediate impact** - Understand how security changes affect real applications
+- **Learn practical trade-offs** - Balance security with performance and usability
+- **Build relevant skills** - Focus on security practices used in production environments
+- **Create portfolio value** - Demonstrate security implementation skills to employers
 
 ## Prerequisites
 
 - [Star the GitHub repository to Stay informed on updates](https://github.com/learn-to-cloud/learntocloud).
-- [Subscribe for free Cloud and Career advice, tips, and resources](http://youtube.com/madebygps).
 - Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6) and introduce yourself in the #intros-and-socials channel.
-- Basic understanding of cloud concepts (Phases 1-3)
-- Knowledge of Linux and command line operations
-- A cloud platform account (AWS, Azure, or GCP)
+- Completed Phase 3: Cloud Platform fundamentals (have deployed infrastructure)
+- Completed Phase 4: DevOps fundamentals (recommended but not required)
+- Access to the Journal API application and infrastructure from previous phases
+- A cloud platform account (AWS, Azure, or GCP) with administrative permissions
 
 ## Topics
 
-| No. | Topic                                        | What You'll Learn                                                               |
+| No. | Topic                                        | What You'll Build                                                               |
 | ----- | -------------------------------------------- | ------------------------------------------------------------------------------- |
-| 1     | [Core Principles of Cloud Security](1-csf-core.md)            | The CIA triad, shared responsibility, and defense-in-depth strategies            |
-| 2     | [Identity and Access Management (IAM)](2-csf-iam.md)         | User authentication, authorization, and implementing least privilege             |
-| 3     | [Data Security](3-csf-data-security.md)                                | Encryption, key management, and preventing data leaks                           |
-| 4     | [Network Security in Cloud Environments](4-csf-network-security.md)       | VPCs, security groups, NACLs, and secure connectivity                           |
-| 5     | [Compliance, Governance, and Risk Management](5-csf-grc.md)  | Regulatory requirements, audit controls, and cloud compliance frameworks         |
-| 6     | [Threats and Vulnerabilities in the Cloud](6-csf-threats-n-vulls.md)     | Common attack vectors, threat modeling, and vulnerability management            |
-| 7     | [Monitoring, Incident Response, and Forensics](7-csf-monitoring.md) | Detection systems, alert management, and responding to security events          |
-| 8     | [Best Practices and Emerging Trends](8-csf-best-practices-n-trends.md)           | Industry standards and future directions in cloud security                       |
-| 9     | [AI and Cloud Security](9-csf-ai-security.md)                | Securing AI/ML models, preventing prompt injection, and data privacy considerations |
-| 10    | [Capstone](10-capstone.md)                                   | Apply all security concepts in a comprehensive hands-on project                     |
+| 1     | [Identity and Access Management](1-csf-iam-implementation.md)            | Secure IAM controls for your Journal API infrastructure            |
+| 2     | [Data Protection and Secrets Management](2-csf-data-protection.md)         | Encryption, key management, and secure secrets for your application             |
+| 3     | [Network Security](3-csf-network-security.md)                                | Secure networking and connectivity for your application                           |
+| 4     | [Security Monitoring](4-csf-monitoring.md)  | Real-time security monitoring and alerting for your infrastructure         |
+| 5     | [Threat Detection and Response](5-csf-incident-response.md)     | Automated threat detection and incident response for your environment            |
+| 6    | [Capstone: Secure Your Journal API](6-capstone.md)                                   | Comprehensive security implementation bringing it all together                     |
 
-## Additional Resources
+## What You'll Accomplish
 
-| Resource Type | Link | Description |
-| ------------- | ---- | ----------- |
-| [Resources](csf-resources.md) | Free tutorials, labs, and CTFs | Practice your skills with hands-on exercises |
-| [Certifications](csf-certifications.md) | Cloud security certs guide | Plan your certification path |
-| [Capstone Project](10-capstone.md) | Cloud security capstone | Comprehensive security implementation project |
+By the end of this phase, you'll have:
+
+- **Secured Infrastructure**: Your Journal API will be protected with enterprise-grade security controls
+- **Monitoring & Alerting**: Real-time security monitoring and automated incident response
+- **Production Readiness**: Security implementation skills used in professional environments
+- **Portfolio Project**: A fully secured application demonstrating your cloud security capabilities
+- **Career Preparation**: Practical experience with security tools and practices employers value
+
+This phase transforms you from someone who can build cloud applications to someone who can build **secure** cloud applications—a critical distinction in professional cloud engineering.
+
+## Additional Learning Resources
+
+Want to go deeper? Here are some additional resources:
+
+**Practice Labs:**
+- [AWS Well-Architected Security Workshop](https://catalog.workshops.aws/well-architected-security/)
+- [Azure Security Lab](https://github.com/azurecitadel/azure-security-lab)
+- [Cloud Security Alliance Guidance](https://cloudsecurityalliance.org/research/guidance/)
+
+**Certifications to Consider:**
+- **AWS**: AWS Certified Security - Specialty (after AWS Solutions Architect Associate)
+- **Azure**: AZ-500 Azure Security Engineer Associate
+- **GCP**: Professional Cloud Security Engineer
+- **Vendor-Neutral**: CompTIA Security+ (good foundation)
 
 ## What's Next?
 
