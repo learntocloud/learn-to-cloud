@@ -13,7 +13,7 @@ If you are already in tech and switching to cloud, go to [Phase 1: Linux and Net
 
 ## How does this phase apply to Cloud?
 
-Before diving into cloud-specific topics, it's crucial to grasp the basics of IT. [This playlist](https://www.youtube.com/playlist?list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K) is a fantastic overview.
+Before diving into cloud-specific topics, it's crucial to grasp the basics of IT. [This playlist](https://www.youtube.com/playlist?list=PLG49S3nxzAnnes8ZGI-OBlKEukHCX46N8) is a fantastic overview.
 
 The video playlist above will introduce you to several key concepts, but let's delve a bit deeper:
 
