@@ -11,14 +11,16 @@ Containerization is a modern approach to deploying and managing applications and
 
 There are many containerization tools available like Docker, Podman, Containerd, etc.
 In this topic, you'll learn how to use tools like Docker to create these isolated environments and explore how cloud platforms like AWS, Azure, and GCP support containerized workloads.
+You'll also learn how to leverage containers to run MCP servers, which enable applications to integrate with LLMs and external AI tools.
 
 ## Study
 
 ### Core Concepts
 
 - What is [Containerization](https://github.com/resources/articles/devops/containerization)
-- What is [Docker](https://youtu.be/3c-iBn73dDE)
 - Difference between [Containerization and Virtualization](https://kodekloud.com/blog/virtualization-vs-containerization/)
+- What is [Docker](https://youtu.be/3c-iBn73dDE)
+- What is [MCP? (Model Context Protocol)](https://modelcontextprotocol.io/docs/getting-started/intro)?
 
 ### Container Registries
 
@@ -64,6 +66,15 @@ Pro tip: Share your specific context: "I'm working with a Node.js application th
 Remember: The goal is to test your understanding, not to get perfect answers immediately.
 
 ## Hands-on Tasks
+
+### Run the GitHub MCP Server Locally as a Container
+
+1. Ensure you have [Docker Desktop](https://www.docker.com/products/docker-desktop/) and GitHub CoPilot installed and set up
+2. Install the official GitHub MCP Server in Docker Desktop
+3. Create a GitHub Personal Access Token and provide it to the server
+4. Enable MCP Gateway in VSCode with `docker mcp gateway run` (Use the Command Pallette)
+5. Enable Agent mode in GitHub Copilot
+6. Explore and Test - Initialize commits or retrieve information about your GitHub repos
 
 ### Basic Containerization Project
 
