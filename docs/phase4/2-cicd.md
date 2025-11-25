@@ -14,6 +14,23 @@ There are various CI/CD tools available, such as Jenkins, GitHub Actions, and Gi
   - [Azure DevOps](https://www.youtube.com/watch?v=4BibQ69MD8c)
   - [GCP Cloud Build](https://www.youtube.com/watch?v=vCt5zMvgV5s)
 
+## Hands-on Tasks
+
+### Basic CI/CD Pipeline Setup
+
+1. Set up a basic CI/CD pipeline for your containerized application from the previous phase
+2. Use GitHub Actions or Jenkins to automatically:
+   - Build your application
+   - Run tests
+   - Build a Docker image
+   - Push the image to a container registry (e.g., DockerHub, AWS ECR, GCP GCR)
+3. Configure the pipeline to trigger on code commits to your main branch
+4. Add a simple notification system to alert you of successful deployments or failures
+
+### Advanced Challenge (Optional)
+
+Implement a multi-environment deployment pipeline that deploys to staging first, runs tests, and then promotes to production.
+
 ## Test your knowledge
 
 Use an AI assistant to test your understanding of CI/CD concepts. Here's how:
@@ -47,20 +64,3 @@ Use an AI assistant to test your understanding of CI/CD concepts. Here's how:
 Pro tip: Share your specific context: "I'm practicing with a containerized Node.js app using GitHub Actions. Please focus your questions around that scenario."
 
 Remember: The goal is to test your understanding, not to get perfect answers immediately.
-
-## Hands-on Tasks
-
-### Basic CI/CD Pipeline Setup
-
-1. Set up a basic CI/CD pipeline for your containerized application from the previous phase
-2. Use GitHub Actions or Jenkins to automatically:
-   - Build your application
-   - Run tests
-   - Build a Docker image
-   - Push the image to a container registry (e.g., DockerHub, AWS ECR, GCP GCR)
-3. Configure the pipeline to trigger on code commits to your main branch
-4. Add a simple notification system to alert you of successful deployments or failures
-
-### Advanced Challenge (Optional)
-
-Implement a multi-environment deployment pipeline that deploys to staging first, runs tests, and then promotes to production.

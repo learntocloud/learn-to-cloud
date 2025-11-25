@@ -31,6 +31,32 @@ You'll also learn how to leverage containers to run MCP servers, which enable ap
   - [Azure Container Registry](https://learn.microsoft.com/en-us/training/modules/deploy-use-azure-container-registry/)
   - [Google Container Registry](https://www.youtube.com/watch?v=D1_FC6pGutQ)
 
+## Hands-on Tasks
+
+### Basic Containerization Project
+
+1. Create a simple application (or use an existing one)
+2. Write a Dockerfile for the application
+3. Build the Docker image
+4. Run the container locally and test functionality
+5. Create an account on DockerHub or another container registry
+6. Tag and push your image to the registry
+7. Pull and run your image on a different machine to verify portability
+
+### Run the GitHub MCP Server Locally as a Container
+
+1. Ensure you have [Docker Desktop](https://www.docker.com/products/docker-desktop/) and GitHub CoPilot installed
+2. Install the official GitHub MCP Server in Docker Desktop
+3. Create a GitHub Personal Access Token and provide it to the server
+4. Enable MCP Gateway in VSCode with `docker mcp gateway run` (Use the Command Pallette)
+5. Enable Agent mode in GitHub Copilot
+6. Explore and Test - Initialize commits or retrieve information about your GitHub repos
+
+### Common Issues & Troubleshooting
+
+- [Docker Common Issues & Solutions](https://docs.docker.com/engine/reference/troubleshoot/)
+- [Best Practices for Writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+
 ## Test your knowledge
 
 Use an AI assistant to test your understanding of containerization. Here's how:
@@ -64,29 +90,3 @@ Use an AI assistant to test your understanding of containerization. Here's how:
 Pro tip: Share your specific context: "I'm working with a Node.js application that I want to containerize using Docker. Please focus your questions around that scenario."
 
 Remember: The goal is to test your understanding, not to get perfect answers immediately.
-
-## Hands-on Tasks
-
-### Run the GitHub MCP Server Locally as a Container
-
-1. Ensure you have [Docker Desktop](https://www.docker.com/products/docker-desktop/) and GitHub CoPilot installed and set up
-2. Install the official GitHub MCP Server in Docker Desktop
-3. Create a GitHub Personal Access Token and provide it to the server
-4. Enable MCP Gateway in VSCode with `docker mcp gateway run` (Use the Command Pallette)
-5. Enable Agent mode in GitHub Copilot
-6. Explore and Test - Initialize commits or retrieve information about your GitHub repos
-
-### Basic Containerization Project
-
-1. Create a simple application (or use an existing one)
-2. Write a Dockerfile for the application
-3. Build the Docker image
-4. Run the container locally and test functionality
-5. Create an account on DockerHub or another container registry
-6. Tag and push your image to the registry
-7. Pull and run your image on a different machine to verify portability
-
-### Common Issues & Troubleshooting
-
-- [Docker Common Issues & Solutions](https://docs.docker.com/engine/reference/troubleshoot/)
-- [Best Practices for Writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)

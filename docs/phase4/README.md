@@ -11,6 +11,7 @@ By the end of this phase, you will:
 - Create infrastructure as code using Terraform
 - Build and manage containers with Docker
 - Set up monitoring and observability for applications
+- Use AI tools to optimize DevOps tasks and workflows
 - Complete a capstone project demonstrating DevOps skills
 
 ## Prerequisites
