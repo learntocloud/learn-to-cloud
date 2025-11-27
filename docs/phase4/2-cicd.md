@@ -61,6 +61,8 @@ Use an AI assistant to test your understanding of CI/CD concepts. Here's how:
    - Request real-world examples
    - Ask for clarification if needed
 
+:::tip
 Pro tip: Share your specific context: "I'm practicing with a containerized Node.js app using GitHub Actions. Please focus your questions around that scenario."
+:::
 
 Remember: The goal is to test your understanding, not to get perfect answers immediately.

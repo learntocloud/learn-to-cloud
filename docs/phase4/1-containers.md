@@ -17,9 +17,9 @@ You'll also learn how to leverage containers to run MCP servers, which enable ap
 
 ### Core Concepts
 
-- What is [Containerization](https://github.com/resources/articles/devops/containerization)
-- Difference between [Containerization and Virtualization](https://kodekloud.com/blog/virtualization-vs-containerization/)
-- What is [Docker](https://youtu.be/3c-iBn73dDE)
+- What is [Containerization?](https://github.com/resources/articles/devops/containerization)
+- Difference between [Containerization and Virtualization.](https://kodekloud.com/blog/virtualization-vs-containerization/)
+- What is [Docker?](https://youtu.be/3c-iBn73dDE)
 - What is [MCP? (Model Context Protocol)](https://modelcontextprotocol.io/docs/getting-started/intro)?
 
 ### Container Registries
@@ -87,6 +87,8 @@ Use an AI assistant to test your understanding of containerization. Here's how:
    - Request real-world examples
    - Ask for clarification if needed
 
+:::tip
 Pro tip: Share your specific context: "I'm working with a Node.js application that I want to containerize using Docker. Please focus your questions around that scenario."
+:::
 
 Remember: The goal is to test your understanding, not to get perfect answers immediately.
