@@ -1,6 +1,6 @@
 # Topic 5: Monitoring and Observability
 
-Monitoring and observability are essential DevOps practices that help you understand the health, performance, and reliability of your applications and infrastructure. In this topic, you'll learn how to set up monitoring using [Prometheus](https://prometheus.io/) and visualize metrics with [Grafana](https://grafana.com/).
+Monitoring and observability are essential DevOps practices that help you understand the health, performance, and reliability of your applications and infrastructure. In this topic, you'll learn how to set up monitoring using [Prometheus](https://prometheus.io/) and visualize metrics with [Grafana](https://grafana.com/). You'll then explore AI agents with n8n and agentic workflows which enable you to automate incident response instead of relying purely on manual intervention.
 
 ---
 
@@ -18,12 +18,27 @@ Without effective monitoring and observability, it becomes difficult to maintain
 
 ---
 
+## How can AI agents enhance your monitoring systems?
+
+Monitoring systems generate constant streams of alerts. Traditionally, engineers manually investigate and fix each alert. By equipping AI agents with the appropriate logic, you enable them to: 
+
+- Respond instantly to alerts without human delays
+- Analyze logs and metrics to find root causes automatically
+- Execute fixes (restart services, scale resources, rollback deployments) independently
+- Learn from incidents to improve future responses
+- Free teams from repetitive troubleshooting to focus on long-term reliability
+
+---
+
 ## Study
 
 - What is [Monitoring](https://www.ibm.com/think/topics/observability-vs-monitoring) and [Observability](https://www.ibm.com/think/topics/observability-vs-monitoring) in DevOps?
 - [Prometheus Overview](https://prometheus.io/docs/introduction/overview/)
 - [Grafana Overview](https://grafana.com/docs/grafana/latest/getting-started/what-is-grafana/)
 - [Prometheus + Grafana Integration](https://grafana.com/docs/grafana/latest/datasources/prometheus/)
+- What are [AI agents?](https://aws.amazon.com/what-is/ai-agents/)
+- What are [agentic workflows?](https://www.ibm.com/think/topics/agentic-workflows)
+- [n8n Overview](https://n8n.io/features/)
 
 ---
 
@@ -82,6 +97,26 @@ Without effective monitoring and observability, it becomes difficult to maintain
 - For Python: Use [prometheus_client](https://github.com/prometheus/client_python)
 - Add the metrics endpoint to Prometheus config and visualize in Grafana
 
+### 5. Build an AI agent with n8n
+
+- Install n8n using Docker:
+```sh
+docker run -d -p 5678:5678 --name n8n n8nio/n8n:latest
+```
+- Access n8n at [http://localhost:5678](http://localhost:5678). Create your login.
+
+**Build your agent:**
+1. Create a Schedule trigger (e.g. every 1-2 minutes)
+2. Query your Prometheus API for a specific metric
+3. Add an If node to check if the metric exceeds a certain threshold
+4. Call an LLM to analyze the anomaly and suggest root causes and remediation steps ([OpenAI API](https://platform.openai.com/docs/overview))
+5. Send the analysis via email or Slack
+6. (Optional) Add automated remediation steps
+
+**Test:**
+- Intentionally trigger high traffic or errors on your monitored application
+- Verify the agent detects the anomaly, analyzes root cause, and takes action
+
 ---
 
 ## Test Your Knowledge
@@ -95,6 +130,8 @@ Use these prompts to test your understanding:
 5. What are exporters in the context of Prometheus?
 6. How do you add a new data source in Grafana?
 7. What are some best practices for dashboard design?
+8. What are the key components of AI agent architecture?
+9. How does an LLM help an agent make decisions?
 
 ---
 
@@ -105,3 +142,5 @@ Use these prompts to test your understanding:
 - [Monitoring Node.js Apps with Prometheus & Grafana](https://codersociety.com/blog/articles/nodejs-application-monitoring-with-prometheus-and-grafana)
 - [Monitoring Python Apps with Prometheus & Grafana](https://dev.to/ken_mwaura1/getting-started-monitoring-a-fastapi-app-with-grafana-and-prometheus-a-step-by-step-guide-3fbn)
 - [Awesome Prometheus Alerts](https://samber.github.io/awesome-prometheus-alerts/)
+- [n8n Documentation](https://docs.n8n.io/)
+- [Self-host n8n](https://docs.n8n.io/hosting/installation/docker/#starting-n8n)
