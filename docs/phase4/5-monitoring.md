@@ -1,6 +1,6 @@
 # Topic 5: Monitoring and Observability
 
-Monitoring and observability help you understand the health and performance of your applications and infrastructure. In this topic, you'll learn how to set up monitoring with [Prometheus](https://prometheus.io/) and visualize metrics with [Grafana](https://grafana.com/). You'll then explore AI agents with n8n and agentic workflows which enable you to automate incident response instead of relying purely on manual intervention.
+Monitoring and observability are essential DevOps practices that help you understand the health, performance, and reliability of your applications and infrastructure. In this topic, you'll learn how to set up monitoring using [Prometheus](https://prometheus.io/) and visualize metrics with [Grafana](https://grafana.com/). You'll then explore AI agents with n8n and agentic workflows which enable you to automate incident response instead of relying purely on manual intervention.
 
 ---
 
@@ -107,14 +107,14 @@ docker run -d -p 5678:5678 --name n8n n8nio/n8n:latest
 
 **Build your agent:**
 1. Create a Schedule trigger (e.g. every 1-2 minutes)
-2. Query your Prometheus API for a specific metric 
+2. Query your Prometheus API for a specific metric
 3. Add an If node to check if the metric exceeds a certain threshold
 4. Call an LLM to analyze the anomaly and suggest root causes and remediation steps ([OpenAI API](https://platform.openai.com/docs/overview))
 5. Send the analysis via email or Slack
 6. (Optional) Add automated remediation steps
 
-**Test it:**
-- Intentionally trigger high traffic or errors to your monitored application
+**Test:**
+- Intentionally trigger high traffic or errors on your monitored application
 - Verify the agent detects the anomaly, analyzes root cause, and takes action
 
 ---
@@ -130,6 +130,8 @@ Use these prompts to test your understanding:
 5. What are exporters in the context of Prometheus?
 6. How do you add a new data source in Grafana?
 7. What are some best practices for dashboard design?
+8. What are the key components of AI agent architecture?
+9. How does an LLM help an agent make decisions?
 
 ---
 

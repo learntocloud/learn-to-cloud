@@ -46,11 +46,11 @@ You'll also learn how to leverage containers to run MCP servers, which enable ap
 ### Run the GitHub MCP Server Locally as a Container
 
 1. Ensure you have [Docker Desktop](https://www.docker.com/products/docker-desktop/) and GitHub CoPilot installed
-2. Install the official GitHub MCP Server in Docker Desktop
+2. Install the official [GitHub MCP Server](https://github.com/github/github-mcp-server) in Docker Desktop
 3. Create a GitHub Personal Access Token and provide it to the server
 4. Enable MCP Gateway in VSCode with `docker mcp gateway run` (Use the Command Pallette)
 5. Enable Agent mode in GitHub Copilot
-6. Explore and Test - Initialize commits or retrieve information about your GitHub repos
+6. Explore and Test - Query your repos and perform GitHub operations
 
 ### Common Issues & Troubleshooting
 

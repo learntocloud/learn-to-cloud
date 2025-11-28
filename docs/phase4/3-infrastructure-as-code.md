@@ -60,6 +60,8 @@ Use an AI assistant to test your understanding of IaC concepts. Here are some ex
 5. What is the difference between `terraform plan` and `terraform apply`?
 6. What are terraform modules and why/how you should use them?
 7. What are the best practices for terraform?
+8. What are the benefits of using coding assistants to generate IaC templates?
+9. How would you ensure quality and security when using AI-generated IaC?
 
 ## Resources
 
