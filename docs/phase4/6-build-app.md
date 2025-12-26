@@ -8,6 +8,7 @@ Now that you’ve learned the fundamentals of DevOps, it’s time to apply these
 
     - Write a `Dockerfile` for your FastAPI app.
     - Build and run the container locally to verify it works.
+    - Ensure LLM API credentials are passed via environment variables (not baked into the image).
     - Push your image to a container registry (DockerHub, AWS ECR, Azure ACR, or GCP GCR).
 
 2. **Infrastructure as Code**
@@ -28,6 +29,7 @@ Now that you’ve learned the fundamentals of DevOps, it’s time to apply these
 4. **Container Orchestration with Kubernetes**
 
     - Write Kubernetes manifests (`Deployment`, `Service`, `ConfigMap`/`Secret`) for your app and database.
+    - Store your LLM API key in a Kubernetes `Secret` and mount it as an environment variable.
     - Deploy your app and database to a local Kubernetes cluster (Minikube/Kind) or a managed service (EKS, AKS, GKE).
     - Expose your FastAPI app using a Kubernetes `Service` (NodePort or LoadBalancer).
     - (Optional) Use Helm to package and deploy your app.
@@ -36,8 +38,9 @@ Now that you’ve learned the fundamentals of DevOps, it’s time to apply these
 
     - Deploy Prometheus and Grafana (using Docker or Kubernetes manifests).
     - Instrument your FastAPI app to expose metrics (e.g., using `prometheus_client` for Python).
-    - Configure Prometheus to scrape your app’s metrics endpoint.
-    - Create a Grafana dashboard to visualize key metrics (e.g., request count, error rate, latency).
+    - Track LLM API calls: latency, error rate, and token usage for the `/analyze` endpoint.
+    - Configure Prometheus to scrape your app's metrics endpoint.
+    - Create a Grafana dashboard to visualize key metrics (e.g., request count, error rate, latency, LLM API performance).
 
 6. **Documentation**
 
