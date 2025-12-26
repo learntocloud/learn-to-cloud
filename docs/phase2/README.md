@@ -1,12 +1,12 @@
-# Phase 2: Programming
+# Phase 2: Programming & AI Integration
 
-Last Updated: April 2025
+Last Updated: December 2025
 
-Welcome to Phase 2, this one is all about programming, specifically with Python.
+Welcome to Phase 2, this one is all about programming with Python and integrating AI capabilities into your applications.
 
-Programming is a fundamental skill for cloud engineering, enabling you to create, manage, and optimize cloud resources efficiently.
+Programming is a fundamental skill for cloud engineering, enabling you to create, manage, and optimize cloud resources efficiently. Additionally, integrating AI and Large Language Models (LLMs) into applications is becoming an essential skill for modern cloud engineers.
 
-You don't need to know how to build UIs but you need to know how to work with APIs and other cloud services like storage, databases, etc. Knowing how to program will make you more competitive in the hiring market.
+You don't need to know how to build UIs but you need to know how to work with APIs and other cloud services like storage, databases, and AI services. Knowing how to program and integrate AI will make you more competitive in the hiring market.
 
 As learners finish this phase, many will share their code. We recommend you do not copy and paste anybody's solution. You are only doing a disservice to yourself and will not make it in this field if that is the mentality you have.
 
@@ -17,18 +17,20 @@ Additionally, we recommend you turn off any AI assistants you might have for cod
 By the end of this phase, you will have:
 
 - Learned the basics of programming and Python
-- Learned the basics of how  REST APIs work
+- Learned the basics of how REST APIs work
 - Learned the basics of FastAPI
+- Learned how to work with Generative AI APIs
+- Learned prompt engineering fundamentals
 - Learned how to use cloud SDKs to interact with cloud services via code
-- Completed the Capstone project
+- Completed the Capstone project with AI integration
 
 ## Prerequisites
 
 - Completed Phase 1: Linux and Networking fundamentals
 - Completed Phase 1: Linux CTFs
-- [Star the GitHub repository to support the project](https://github.com/learntocloud/learn-to-cloud).
+- [Star the GitHub repository to support the project](https://github.com/learntocloud/learn-to-cloud)
 - Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6)
-    - Here you can ask questions, just make sure to ask in the right phase channel.
+    - Here you can ask questions, just make sure to ask in the right phase channel
 
 ## Topics
 
@@ -36,6 +38,8 @@ By the end of this phase, you will have:
 |-----|------------------------------
 | 1   | [Python](1-python.md)
 | 2   | [APIs](2-api.md)  
-| 3   | [Rest API](3-fastapi.md)
-| 4   | [Fast API](4-databases.md)
-| 5   | [Build the app](5-build-app.md)
+| 3   | [FastAPI](3-fastapi.md)
+| 4   | [Databases](4-databases.md)
+| 5   | [GenAI APIs](5-genai-apis.md)
+| 6   | [Prompt Engineering](6-prompt-engineering.md)
+| 7   | [Build the app](7-build-app.md)
