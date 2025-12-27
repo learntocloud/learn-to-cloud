@@ -203,6 +203,61 @@ Summarize this journal entry. Rules:
 Entry: "{journal_text}"
 ```
 
+### Use Delimiters
+
+Clearly separate different parts of your prompt using delimiters like triple backticks, XML tags, or dashes. This is especially important when handling user input:
+
+```
+Analyze the sentiment of the journal entry below.
+
+---BEGIN ENTRY---
+{journal_text}
+---END ENTRY---
+
+Respond with: positive, negative, or neutral
+```
+
+Delimiters help prevent **prompt injection** where malicious user input could override your instructions.
+
+### Give the Model an "Out"
+
+Provide a fallback when the model can't complete a task. This reduces hallucinations:
+
+```
+Extract the programming language mentioned in this journal entry.
+If no specific programming language is mentioned, respond with "none detected".
+
+Entry: "{journal_text}"
+```
+
+### Order Matters (Recency Bias)
+
+Models pay more attention to content at the beginning and end of prompts. Place critical instructions in both locations:
+
+```
+IMPORTANT: Respond only in JSON format.
+
+Analyze this journal entry for learning topics:
+"{journal_text}"
+
+Remember: Your response must be valid JSON only.
+```
+
+### Output Priming
+
+Start the response for the model to guide its format:
+
+```
+Analyze this journal entry and list the key topics.
+
+Entry: "Today I learned about Docker containers and wrote my first Dockerfile."
+
+Key topics:
+1.
+```
+
+The model will continue from where you left off, ensuring the correct format.
+
 ## Common Pitfalls
 
 ❌ **Over-prompting**: Too much instruction can confuse the model
@@ -214,8 +269,8 @@ Entry: "{journal_text}"
 ## Resources
 
 - Study: [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
-- Study: [Anthropic Prompt Engineering Guide](https://docs.anthropic.com/en/docs/prompt-engineering)
-- Study: [Azure OpenAI Prompt Engineering](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering)
+- Study: [Anthropic Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+- Study: [Azure OpenAI Prompt Engineering](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/prompt-engineering)
 
 ## Test your knowledge
 
