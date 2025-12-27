@@ -2,18 +2,6 @@
 
 Generative AI and Large Language Models (LLMs) are transforming how we build applications. In this topic, you'll learn how to integrate LLM APIs into your Python applications. These skills are essential for modern cloud engineering as AI services are becoming core components of cloud platforms.
 
-## Choosing Your Provider
-
-You can choose any of the following providers. Each has its own strengths:
-
-- **Azure OpenAI Service** - Best if you're focusing on Azure cloud
-- **AWS Bedrock** - Best if you're focusing on AWS cloud
-- **GCP Vertex AI** - Best if you're focusing on Google Cloud
-- **OpenAI** - Cloud-agnostic, well-documented, widely used
-- **Anthropic (Claude)** - Cloud-agnostic, strong reasoning capabilities
-
-**Action:** Choose one provider for this phase. You can explore others later.
-
 ## Understanding LLM API Basics
 
 Before coding, understand these core concepts:
@@ -32,14 +20,55 @@ Before coding, understand these core concepts:
 
 4. **Structured outputs**: Getting JSON instead of free text
 
+## Hands-On Learning: Python OpenAI Demos
+
+Before setting up cloud resources, start with this free hands-on practice using GitHub Models:
+
+**Resource:** [Python OpenAI Demos](https://aka.ms/python-openai-demos) ([Video Walkthrough](https://www.youtube.com/watch?v=_daw48A-RZI))
+
+This repository teaches you the OpenAI Python SDK through progressively complex examples—the same SDK used by Azure OpenAI. You can run it **completely free** using GitHub Models in GitHub Codespaces.
+
+**Action:** Work through these examples in order:
+
+1. **Chat Completions** - Start with `chat.py`, then try `chat_stream.py` and `chat_history.py`
+2. **Structured Outputs** - Learn to get JSON responses with `structured_outputs_basic.py`
+3. **Function Calling** - See how LLMs can call your code with `function_calling_basic.py`
+
+**Why start here?**
+- ✅ Free (uses GitHub Models, no credit card needed)
+- ✅ Works in browser (GitHub Codespaces)
+- ✅ Same SDK you'll use with Azure OpenAI
+- ✅ Builds skills progressively
+
+### Video Series: Python + AI
+
+For deeper learning, check out these videos from the **Python + AI livestream series** ([All Resources](https://aka.ms/pythonai/resources)):
+
+| Topic | Slides | Video |
+|-------|--------|-------|
+| LLMs | [Slides](https://aka.ms/pythonai/slides/llms) | [Watch](https://aka.ms/PythonAI107-f) |
+| Structured Outputs | [Slides](https://aka.ms/pythonai/slides/structuredoutputs) | [Watch](https://aka.ms/PythonAI1015-f) |
+
+> **Optional:** The full series covers 9 topics including RAG, AI Agents, and more. Watch them all if you want a deep understanding of Python + AI.
+
+## Choosing Your Cloud Provider
+
+Once you've completed the demos above, apply your skills to your cloud provider's AI service. This teaches you cloud-specific skills like IAM, resource management, and billing.
+
+- **Azure OpenAI** - If you're focusing on Azure (accessed via Azure AI Foundry)
+- **AWS Bedrock** - If you're focusing on AWS (supports Claude, Llama, and other models)
+- **GCP Vertex AI** - If you're focusing on Google Cloud (supports Gemini and other models)
+
+**Action:** Choose the provider that matches your cloud focus.
+
 ## Provider Playground Practice
 
 **IMPORTANT:** Test in the playground BEFORE writing code.
 
 ### Azure OpenAI
-- Study: [Azure OpenAI Quickstart](https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart)
-- Action: [Create an Azure OpenAI resource](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource)
-- Action: [Use the Azure OpenAI Studio playground](https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio)
+- Study: [Azure OpenAI Chat Completions Quickstart](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/chatgpt-quickstart)
+- Action: [Create an Azure OpenAI resource](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/create-resource)
+- Action: [Use the Azure AI Foundry Chat playground](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/chatgpt-quickstart?pivots=programming-language-studio)
 
 ### AWS Bedrock
 - Study: [AWS Bedrock Getting Started](https://docs.aws.amazon.com/bedrock/latest/userguide/getting-started.html)
@@ -50,16 +79,6 @@ Before coding, understand these core concepts:
 - Study: [Vertex AI Generative AI Overview](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview)
 - Action: [Use Vertex AI Studio](https://cloud.google.com/vertex-ai/generative-ai/docs/start/quickstarts/quickstart-text)
 - Action: Test prompts in the Vertex AI Studio text prompt interface
-
-### OpenAI
-- Study: [OpenAI API Quickstart](https://platform.openai.com/docs/quickstart)
-- Action: [Create an OpenAI account and get API key](https://platform.openai.com/signup)
-- Action: [Use the OpenAI Playground](https://platform.openai.com/playground)
-
-### Anthropic (Claude)
-- Study: [Anthropic API Documentation](https://docs.anthropic.com/en/docs/intro-to-claude)
-- Action: [Create an Anthropic account and get API key](https://console.anthropic.com/)
-- Action: [Use the Anthropic Console Workbench](https://console.anthropic.com/workbench)
 
 ## Playground Exercises
 
@@ -90,7 +109,7 @@ Take screenshots of successful responses. You'll replicate these in code next.
 Now implement the same prompts in Python.
 
 ### Azure OpenAI SDK
-- Action: [Azure OpenAI Python Quickstart](https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart?tabs=command-line%2Cpython&pivots=programming-language-python)
+- Action: [Azure OpenAI Python Quickstart](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/chatgpt-quickstart?pivots=programming-language-python)
 - Install: `pip install openai`
 
 ### AWS Bedrock SDK
@@ -100,14 +119,6 @@ Now implement the same prompts in Python.
 ### GCP Vertex AI SDK
 - Action: [Vertex AI Python SDK Quickstart](https://cloud.google.com/vertex-ai/generative-ai/docs/start/quickstarts/quickstart-multimodal)
 - Install: `pip install google-cloud-aiplatform`
-
-### OpenAI SDK
-- Action: [OpenAI Python Library](https://platform.openai.com/docs/guides/text-generation)
-- Install: `pip install openai`
-
-### Anthropic SDK
-- Action: [Anthropic Python SDK](https://docs.anthropic.com/en/docs/quickstart)
-- Install: `pip install anthropic`
 
 ## Key Concepts to Learn
 
@@ -141,7 +152,7 @@ LLM APIs are pay-per-use. Typical costs for this phase:
 - ~$0.50 - $3.00 for testing and completing the capstone
 - Tokens are charged for both input (prompt) and output (response)
 - Longer prompts = higher cost
-- Bigger models (GPT-4, Claude Opus) = higher cost than smaller models (GPT-3.5, Claude Haiku)
+- Larger models (GPT-4o, Claude Sonnet) = higher cost than smaller models (GPT-4o-mini, Claude Haiku)
 
 **Tip:** Use smaller, faster models for development and testing. Switch to larger models only when needed.
 
