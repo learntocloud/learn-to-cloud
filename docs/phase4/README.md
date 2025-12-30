@@ -1,7 +1,5 @@
 # Phase 4: DevOps fundamentals
 
-Last Updated: May 2025
-
 ## Objectives
 
 By the end of this phase, you will:

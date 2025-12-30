@@ -1,7 +1,5 @@
 # Phase 1: Linux and Bash
 
-Last Updated: April 2025
-
 Here at Learn to Cloud, we like to get hands-on as soon as possible. So, we've prepared a Capture The Flag (CTF) lab for you to practice your Linux and Bash. Before you can access them, you'll spend time learning about the lab and setting it up. Don't worry – along the way, we'll provide tips, documentation links, resources, and more to help you succeed.
 
 ## Objectives

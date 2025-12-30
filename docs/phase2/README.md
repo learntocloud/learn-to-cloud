@@ -1,7 +1,5 @@
 # Phase 2: Programming & AI Integration
 
-Last Updated: December 2025
-
 Welcome to Phase 2, this one is all about programming with Python and integrating AI capabilities into your applications.
 
 Programming is a fundamental skill for cloud engineering, enabling you to create, manage, and optimize cloud resources efficiently. Additionally, integrating AI and Large Language Models (LLMs) into applications is becoming an essential skill for modern cloud engineers.

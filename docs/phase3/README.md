@@ -1,7 +1,5 @@
 # Phase 3: Cloud Platform fundamentals
 
-Last Updated: April 2025
-
 Welcome to Phase 3 of Learn to Cloud! This phase focuses on cloud platform fundamentals - the core concepts and skills you need to work effectively with cloud services. You'll learn everything from virtual machines and networking to security and application deployment. Through hands-on practice and real-world projects, you'll build the practical experience needed to work with cloud platforms professionally.
 
 ## Objectives

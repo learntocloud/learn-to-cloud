@@ -1,7 +1,5 @@
 # Phase 0: Starting from zero
 
-Last Updated: April 2025
-
 If you have zero tech experience and want to get into Cloud Engineering, this phase is for you.
 
 If you are already in tech and switching to cloud, go to [Phase 1: Linux and Networking fundamentals](../phase1/README.md).

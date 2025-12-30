@@ -1,6 +1,6 @@
 # Phase 5: Securing Your Cloud Applications
 
-Author: [Ethan Troy](https://hackidle.com) | Last Updated: September 2025
+Author: [Ethan Troy](https://hackidle.com)
 
 Welcome to Phase 5 of Learn to Cloud! This phase focuses on securing the cloud applications and infrastructure you've built throughout your journey. You'll take the Journal API application from previous phases and implement enterprise-grade security controls, monitoring, and incident response capabilities.
 
