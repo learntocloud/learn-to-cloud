@@ -17,9 +17,10 @@ Create a secure 2-tier architecture:
 
 ## Prerequisites
 
-- Completed Phase 2 Capstone (Journal API working locally)
+- Completed Phase 2 Capstone (Journal API with AI analysis working locally)
 - Cloud provider account with appropriate permissions
 - SSH key pair for server access
+- LLM API key from your chosen provider (OpenAI, Anthropic, Azure OpenAI, AWS Bedrock, or GCP Vertex AI)
 
 ## Your Mission
 
@@ -58,6 +59,8 @@ Your deployment succeeds when you can demonstrate:
 - ✅ API accessible from the internet
 - ✅ Database only accessible from API server (not internet)
 - ✅ All CRUD operations work via API endpoints
+- ✅ AI analysis endpoint (`/entries/{id}/analyze`) returns sentiment and summary
+- ✅ LLM API key stored securely (environment variable, not in code)
 - ✅ Data persists between server restarts
 - ✅ Security follows least privilege principles
 

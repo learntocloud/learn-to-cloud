@@ -95,6 +95,7 @@ Before you start, ensure you have:
 - [ ] File storage encryption enabled
 - [ ] TLS certificate configured (use Let's Encrypt or cloud provider)
 - [ ] API keys moved to secrets manager
+- [ ] LLM API key (OpenAI, Anthropic, etc.) stored in secrets manager
 - [ ] Database passwords in secrets manager
 - [ ] Automated daily backups configured
 - [ ] Backup encryption verified
