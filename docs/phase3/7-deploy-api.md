@@ -59,7 +59,7 @@ Your deployment succeeds when you can demonstrate:
 - ✅ API accessible from the internet
 - ✅ Database only accessible from API server (not internet)
 - ✅ All CRUD operations work via API endpoints
-- ✅ AI analysis endpoint (`/entries/{id}/analyze`) returns sentiment and summary
+- ✅ AI analysis endpoint returns sentiment and summary
 - ✅ LLM API key stored securely (environment variable, not in code)
 - ✅ Data persists between server restarts
 - ✅ Security follows least privilege principles
