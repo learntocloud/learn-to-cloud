@@ -34,15 +34,20 @@ Infrastructure as Code (IaC) is a key DevOps practice  that allows you to manage
 6. Destroy the resources:
    - Run `terraform destroy` to clean up.
 
+### Advanced Challenge (Optional) - Modular Terraform Design with GitHub Copilot
 
-### Additional Project
+Use what you learned in Phase 2 - Collaborate with GitHub Copilot to design a modular Terraform configuration that supports a multi-tier application:
 
-- Use Terraform to deploy a multi-tier application:
-  - Create a VPC with public and private subnets.
-  - Deploy a web server in the public subnet and a database in the private subnet.
-  - Configure security groups to allow communication between the web server and database.
-  - Configure variables withing your terraform configuration.
-  - Use a backend for the state file management.
+1. Organize your infrastructure into reusable modules.
+   - VPC — public and private subnets, routing
+   - Web server tier — compute, load balancing
+   - Database tier - managed database, backup configuration
+   - Security - security groups, IAM roles, encryption
+2. Use variables to parameterize your configuration.
+3. Create module outputs for cross-module communication.
+4. Implement backend state management.
+5. Deploy and verify your resources.
+6. Destroy the resources when complete.
 
 ## Test Your Knowledge
 
@@ -55,6 +60,8 @@ Use an AI assistant to test your understanding of IaC concepts. Here are some ex
 5. What is the difference between `terraform plan` and `terraform apply`?
 6. What are terraform modules and why/how you should use them?
 7. What are the best practices for terraform?
+8. What are the benefits of using coding assistants to generate IaC templates?
+9. How would you ensure quality and security when using AI-generated IaC?
 
 ## Resources
 
