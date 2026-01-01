@@ -165,7 +165,7 @@ const config = {
           /*
             '<b>Find #30DaysOfSWA useful? Give it a star on <a href="https://github.com/staticwebdev/30DaysOfSWA"><b>GitHub</b></a></b>',
           */
-            '<b><a href="https://youtu.be/kAMCy_hoeeY?feature=shared">How to Get a Cloud Engineer Role in 2025</a></b> ☁️',
+            '<b><a href="https://www.youtube.com/watch?v=88hnhRmpPZs">6 Months Following This Study Routine TRANSFORMED My Cloud Career</a></b> ☁️',
           backgroundColor: '#134D99',
           textColor: '#ffffff',
           isCloseable: false,
