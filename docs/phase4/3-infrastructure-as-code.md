@@ -1,8 +1,14 @@
 # Topic 3: Infrastructure as Code (IaC)
 
+> ⏱️ **Estimated time:** 3-4 days
+
 Infrastructure as Code (IaC) is a key DevOps practice  that allows you to manage and provision infrastructure using code, rather than manual processes, like using console. It ensures consistency, repeatability, and scalability in managing cloud resources.
 
-## Study
+---
+
+## 📚 Learning Path
+
+### Study
 
 - What is [Infrastructure as Code](https://www.hashicorp.com/resources/what-is-infrastructure-as-code)?
 - Since Terraform is cloud-agnostic(meaning you can deploy resources to any cloud provider), it is pretty popular. Hence we recommend [Terraform](https://developer.hashicorp.com/terraform/intro).
@@ -16,7 +22,9 @@ Infrastructure as Code (IaC) is a key DevOps practice  that allows you to manage
   - [Azure Provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
   - [GCP Provider](https://registry.terraform.io/providers/hashicorp/google/latest/docs)
 
-## Hands-on Tasks
+---
+
+## 🛠️ Hands-on Tasks
 
 ### Basic IaC Project
 
@@ -49,7 +57,9 @@ Use what you learned in Phase 2 - Collaborate with GitHub Copilot to design a mo
 5. Deploy and verify your resources.
 6. Destroy the resources when complete.
 
-## Test Your Knowledge
+---
+
+## 🧪 Test Your Knowledge
 
 Use an AI assistant to test your understanding of IaC concepts. Here are some example prompts:
 
@@ -70,3 +80,20 @@ Use an AI assistant to test your understanding of IaC concepts. Here are some ex
 - [AWS Terraform Example](https://youtu.be/P4A62b1dkJE?si=-Lsed7_wyvbXv0RI)
 - [Azure Terraform Example](https://youtu.be/HdMB2YCtVr4?si=zRkEGPLy7zhRKPAX)
 - [GCP Terraform Example](https://youtu.be/VCayKl82Lt8?si=wWZ5DuabFPaZEDsY)
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you have:
+
+- [ ] Understood Infrastructure as Code concepts
+- [ ] Installed Terraform on your system
+- [ ] Learned basic Terraform commands (init, plan, apply, destroy)
+- [ ] Written Terraform configuration for a VM or static site
+- [ ] Deployed and verified resources in your cloud platform
+- [ ] Destroyed resources to clean up
+- [ ] (Optional) Created modular Terraform design with GitHub Copilot
+
+---
+

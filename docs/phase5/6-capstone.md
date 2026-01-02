@@ -1,8 +1,14 @@
 # Topic 6: Secure Your Journal API - Capstone
 
+> ⏱️ **Estimated time:** 1 week
+
 Now it's time to implement everything you've learned! This capstone project will transform your Journal API from a basic application into a production-ready, enterprise-grade secure system. You'll apply all the concepts from Topics 1-5 in a cohesive, real-world implementation.
 
-## Project Overview
+---
+
+## 📚 Learning Path
+
+### Project Overview
 
 You'll implement comprehensive security for your Journal API by building five layers of protection:
 
@@ -251,9 +257,24 @@ This capstone demonstrates your ability to implement comprehensive cloud securit
 - **Secure any cloud application** using enterprise-grade controls
 - **Implement security monitoring** that detects threats in real-time
 - **Create incident response procedures** that minimize business impact
-- **Document security implementations** for compliance and team knowledge
-- **Balance security with cost** using cloud-native services effectively
 
-These are the exact skills that cloud security engineers, cloud architects, and DevSecOps engineers use every day in production environments.
+---
 
-**Congratulations!** You've completed Phase 5 and demonstrated comprehensive cloud security implementation skills. You're now ready to secure cloud applications in professional environments.
+## ✅ Topic Checklist
+
+Before completing, make sure you have:
+
+- [ ] Designed and implemented IAM strategy with least privilege
+- [ ] Secured network architecture with public/private subnets
+- [ ] Enabled encryption at rest and in transit
+- [ ] Moved all secrets to a secrets management service
+- [ ] Deployed security monitoring dashboard
+- [ ] Created alerts for suspicious activities
+- [ ] Implemented threat detection service
+- [ ] Created incident response runbooks
+- [ ] Tested all security controls
+- [ ] Created security documentation and diagrams
+- [ ] Completed cost analysis
+
+---
+

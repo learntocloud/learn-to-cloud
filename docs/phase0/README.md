@@ -1,47 +1,72 @@
 # Phase 0: Starting from zero
 
-If you have zero tech experience and want to get into Cloud Engineering, this phase is for you.
+> ⏱️ **Estimated time:** 3-4 weeks
 
-If you are already in tech and switching to cloud, go to [Phase 1: Linux and Networking fundamentals](../phase1/README.md).
+If you have zero tech experience and want to get into Cloud Engineering, this phase is for you. Take your time with these foundational concepts—understanding them well will make everything else easier.
 
-## Prerequisites
+:::tip Already have tech experience?
+If you are already in tech and switching to cloud, go to [Phase 1: Linux and Bash](../phase1/README.md).
+:::
 
-- [Star the GitHub repository to Stay informed on updates](https://github.com/learntocloud/learn-to-cloud).
-- Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6) and introduce yourself in the #intros-and-socials channel.
+---
 
-## How does this phase apply to Cloud?
+## 🎯 Objectives
 
-Before diving into cloud-specific topics, it's crucial to grasp the basics of IT. [This playlist](https://www.youtube.com/playlist?list=PLG49S3nxzAnnes8ZGI-OBlKEukHCX46N8) is a fantastic overview.
+By the end of this phase, you will:
 
-The video playlist above will introduce you to several key concepts, but let's delve a bit deeper:
+- Understand the basics of IT and cloud computing
+- Know what Linux, networking, programming, and DevOps are at a high level
+- Decide if you are committed to pursuing a career in cloud engineering
+- Be prepared for continuous learning in this ever-evolving field
 
-- **[What is Linux](https://youtu.be/PwugmcN1hf8):** The backbone of many cloud environments, understanding Linux is crucial for cloud computing.
-- **[What is Networking](https://youtu.be/3QhU9jd03a0):** Learn how data moves across networks, an essential skill for any cloud engineer.
-- **[What is Programming](https://youtu.be/ifo76VyrBYo):** Basic programming knowledge is essential for automating tasks and managing cloud resources.
-- **[What is Cloud Computing](https://youtu.be/eZLcyTxi8ZI):** Understand the fundamental concepts of cloud computing, including its benefits and service models (IaaS, PaaS, SaaS).
-- **[What is DevOps](https://youtu.be/9pZ2xmsSDdo/):** Learn about the practices that combine software development (Dev) and IT operations (Ops) to shorten the systems development life cycle.
-- **[What is a Cloud Engineer and how to become one](https://youtu.be/7i1WMGxyt4Q):** What does a cloud engineer do, and what are the steps to become one?
+---
 
-## Things you should be familiar with at the end of this phase
+## 📚 Topics
 
-1. Have a clear understanding of the basics of IT and cloud computing.
-2. Be prepared for continuous learning, as the tech field is ever-evolving.
-3. Decide if you are committed to pursuing a career in tech.
+| No. | Topic | Description |
+|-----|-------|-------------|
+| 1 | [What is Linux](https://youtu.be/PwugmcN1hf8) | The backbone of many cloud environments |
+| 2 | [What is Networking](https://youtu.be/3QhU9jd03a0) | How data moves across networks |
+| 3 | [What is Programming](https://youtu.be/ifo76VyrBYo) | Automating tasks and managing cloud resources |
+| 4 | [What is Cloud Computing](https://youtu.be/eZLcyTxi8ZI) | IaaS, PaaS, SaaS and service models |
+| 5 | [What is DevOps](https://youtu.be/9pZ2xmsSDdo/) | Combining Dev and Ops practices |
+| 6 | [What is a Cloud Engineer](https://youtu.be/7i1WMGxyt4Q) | The role and how to become one |
 
-## Certifications you might want to look into
+For a comprehensive overview, check out [this IT fundamentals playlist](https://www.youtube.com/playlist?list=PLG49S3nxzAnnes8ZGI-OBlKEukHCX46N8).
+
+---
+
+## 🎓 Certifications (Optional)
 
 **An industry standard for people getting into tech is the [CompTIA A+](https://www.comptia.org/certifications/a).**
 
-- Is it necessary?:  No.
-- Is it helpful?: It depends on your learning style.
-- Should you take it?: It can be beneficial for your resume and may help you land support roles. Look up roles in your area and if they ask for it, get it.
+| Question | Answer |
+|----------|--------|
+| Is it necessary? | No |
+| Is it helpful? | Depends on your learning style |
+| Should you take it? | Look up roles in your area—if they ask for it, consider getting it |
 
-## Entry-Level Jobs
+---
+
+## 💼 Entry-Level Jobs
 
 Starting in a support role is a great way to enter the tech industry. These positions are often entry-level friendly and may offer educational material and certification reimbursement.
 
-Take a look at this video by KevTech on [Helpdesk interview questions](https://youtu.be/McxVgoQaCpU).
+📺 Watch: [Helpdesk interview questions](https://youtu.be/McxVgoQaCpU) by KevTech
 
-## What's next
+---
 
-[Go to Phase 1: Linux and Networking fundamentals](../phase1/README.md)
+## ✅ Phase Checklist
+
+Before moving on, make sure you can answer "yes" to these:
+
+- [ ] I understand the basics of IT and cloud computing
+- [ ] I know at a high level what Linux, networking, and programming are
+- [ ] I understand what cloud engineers do
+- [ ] I am committed to pursuing a career in tech
+
+---
+
+## ➡️ What's Next?
+
+[Continue to Phase 1: Linux and Bash →](../phase1/README.md)

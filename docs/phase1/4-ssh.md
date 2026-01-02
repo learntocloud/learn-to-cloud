@@ -1,17 +1,29 @@
 # Topic 4: SSH
 
+> ⏱️ **Estimated time:** 1 day
+
 Now you need to learn how to access a virtual machine via SSH.
 
-## Tasks
+---
 
-1. Study: [What is SSH](https://www.cloudflare.com/learning/access-management/what-is-ssh/)
+## 📚 Learning Path
 
-1. [Azure: Work through this exercise to practice your skills](https://learn.microsoft.com/training/modules/develop-on-remote-machine/) or [AWS: Work through this exercise to practice your skills](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connect-linux-inst-ssh.html) or [GCP: Read this to learn how to SSH into a VM in Google Cloud](https://cloud.google.com/compute/docs/connect/standard-ssh)
+1. **Study:** [What is SSH](https://www.cloudflare.com/learning/access-management/what-is-ssh/)
 
-## SSH concepts you should know
+2. **Practice connecting to a VM:**
+   - [AWS: Connect to your Linux instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connect-linux-inst-ssh.html)
+   - [Azure: Develop on a remote machine](https://learn.microsoft.com/training/modules/develop-on-remote-machine/)
+   - [GCP: SSH into a VM](https://cloud.google.com/compute/docs/connect/standard-ssh)
 
-- What is SSH?
-- How to SSH into a VM from my local terminal
-- How to SSH using SSH keys (not passwords)
+---
 
-Great job! When you're ready, move on
+## ✅ Topic Checklist
+
+Before moving on, make sure you can answer "yes" to these:
+
+- [ ] I understand what SSH is and why it's used
+- [ ] I know how to SSH into a VM from my local terminal
+- [ ] I understand SSH keys and why they're better than passwords
+
+---
+

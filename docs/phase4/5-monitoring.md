@@ -1,8 +1,12 @@
 # Topic 5: Monitoring and Observability
 
+> ⏱️ **Estimated time:** 3-4 days
+
 Monitoring and observability are essential DevOps practices that help you understand the health, performance, and reliability of your applications and infrastructure. In this topic, you'll learn how to set up monitoring using [Prometheus](https://prometheus.io/) and visualize metrics with [Grafana](https://grafana.com/). You'll then explore AI agents with n8n and agentic workflows which enable you to automate incident response instead of relying purely on manual intervention.
 
 ---
+
+## 📚 Learning Path
 
 ## Why are monitoring and observability important for cloud-native applications?
 
@@ -51,7 +55,7 @@ Monitoring systems generate constant streams of alerts. Traditionally, engineers
 
 ---
 
-## Hands-on Tasks
+## 🛠️ Hands-on Tasks
 
 ### 1. Set Up Prometheus
 
@@ -119,7 +123,7 @@ docker run -d -p 5678:5678 --name n8n n8nio/n8n:latest
 
 ---
 
-## Test Your Knowledge
+## 🧪 Test Your Knowledge
 
 Use these prompts to test your understanding:
 
@@ -144,3 +148,20 @@ Use these prompts to test your understanding:
 - [Awesome Prometheus Alerts](https://samber.github.io/awesome-prometheus-alerts/)
 - [n8n Documentation](https://docs.n8n.io/)
 - [Self-host n8n](https://docs.n8n.io/hosting/installation/docker/#starting-n8n)
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you have:
+
+- [ ] Understood monitoring vs observability concepts
+- [ ] Set up Prometheus with basic configuration
+- [ ] Deployed Grafana and connected to Prometheus
+- [ ] Created dashboards with PromQL queries
+- [ ] Instrumented a sample application with metrics
+- [ ] Built an AI agent with n8n for automated responses
+- [ ] Tested agent detection and alerting
+
+---
+

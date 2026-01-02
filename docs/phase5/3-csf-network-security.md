@@ -1,8 +1,14 @@
 # Topic 3: Network Security
 
+> ⏱️ **Estimated time:** 2-3 days
+
 Network security in the cloud is about building secure connections, creating logical separations between resources, and defending against network-based threats. Before securing your Journal API's network, you need to understand cloud networking fundamentals.
 
-## Learning Objectives
+---
+
+## 📚 Learning Path
+
+### Learning Objectives
 
 By the end of this topic, you will understand:
 
@@ -62,7 +68,9 @@ Start with your cloud provider's networking documentation:
 - **Network Load Balancers**: Handle TCP/UDP traffic at high performance
 - **Security Features**: SSL termination, DDoS protection, access logging
 
-## Test Your Knowledge
+---
+
+## 🧪 Test Your Knowledge
 
 Use an AI assistant to test your understanding. Here are example prompts:
 
@@ -105,3 +113,19 @@ Understanding the differences helps bridge the conceptual gap:
 ## Next Steps
 
 Once you feel confident with network security concepts, move on to Topic 4. 
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you have:
+
+- [ ] Understood VPC and network isolation concepts
+- [ ] Learned Security Groups vs Network ACLs
+- [ ] Understood network segmentation (public/private/isolated)
+- [ ] Learned about load balancers and traffic management
+- [ ] Reviewed cloud provider networking documentation
+- [ ] (Optional) Completed VPC/networking workshops
+
+---
+

@@ -1,8 +1,14 @@
 # Topic 6: DevOps Capstone Project
 
-Now that you’ve learned the fundamentals of DevOps, it’s time to apply these practices to the Journal API app you built in Phase 2 and deployed in Phase 3. In this capstone, you’ll containerize the app, automate its deployment, manage infrastructure as code, set up monitoring and observability, and orchestrate containers with Kubernetes—demonstrating your end-to-end DevOps skills.
+> ⏱️ **Estimated time:** 1 week
 
-## Capstone Steps
+Now that you've learned the fundamentals of DevOps, it's time to apply these practices to the Journal API app you built in Phase 2 and deployed in Phase 3. In this capstone, you'll containerize the app, automate its deployment, manage infrastructure as code, set up monitoring and observability, and orchestrate containers with Kubernetes—demonstrating your end-to-end DevOps skills.
+
+---
+
+## 📚 Learning Path
+
+### Capstone Steps
 
 1. **Containerize the Application**
 
@@ -86,3 +92,5 @@ Now that you’ve learned the fundamentals of DevOps, it’s time to apply these
 ## Next Steps
 
 Once you’ve completed this capstone, you’ll have demonstrated practical DevOps skills by taking an app from code to production with automation, infrastructure as code, container orchestration, and monitoring. This gives you a strong project under your portfolio to showcase for job applications and and talk during interviews!
+---
+

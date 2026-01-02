@@ -1,8 +1,14 @@
 # Topic 1: Identity and Access Management (IAM)
 
+> ⏱️ **Estimated time:** 3-4 days
+
 Identity and Access Management (IAM) is your frontline defense for controlling who can access your cloud environment and what they can do once they're in. Before you secure your Journal API, you need to understand IAM fundamentals.
 
-## Learning Objectives
+---
+
+## 📚 Learning Path
+
+### Learning Objectives
 
 By the end of this topic, you will understand:
 
@@ -50,7 +56,9 @@ Give users and services only the minimum permissions needed to do their job. Thi
 - **Authentication**: Who are you? (login, MFA)
 - **Authorization**: What can you do? (permissions, policies)
 
-## Test Your Knowledge
+---
+
+## 🧪 Test Your Knowledge
 
 Use an AI assistant to test your understanding. Here are example prompts:
 
@@ -82,3 +90,19 @@ Use an AI assistant to test your understanding. Here are example prompts:
 ## Next Steps
 
 Once you feel confident with IAM concepts, move on to Topic 2. You'll implement all of this knowledge when you secure your Journal API in the capstone project.
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you have:
+
+- [ ] Understood IAM concepts (users, groups, roles, policies)
+- [ ] Learned the principle of least privilege
+- [ ] Understood service accounts vs user accounts
+- [ ] Learned about MFA and when to use it
+- [ ] Reviewed cloud provider IAM documentation
+- [ ] (Optional) Completed hands-on IAM workshops
+
+---
+

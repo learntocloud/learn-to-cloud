@@ -1,8 +1,14 @@
 # Topic 5: Generative AI APIs
 
+> ⏱️ **Estimated time:** 4-5 days
+
 Generative AI and Large Language Models (LLMs) are transforming how we build applications. In this topic, you'll learn how to integrate LLM APIs into your Python applications. These skills are essential for modern cloud engineering as AI services are becoming core components of cloud platforms.
 
-## Understanding LLM API Basics
+---
+
+## 📚 Learning Path
+
+### Understanding LLM API Basics
 
 Before coding, understand these core concepts:
 
@@ -156,7 +162,9 @@ LLM APIs are pay-per-use. Typical costs for this phase:
 
 **Tip:** Use smaller, faster models for development and testing. Switch to larger models only when needed.
 
-## Test your knowledge
+---
+
+## 🧪 Test Your Knowledge
 
 Once you are done with the tutorials, test your knowledge with an AI assistant. Here are some example prompts:
 
@@ -167,3 +175,20 @@ Once you are done with the tutorials, test your knowledge with an AI assistant. 
 5. Can you ask me to explain the difference between synchronous and asynchronous LLM API calls?
 6. Can you quiz me on how to handle errors and rate limits when calling LLM APIs?
 7. Can you explain how to get structured JSON output from an LLM instead of plain text?
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you have:
+
+- [ ] Completed the Python OpenAI Demos exercises
+- [ ] Tested prompts in your cloud provider's playground (Azure AI Foundry, AWS Bedrock, or Vertex AI)
+- [ ] Understood the messages format (system, user, assistant)
+- [ ] Practiced with structured outputs (JSON responses)
+- [ ] Created a Python script that calls an LLM API
+- [ ] Stored API keys securely in environment variables
+- [ ] Understood cost awareness and token pricing
+
+---
+

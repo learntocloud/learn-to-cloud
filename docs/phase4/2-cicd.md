@@ -1,10 +1,16 @@
 # Topic 2: Continuous Integration and Continuous Deployment
 
+> ⏱️ **Estimated time:** 3-4 days
+
 One challenge you'll face after the previous phase is the need to manually run rebuild and push commands for every change made to your code, which can become a tedious and error-prone process. In this topic, we will explain how to automate this entire process using Continuous Integration (CI) and Continuous Deployment (CD) pipelines. These pipelines allow you to automatically build, test, and deploy your application every time changes are made, ensuring a smooth and reliable development workflow.
 
 There are various CI/CD tools available, such as Jenkins, GitHub Actions, and GitLab CI, which streamline this process by automatically executing tasks and deploying code based on triggers like code commits, pull requests, or scheduled events.
 
-## Study
+---
+
+## 📚 Learning Path
+
+### Study
 
 - What is [Continuous Integration (CI)](https://www.ibm.com/think/topics/continuous-integration) and [Continuous Delivery (CD)](https://www.ibm.com/think/topics/continuous-delivery)?
 - What is the difference between [Continuous Integration, Continuous Delivery, and Continuous Deployment](https://www.jetbrains.com/teamcity/ci-cd-guide/continuous-integration-vs-delivery-vs-deployment/)?
@@ -14,7 +20,9 @@ There are various CI/CD tools available, such as Jenkins, GitHub Actions, and Gi
   - [Azure DevOps](https://www.youtube.com/watch?v=4BibQ69MD8c)
   - [GCP Cloud Build](https://www.youtube.com/watch?v=vCt5zMvgV5s)
 
-## Hands-on Tasks
+---
+
+## 🛠️ Hands-on Tasks
 
 ### Basic CI/CD Pipeline Setup
 
@@ -31,7 +39,9 @@ There are various CI/CD tools available, such as Jenkins, GitHub Actions, and Gi
 
 Implement a multi-environment deployment pipeline that deploys to staging first, runs tests, and then promotes to production.
 
-## Test your knowledge
+---
+
+## 🧪 Test Your Knowledge
 
 Use an AI assistant to test your understanding of CI/CD concepts. Here's how:
 
@@ -66,3 +76,20 @@ Pro tip: Share your specific context: "I'm practicing with a containerized Node.
 :::
 
 Remember: The goal is to test your understanding, not to get perfect answers immediately.
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you have:
+
+- [ ] Understood CI/CD fundamentals and differences
+- [ ] Learned about pipeline components and stages
+- [ ] Set up a basic CI/CD pipeline (GitHub Actions or similar)
+- [ ] Configured automatic builds on code commits
+- [ ] Implemented Docker image building and pushing
+- [ ] Added notifications for success/failure
+- [ ] (Optional) Implemented multi-environment deployment
+
+---
+

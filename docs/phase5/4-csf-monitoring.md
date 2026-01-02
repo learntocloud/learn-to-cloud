@@ -1,8 +1,14 @@
 # Topic 4: Security Monitoring
 
+> ⏱️ **Estimated time:** 2-3 days
+
 Security monitoring is your early warning system for detecting threats and understanding what's happening in your cloud environment. Before implementing monitoring for your Journal API, you need to understand logging, alerting, and monitoring fundamentals.
 
-## Learning Objectives
+---
+
+## 📚 Learning Path
+
+### Learning Objectives
 
 By the end of this topic, you will understand:
 
@@ -59,7 +65,9 @@ Start with your cloud provider's monitoring documentation:
 - **Escalation**: Different severity levels with appropriate response times
 - **Context**: Provide enough information to understand the issue
 
-## Test Your Knowledge
+---
+
+## 🧪 Test Your Knowledge
 
 Use an AI assistant to test your understanding. Here are example prompts:
 
@@ -76,3 +84,18 @@ Use an AI assistant to test your understanding. Here are example prompts:
 ## Next Steps
 
 Once you understand security monitoring concepts, move on to Topic 5.
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you have:
+
+- [ ] Understood the different types of security logs
+- [ ] Learned SIEM concepts and how they work
+- [ ] Understood alert design principles
+- [ ] Learned key security metrics to track
+- [ ] Reviewed cloud provider monitoring documentation
+
+---
+

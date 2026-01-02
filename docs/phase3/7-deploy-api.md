@@ -1,8 +1,14 @@
 # Topic 7: Cloud Deployment Capstone
 
+> ⏱️ **Estimated time:** 1 week
+
 Deploy your Journal API from the Phase 2 Capstone to a secure 2-tier cloud architecture. This capstone challenges you to research, design, and implement a production-ready environment with proper networking and security.
 
-## Challenge Overview
+---
+
+## 📚 Learning Path
+
+### Challenge Overview
 
 Create a secure 2-tier architecture:
 - **Tier 1**: FastAPI application server (internet-accessible)
@@ -77,3 +83,23 @@ Share your progress in the cloud phase Discord channel!
 ## Remember
 
 This is about understanding cloud patterns, not following a recipe. Research, experiment, and learn from the journey. Every cloud provider has different tools - figure out what works best for your chosen platform.
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you have:
+
+- [ ] Designed a secure 2-tier architecture
+- [ ] Deployed API server in public tier
+- [ ] Deployed PostgreSQL in private tier
+- [ ] Database only accessible from API server
+- [ ] All CRUD operations working via API
+- [ ] AI analysis endpoint returning results
+- [ ] LLM API key stored securely
+- [ ] Data persisting between restarts
+- [ ] Security following least privilege principles
+- [ ] Created technical documentation of your deployment
+
+---
+

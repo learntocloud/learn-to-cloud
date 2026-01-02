@@ -1,5 +1,7 @@
 # Topic 1: Containerization
 
+> ⏱️ **Estimated time:** 3-4 days
+
 Containerization is a modern approach to deploying and managing applications and services across various environments. It allows you to package software, tools, and their dependencies into lightweight, portable units called containers.
 
 **Key benefits include:**
@@ -13,7 +15,11 @@ There are many containerization tools available like Docker, Podman, Containerd,
 In this topic, you'll learn how to use tools like Docker to create these isolated environments and explore how cloud platforms like AWS, Azure, and GCP support containerized workloads.
 You'll also learn how to leverage containers to run MCP servers, which enable applications to integrate with LLMs and external AI tools.
 
-## Study
+---
+
+## 📚 Learning Path
+
+### Study
 
 ### Core Concepts
 
@@ -31,7 +37,9 @@ You'll also learn how to leverage containers to run MCP servers, which enable ap
   - [Azure Container Registry](https://learn.microsoft.com/en-us/training/modules/deploy-use-azure-container-registry/)
   - [Google Container Registry](https://www.youtube.com/watch?v=D1_FC6pGutQ)
 
-## Hands-on Tasks
+---
+
+## 🛠️ Hands-on Tasks
 
 ### Basic Containerization Project
 
@@ -57,7 +65,9 @@ You'll also learn how to leverage containers to run MCP servers, which enable ap
 - [Docker Common Issues & Solutions](https://docs.docker.com/engine/reference/troubleshoot/)
 - [Best Practices for Writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 
-## Test your knowledge
+---
+
+## 🧪 Test Your Knowledge
 
 Use an AI assistant to test your understanding of containerization. Here's how:
 
@@ -92,3 +102,20 @@ Pro tip: Share your specific context: "I'm working with a Node.js application th
 :::
 
 Remember: The goal is to test your understanding, not to get perfect answers immediately.
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you have:
+
+- [ ] Understood containerization concepts vs virtualization
+- [ ] Learned Docker basics and architecture
+- [ ] Written a Dockerfile for an application
+- [ ] Built and ran a container locally
+- [ ] Pushed an image to a container registry
+- [ ] Set up and tested the GitHub MCP Server
+- [ ] Understood container networking and storage
+
+---
+

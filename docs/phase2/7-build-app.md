@@ -1,8 +1,14 @@
 # Topic 7: Capstone Project
 
+> ⏱️ **Estimated time:** 1 week
+
 Now that you've got some Python skills under your belt AND learned how to integrate AI, we've got an old codebase that needs some love! This Journal API project will test everything you've learned so far, and you'll be deploying it to the cloud in the next phase. Consider this your graduation project from the Python basics - time to put those skills to work!
 
-## Pre-requisites
+---
+
+## 📚 Learning Path
+
+### Pre-requisites
 
 This project uses **Dev Containers** to provide a consistent development environment. Before starting:
 
@@ -43,4 +49,19 @@ We recommend you take time after completing the capstone to reflect on what you'
 - Write a technical blog post summarizing your experience and key learnings from the project.
 - Share your blog post on LinkedIn or other social media to showcase your new skills!
 
-Move on to the next phase!
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you have:
+
+- [ ] Docker Desktop and Dev Containers extension installed
+- [ ] Forked and cloned the Journal API starter repo
+- [ ] Completed all implementation tasks in the README
+- [ ] Tested all API endpoints work correctly
+- [ ] AI analysis features functioning properly
+- [ ] Written a reflection on challenges and learnings
+- [ ] (Optional) Shared your experience on a blog post
+
+---
+

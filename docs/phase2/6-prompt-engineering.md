@@ -1,8 +1,14 @@
 # Topic 6: Prompt Engineering
 
+> ⏱️ **Estimated time:** 2-3 days
+
 Prompt engineering is the art and science of crafting effective instructions for Large Language Models (LLMs). A well-engineered prompt can dramatically improve the quality, accuracy, and usefulness of LLM outputs. This skill is essential for integrating AI into applications effectively.
 
-## What is Prompt Engineering?
+---
+
+## 📚 Learning Path
+
+### What is Prompt Engineering?
 
 Prompt engineering is designing inputs (prompts) that guide LLMs to produce desired outputs. Unlike traditional programming where you write explicit logic, with LLMs you describe what you want in natural language.
 
@@ -272,7 +278,9 @@ The model will continue from where you left off, ensuring the correct format.
 - Study: [Anthropic Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 - Study: [Azure OpenAI Prompt Engineering](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/prompt-engineering)
 
-## Test your knowledge
+---
+
+## 🧪 Test Your Knowledge
 
 Once you are done with the tutorials, test your knowledge with an AI assistant. Here are some example prompts:
 
@@ -283,3 +291,20 @@ Once you are done with the tutorials, test your knowledge with an AI assistant. 
 5. Can you quiz me on techniques for getting structured JSON output from an LLM?
 6. Can you explain the concept of "chain of thought" prompting?
 7. Can you ask me to explain common pitfalls in prompt engineering and how to avoid them?
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you have:
+
+- [ ] Understood the core principles (clear, specific, provide context)
+- [ ] Practiced few-shot prompting with examples
+- [ ] Created prompts that output structured JSON
+- [ ] Tested prompts for sentiment analysis, summarization, and topic extraction
+- [ ] Experimented with temperature settings
+- [ ] Used chain of thought prompting
+- [ ] Understood common pitfalls to avoid
+
+---
+

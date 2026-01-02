@@ -1,7 +1,12 @@
 # Topic 5: Linux CLI Basics
 
-You need to have Linux CLI skills to work with cloud. We recommend you read and work through [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers#content). You could also go through the list of commands below and research them individually, though in our opinion that
-will not provide you enough grand picture context as to how these commands work.
+> ⏱️ **Estimated time:** 1 week
+
+You need to have Linux CLI skills to work with cloud. We recommend you read and work through [Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers#content). You could also go through the list of commands below and research them individually, though in our opinion that will not provide you enough context as to how these commands work.
+
+---
+
+## 📚 Learning Path
 
 For this topic, we recommend working through **Chapters 1-8** of the book, which cover the essential skills for cloud work:
 
@@ -152,3 +157,19 @@ In the latest challenge, you will analyze network traffic to discover hidden mes
 3. Work through each challenge to build your understanding incrementally.
 
 Remember: The goal is to learn the commands and understand how they work. Take time to experiment with each command and explore its options and behaviors.
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you can answer "yes" to these:
+
+- [ ] I completed Chapters 1-8 of Linux Basics for Hackers (or equivalent)
+- [ ] I understand basic navigation commands (cd, ls, pwd)
+- [ ] I can manipulate files and directories from the command line
+- [ ] I understand file permissions and how to change them
+- [ ] I can use pipes and redirects to chain commands
+- [ ] I understand basic bash scripting concepts
+
+---
+

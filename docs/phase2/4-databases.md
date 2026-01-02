@@ -1,24 +1,31 @@
 # Topic 4: Databases
 
-We will be using a database to store our application data. For this we need to first understand how databases work and how to interact with them. Let's start with the basics.
+> ⏱️ **Estimated time:** 3-4 days
 
-- Study: [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+We will be using a database to store our application data. For this we need to first understand how databases work and how to interact with them.
 
-Then, decide which cloud you will use. For AWS, you will use DynamoDB, and for Azure, you will use Cosmos DB.
+---
 
-- Study: [AWS DynamoDB Tutorial For Beginners](https://www.youtube.com/watch?v=2k2GINpO308)
+## 📚 Learning Path
 
-- Study: [Azure Cosmos DB Essentials Playlist](https://youtube.com/playlist?list=PLLasX02E8BPDd2fKwLCHnmWoyo4bL-oKr&feature=shared/)
+1. **Study SQL basics:** [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 
-Then do the Python quickstart for the database you chose.
+2. **Choose your cloud database:**
 
-- Action: [AWS DynamoDB Python Quickstart](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/example_dynamodb_Scenario_GettingStartedMovies_section.html)
+   | Cloud | Database | Tutorial |
+   |-------|----------|----------|
+   | AWS | DynamoDB | [DynamoDB Tutorial For Beginners](https://www.youtube.com/watch?v=2k2GINpO308) |
+   | Azure | Cosmos DB | [Cosmos DB Essentials Playlist](https://youtube.com/playlist?list=PLLasX02E8BPDd2fKwLCHnmWoyo4bL-oKr&feature=shared/) |
 
-- Action: [Azure Cosmos DB Python Quickstart](https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/quickstart-python)
+3. **Complete the Python quickstart for your chosen database:**
+   - [AWS DynamoDB Python Quickstart](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/example_dynamodb_Scenario_GettingStartedMovies_section.html)
+   - [Azure Cosmos DB Python Quickstart](https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/quickstart-python)
 
-## Test your knowledge
+---
 
-Once you are done with the tutorials, test your knowledge with an AI assistant. Here are some example prompts to test your database knowledge:
+## 🧪 Test Your Knowledge
+
+Test your knowledge with an AI assistant using these prompts:
 
 1. Can you ask me to explain what a database is and how it works?
 2. Can you quiz me on the difference between SQL and NoSQL databases?
@@ -28,3 +35,17 @@ Once you are done with the tutorials, test your knowledge with an AI assistant. 
 6. Can you ask me to explain how to use an ORM (Object-Relational Mapping) library in Python?
 7. Can you ask me to explain how to use a NoSQL database like DynamoDB or Cosmos DB?
 8. Can you quiz me on how to model data in a NoSQL database like DynamoDB or Cosmos DB?
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you can answer "yes" to these:
+
+- [ ] I understand SQL basics and CRUD operations
+- [ ] I understand the difference between SQL and NoSQL databases
+- [ ] I completed the Python quickstart for my chosen cloud database
+- [ ] I can connect to a database from Python
+
+---
+

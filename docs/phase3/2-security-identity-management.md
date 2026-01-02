@@ -1,6 +1,12 @@
 # Topic 2: Security and Identity Management
 
+> ⏱️ **Estimated time:** 2-3 days
+
 This section focuses on identity and access management (IAM) to control permissions and protect cloud resources, as well as securing cloud instances using security groups and firewall rules.
+
+---
+
+## 📚 Learning Path
 
 - Study
 
@@ -8,7 +14,9 @@ This section focuses on identity and access management (IAM) to control permissi
 
   - [AWS Security Groups](https://www.youtube.com/watch?v=uYDT2SsHImQ) vs. [Azure Network Security Groups](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview) vs. [GCP Firewall Rules](https://cloud.google.com/firewall/docs/firewalls)
 
-## Test your Knowledge
+---
+
+## 🧪 Test Your Knowledge
 
 After studying, test your knowledge with these AI prompts:
 
@@ -21,7 +29,9 @@ After studying, test your knowledge with these AI prompts:
 7. How do security groups differ from network ACLs in cloud networking?
 8. What is the significance of stateful vs. stateless rules in cloud security?
 
-## Hands-on Task
+---
+
+## 🛠️ Hands-on Task
 
 - Create IAM users and groups with specific permissions in cloud platform.
 - Implement IAM roles for secure access management
@@ -31,3 +41,20 @@ After studying, test your knowledge with these AI prompts:
 - Define outbound rules to control external communication.
 - Apply security group rules to a VM and verify access restrictions.
 - Test traffic flow by attempting to connect from an allowed and a restricted IP address.
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you have:
+
+- [ ] Understood IAM concepts (Users, Groups, Roles, Policies)
+- [ ] Learned about RBAC and least privilege principle
+- [ ] Created IAM users and groups with specific permissions
+- [ ] Implemented IAM roles for secure access
+- [ ] Created and configured security groups
+- [ ] Tested inbound and outbound rules
+- [ ] Verified access restrictions work correctly
+
+---
+

@@ -1,8 +1,14 @@
 # Topic 2: Data Protection and Secrets Management
 
+> ⏱️ **Estimated time:** 2-3 days
+
 Data is the most valuable asset in your cloud environment. Before you secure your Journal API's data, you need to understand encryption, key management, and secrets management fundamentals.
 
-## Learning Objectives
+---
+
+## 📚 Learning Path
+
+### Learning Objectives
 
 By the end of this topic, you will understand:
 
@@ -78,7 +84,9 @@ Start with these foundational resources:
 **Confidential**: Moderate risk if disclosed (customer data)
 **Restricted**: High risk if disclosed (payment information, personal data)
 
-## Test Your Knowledge
+---
+
+## 🧪 Test Your Knowledge
 
 Use an AI assistant to test your understanding. Here are example prompts:
 
@@ -111,3 +119,19 @@ Use an AI assistant to test your understanding. Here are example prompts:
 ## Next Steps
 
 Once you feel confident with data protection concepts, move on to Topic 3. 
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you have:
+
+- [ ] Understood encryption at rest vs in transit
+- [ ] Learned symmetric vs asymmetric encryption
+- [ ] Understood key management best practices
+- [ ] Learned secrets management fundamentals
+- [ ] Understood data classification levels
+- [ ] Reviewed cloud provider encryption documentation
+
+---
+

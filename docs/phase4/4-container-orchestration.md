@@ -1,10 +1,14 @@
 # Topic 4: Container Orchestration - Kubernetes
 
+> ⏱️ **Estimated time:** 4-5 days
+
 So we learned about Containers in the start of this phase, now let's see how we can orchestrate the containers. This is where Kubernetes comes in, often abbreviated as K8s, an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. It is widely used in modern cloud-native environments to ensure applications are highly available, scalable, and resilient.
 
 ---
 
-## Why Kubernetes?
+## 📚 Learning Path
+
+### Why Kubernetes?
 
 As applications grow in complexity, managing containers manually becomes challenging. Kubernetes provides:
 
@@ -81,7 +85,9 @@ kubectl logs <pod-name>
 kubectl delete -f deployment.yaml
 ```
 
-## Hands-On Exercise
+---
+
+## 🛠️ Hands-On Exercise
 
 1. Install Minikube or Kind on your local machine.
 2. Create a simple Kubernetes deployment using the following YAML file:
@@ -119,7 +125,9 @@ spec:
 
 6. Access the application in your browser using the NodePort.
 
-## Test Your Knowledge
+---
+
+## 🧪 Test Your Knowledge
 
 Use these questions to test your understanding of Kubernetes concepts:
 
@@ -140,3 +148,20 @@ These questions will help reinforce your understanding of Kubernetes and its cor
 
 - [Kubernetes Official Documentation](https://kubernetes.io/docs/concepts/)
 - [Kubernetes the Hard Way by Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you have:
+
+- [ ] Understood Kubernetes core concepts (Pods, Services, Deployments)
+- [ ] Installed Minikube or Kind locally
+- [ ] Created and deployed a Kubernetes deployment
+- [ ] Exposed a deployment as a service
+- [ ] Used kubectl commands for cluster management
+- [ ] Understood ConfigMaps and Secrets
+- [ ] (Optional) Explored managed Kubernetes services (EKS, AKS, GKE)
+
+---
+

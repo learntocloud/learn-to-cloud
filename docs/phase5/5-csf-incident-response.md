@@ -1,8 +1,14 @@
 # Topic 5: Threat Detection and Incident Response
 
+> ⏱️ **Estimated time:** 2-3 days
+
 Incident response is about being prepared to handle security events when they occur. Before implementing automated threat detection for your Journal API, you need to understand threat detection principles and incident response workflows.
 
-## Learning Objectives
+---
+
+## 📚 Learning Path
+
+### Learning Objectives
 
 By the end of this topic, you will understand:
 
@@ -57,7 +63,9 @@ Start with these foundational guides:
 - **Medium**: Security concern requiring investigation
 - **Low**: Minor security event for awareness and documentation
 
-## Test Your Knowledge
+---
+
+## 🧪 Test Your Knowledge
 
 Use an AI assistant to test your understanding. Here are example prompts:
 
@@ -95,3 +103,19 @@ Use an AI assistant to test your understanding. Here are example prompts:
 ## Next Steps
 
 Once you understand threat detection and incident response concepts, you're ready for the capstone project. You'll implement comprehensive security for your Journal API, bringing together everything you've learned in Topics 1-5.
+
+---
+
+## ✅ Topic Checklist
+
+Before moving on, make sure you have:
+
+- [ ] Understood incident response lifecycle phases
+- [ ] Learned about common cloud security threats
+- [ ] Understood automated response concepts
+- [ ] Learned incident severity classification
+- [ ] Reviewed threat intelligence sources
+- [ ] (Optional) Completed incident response workshops
+
+---
+
