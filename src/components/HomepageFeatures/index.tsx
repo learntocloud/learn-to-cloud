@@ -3,35 +3,57 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 type FeatureItem = {
+  icon: string;
   title: string;
-  //Svg: React.ComponentType<React.ComponentProps<'svg'>>;
-  //description: JSX.Element;
+  description: string;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: '💵 Free and Open Source',
-    //Svg: require('@site/static/img/undraw_open_source.svg').default,
-    
+    icon: '💵',
+    title: 'Free and Open Source',
+    description:
+      'No paywalls, no subscriptions. Learn cloud skills with community-driven content that\'s always free and continuously improved by contributors worldwide.',
   },
   {
-    title: '📝 Resources, tasks, and projects',
-   // Svg: require('@site/static/img/undraw_organizing_projects.svg').default,
-    
+    icon: '📝',
+    title: 'Resources, Tasks & Projects',
+    description:
+      'Hands-on learning with curated resources, practical tasks, and real-world projects that build your portfolio while you learn.',
   },
   {
-    title: '👷🏽‍♀️ Built from first hand experience',
-   // Svg: require('@site/static/img/undraw_co-working.svg').default,
-    
+    icon: '👷🏽‍♀️',
+    title: 'Built from Experience',
+    description:
+      'Created by cloud professionals who\'ve walked the path. Learn what actually matters for landing your first cloud role.',
+  },
+  {
+    icon: '🚀',
+    title: 'Structured Learning Path',
+    description:
+      'Follow a clear roadmap from fundamentals to advanced topics. No more wondering what to learn next.',
+  },
+  {
+    icon: '🌐',
+    title: 'Cloud Agnostic',
+    description:
+      'Learn concepts that apply across AWS, Azure, and GCP. Build a foundation that works anywhere.',
+  },
+  {
+    icon: '🤝',
+    title: 'Community Support',
+    description:
+      'Join thousands of learners on Discord. Get help, share progress, and connect with others on the same journey.',
   },
 ];
 
-function Feature({ title, Svg, description }: FeatureItem) {
+function Feature({ icon, title, description }: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
-      
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+      <div className={styles.featureCard}>
+        <div className={styles.featureIcon}>{icon}</div>
+        <h3 className={styles.featureTitle}>{title}</h3>
+        <p className={styles.featureDescription}>{description}</p>
       </div>
     </div>
   );
@@ -41,6 +63,12 @@ export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className="container">
+        <div className={styles.sectionHeader}>
+          <h2 className={styles.sectionTitle}>Why Learn to Cloud?</h2>
+          <p className={styles.sectionSubtitle}>
+            Everything you need to start your cloud career, completely free.
+          </p>
+        </div>
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />

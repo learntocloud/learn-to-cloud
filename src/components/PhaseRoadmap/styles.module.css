@@ -1,0 +1,166 @@
+.roadmap {
+  padding: 3rem 0;
+}
+
+.roadmapHeader {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.roadmapTitle {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: var(--ifm-heading-color);
+}
+
+.roadmapSubtitle {
+  font-size: 1.1rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.phasesGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.phaseCard {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  background: var(--ifm-background-color);
+  border: 2px solid var(--ifm-color-emphasis-200);
+  border-radius: 12px;
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.phaseCard::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: var(--phase-color);
+  transition: width 0.3s ease;
+}
+
+.phaseCard:hover {
+  transform: translateY(-4px);
+  border-color: var(--phase-color);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  color: inherit;
+}
+
+.phaseCard:hover::before {
+  width: 6px;
+}
+
+.phaseCard:hover .phaseArrow {
+  transform: translateX(4px);
+  opacity: 1;
+}
+
+.phaseNumber {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.phaseIcon {
+  font-size: 1.5rem;
+}
+
+.phaseLabel {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--phase-color);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.phaseTitle {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem 0;
+  color: var(--ifm-heading-color);
+}
+
+.phaseDescription {
+  font-size: 0.95rem;
+  color: var(--ifm-color-emphasis-700);
+  margin: 0;
+  flex-grow: 1;
+  line-height: 1.5;
+}
+
+.phaseArrow {
+  position: absolute;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  font-size: 1.25rem;
+  color: var(--phase-color);
+  opacity: 0.5;
+  transition: all 0.3s ease;
+}
+
+.finishLine {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.finishLink {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.75rem 1.5rem;
+  background: linear-gradient(135deg, #f59e0b 0%, #ef4444 100%);
+  color: white;
+  font-weight: 600;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 14px rgba(245, 158, 11, 0.3);
+}
+
+.finishLink:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(245, 158, 11, 0.4);
+  color: white;
+  text-decoration: none;
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] .phaseCard {
+  background: var(--ifm-background-surface-color);
+}
+
+[data-theme='dark'] .phaseCard:hover {
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+}
+
+/* Mobile responsiveness */
+@media screen and (max-width: 996px) {
+  .roadmap {
+    padding: 2rem 0;
+  }
+
+  .roadmapTitle {
+    font-size: 1.75rem;
+  }
+
+  .phasesGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .phaseCard {
+    padding: 1.25rem;
+  }
+}

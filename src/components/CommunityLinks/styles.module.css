@@ -1,0 +1,103 @@
+.community {
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.communityTitle {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: var(--ifm-heading-color);
+}
+
+.linksGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.linkCard {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem;
+  background: var(--ifm-background-color);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 10px;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.2s ease;
+}
+
+.linkCard:hover {
+  border-color: var(--link-color);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
+  text-decoration: none;
+  color: inherit;
+}
+
+.linkIcon {
+  font-size: 1.5rem;
+  flex-shrink: 0;
+}
+
+.linkContent {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  flex-grow: 1;
+  min-width: 0;
+}
+
+.linkTitle {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--ifm-heading-color);
+}
+
+.linkDescription {
+  font-size: 0.8rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.linkArrow {
+  color: var(--link-color);
+  font-size: 1rem;
+  opacity: 0;
+  transition: all 0.2s ease;
+  flex-shrink: 0;
+}
+
+.linkCard:hover .linkArrow {
+  opacity: 1;
+  transform: translateX(4px);
+}
+
+.goodLuck {
+  font-size: 1rem;
+  color: var(--ifm-color-emphasis-700);
+  margin: 0;
+}
+
+[data-theme='dark'] .linkCard {
+  background: var(--ifm-background-surface-color);
+}
+
+/* Mobile responsiveness */
+@media screen and (max-width: 996px) {
+  .linksGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .linksGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .linkCard {
+    padding: 0.875rem;
+  }
+}
