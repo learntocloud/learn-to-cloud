@@ -3,17 +3,13 @@ sidebar_position: 1
 slug: /
 ---
 
-# Welcome
-
 > **Your free, open-source guide to becoming a cloud engineer.**
 
-Learn to Cloud (L2C) is a courseware built on the belief that anyone can learn foundational cloud engineering skills with the right guide and discipline.
+Learn cloud engineering with the right guide and discipline.
 
-This guide is focused on helping you learn the skillset of a junior cloud engineer, not ANY other role.
-
-[**Start Your Journey →**](/phase0)
-
----
+- **We guide, not handhold** — Intentional gaps foster problem-solving
+- **Practice with purpose** — Hands-on learning meets essential theory
+- **Always evolving** — Updated by working professionals
 
 ## 🗺️ The Learning Path
 
@@ -28,49 +24,48 @@ This guide is focused on helping you learn the skillset of a junior cloud engine
 
 ---
 
-## 💻 Why should I use it?
-
-Our platform is intentionally:
-
-- **designed to guide, not handhold**
-
-    We provide essential details while leaving intentional gaps to foster critical thinking, problem-solving, and self-sufficiency.
-
-- **focused on practice with purpose**
-
-    We balance hands-on learning with carefully integrated theory to promote intentional learning rather than passive progression.
-
-- **constantly evolving**
-
-    Built and updated by professionals who actively work in the field. Expect updates that keep it relevant and aligned with industry standards.
-
----
-
-## 🤑 Cost?
-
-No cost, no account needed, nothing. You have no excuses. L2C is open source and free, and the resources we recommend are either free or very affordable.
-
-## ⌚️ Time?
-
-Self paced. However, you could realistically cover everything in 6 months with about 2 hours per day and more on weekends.
-
----
-
 ## 🚀 Get Started
 
 1. [⭐ Star the GitHub repository](https://github.com/learntocloud/learn-to-cloud) to stay informed on updates
 2. [🎬 Subscribe for free Cloud tutorials and career advice](http://youtube.com/madebygps)
 3. [💬 Join the Learn to Cloud Discord](https://discord.gg/Qymw28nQX6) and introduce yourself in #intros-and-socials
 4. Follow us on X: [GPS](https://x.com/madebygps) • [Rishab](https://x.com/rishabincloud) • [L2C](https://x.com/learntocloud)
+5. Start with **[Phase 0](/phase0)** and follow the path at your own pace
+
+**Good luck on your journey!**
 
 ---
 
 ## ❓ FAQ
 
 <details>
+<summary><strong>What do I need before starting?</strong></summary>
+
+The only requirements are motivation and discipline—these are aspects we cannot provide for you. Breaking into tech has never been easy, despite what some content creators might suggest. This journey will be challenging, but if you have a genuine interest in cloud engineering, it will be worth your effort.
+</details>
+
+<details>
+<summary><strong>How much does this cost?</strong></summary>
+
+No cost, no account needed, nothing. You have no excuses. L2C is open source and free, and the resources we recommend are either free or very affordable.
+</details>
+
+<details>
+<summary><strong>How long will this take?</strong></summary>
+
+Self paced. However, you could realistically cover everything in 6 months with about 2 hours per day and more on weekends.
+</details>
+
+<details>
 <summary><strong>Is this for complete beginners?</strong></summary>
 
 Yes! Phase 0 starts from zero. No prior tech experience required—just motivation and willingness to learn.
+</details>
+
+<details>
+<summary><strong>Can I skip phases if I already have experience?</strong></summary>
+
+Yes, but with a caveat: the capstone projects build on each other starting from Phase 2. Even if you're comfortable with a topic, we recommend completing the capstones to get the full experience.
 </details>
 
 <details>
@@ -90,13 +85,3 @@ Certifications can help, but they're not required. Focus on building real projec
 
 We don't handhold. We give you direction, context, and curated resources—then expect you to figure things out. This mirrors real-world cloud engineering work.
 </details>
-
----
-
-## 💪🏽 What do you need to know before starting?
-
-The only requirements are motivation and discipline - these are aspects we cannot provide for you.
-
-Breaking into tech has never been easy, despite what some content creators might suggest. This journey will be challenging, but if you have a genuine interest in cloud engineering, it will be worth your effort.
-
-**Good luck on your journey!**
