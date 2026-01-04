@@ -1,76 +1,61 @@
-# Fase 3: Fudamentos de las Plataformas de Nube
+# Fase 3: Fundamentos de plataformas cloud
 
-Author: [GPS](https://twitter.com/madebygps)
+> ⏱️ **Tiempo estimado:** 4-5 semanas
 
-## ¿Cómo aplica esta fase a la Nube?
+¡Bienvenido/a a la Fase 3! Esta fase se enfoca en los fundamentos de las plataformas cloud: los conceptos y skills centrales que necesitas para trabajar bien con servicios cloud. Vas a aprender desde máquinas virtuales y networking hasta seguridad y despliegue de aplicaciones. Con práctica hands-on y proyectos, vas a construir la experiencia necesaria para trabajar con cloud de forma profesional.
 
-Muchas veces la gente se sorprende cuando ve que esta fase no es la número 1, aunque es la más larga y por una buena razón. Como profesional de la Nube, viviras en una plataforma o muchas. Todo lo que construtas, des soporte, desarrolles, etc, estará en una plataforma.
+---
 
-Acá hay algunas preguntas populares para esta fase:
+## 🎯 Objetivos
 
-- [¿Valen la pena plataformas pagas para aprender sobre Nube?](../resources/FAQ.md)
+Al final de esta fase, vas a:
 
-- ¿Qué nube debo aprender?:
+- Entender servicios centrales de infraestructura y plataformas cloud
+- Desplegar y administrar máquinas virtuales y recursos de cómputo
+- Configurar networking seguro y controles de acceso
+- Desplegar y administrar bases de datos y aplicaciones tipo API
+- Completar proyectos prácticos que demuestren skills cloud
+- Prepararte para una certificación cloud de nivel asociado
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/W3_8O3doYlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
 
-## Cómo dividir esta fase en partes
+## 📋 Prerrequisitos
 
-Te sugiero dedicar tiempo a estos dos temas y a este cronograma:
+- Completaste la Fase 1: Linux y Bash
+- Completaste la Fase 2: Programación e integración de IA
+- Fundamentos de Git y control de versiones
+- Una cuenta en un proveedor cloud (AWS, Azure o GCP)
 
-| Orden | Tema                             |
-| ----- | -------------------------------- |
-| 1     | Certificaciones en la Nube       |
-| 2     | Desafío de currículum en la nube |
+---
 
-Por supuesto, sientete libre de invertir tanto tiempo como vos quieras, la gente me ha preguntado por un cronograma desglosado, así que acá lo agregué.
+## 📚 Temas
 
-## Recursos
+| No. | Tema | Descripción |
+|-----|------|-------------|
+| 1 | [Máquinas virtuales y cómputo](1-virtual-machines-compute-services.md) | Servicios de cómputo y despliegue de VMs |
+| 2 | [Seguridad e IAM](2-security-identity-management.md) | Identidad, permisos y seguridad |
+| 3 | [Networking cloud](3-cloud-networking-fundamentals.md) | VPC/VNet, subnets y enrutamiento |
+| 4 | [Acceso remoto seguro](4-secure-remote-access.md) | Acceso seguro a recursos |
+| 5 | [Despliegue de bases de datos](5-database-deployment-configuration.md) | Desplegar y administrar bases |
+| 6 | [Despliegue de FastAPI](6-fastapi-deployment-hosting.md) | Hospedar aplicaciones web |
+| 7 | [Proyecto capstone](7-deploy-api.md) | Construir una app completa en cloud |
 
-| Plataforma Nube | Título                                                                     |
-| :-------------- | -------------------------------------------------------------------------- |
-| AWS             | [Certificaciones y entrenamientos AWS](https://aws.amazon.com/training/)   |
-| Azure           | [Microsoft Learn](https://docs.microsoft.com/learn/certifications/browse/) |
-| GCP             | [Entrenamiento en Google Cloud](https://cloud.google.com/certification)    |
+---
 
-Sin importar que material elijas, tendrá algun tipo de ejemplos o aspectos prácticos. Hacelos. No te limites a mires/leas los materiales. Esto no es un show de Netflix que estas consumiendo, esto es tiempo de aprendizaje.
+## ✅ Checklist de la fase
 
-Cuando estas comenzando con la nube, estaras haciendot do mediante la UI, y eso está bien para comenzar, sin embargo una vez que estes en un trabajo, usaras una CLI o infraestructura como código (aprenderas más acerca de esto en la fase 4) para manejar tus ambientes. Mi consejo acá, es que por cada ejercicio que hagas con la UI, busques el comando en la CLI para hacer lo mismo. En este momento ya deberias estar familiarizado con la línea de comandos. Esta es una gran razón de porque la fase de Linux y de programación vienen antes que esta.
+Antes de seguir, asegúrate de poder responder “sí” a esto:
 
-este es un buen momento para introducirte en la documentación oficial, [AWS](https://docs.aws.amazon.com/index.html), [Azure](https://docs.microsoft.com/azure/?product=featured) o [GCP](https://cloud.google.com/docs)
+- [ ] Puedo desplegar y administrar máquinas virtuales
+- [ ] Entiendo IAM y buenas prácticas de seguridad
+- [ ] Puedo configurar VPC/VNet, subnets y networking
+- [ ] Puedo desplegar y administrar bases de datos en cloud
+- [ ] Puedo hospedar aplicaciones web en plataformas cloud
+- [ ] Completé el proyecto capstone
 
-Si hay algo que no entiendes acerca de un servicio o comando, tu **ir a** debe ser primero la documentación.
+---
 
-## Proyectos
+## ➡️ ¿Qué sigue?
 
-Te recomendamos que tu primer proyecto sea el desafío de currículum en la nube. Una vez que lo hayas hecho, visitá la [Página de proyectos ](../projects/README.md) para más!
+[Sigue a la Fase 4: Fundamentos de DevOps →](../phase4/README.md)
 
-| Plataforma | Título                                                                                                                | Descripción                                |
-| ---------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| AWS        | [Desafío de currículum en la nube](https://youtube.com/playlist?list=PLK_LRl1CH4L_ko1-Xm04ATPTduu6gaSM8)              | Construí tu currículum con servicio AWS.   |
-| Azure      | [Azure Desafío de currículum en la nube](https://youtu.be/ieYrBWmkfno)                                                | Construí tu currículum con servicio Azure. |
-| GCP        | [GCP Desafío de currículum en la nube](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) | Construí tu currículum con servicio GCP.   |
-
-## Cosas que deberias estar familiarizado al final de esta fase
-
-- Entender las mejores prácticas para la infraestructura en la nube (confiabilidad, desempeño eficiente , seguridad, optimización de costos, etc.)
-- Cómo concender y remover accesos y permisos a los usuarios y aplicaciones.
-- Cómo configurar alertas/alarmas de facturación, presupuesto y como usar las herramientras de facturación.
-- Cómo usar el servicio de almacenamiento de objetos y comprender las otras opciones de almacenamiento.
-- Cómo desplegar máquinas virtuales que se puede escalar y comprender otros servicios de computo que ofrece la plataforma.
-- Cómo configurar el monitoreo para una máquina virtual y comprender todos los otros servicios de monitoreo que la plataforma ofrece.
-- Cómo las redes funcionan para las máquinas virtuales (Vnets/VPCs, subredes, tablas de enrutameitno, direcciones IP públicas y privadas, VPNs, puertas de enlace, etc)
-- Cómo crear una API usando los servicio de Funciones como servicios ofrecidos por la plataforma de nube tiene y una compresion general de las caracteristicas del servicio y sus posibilidades.
-- Servicio de hospedaje de aplicaciones web que tu plataforma de nubeo ofrece y experiencia con esos servicio.
-- Servicios de base de datos que tu plataforma de nube ofrece y experiencia con uno de ellos.
-- Cómo usara la CLI para crear y administrar recursos en la nube.
-
-## Certificaciones que te puede interesar mirar
-
-Nos encanta las certificaciones en la nube, ellas nos dan una linda curricula para seguir. Sinembargo, no creemos que necesiten todas las que están por ahí. Te recomendamos 1 o 2 certificaciones máximo, más 2 proyectos prácticos que muetren todas las habilidades en la guía.
-
-Te recomendamos que obtengas el nivel de certificación de asociado.
-
-- [AWS](https://aws.amazon.com/certification/): Cualquiera.
-- [Azure](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure&terms=associate): Quedate con la de administración o desarrollador, los otros niveles de asociado son un poco más especificos y puedes tomarlos más tarde si quieres.
-- [GCP](https://cloud.google.com/certification/cloud-engineer): Solo hay una.

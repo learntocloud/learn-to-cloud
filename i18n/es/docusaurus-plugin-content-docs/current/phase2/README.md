@@ -1,74 +1,70 @@
-# Fase 2: Programar, Git y Prompt Engineering
+# Fase 2: Programación e integración de IA
 
-Autor: [FS](https://twitter.com/felipe88)
+> ⏱️ **Tiempo estimado:** 4-5 semanas
 
-## ¿En que aplica esta fase a la Nube?
+¡Bienvenido/a a la Fase 2! Esta fase se trata de programar con Python e integrar capacidades de IA en tus aplicaciones.
 
-Estarás usando código para automatizar tareas, desplegar infraestructura y trabajar con servicios. No es necesario que sepas crear UI pero si necesitas saber como interacturar con APIs. Además, saber como programar te hará más competitivo en el mercado laboral. En en paso anterior, te introdujimos a conceptos básicos de programación y creaste tu primer script Bash. Ahora puede mejorar este conocimiento y aplicarlo al lenguaje de programación que elijas.
+Programar es una habilidad fundamental para cloud engineering: te permite crear, administrar y optimizar recursos cloud de forma eficiente. Además, integrar IA y Large Language Models (LLMs) en aplicaciones se está volviendo una habilidad esencial para los cloud engineers modernos.
 
-<!--truncate -->
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/WMUAc7bvB7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+No necesitas saber construir UIs, pero sí necesitas saber trabajar con APIs y otros servicios cloud como storage, bases de datos y servicios de IA. Saber programar e integrar IA te va a hacer más competitivo/a en el mercado laboral.
 
-## Que necesitas aprender
+:::warning Importante
+Cuando la gente termina esta fase, muchos comparten su código. Te recomendamos **no copiar y pegar** la solución de nadie. Eso solo te perjudica y, con esa mentalidad, no vas a durar en este campo.
 
-Existen varios lenguajes de programación que son populares en la Nube: Go, Rust, .ET, Javascript. Si ya conoces alguno de esos, podes seguir usandolo, sino, ya que sos un principiante, te recomiendo que elijas [Python](https://www.python.org/). Es un lenguaje muy popular y existen muchos recursos de calidad para aprender de forma gratuita.
+Además, te recomendamos apagar los asistentes de IA para autocompletar código, aunque sí es muy recomendable usar IA para pedir explicaciones y aclaraciones.
+:::
 
-Además de aprender a codificar, es necesario que mejores con [Git](https://git-scm.com/). Es el sistema de versionado más popular y usado en DevOps. Es usado para gestionar y compartir tu código. GitHub es uno de los servicio de hospedaje más populares hoy en día.
+---
 
-Si todavía no tiene una, tomate tu tiempo para crear tu cuenta en [GitHub](https://github.com/).Será tu portfolio de código y así es como mostrarás los proyectos en tu curriculum.
+## 🎯 Objetivos
 
-También te recomendamos a esta altura, que mejores tu capacidad de usar herramientras como GitHub Copilot y tu capacidad como de Prompt Engineering para ayudarte a escribir código de forma más productiva.
+Al final de esta fase, vas a:
 
-## Cómo dividir esta faseHow to break down this phase
+- Aprender lo básico de programación y Python
+- Aprender lo básico de cómo funcionan las REST APIs
+- Aprender lo básico de FastAPI
+- Aprender a trabajar con APIs de IA generativa
+- Aprender fundamentos de prompt engineering
+- Aprender a usar SDKs para interactuar con servicios cloud desde código
+- Completar el proyecto capstone con integración de IA
 
-Te sugerimos invertir tiempo en estos 3 temás con este cronograma::
+---
 
-| Orden | Tema                        |
-| ----- | --------------------------- |
-| 1     | Aprender a Learn to Code    |
-| 2     | Aprender Git y GitHub       |
-| 3     | Aprender Prompt Engineering |
+## 📋 Prerrequisitos
 
-## Recursos
+- Completaste la Fase 1: Linux y Bash
+- Completaste el CTF de Linux de la Fase 1
 
-| Oden | Título                                                                                                                                                            | Notas                                                                                                           |
-| :--- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 1    | [Curso intensivo de Python](https://ehmatthes.github.io/pcc/)                                                                                                     | Un excelente libro, también tien un apendice sobre Git que es excelente!                                        |
-| 1    | [Python para principiantes](https://youtu.be/jFCNu1-Xdsw)                                                                                                         | Una serie de videos compueta por 44 partes que te introduciran a Python                                         |
-| 2    | [Curso completo de Git y GitHub](https://www.youtube.com/watch?v=apGV9Kg7ics)                                                                                     | Videos de [Kunal Kushwaha](https://bio.link/kunalk)                                                             |
-| 3    | [ChatGPT Prompt Engineering para desarrolladores](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)                           | Un curso de [deeplearning.ai](https://www.deeplearning.ai/)                                                     |
-| 3    | [Una guía para principiantes sobre Prompt Engineering con GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp) | Un artículo de[Rizèl Scarlett](https://twitter.com/blackgirlbytes) de como aprovechar al máximo GitHub Copilot. |
-| 3    | [Introdución a GitHub Copilot](https://learn.microsoft.com/training/modules/introduction-to-github-copilot/)                                                      | Un módulo de Microsoft Learn de como usar GitHub Copilot.                                                       |
+---
 
-## Proyectos
+## 📚 Temas
 
-| Título                                                                                                                                                           | Descripción                                                                        |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [Crear tu perfil de GitHub](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) | Crear tun README para contrar a otros acerca de vos en GitHub                      |
-| [Enviar una Definición al Diccionario de Nube](https://dictionary.learntocloud.guide/)                                                                                    | Aparece en la página de inicio de LTC y contribuí a un proyecto de código abierto! |
-| [7 Días de Python](https://7daysofpython.com/)                                                                                                                   | Crea un Blog impulsado por Python                                                  |
+| No. | Tema | Descripción |
+|-----|------|-------------|
+| 1 | [Python](1-python.md) | Fundamentos de programación con Python |
+| 2 | [APIs](2-api.md) | Entender REST APIs |
+| 3 | [FastAPI](3-fastapi.md) | Construir APIs con FastAPI |
+| 4 | [Bases de datos](4-databases.md) | Trabajar con bases de datos |
+| 5 | [APIs de GenAI](5-genai-apis.md) | Integrar IA generativa |
+| 6 | [Prompt Engineering](6-prompt-engineering.md) | Técnicas de prompting efectivas |
+| 7 | [Construye la app](7-build-app.md) | Proyecto capstone |
 
-## Conceptos que te deberían ser familiar al final de esta fase
+---
 
-### Programación
+## ✅ Checklist de la fase
 
-- Variables
-- Tipos de datos
-- Comentarios
-- Funciones
-- POO (Programación Orientada a Objetos)
-- Listas
-- Módulos
-- Diccionario
-- Bucle
-- Estructuras de Control
-- Excepciones
+Antes de seguir, asegúrate de poder responder “sí” a esto:
 
-### Git
+- [ ] Puedo escribir scripts en Python y entiendo conceptos base
+- [ ] Entiendo cómo funcionan las REST APIs
+- [ ] Puedo construir una API básica con FastAPI
+- [ ] Sé trabajar con bases de datos
+- [ ] Puedo integrar APIs de GenAI en mis aplicaciones
+- [ ] Completé el proyecto capstone
 
-- Cómo crear un repositorio Git local
-- Cómo creart un repositorio en GitHub y como clonarlo localmente
-- Cómo crear una rama en git
-- Cómo agregar cambio a una rama git
-- Cómo fusionar cambios en Git
-- Cómo documentar código con README
+---
+
+## ➡️ ¿Qué sigue?
+
+[Sigue a la Fase 3: Fundamentos de plataformas cloud →](../phase3/README.md)
+
