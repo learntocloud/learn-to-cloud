@@ -11,10 +11,8 @@ const config = {
   url: 'https://learntocloud.guide',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/favicon.ico',
-  markdown: {
-    onBrokenMarkdownLinks: 'ignore',
-  },
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
