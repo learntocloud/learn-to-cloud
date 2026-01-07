@@ -38,7 +38,9 @@ By the end of this phase, you will:
 | 4 | [Secure Remote Access](4-secure-remote-access.md) | Set up secure resource access |
 | 5 | [Database Deployment](5-database-deployment-configuration.md) | Deploy and manage databases |
 | 6 | [FastAPI Deployment](6-fastapi-deployment-hosting.md) | Host web applications |
-| 7 | [Capstone Project](7-deploy-api.md) | Build complete cloud application |
+| 7 | [Billing & Cost Management](7-cost-management.md) | Monitor spending and optimize costs |
+| 8 | [Cloud AI Service Platforms](8-ai-services.md) | Explore AI platforms and capabilities |
+| 9 | [Capstone Project](9-deploy-api.md) | Build a complete cloud application |
 
 ---
 
@@ -51,6 +53,8 @@ Before moving on, make sure you can answer "yes" to these:
 - [ ] I can configure VPCs, subnets, and networking
 - [ ] I can deploy and manage databases in the cloud
 - [ ] I can host web applications on cloud platforms
+- [ ] I understand cloud billing and can monitor costs
+- [ ] I understand AI service platforms and can deploy models
 - [ ] I completed the capstone project
 
 ---
