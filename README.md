@@ -15,4 +15,11 @@ Please open an issue first so we can discuss before opening a PR. Thank you.
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](/LICENSE) for more information.
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
+
+See [LICENSE](/LICENSE) for more information.
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg

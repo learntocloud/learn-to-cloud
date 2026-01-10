@@ -146,8 +146,8 @@ const config = {
                   href:'https://github.com/learntocloud/learn-to-cloud/blob/main/CODE_OF_CONDUCT.md',
                 },
                 {
-                    label: 'License',
-                    href: 'https://github.com/learntocloud/learn-to-cloud/tree/main?tab=MIT-1-ov-file',
+                    label: 'License (CC BY 4.0)',
+                    href: 'http://creativecommons.org/licenses/by/4.0/',
                 },
               ],
             },
@@ -161,7 +161,7 @@ const config = {
               ],
             },
           ],
-          copyright: `Copyright © ${new Date().getFullYear()} Learn To Cloud`,
+          copyright: `© ${new Date().getFullYear()} Learn to Cloud by Gwyneth Peña-Siguenza · Licensed under <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>`,
         },
         prism: {
           theme: lightCodeTheme,

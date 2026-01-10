@@ -65,6 +65,3 @@ Before moving on, make sure you can answer "yes" to these:
 - [ ] The lab repo is cloned locally
 - [ ] My README repo is cloned locally
 - [ ] I starred the Learn to Cloud repository
-
----
-

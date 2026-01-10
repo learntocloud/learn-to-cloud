@@ -37,6 +37,3 @@ Before moving on, make sure you can answer "yes" to these:
 - [ ] I created a cloud account
 - [ ] I installed my chosen cloud CLI
 - [ ] I configured the CLI with my account credentials
-
----
-

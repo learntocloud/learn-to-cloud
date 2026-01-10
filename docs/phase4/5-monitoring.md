@@ -162,6 +162,3 @@ Before moving on, make sure you have:
 - [ ] Instrumented a sample application with metrics
 - [ ] Built an AI agent with n8n for automated responses
 - [ ] Tested agent detection and alerting
-
----
-

@@ -46,6 +46,3 @@ Before moving on, make sure you can answer "yes" to these:
 - [ ] I understand the difference between SQL and NoSQL databases
 - [ ] I completed the Python quickstart for my chosen cloud database
 - [ ] I can connect to a database from Python
-
----
-

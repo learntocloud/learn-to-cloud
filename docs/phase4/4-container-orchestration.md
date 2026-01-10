@@ -162,6 +162,3 @@ Before moving on, make sure you have:
 - [ ] Used kubectl commands for cluster management
 - [ ] Understood ConfigMaps and Secrets
 - [ ] (Optional) Explored managed Kubernetes services (EKS, AKS, GKE)
-
----
-

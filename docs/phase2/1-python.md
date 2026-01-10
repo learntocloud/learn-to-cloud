@@ -46,6 +46,3 @@ Before moving on, make sure you can answer "yes" to these:
 - [ ] I understand classes and object-oriented programming basics
 - [ ] I can read and write files in Python
 - [ ] The CS50 Python lecture made sense to me
-
----
-

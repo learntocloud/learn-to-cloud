@@ -34,6 +34,3 @@ Before moving on, make sure you can answer "yes" to these:
 - [ ] I understand path and query parameters
 - [ ] I can use Pydantic models for request/response validation
 - [ ] I understand FastAPI's automatic documentation (Swagger UI)
-
----
-

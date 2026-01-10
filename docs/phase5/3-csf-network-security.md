@@ -126,6 +126,3 @@ Before moving on, make sure you have:
 - [ ] Learned about load balancers and traffic management
 - [ ] Reviewed cloud provider networking documentation
 - [ ] (Optional) Completed VPC/networking workshops
-
----
-

@@ -116,6 +116,3 @@ Before moving on, make sure you have:
 - [ ] Learned incident severity classification
 - [ ] Reviewed threat intelligence sources
 - [ ] (Optional) Completed incident response workshops
-
----
-

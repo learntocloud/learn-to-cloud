@@ -90,6 +90,3 @@ Before moving on, make sure you have:
 - [ ] Implemented Docker image building and pushing
 - [ ] Added notifications for success/failure
 - [ ] (Optional) Implemented multi-environment deployment
-
----
-

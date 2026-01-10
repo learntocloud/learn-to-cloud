@@ -35,6 +35,3 @@ Before moving on, make sure you can answer "yes" to these:
 - [ ] I know the difference between GET, POST, PUT, and DELETE
 - [ ] I understand HTTP status codes (200, 201, 400, 404, 500)
 - [ ] I can explain what an API endpoint is
-
----
-

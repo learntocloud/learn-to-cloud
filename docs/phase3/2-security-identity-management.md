@@ -55,6 +55,3 @@ Before moving on, make sure you have:
 - [ ] Created and configured security groups
 - [ ] Tested inbound and outbound rules
 - [ ] Verified access restrictions work correctly
-
----
-

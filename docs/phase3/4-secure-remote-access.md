@@ -40,6 +40,3 @@ Before moving on, make sure you have:
 - [ ] Understood the security benefits over direct SSH/RDP
 - [ ] Configured session-based access on your cloud provider
 - [ ] Applied least privilege IAM policies for remote access
-
----
-

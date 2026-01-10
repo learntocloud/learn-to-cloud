@@ -62,6 +62,3 @@ Before moving on, make sure you have:
 - [ ] AI analysis features functioning properly
 - [ ] Written a reflection on challenges and learnings
 - [ ] (Optional) Shared your experience on a blog post
-
----
-

@@ -305,6 +305,3 @@ Before moving on, make sure you have:
 - [ ] Experimented with temperature settings
 - [ ] Used chain of thought prompting
 - [ ] Understood common pitfalls to avoid
-
----
-

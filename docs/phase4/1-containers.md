@@ -116,6 +116,3 @@ Before moving on, make sure you have:
 - [ ] Pushed an image to a container registry
 - [ ] Set up and tested the GitHub MCP Server
 - [ ] Understood container networking and storage
-
----
-

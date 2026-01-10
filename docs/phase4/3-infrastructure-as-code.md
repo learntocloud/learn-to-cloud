@@ -94,6 +94,3 @@ Before moving on, make sure you have:
 - [ ] Deployed and verified resources in your cloud platform
 - [ ] Destroyed resources to clean up
 - [ ] (Optional) Created modular Terraform design with GitHub Copilot
-
----
-

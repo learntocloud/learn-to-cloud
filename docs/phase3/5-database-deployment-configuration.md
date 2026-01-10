@@ -42,6 +42,3 @@ Before moving on, make sure you have:
 - [ ] Deployed PostgreSQL in a private subnet
 - [ ] Configured secure remote access to the database
 - [ ] Created database users with appropriate permissions
-
----
-

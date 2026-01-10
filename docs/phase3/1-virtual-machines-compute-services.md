@@ -43,6 +43,3 @@ Before moving on, make sure you have:
 - [ ] Understood instance types and OS selection criteria
 - [ ] Successfully deployed a VM on your chosen cloud provider
 - [ ] Verified VM is accessible and running
-
----
-

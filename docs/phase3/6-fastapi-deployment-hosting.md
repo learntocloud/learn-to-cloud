@@ -34,6 +34,3 @@ Before moving on, make sure you have:
 - [ ] Configured security groups/firewall rules for HTTP traffic
 - [ ] Deployed FastAPI on a VM in the public subnet
 - [ ] Verified the API is accessible from the internet
-
----
-

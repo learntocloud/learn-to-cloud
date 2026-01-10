@@ -275,6 +275,3 @@ Before completing, make sure you have:
 - [ ] Tested all security controls
 - [ ] Created security documentation and diagrams
 - [ ] Completed cost analysis
-
----
-

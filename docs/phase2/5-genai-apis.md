@@ -189,6 +189,3 @@ Before moving on, make sure you have:
 - [ ] Created a Python script that calls an LLM API
 - [ ] Stored API keys securely in environment variables
 - [ ] Understood cost awareness and token pricing
-
----
-

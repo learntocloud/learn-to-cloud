@@ -39,6 +39,3 @@ Before moving on, make sure you can answer "yes" to these:
 - [ ] I know what `terraform init` does
 - [ ] I know what `terraform apply` does
 - [ ] Terraform is installed on my computer
-
----
-

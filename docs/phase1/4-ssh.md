@@ -24,6 +24,3 @@ Before moving on, make sure you can answer "yes" to these:
 - [ ] I understand what SSH is and why it's used
 - [ ] I know how to SSH into a VM from my local terminal
 - [ ] I understand SSH keys and why they're better than passwords
-
----
-

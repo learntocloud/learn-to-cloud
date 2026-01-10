@@ -54,6 +54,3 @@ Before moving on, make sure you have:
 - [ ] Created a VPC with public and private subnets
 - [ ] Configured route tables correctly
 - [ ] Deployed VMs in both public and private subnets
-
----
-

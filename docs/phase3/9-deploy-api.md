@@ -1,8 +1,8 @@
-# Topic 9: Cloud Deployment Capstone
+# Topic 7: Cloud Deployment Capstone
 
 > ⏱️ **Estimated time:** 1 week
 
-Deploy your Journal API from the Phase 2 Capstone to a secure 2-tier cloud architecture. This capstone challenges you to research, design, and implement a production-ready environment with proper networking, security, and cost management.
+Deploy your Journal API from the Phase 2 Capstone to a secure 2-tier cloud architecture. This capstone challenges you to research, design, and implement a production-ready environment with proper networking and security.
 
 ---
 
@@ -20,7 +20,6 @@ Create a secure 2-tier architecture:
 - Implement security groups following least privilege principles
 - Configure remote database access securely
 - Deploy a production-ready multi-tier application
-- Understand the cost implications of your deployment
 
 ## Prerequisites
 
@@ -37,7 +36,6 @@ Research and plan your cloud infrastructure:
 - How will you separate public and private resources?
 - What networking components do you need?
 - How will you secure communication between tiers?
-- How much will your deployment cost to run per month?
 
 ### 2. Deploy the API Server
 
@@ -71,7 +69,6 @@ Your deployment succeeds when you can demonstrate:
 - ✅ LLM API key stored securely (environment variable, not in code)
 - ✅ Data persists between server restarts
 - ✅ Security follows least privilege principles
-- ✅ Budget alerts are configured
 
 ## Document Your Learning
 
@@ -102,8 +99,4 @@ Before moving on, make sure you have:
 - [ ] LLM API key stored securely
 - [ ] Data persisting between restarts
 - [ ] Security following least privilege principles
-- [ ] Considered costs and configured budget alerts
 - [ ] Created technical documentation of your deployment
-
----
-

@@ -103,6 +103,3 @@ Before moving on, make sure you have:
 - [ ] Learned about MFA and when to use it
 - [ ] Reviewed cloud provider IAM documentation
 - [ ] (Optional) Completed hands-on IAM workshops
-
----
-

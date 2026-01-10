@@ -92,5 +92,3 @@ Now that you've learned the fundamentals of DevOps, it's time to apply these pra
 ## Next Steps
 
 Once you’ve completed this capstone, you’ll have demonstrated practical DevOps skills by taking an app from code to production with automation, infrastructure as code, container orchestration, and monitoring. This gives you a strong project under your portfolio to showcase for job applications and and talk during interviews!
----
-

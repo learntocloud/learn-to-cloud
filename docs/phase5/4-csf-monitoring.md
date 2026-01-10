@@ -96,6 +96,3 @@ Before moving on, make sure you have:
 - [ ] Understood alert design principles
 - [ ] Learned key security metrics to track
 - [ ] Reviewed cloud provider monitoring documentation
-
----
-

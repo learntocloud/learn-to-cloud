@@ -132,6 +132,3 @@ Before moving on, make sure you have:
 - [ ] Learned secrets management fundamentals
 - [ ] Understood data classification levels
 - [ ] Reviewed cloud provider encryption documentation
-
----
-

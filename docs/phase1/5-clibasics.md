@@ -170,6 +170,3 @@ Before moving on, make sure you can answer "yes" to these:
 - [ ] I understand file permissions and how to change them
 - [ ] I can use pipes and redirects to chain commands
 - [ ] I understand basic bash scripting concepts
-
----
-
