@@ -161,7 +161,7 @@ const config = {
               ],
             },
           ],
-          copyright: `© ${new Date().getFullYear()} Learn to Cloud by Gwyneth Peña-Siguenza · Licensed under <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>`,
+          copyright: `© ${new Date().getFullYear()} Learn to Cloud by <a href="https://x.com/madebygps" target="_blank" rel="noopener noreferrer">Gwyneth Peña-Siguenza</a> & <a href="https://x.com/rishabincloud" target="_blank" rel="noopener noreferrer">Rishab Kumar</a> · Licensed under <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>`,
         },
         prism: {
           theme: lightCodeTheme,
