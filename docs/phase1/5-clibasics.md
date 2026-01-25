@@ -30,7 +30,7 @@ Before starting the challenges, familiarize yourself with these essential comman
 - `ls`: List directory contents.
 - `cat`: Display file contents.
 
-## Challenge 1: Hidden Files
+## Challenge 1: Hidden File Discovery
 
 Learn these commands to find hidden files:
 
@@ -44,23 +44,30 @@ Learn these commands to find hidden files:
 - Hidden files are not shown by default.
 - Use the `-a` flag with `ls` to show hidden files.
 
-## Challenge 2: File Searching
+## Challenge 2: Basic File Search
 
 Master these file search commands:
 
 - `find /path -name "pattern"`: Search for files by name.
 - `find /path -type f`: Search for regular files.
-- `locate filename`: Quick file search using a database.
+- `find ~ -name '*.txt' 2>/dev/null`: Search for text files in your home directory.
 - `grep -r "text" /path`: Recursively search file contents.
 
-## Challenge 3: File Size Analysis
+## Challenge 3: Log Analysis
 
-Commands for analyzing file sizes:
+Commands for analyzing log files:
 
 - `ls -lh`: List files with human-readable sizes.
 - `du -h`: Display disk usage.
-- `sort -h`: Sort by human-readable sizes.
+- `tail filename`: View the end of a file.
+- `tail -n 100 filename`: View the last 100 lines.
 - `find /path -type f -size +1M`: Find files larger than 1MB.
+
+**Key concepts:**
+
+- Large log files can hide secrets at the end.
+- Check `/var/log` for system logs.
+- Use `tail` to see the end of large files efficiently.
 
 ## Challenge 4: User Investigation
 
@@ -82,28 +89,44 @@ Commands for working with permissions:
 
 - `ls -l`: View file permissions.
 - `stat filename`: Detailed file information.
-- `find / -perm 777`: Find files with specific permissions.
+- `find / -perm 777 2>/dev/null`: Find files with specific permissions.
 - `chmod`: Change file permissions.
 
-## Challenge 6: Network Services
+**Key concepts:**
+
+- Look for files with unusual permissions (like 777).
+- Permission 777 means read, write, and execute for everyone.
+
+## Challenge 6: Service Discovery
 
 Network investigation commands:
 
-- `netstat -tuln`: List listening ports.
-- `ss -tuln`: Modern alternative to netstat.
+- `netstat -tulpn`: List listening ports.
+- `ss -tulpn`: Modern alternative to netstat.
 - `lsof -i`: List open network files.
 - `curl localhost:port`: Test HTTP service connectivity.
 - `nc -zv host port`: Test TCP connection.
 
-## Challenge 7: Encoding/Decoding
+**Key concepts:**
+
+- Services run on specific ports.
+- Use network tools to discover what's listening.
+
+## Challenge 7: Encoding Challenge
 
 Text processing commands:
 
 - `base64`: Encode or decode text.
+- `base64 -d`: Decode base64-encoded text.
 - `echo -n "text"`: Echo without a newline.
 - The pipe operator (`|`) for chaining commands.
 
-## Challenge 8: SSH Configuration
+**Key concepts:**
+
+- Data can be encoded multiple times.
+- Use `base64 -d` to decode, and chain commands for multiple layers.
+
+## Challenge 8: SSH Secrets
 
 SSH-related commands and best practices:
 
@@ -116,45 +139,139 @@ SSH-related commands and best practices:
 
 - Keep your private keys secure.
 - Ensure correct file permissions (e.g., 600 for keys).
+- Explore subdirectories thoroughly - secrets may be hidden in nested folders.
 - Review your `authorized_keys` file.
 
 ## Challenge 9: DNS Troubleshooting
 
-Now that the challenges include DNS configuration issues, learn to compare and edit configuration files:
+Learn to work with DNS configuration files:
 
 - Familiarize yourself with `/etc/resolv.conf` and its backup.
 - Practice using file comparison tools to spot differences.
-- Review editing commands to modify files safely.
+- Examine the contents of DNS configuration files carefully.
 
-## Challenge 10: Remote Upload
+## Challenge 10: Remote Upload Detection
 
-In this challenge, you'll trigger a flag by uploading a file:
+In this challenge, you'll trigger a flag by creating a file:
 
-- Understand common methods to transfer files (such as using secure copy or similar utilities).
-- Learn how to work with remote directories to detect new files.
-- Experiment with different file transfer approaches.
+- Understand how file monitoring works with tools like `inotifywait`.
+- Learn how to create files in specific directories.
+- Experiment with different methods of creating files (touch, echo, etc.).
 
 ## Challenge 11: Web Configuration
 
 This challenge involves identifying a web server's non-standard port:
 
 - Learn how to locate and review configuration files (for example, those for `nginx`).
+- Check `/etc/nginx/sites-available/` for nginx configurations.
 - Familiarize yourself with the basics of service management to restart or reload services.
 - Understand how configuration settings affect the behavior of web servers.
 
 ## Challenge 12: Network Traffic Analysis
 
-In the latest challenge, you will analyze network traffic to discover hidden messages:
+Analyze network traffic to discover hidden messages:
 
-- Get familiar with network traffic capture methods.
+- Get familiar with `tcpdump` for network traffic capture.
 - Learn to inspect packet contents for hidden data.
-- Experiment with network analysis tools without relying on exact command recipes.
+- Look at ping patterns - data can be hidden in ICMP packets.
+- Experiment with network analysis tools.
+
+## Challenge 13: Cron Job Hunter
+
+Discover scheduled tasks on the system:
+
+- `crontab -l`: List current user's cron jobs.
+- `cat /etc/crontab`: View system crontab.
+- `ls -la /etc/cron.d/`: List cron job files.
+- `ls -la /etc/cron.daily/`: List daily cron jobs.
+
+**Key concepts:**
+
+- Cron jobs run on schedules defined in crontab files.
+- System-wide cron jobs can be found in `/etc/cron.d/`.
+- Examine cron files carefully - comments can contain secrets.
+
+## Challenge 14: Process Environment
+
+Investigate running processes and their environments:
+
+- `ps aux`: List all running processes.
+- `cat /proc/PID/environ`: View environment variables of a process.
+- `tr '\0' '\n' < /proc/PID/environ`: Format environ output readably.
+- `pgrep processname`: Find process ID by name.
+
+**Key concepts:**
+
+- Process info lives in `/proc`.
+- Each process has a directory with its environment in `/proc/PID/environ`.
+- Environment variables can contain secrets.
+
+## Challenge 15: Archive Archaeologist
+
+Work with compressed and archived files:
+
+- `tar -xzf archive.tar.gz`: Extract a gzipped tar archive.
+- `gunzip file.gz`: Decompress a gzip file.
+- `file filename`: Determine file type.
+- `tar -tzf archive.tar.gz`: List contents without extracting.
+
+**Key concepts:**
+
+- Archives can be nested (archive within archive).
+- Use the `file` command to determine the actual file type.
+- Extract layer by layer to find hidden content.
+
+## Challenge 16: Symbolic Sleuth
+
+Follow symbolic links to find hidden files:
+
+- `ls -la`: View symlinks and their targets.
+- `readlink filename`: Show where a symlink points.
+- `readlink -f filename`: Follow all symlinks to the final target.
+- `file filename`: Check if a file is a symlink.
+
+**Key concepts:**
+
+- Symlinks can chain together through multiple levels.
+- Use `readlink -f` to find the final destination.
+- Follow the chain to discover hidden content.
+
+## Challenge 17: History Mystery
+
+Explore command history files:
+
+- `cat ~/.bash_history`: View your command history.
+- `history`: Show command history in current session.
+- `ls -la /home/`: Check other users' home directories.
+
+**Key concepts:**
+
+- Bash stores command history in `~/.bash_history`.
+- Other users may have readable history files.
+- History files can contain sensitive information.
+
+## Challenge 18: Disk Detective
+
+Work with disk images and mount points:
+
+- `file /path/to/image`: Identify disk image files.
+- `sudo mount -o loop image.img /mnt/point`: Mount a disk image.
+- `sudo umount /mnt/point`: Unmount when done.
+- `ls -la /mnt/point`: Explore mounted filesystem.
+
+**Key concepts:**
+
+- Disk images are files that contain entire filesystems.
+- Mount them with the loop option to explore their contents.
+- Hidden files may exist within the mounted filesystem.
 
 ## General Tips
 
 1. Use `man` pages to understand command options.
 2. Experiment with various command combinations and piping techniques.
 3. Work through each challenge to build your understanding incrementally.
+4. Use `verify hint [number]` when stuck on a challenge.
+5. Redirect errors with `2>/dev/null` to clean up command output.
 
 Remember: The goal is to learn the commands and understand how they work. Take time to experiment with each command and explore its options and behaviors.
 
@@ -170,3 +287,6 @@ Before moving on, make sure you can answer "yes" to these:
 - [ ] I understand file permissions and how to change them
 - [ ] I can use pipes and redirects to chain commands
 - [ ] I understand basic bash scripting concepts
+- [ ] I can work with archives and compressed files
+- [ ] I understand how to mount disk images
+- [ ] I can investigate processes and their environments
