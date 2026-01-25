@@ -21,9 +21,9 @@ For this topic, we recommend working through **Chapters 1-8** of the book, which
 
 **Optional but useful:** Chapters 9-11 (Compressing/Archiving, Filesystem Management, and Logging) provide helpful additional context.
 
-## Foundational Commands
+## CTF Commands
 
-Before starting the challenges, familiarize yourself with these essential commands:
+You will use the following commands in the capstone CTF challenges. Make sure you are familiar with them before proceeding:
 
 - `pwd`: Print working directory – shows your current location.
 - `cd`: Change directory – navigate between folders.
