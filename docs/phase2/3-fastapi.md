@@ -12,6 +12,37 @@ FastAPI is a modern, fast (high-performance) web framework for building APIs wit
 
 ---
 
+## 🧪 Testing FastAPI Applications
+
+You learned pytest basics in Python Crash Course—now let's apply that to testing APIs! In the capstone project, you'll run a comprehensive test suite to verify your implementation works correctly.
+
+**Study:** [FastAPI Testing Tutorial](https://fastapi.tiangolo.com/tutorial/testing/) - Learn the basics of testing FastAPI applications.
+
+**Study:** [httpx AsyncClient docs](https://www.python-httpx.org/async/) - The capstone uses async tests with `httpx.AsyncClient` for better performance.
+
+Key concepts to understand:
+- Using `httpx.AsyncClient` to test async API endpoints
+- **Fixtures in `conftest.py`** - Shared test setup (test client, sample data, database cleanup)
+- Testing different HTTP methods (GET, POST, PATCH, DELETE)
+- Checking response status codes and JSON content
+- Testing Pydantic model validation (e.g., using `pytest.raises(ValidationError)`)
+- Using `pytest.skip()` to skip tests for unimplemented features
+
+### Running Tests
+
+In the capstone project, you'll run tests with:
+```bash
+pytest
+```
+
+To run specific test files:
+```bash
+pytest tests/test_api.py
+pytest tests/test_models.py
+```
+
+---
+
 ## 🧪 Test Your Knowledge
 
 Test your knowledge with an AI assistant using these prompts:
@@ -23,6 +54,8 @@ Test your knowledge with an AI assistant using these prompts:
 5. Can you quiz me on how to use dependency injection in FastAPI?
 6. Can you ask me to explain how to use Pydantic models in FastAPI?
 7. Can you ask me to explain how to use FastAPI with asynchronous code?
+8. Can you quiz me on how pytest fixtures work and what `conftest.py` is for?
+9. Can you ask me how to test that a Pydantic model raises a ValidationError for invalid data?
 
 ---
 
@@ -34,3 +67,5 @@ Before moving on, make sure you can answer "yes" to these:
 - [ ] I understand path and query parameters
 - [ ] I can use Pydantic models for request/response validation
 - [ ] I understand FastAPI's automatic documentation (Swagger UI)
+- [ ] I understand how pytest fixtures and `conftest.py` work
+- [ ] I can run tests with `pytest` and interpret the results
