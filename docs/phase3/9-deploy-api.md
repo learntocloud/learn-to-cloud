@@ -78,7 +78,7 @@ Create a technical writeup covering:
 - Challenges encountered and solutions
 - Key learnings about cloud deployment
 
-Share your progress in the cloud phase Discord channel!
+Share your progress in the [Discussions](https://github.com/learntocloud/learn-to-cloud-app/discussions)!
 
 ## Remember
 

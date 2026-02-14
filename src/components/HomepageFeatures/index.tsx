@@ -43,7 +43,7 @@ const FeatureList: FeatureItem[] = [
     icon: '🤝',
     title: 'Community Support',
     description:
-      'Join thousands of learners on Discord. Get help, share progress, and connect with others on the same journey.',
+      'Join thousands of learners in our Discussions. Get help, share progress, and connect with others on the same journey.',
   },
 ];
 

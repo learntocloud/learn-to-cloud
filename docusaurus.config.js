@@ -85,8 +85,8 @@ const config = {
         
             
             {
-              href: 'https://discord.gg/dr2kvtA726',
-              label: 'Discord',
+              href: 'https://github.com/learntocloud/learn-to-cloud-app/discussions',
+              label: 'Discussions',
               position: 'right',
             },
             {
@@ -104,8 +104,8 @@ const config = {
               title: 'Socials',
               items: [
                 {
-                  label: 'Discord',
-                  href: 'https://discord.gg/dr2kvtA726',
+                  label: 'Discussions',
+                  href: 'https://github.com/learntocloud/learn-to-cloud-app/discussions',
                 },
                 {
                   label: 'Instagram',

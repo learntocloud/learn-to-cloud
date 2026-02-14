@@ -84,7 +84,7 @@ Crea un writeup técnico cubriendo:
 - Retos que encontraste y cómo los resolviste
 - Aprendizajes clave sobre despliegue en cloud
 
-¡Comparte tu progreso en el canal de cloud phase en Discord!
+¡Comparte tu progreso en las [Discusiones](https://github.com/learntocloud/learn-to-cloud-app/discussions)!
 
 ## Recuerda
 

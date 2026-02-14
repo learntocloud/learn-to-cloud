@@ -22,8 +22,8 @@ By the end of this phase, you will have:
 ## 📋 Prerequisites
 
 - Mac OS or an Ubuntu based computer. If you're on Windows, you'll use WSL.
-- Join the [Learn to Cloud Discord](https://discord.gg/Qymw28nQX6)
-    - Here you can ask questions, just make sure to ask in the right phase channel.
+- Join the [Learn to Cloud Discussions](https://github.com/learntocloud/learn-to-cloud-app/discussions)
+    - Here you can ask questions and connect with other learners.
 
 ---
 

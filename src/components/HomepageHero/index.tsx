@@ -36,7 +36,7 @@ const features: FeatureItem[] = [
   {
     icon: '🤝',
     title: 'Community Support',
-    description: 'Join thousands of learners on Discord.',
+    description: 'Join thousands of learners in our Discussions.',
   },
 ];
 

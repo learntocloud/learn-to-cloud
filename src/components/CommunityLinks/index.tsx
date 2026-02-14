@@ -19,9 +19,9 @@ const links: LinkItem[] = [
   },
   {
     icon: '💬',
-    title: 'Join Discord',
+    title: 'Join Discussions',
     description: 'Connect with learners',
-    href: 'https://discord.gg/Qymw28nQX6',
+    href: 'https://github.com/learntocloud/learn-to-cloud-app/discussions',
     color: '#5865f2',
   },
   {
